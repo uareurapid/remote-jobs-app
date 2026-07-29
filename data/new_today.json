@@ -1,0 +1,34 @@
+{
+  "date": "2026-07-29",
+  "crawl_time_utc": "2026-07-29T14:30:20.136247+00:00",
+  "total_new": 3,
+  "jobs": [
+    {
+      "company": "Customer.io",
+      "title": "Account Manager, EMEA",
+      "location": "EMEA Remote | EMEA Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/customerio/jobs/7915379",
+      "board": "greenhouse",
+      "remote": true
+    },
+    {
+      "company": "Customer.io",
+      "title": "Customer Success Manager, EMEA",
+      "location": "EMEA Remote | EMEA Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/customerio/jobs/8089365",
+      "board": "greenhouse",
+      "remote": true
+    },
+    {
+      "company": "Customer.io",
+      "title": "Senior Director, Sales",
+      "location": "EMEA Remote | EMEA Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/customerio/jobs/7904660",
+      "board": "greenhouse",
+      "remote": true
+    }
+  ]
+}
