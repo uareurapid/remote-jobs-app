@@ -1,6 +1,70 @@
 {
   "date": "2026-07-29",
-  "crawl_time_utc": "2026-07-29T14:30:20.136247+00:00",
-  "total_removed": 0,
-  "jobs": []
+  "crawl_time_utc": "2026-07-29T16:21:20.735255+00:00",
+  "total_removed": 7,
+  "jobs": [
+    {
+      "company": "Kong",
+      "title": "Commercial Account Development Rep - German Speaking",
+      "location": "London, England, United Kingdom",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/14f1809e-df1f-4e50-b681-9bdfaf8cdf21",
+      "board": "ashby",
+      "remote": false
+    },
+    {
+      "company": "Kong",
+      "title": "Commercial Account Development Rep - Swedish Speaking",
+      "location": "London, England, United Kingdom",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/773d7658-8703-4ebf-97ed-7a4feede4110",
+      "board": "ashby",
+      "remote": false
+    },
+    {
+      "company": "Kong",
+      "title": "Enterprise Account Executive, Switzerland (French Speaking)",
+      "location": "Switzerland | {'location': 'Germany', 'address': {'postalAddress': {'addressRegion': 'Berlin', 'addressCountry': 'Germany', 'addressLocality': 'Berlin'}}}",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/dc2841c7-e422-41fa-b139-53930df2ea42",
+      "board": "ashby",
+      "remote": false
+    },
+    {
+      "company": "Kong",
+      "title": "Sales Development Representative (Dutch Speaking)",
+      "location": "London, England, United Kingdom",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/faf048d1-983c-4334-99e2-a55411f838c9",
+      "board": "ashby",
+      "remote": false
+    },
+    {
+      "company": "Kong",
+      "title": "Sales Development Representative - German Speaking",
+      "location": "London, England, United Kingdom",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/cfa5e446-0711-456d-9f54-3fcf329fad62",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "Kong",
+      "title": "Staff Solution Engineer",
+      "location": "Netherlands",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/82c4136b-9c01-46ca-bbbf-13125e80e9fa",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "Sardine",
+      "title": "Technical Recruiter - APAC ",
+      "location": "India",
+      "department": "Talent and People",
+      "url": "https://jobs.ashbyhq.com/sardine/9008a30e-8988-42b2-aa3e-c51a91dd4204",
+      "board": "ashby",
+      "remote": true
+    }
+  ]
 }
