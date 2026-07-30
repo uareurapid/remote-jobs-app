@@ -1,70 +1,115 @@
 {
-  "date": "2026-07-29",
-  "crawl_time_utc": "2026-07-29T16:21:20.735255+00:00",
-  "total_removed": 7,
+  "date": "2026-07-30",
+  "crawl_time_utc": "2026-07-30T09:30:50.163632+00:00",
+  "total_removed": 12,
   "jobs": [
     {
-      "company": "Kong",
-      "title": "Commercial Account Development Rep - German Speaking",
-      "location": "London, England, United Kingdom",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/14f1809e-df1f-4e50-b681-9bdfaf8cdf21",
+      "company": "Cohere",
+      "title": "IT Operations Specialist (12 month contract)",
+      "location": "London",
+      "department": "Product",
+      "url": "https://jobs.ashbyhq.com/cohere/686ef280-eea8-4012-b9e6-9cb23c0c22ab",
       "board": "ashby",
-      "remote": false
+      "remote": true
     },
     {
-      "company": "Kong",
-      "title": "Commercial Account Development Rep - Swedish Speaking",
-      "location": "London, England, United Kingdom",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/773d7658-8703-4ebf-97ed-7a4feede4110",
-      "board": "ashby",
-      "remote": false
-    },
-    {
-      "company": "Kong",
-      "title": "Enterprise Account Executive, Switzerland (French Speaking)",
-      "location": "Switzerland | {'location': 'Germany', 'address': {'postalAddress': {'addressRegion': 'Berlin', 'addressCountry': 'Germany', 'addressLocality': 'Berlin'}}}",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/dc2841c7-e422-41fa-b139-53930df2ea42",
-      "board": "ashby",
-      "remote": false
-    },
-    {
-      "company": "Kong",
-      "title": "Sales Development Representative (Dutch Speaking)",
-      "location": "London, England, United Kingdom",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/faf048d1-983c-4334-99e2-a55411f838c9",
-      "board": "ashby",
-      "remote": false
-    },
-    {
-      "company": "Kong",
-      "title": "Sales Development Representative - German Speaking",
-      "location": "London, England, United Kingdom",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/cfa5e446-0711-456d-9f54-3fcf329fad62",
+      "company": "ElevenLabs",
+      "title": "Compliance Engineer - EU",
+      "location": "London | {'location': 'Ireland', 'address': {'postalAddress': {'addressCountry': 'Ireland'}}} | {'location': 'Dublin', 'address': {'postalAddress': {'addressCountry': 'Ireland', 'addressLocality': 'Dublin'}}} | {'location': 'Montenegro', 'address': {'postalAddress': {'addressCountry': 'Montenegro'}}} | {'location': 'Sofia', 'address': {'postalAddress': {'addressCountry': 'Bulgaria', 'addressLocality': 'Bulgaria'}}} | {'location': 'Denmark', 'address': {'postalAddress': {'addressCountry': 'Denmark'}}} | {'location': 'Warsaw', 'address': {'postalAddress': {'addressRegion': 'Poland', 'addressCountry': 'Poland', 'addressLocality': 'Warsaw'}}} | {'location': 'Sweden', 'address': {'postalAddress': {'addressCountry': 'Sweden', 'addressLocality': 'Stockholm'}}} | {'location': 'Italy', 'address': {'postalAddress': {'addressCountry': 'Italy', 'addressLocality': ''}}} | {'location': 'Madrid', 'address': {'postalAddress': {'addressRegion': 'Spain', 'addressCountry': 'Spain', 'addressLocality': 'Madrid'}}}",
+      "department": "Engineering & Product",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/f4cfa7cc-5973-473d-93c6-68115d9e887d",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "Kong",
-      "title": "Staff Solution Engineer",
-      "location": "Netherlands",
+      "title": "Software Engineer 2, Konnect Service Catalog",
+      "location": "Canada",
       "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/82c4136b-9c01-46ca-bbbf-13125e80e9fa",
+      "url": "https://jobs.ashbyhq.com/kong/3012e68a-aca3-4bb7-8b1d-b4cfb29d63e6",
+      "board": "ashby",
+      "remote": false
+    },
+    {
+      "company": "Phantom",
+      "title": "Frontend Engineer (Growth & Engagement Team)",
+      "location": "Remote",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/phantom/454d771f-bf8f-42fe-884f-eb390d24e167",
       "board": "ashby",
       "remote": true
     },
     {
-      "company": "Sardine",
-      "title": "Technical Recruiter - APAC ",
-      "location": "India",
-      "department": "Talent and People",
-      "url": "https://jobs.ashbyhq.com/sardine/9008a30e-8988-42b2-aa3e-c51a91dd4204",
+      "company": "Phantom",
+      "title": "Staff Frontend Engineer (Trading)",
+      "location": "Remote",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/phantom/1a7b0f14-556b-4bb0-b1c1-43702d6b56c3",
       "board": "ashby",
       "remote": true
+    },
+    {
+      "company": "Runway",
+      "title": "Founding Data Lead",
+      "location": "Remote",
+      "department": "Product",
+      "url": "https://jobs.ashbyhq.com/runway-ml/b3b7f8e1-c252-4f61-baaf-c7ab6bfa9572",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "Tide",
+      "title": "Analyst, Level 1 (Member Interactions), Continuous KYX, UK",
+      "location": "India, Hyderabad | India",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7773036003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Remediation Operations Manager - 3",
+      "location": "India, Bengaluru | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7820211003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Remediation Operations Manager - 3",
+      "location": "India, Hyderabad | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7812620003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Remediation Operations Manager - 3",
+      "location": "India, Delhi NCR | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7820212003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "UK/Europe Region - Template",
+      "location": "United Kingdom | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7713064003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Payment Inventory &amp; Dispatch Officer",
+      "location": "\">Ouagadougou, Burkina Faso",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6115670004/",
+      "board": "generic",
+      "remote": false
     }
   ]
 }

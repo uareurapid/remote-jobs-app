@@ -1,11 +1,38 @@
 {
-  "date": "2026-07-29",
-  "crawl_time_utc": "2026-07-29T16:21:20.735255+00:00",
-  "total_new": 3,
+  "date": "2026-07-30",
+  "crawl_time_utc": "2026-07-30T09:30:50.163632+00:00",
+  "total_new": 11,
   "jobs": [
     {
+      "company": "Cohere",
+      "title": "HR Business Partner",
+      "location": "London",
+      "department": "People",
+      "url": "https://jobs.ashbyhq.com/cohere/8a28e25a-6d8c-403a-8c9a-5155cbe0ce97",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "Kong",
+      "title": "Senior Manager, EMEA Account Development",
+      "location": "London, England, United Kingdom",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/d71ce60d-8d3e-4ff6-8abe-82e7be1b496b",
+      "board": "ashby",
+      "remote": false
+    },
+    {
+      "company": "Kong",
+      "title": "Staff Solutions Engineer (UK)",
+      "location": "London, England, United Kingdom",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/90cd7e0c-5fa2-45eb-a63a-f308e06721ac",
+      "board": "ashby",
+      "remote": false
+    },
+    {
       "company": "Phantom",
-      "title": "Staff Frontend Engineer (Trading)",
+      "title": "Staff Software Engineer, Frontend (Trading)",
       "location": "Remote",
       "department": "Engineering",
       "url": "https://jobs.ashbyhq.com/phantom/1a7b0f14-556b-4bb0-b1c1-43702d6b56c3",
@@ -13,22 +40,67 @@
       "remote": true
     },
     {
-      "company": "Remote",
-      "title": "For jobseekers",
-      "location": ".com/platform/use-case/employees\" rel=\"noopener\" class=\"site",
-      "department": "",
-      "url": "https://remote.com/jobs",
-      "board": "generic",
+      "company": "Runway",
+      "title": "Head of Data Analytics",
+      "location": "Remote",
+      "department": "Product",
+      "url": "https://jobs.ashbyhq.com/runway-ml/b3b7f8e1-c252-4f61-baaf-c7ab6bfa9572",
+      "board": "ashby",
       "remote": true
     },
     {
-      "company": "Sardine",
-      "title": "Enterprise Sales Engineer",
-      "location": "Japan",
-      "department": "Sales",
-      "url": "https://jobs.ashbyhq.com/sardine/2374df99-7e7e-453f-a3d0-5455812a4d15",
-      "board": "ashby",
-      "remote": true
+      "company": "Tide",
+      "title": "Business Development Executive - French Speaking",
+      "location": "Bulgaria | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7821236003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Customer Support Associate (KYC Analyst)",
+      "location": "India, Hyderabad | India",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7773036003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Remediation Operations Engineer - 3",
+      "location": "India, Bengaluru | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7820211003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Remediation Operations Engineer - 3",
+      "location": "India, Hyderabad | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7812620003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Remediation Operations Engineer - 3",
+      "location": "India, Delhi NCR | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7820212003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Customer Support Representative",
+      "location": "\">Bamako, Mali",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/5634131004/",
+      "board": "generic",
+      "remote": false
     }
   ]
 }
