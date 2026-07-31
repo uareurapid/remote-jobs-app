@@ -1,47 +1,74 @@
 {
-  "date": "2026-07-30",
-  "crawl_time_utc": "2026-07-30T09:30:50.163632+00:00",
-  "total_new": 11,
+  "date": "2026-07-31",
+  "crawl_time_utc": "2026-07-31T09:31:15.610152+00:00",
+  "total_new": 16,
   "jobs": [
     {
-      "company": "Cohere",
-      "title": "HR Business Partner",
-      "location": "London",
-      "department": "People",
-      "url": "https://jobs.ashbyhq.com/cohere/8a28e25a-6d8c-403a-8c9a-5155cbe0ce97",
+      "company": "Assured",
+      "title": "Chief of Staff to the Head of Sales",
+      "location": "Remote",
+      "department": "Sales",
+      "url": "https://jobs.ashbyhq.com/assured/186fb10f-d85d-418f-a808-7afa2947f864",
       "board": "ashby",
       "remote": true
     },
     {
-      "company": "Kong",
-      "title": "Senior Manager, EMEA Account Development",
-      "location": "London, England, United Kingdom",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/d71ce60d-8d3e-4ff6-8abe-82e7be1b496b",
-      "board": "ashby",
-      "remote": false
-    },
-    {
-      "company": "Kong",
-      "title": "Staff Solutions Engineer (UK)",
-      "location": "London, England, United Kingdom",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/90cd7e0c-5fa2-45eb-a63a-f308e06721ac",
-      "board": "ashby",
-      "remote": false
-    },
-    {
-      "company": "Phantom",
-      "title": "Staff Software Engineer, Frontend (Trading)",
+      "company": "Assured",
+      "title": "Senior Manager of Special Projects",
       "location": "Remote",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/phantom/1a7b0f14-556b-4bb0-b1c1-43702d6b56c3",
+      "department": "Operations",
+      "url": "https://jobs.ashbyhq.com/assured/995d2d36-8d1e-4218-a3da-12ae40719023",
       "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "Cohere",
+      "title": "Data Annotation Specialist - Investment Banking and Private Equity ",
+      "location": "Canada | {'location': 'Calgary', 'address': {'postalAddress': {'addressRegion': 'Alberta', 'addressCountry': 'Canada', 'addressLocality': 'Calgary'}}} | {'location': 'Winnipeg', 'address': {'postalAddress': {'postalCode': 'R2H 1H1', 'addressRegion': 'Manitoba', 'addressCountry': 'Canada', 'addressLocality': 'Winnipeg'}}} | {'location': 'Vancouver', 'address': {'postalAddress': {'addressRegion': 'British Columbia', 'addressCountry': 'Canada', 'addressLocality': 'Vancouver'}}} | {'location': 'Halifax', 'address': {'postalAddress': {'postalCode': 'B3J 3X8', 'addressRegion': 'Nova Scotia', 'addressCountry': 'Canada', 'addressLocality': 'Halifax'}}} | {'location': 'Edmonton', 'address': {'postalAddress': {'postalCode': 'T5J 3A3', 'addressRegion': 'Alberta', 'streetAddress': '9803 102A Ave NW, Edmonton, AB T5J 3A3', 'addressCountry': 'Canada', 'addressLocality': 'Edmonton'}}} | {'location': 'Ottawa', 'address': {'postalAddress': {'addressRegion': 'Ontario', 'addressCountry': 'Canada', 'addressLocality': 'Ottawa'}}} | {'location': 'Toronto', 'address': {'postalAddress': {'addressRegion': 'Ontario', 'addressCountry': 'Canada', 'addressLocality': 'Toronto'}}} | {'location': 'Victoria', 'address': {'postalAddress': {'postalCode': 'V8W 1P6', 'addressRegion': 'British Columbia', 'streetAddress': '1 Centennial Square, Victoria, B.C., V8W 1P6', 'addressCountry': 'Canada', 'addressLocality': 'Victoria'}}} | {'location': 'Montreal', 'address': {'postalAddress': {'addressRegion': 'Quebec ', 'addressCountry': 'Canada', 'addressLocality': 'Montreal'}}}",
+      "department": "Data Quality (Contract)",
+      "url": "https://jobs.ashbyhq.com/cohere/a912a36f-0300-41d3-997f-636cc85a5e1b",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Account Executive - Canada - Strategic",
+      "location": "Canada",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/b82a05bc-a606-4b46-bb41-42e066b86b8b",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "Filevine",
+      "title": "Senior Platform Security Engineer",
+      "location": "Prague Platform hybrid",
+      "department": "Platform",
+      "url": "https://jobs.lever.co/filevine/3cc3ff15-51a1-44a5-9803-35e88877a607",
+      "board": "lever",
+      "remote": false
+    },
+    {
+      "company": "Hightouch",
+      "title": "Enterprise Account Executive, Paris",
+      "location": "Paris  | Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/hightouch/jobs/6121495004",
+      "board": "greenhouse",
+      "remote": true
+    },
+    {
+      "company": "Postscript",
+      "title": "Principal Customer Success Manager ",
+      "location": "Remote | GTM",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/postscript/jobs/8659896002",
+      "board": "greenhouse",
       "remote": true
     },
     {
       "company": "Runway",
-      "title": "Head of Data Analytics",
+      "title": "Manager/Director of Data Analytics",
       "location": "Remote",
       "department": "Product",
       "url": "https://jobs.ashbyhq.com/runway-ml/b3b7f8e1-c252-4f61-baaf-c7ab6bfa9572",
@@ -50,34 +77,34 @@
     },
     {
       "company": "Tide",
-      "title": "Business Development Executive - French Speaking",
-      "location": "Bulgaria | Hyderabad",
+      "title": "Head of Commercial Finance ",
+      "location": "India, Delhi NCR | Delhi",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7821236003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7775818003",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Tide",
-      "title": "Customer Support Associate (KYC Analyst)",
+      "title": "Head of Engineering, Developer Experience",
+      "location": "India, Delhi NCR | Delhi",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7817071003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "SAR Analyst, Fincrime Intelligence and Reporting, Ongoing Monitoring",
       "location": "India, Hyderabad | India",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7773036003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7775954003",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Tide",
-      "title": "Remediation Operations Engineer - 3",
-      "location": "India, Bengaluru | Hyderabad",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7820211003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Remediation Operations Engineer - 3",
+      "title": "Security Engineer 3 - Vulnerability Management",
       "location": "India, Hyderabad | Hyderabad",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7812620003",
@@ -86,7 +113,7 @@
     },
     {
       "company": "Tide",
-      "title": "Remediation Operations Engineer - 3",
+      "title": "Security Engineer 3 - Vulnerability Management",
       "location": "India, Delhi NCR | Hyderabad",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7820212003",
@@ -94,11 +121,29 @@
       "remote": false
     },
     {
-      "company": "Wave Mobile Money",
-      "title": "Customer Support Representative",
-      "location": "\">Bamako, Mali",
+      "company": "Tide",
+      "title": "Security Engineer 3 - Vulnerability Management",
+      "location": "India, Bengaluru | Hyderabad",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/5634131004/",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7820211003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Product Relations Manager",
+      "location": "\">Ouagadougou, Burkina Faso",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6121163004/",
+      "board": "generic",
+      "remote": true
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Reconciliation officer",
+      "location": "\">Malawi (MW)",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6121636004/",
       "board": "generic",
       "remote": false
     }
