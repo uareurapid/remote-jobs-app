@@ -1,257 +1,149 @@
 {
-  "date": "2026-07-31",
-  "crawl_time_utc": "2026-07-31T09:31:15.610152+00:00",
-  "total_removed": 28,
+  "date": "2026-08-01",
+  "crawl_time_utc": "2026-08-01T20:18:30.574192+00:00",
+  "total_removed": 16,
   "jobs": [
     {
-      "company": "Automattic",
-      "title": "Happiness Engineer – Customer Support & Success",
-      "location": "Remote | Happiness",
+      "company": "Arize AI",
+      "title": "Expansion Account Executive (EMEA)",
+      "location": "Remote (EMEA) | EMEA",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/automatticcareers/jobs/6216089",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "Automattic",
-      "title": "Senior Partner Manager, Enterprise",
-      "location": "Remote | Customer-Centric Operations",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/automatticcareers/jobs/7482826",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "Customer.io",
-      "title": "Senior Director, Sales",
-      "location": "EMEA Remote | EMEA Remote",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/customerio/jobs/7904660",
+      "url": "https://job-boards.greenhouse.io/arizeai/jobs/6006320004",
       "board": "greenhouse",
       "remote": true
     },
     {
       "company": "ElevenLabs",
-      "title": "Account Executive - Canada - Enterprise",
-      "location": "Canada",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/b82a05bc-a606-4b46-bb41-42e066b86b8b",
+      "title": "B2B Marketing - UKI Growth Lead",
+      "location": "United Kingdom | {'location': 'Ireland', 'address': {'postalAddress': {'addressCountry': 'Ireland'}}} | {'location': 'London', 'address': {'postalAddress': {'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}}",
+      "department": "Growth",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/4bafa4ea-5271-43af-903e-2dfca0123753",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "ElevenLabs",
-      "title": "Account Executive - Italy - Mid-Market",
-      "location": "Italy | {'location': 'Spain', 'address': {'postalAddress': {'addressCountry': 'Spain'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/32cc9d87-ab73-4191-aa62-11a7d3c2c447",
+      "title": "IT Support",
+      "location": "London",
+      "department": "Engineering & Product",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/9aca205e-b2bc-405b-85d6-3d2aadbe49b1",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "Filevine",
       "title": "Senior Platform Engineer",
-      "location": "Prague Platform hybrid",
+      "location": "Bratislava Platform hybrid",
       "department": "Platform",
-      "url": "https://jobs.lever.co/filevine/3cc3ff15-51a1-44a5-9803-35e88877a607",
+      "url": "https://jobs.lever.co/filevine/117cf7d1-0e13-4e7c-a03b-d221c7dfd3ab",
       "board": "lever",
       "remote": false
     },
     {
-      "company": "Hightouch",
-      "title": "Enterprise Account Executive - Paris",
-      "location": "Paris  | Remote",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/hightouch/jobs/6121495004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "Kong",
-      "title": "RVP Sales UKI & Northern Europe (Benelux and Nordics)",
-      "location": "England, United Kingdom",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/9ee8178d-313b-4620-b9ce-e7ffb45808e4",
-      "board": "ashby",
-      "remote": false
-    },
-    {
-      "company": "Kong",
-      "title": "Senior SRE, Managed Gateways",
-      "location": "Canada | {'location': 'Toronto, Canada', 'address': {'postalAddress': {'addressCountry': 'Canada', 'addressLocality': 'Toronto'}}}",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/68655cc7-790e-4f8c-882f-5b00f04d1bab",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Postscript",
-      "title": "Senior Customer Onboarding Manager",
-      "location": "Remote | GTM",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/postscript/jobs/8646237002",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "Runway",
-      "title": "Head of Data Analytics",
-      "location": "Remote",
-      "department": "Product",
-      "url": "https://jobs.ashbyhq.com/runway-ml/b3b7f8e1-c252-4f61-baaf-c7ab6bfa9572",
+      "company": "Supabase",
+      "title": "Customer Reliability Engineer",
+      "location": "AMER",
+      "department": "Growth",
+      "url": "https://jobs.ashbyhq.com/supabase/26ad8432-a03e-40f9-a4cc-05344ceedfa3",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "Supabase",
-      "title": "Associate Technical Partnership Development Manager (DevTools)",
+      "title": "GSI Partnership Lead ",
       "location": "AMER",
       "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/supabase/19a7351e-c71a-45e1-90a3-eebf16946e2c",
+      "url": "https://jobs.ashbyhq.com/supabase/180a1d6c-1e63-4a4c-8db8-1673b5b7d8ee",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "Tide",
-      "title": "Lead Product Manager, Wealth Services",
-      "location": "Bulgaria | Bulgaria",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7774718003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Lead Product Manager, Wealth Services",
-      "location": "Lithuania | Bulgaria",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7723088003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Lead Product Manager, Wealth Services",
-      "location": "Serbia | Bulgaria",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7774720003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Remediation Operations Engineer - 3",
-      "location": "India, Bengaluru | Hyderabad",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7820211003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Remediation Operations Engineer - 3",
-      "location": "India, Hyderabad | Hyderabad",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7812620003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Remediation Operations Engineer - 3",
-      "location": "India, Delhi NCR | Hyderabad",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7820212003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Senior Network Engineer",
-      "location": "India, Hyderabad | Delhi",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7618344003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Senior Product Designer",
-      "location": "Bulgaria | Sofia",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7731830003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Senior Product Designer",
-      "location": "Lithuania | Sofia",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7788378003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Senior Product Designer",
+      "title": "Head of Product Analytics",
       "location": "Serbia | Sofia",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7779785003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7723083003",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Tide",
-      "title": "Senior Software Engineer, Flutter",
-      "location": "India, Delhi NCR | Hyderabad",
+      "title": "Head of Product Analytics ",
+      "location": "Lithuania | Sofia",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7815729003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7773338003",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Tide",
-      "title": "Senior Software Engineer, Flutter",
-      "location": "India, Bengaluru | Hyderabad",
+      "title": "Head of Product Analytics ",
+      "location": "Bulgaria | Sofia",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7815727003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7723082003",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Tide",
-      "title": "Senior Software Engineer, Flutter",
-      "location": "India, Hyderabad | Hyderabad",
+      "title": "Product Design Lead (Payment Services)",
+      "location": "Lithuania | Lithuania",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7766790003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7788365003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Product Design Lead (Payment Services)",
+      "location": "Bulgaria | Lithuania",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7788362003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Product Design Lead (Payment Services)",
+      "location": "Serbia | Lithuania",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7786587003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Regulatory Risk & Compliance Lead (Fixed-Term Contract)",
+      "location": "Bulgaria | Sofia",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7742903003",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Wave Mobile Money",
-      "title": "Director of Security Operations",
-      "location": "\">Abidjan, Côte d&#39;Ivoire",
+      "title": "Customer Support Representative",
+      "location": "\">Bamako, Mali",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6008363004/",
+      "url": "https://www.wave.com/en/careers/job/5634131004/",
       "board": "generic",
-      "remote": true
+      "remote": false
     },
     {
       "company": "Wave Mobile Money",
-      "title": "IT Operations Associate",
-      "location": "\">Kenya; Remote; Spain; United Kingdom",
+      "title": "Payroll Administrative Assistant",
+      "location": "\">Banjul, The Gambia",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6017171004/",
+      "url": "https://www.wave.com/en/careers/job/5994077004/",
       "board": "generic",
-      "remote": true
+      "remote": false
     },
     {
       "company": "Wave Mobile Money",
-      "title": "Office Manager",
-      "location": "\">Ouagadougou, Burkina Faso",
+      "title": "Support Quality &amp; Training Officer",
+      "location": "\">Banjul, The Gambia",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6008365004/",
+      "url": "https://www.wave.com/en/careers/job/6114456004/",
       "board": "generic",
       "remote": false
     }
