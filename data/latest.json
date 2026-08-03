@@ -1,10 +1,10 @@
 {
-  "date": "2026-08-02",
-  "crawl_time_utc": "2026-08-02T10:09:19.664277+00:00",
+  "date": "2026-08-03",
+  "crawl_time_utc": "2026-08-03T09:30:49.894615+00:00",
   "total_companies": 50,
-  "total_jobs": 774,
+  "total_jobs": 777,
   "stats": {
-    "total_found": 774,
+    "total_found": 777,
     "filtered_us": 0,
     "errors": 0
   },
@@ -5024,6 +5024,15 @@
     },
     {
       "company": "Supabase",
+      "title": "Engineering Productivity Engineer",
+      "location": "Remote",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/supabase/8229db66-dc3f-4ffe-8d86-90ce9ffb4c90",
+      "board": "ashby",
+      "remote": null
+    },
+    {
+      "company": "Supabase",
       "title": "Executive Assistant to the CEO",
       "location": "APAC",
       "department": "Operations",
@@ -5492,6 +5501,15 @@
     },
     {
       "company": "Tide",
+      "title": "Customer Support Associate - L2",
+      "location": "India, Hyderabad | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/6234225003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
       "title": "Customer Support Executive with German (Onboarding)",
       "location": "Bulgaria | Sofia",
       "department": "",
@@ -5505,15 +5523,6 @@
       "location": "India, Hyderabad | Hyderabad",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/5943791003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Director of Engineering",
-      "location": "India, Hyderabad | India",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7780921003",
       "board": "greenhouse",
       "remote": false
     },
@@ -5537,28 +5546,19 @@
     },
     {
       "company": "Tide",
-      "title": "Engineer, Threat Detection - 5",
-      "location": "Lithuania | Hyderabad",
+      "title": "Director of Engineering",
+      "location": "India, Hyderabad | India",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7786953003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7780921003",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Tide",
       "title": "Engineer, Threat Detection - 5",
-      "location": "Serbia | Hyderabad",
+      "location": "India, Delhi NCR | Hyderabad",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7786957003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Engineer, Threat Detection - 5",
-      "location": "Bulgaria | Hyderabad",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7786956003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7626464003",
       "board": "greenhouse",
       "remote": false
     },
@@ -5574,9 +5574,27 @@
     {
       "company": "Tide",
       "title": "Engineer, Threat Detection - 5",
-      "location": "India, Delhi NCR | Hyderabad",
+      "location": "Lithuania | Hyderabad",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7626464003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7786953003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Engineer, Threat Detection - 5",
+      "location": "Bulgaria | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7786956003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Engineer, Threat Detection - 5",
+      "location": "Serbia | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7786957003",
       "board": "greenhouse",
       "remote": false
     },
@@ -5592,9 +5610,9 @@
     {
       "company": "Tide",
       "title": "Engineering Manager",
-      "location": "India, Bengaluru | Bengaluru | Delhi | Hyderabad",
+      "location": "India, Delhi NCR | Bengaluru | Delhi | Hyderabad",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/6643198003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/6643197003",
       "board": "greenhouse",
       "remote": false
     },
@@ -5619,18 +5637,9 @@
     {
       "company": "Tide",
       "title": "Engineering Manager",
-      "location": "India, Delhi NCR | Bengaluru | Delhi | Hyderabad",
+      "location": "India, Bengaluru | Bengaluru | Delhi | Hyderabad",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/6643197003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Engineering Manager",
-      "location": "Serbia | Bulgaria | Lithuania | Romania | Serbia",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7570167003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/6643198003",
       "board": "greenhouse",
       "remote": false
     },
@@ -5645,10 +5654,10 @@
     },
     {
       "company": "Tide",
-      "title": "Engineering Manager - Accounts Platform",
-      "location": "Lithuania | Lithuania",
+      "title": "Engineering Manager",
+      "location": "Serbia | Bulgaria | Lithuania | Romania | Serbia",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7780973003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7570167003",
       "board": "greenhouse",
       "remote": false
     },
@@ -5658,6 +5667,15 @@
       "location": "Bulgaria | Lithuania",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7780974003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Engineering Manager - Accounts Platform",
+      "location": "Lithuania | Lithuania",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7780973003",
       "board": "greenhouse",
       "remote": false
     },
@@ -5934,6 +5952,15 @@
     {
       "company": "Tide",
       "title": "Security Engineer 3 - Vulnerability Management",
+      "location": "India, Bengaluru | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7820211003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Security Engineer 3 - Vulnerability Management",
       "location": "India, Delhi NCR | Hyderabad",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7820212003",
@@ -5951,19 +5978,19 @@
     },
     {
       "company": "Tide",
-      "title": "Security Engineer 3 - Vulnerability Management",
-      "location": "India, Bengaluru | Hyderabad",
+      "title": "Senior Account Executive",
+      "location": "United Kingdom | London",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7820211003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7684931003",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Tide",
-      "title": "Senior Account Executive",
-      "location": "United Kingdom | London",
+      "title": "Senior Analyst, AML Analytics",
+      "location": "India, Hyderabad | Hyderabad",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7684931003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7819343003",
       "board": "greenhouse",
       "remote": false
     },
@@ -5997,9 +6024,9 @@
     {
       "company": "Tide",
       "title": "Senior Engineer, Backend",
-      "location": "Lithuania | Lithuania",
+      "location": "Serbia | Serbia",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/6621720003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/6612967003",
       "board": "greenhouse",
       "remote": false
     },
@@ -6015,9 +6042,9 @@
     {
       "company": "Tide",
       "title": "Senior Engineer, Backend",
-      "location": "Serbia | Serbia",
+      "location": "Lithuania | Lithuania",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/6612967003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/6621720003",
       "board": "greenhouse",
       "remote": false
     },
@@ -6087,9 +6114,9 @@
     {
       "company": "Tide",
       "title": "Senior Staff Software Engineer, Agentic Platform",
-      "location": "United Kingdom | United Kingdom",
+      "location": "Lithuania | United Kingdom",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7702547003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7702555003",
       "board": "greenhouse",
       "remote": false
     },
@@ -6099,15 +6126,6 @@
       "location": "India, Delhi NCR; India, Hyderabad | India",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7702549003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Senior Staff Software Engineer, Agentic Platform",
-      "location": "Lithuania | United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7702555003",
       "board": "greenhouse",
       "remote": false
     },
@@ -6149,10 +6167,10 @@
     },
     {
       "company": "Tide",
-      "title": "Senior UI Designer",
-      "location": "Bulgaria | Delhi",
+      "title": "Senior Staff Software Engineer, Agentic Platform",
+      "location": "United Kingdom | United Kingdom",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7797522003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7702547003",
       "board": "greenhouse",
       "remote": false
     },
@@ -6177,6 +6195,15 @@
     {
       "company": "Tide",
       "title": "Senior UI Designer",
+      "location": "Bulgaria | Delhi",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7797522003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Senior UI Designer",
       "location": "Lithuania | Delhi",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7797523003",
@@ -6195,36 +6222,27 @@
     {
       "company": "Tide",
       "title": "Staff Software Engineer, Agentic Platform",
+      "location": "India, Delhi NCR; India, Hyderabad | India",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7703793003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Staff Software Engineer, Agentic Platform",
+      "location": "Serbia | Bulgaria | Lithuania | Serbia",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7701778003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Staff Software Engineer, Agentic Platform",
       "location": "United Kingdom | Bulgaria | Lithuania | Serbia",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7701767003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Staff Software Engineer, Agentic Platform",
-      "location": "Lithuania | Bulgaria | Lithuania | Serbia",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7701777003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Staff Software Engineer, Agentic Platform",
-      "location": "Bulgaria | Bulgaria | Lithuania | Serbia",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7701766003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Staff Software Engineer, Agentic Platform",
-      "location": "Berlin, Germany; Bulgaria; India, Bengaluru; India, Delhi NCR; India, Hyderabad; Lithuania; Serbia; United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7703991003",
       "board": "greenhouse",
       "remote": false
     },
@@ -6240,18 +6258,27 @@
     {
       "company": "Tide",
       "title": "Staff Software Engineer, Agentic Platform",
-      "location": "India, Delhi NCR; India, Hyderabad | India",
+      "location": "Berlin, Germany; Bulgaria; India, Bengaluru; India, Delhi NCR; India, Hyderabad; Lithuania; Serbia; United Kingdom",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7703793003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7703991003",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Tide",
       "title": "Staff Software Engineer, Agentic Platform",
-      "location": "Serbia | Bulgaria | Lithuania | Serbia",
+      "location": "Bulgaria | Bulgaria | Lithuania | Serbia",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7701778003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7701766003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Staff Software Engineer, Agentic Platform",
+      "location": "Lithuania | Bulgaria | Lithuania | Serbia",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7701777003",
       "board": "greenhouse",
       "remote": false
     },

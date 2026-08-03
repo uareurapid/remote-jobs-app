@@ -1,6 +1,34 @@
 {
-  "date": "2026-08-02",
-  "crawl_time_utc": "2026-08-02T10:09:19.664277+00:00",
-  "total_new": 0,
-  "jobs": []
+  "date": "2026-08-03",
+  "crawl_time_utc": "2026-08-03T09:30:49.894615+00:00",
+  "total_new": 3,
+  "jobs": [
+    {
+      "company": "Supabase",
+      "title": "Engineering Productivity Engineer",
+      "location": "Remote",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/supabase/8229db66-dc3f-4ffe-8d86-90ce9ffb4c90",
+      "board": "ashby",
+      "remote": null
+    },
+    {
+      "company": "Tide",
+      "title": "Customer Support Associate - L2",
+      "location": "India, Hyderabad | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/6234225003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Senior Analyst, AML Analytics",
+      "location": "India, Hyderabad | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7819343003",
+      "board": "greenhouse",
+      "remote": false
+    }
+  ]
 }
