@@ -1,6 +1,106 @@
 {
-  "date": "2026-08-03",
-  "crawl_time_utc": "2026-08-03T09:30:49.894615+00:00",
-  "total_removed": 0,
-  "jobs": []
+  "date": "2026-08-04",
+  "crawl_time_utc": "2026-08-04T09:31:09.243583+00:00",
+  "total_removed": 11,
+  "jobs": [
+    {
+      "company": "ClickHouse",
+      "title": "Full Stack Software Engineer - Billing Team",
+      "location": "Germany (remote) | EMEA",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5584382004",
+      "board": "greenhouse",
+      "remote": true
+    },
+    {
+      "company": "ClickHouse",
+      "title": "Full Stack Software Engineer - Billing Team",
+      "location": "Netherlands (remote) | EMEA",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5395374004",
+      "board": "greenhouse",
+      "remote": true
+    },
+    {
+      "company": "Kong",
+      "title": "Executive and Administrative Assistant",
+      "location": "Hungary",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/43c4b55b-586a-46b5-bf37-255ef662af50",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "Kong",
+      "title": "Senior Software Engineering Manager, Managed Gateways SREs",
+      "location": "Toronto, Canada",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/da83b9b4-a4ab-40af-99ac-0c3fabae3cc5",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "Runway",
+      "title": "Communications Manager",
+      "location": "Remote",
+      "department": "Marketing & Creative",
+      "url": "https://jobs.ashbyhq.com/runway-ml/d80c075f-0766-4510-b657-c092b843ce11",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "Runway",
+      "title": "Product Engineer",
+      "location": "Remote",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/runway-ml/0feb8680-6573-458b-b00d-98aea86a94f5",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "Supabase",
+      "title": "Design Engineer",
+      "location": "Remote",
+      "department": "Design",
+      "url": "https://jobs.ashbyhq.com/supabase/2e6ee4b3-6573-477f-9c95-d1221cd9f9f9",
+      "board": "ashby",
+      "remote": null
+    },
+    {
+      "company": "Tide",
+      "title": "Commercial Services - UK Country Commercial (Senior Manager / Lead)",
+      "location": "United Kingdom | London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7822661003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Customer Support Associate - L2",
+      "location": "India, Hyderabad | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/6234225003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Senior Operations Manager - Commercial Operations",
+      "location": "Bulgaria | Sofia",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7770013003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Vannevar",
+      "title": "Product Manager - Decision Advantage",
+      "location": "Remote | Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/vannevarlabs/jobs/4763846007",
+      "board": "greenhouse",
+      "remote": true
+    }
+  ]
 }

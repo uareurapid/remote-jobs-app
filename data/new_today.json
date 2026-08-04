@@ -1,32 +1,68 @@
 {
-  "date": "2026-08-03",
-  "crawl_time_utc": "2026-08-03T09:30:49.894615+00:00",
-  "total_new": 3,
+  "date": "2026-08-04",
+  "crawl_time_utc": "2026-08-04T09:31:09.243583+00:00",
+  "total_new": 7,
   "jobs": [
     {
+      "company": "ClickHouse",
+      "title": "Offensive Security Engineer",
+      "location": "Netherlands (remote) | EMEA",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6116798004",
+      "board": "greenhouse",
+      "remote": true
+    },
+    {
+      "company": "Form3",
+      "title": "Finance Manager",
+      "location": "100% Remote (UK) | Form3 London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/541/jobs/8672239002",
+      "board": "greenhouse",
+      "remote": true
+    },
+    {
+      "company": "MagicSchool AI",
+      "title": "Senior Customer Success Manager - Mid-Market, TX",
+      "location": "Remote",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/magicschool/bc648bd4-e55d-40ff-931e-c169b8d04e98",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "Runway",
+      "title": "Sr./Staff Product Designer, Growth",
+      "location": "Remote",
+      "department": "Product Design",
+      "url": "https://jobs.ashbyhq.com/runway-ml/28e151ac-cb29-4695-9041-a9e352624111",
+      "board": "ashby",
+      "remote": true
+    },
+    {
       "company": "Supabase",
-      "title": "Engineering Productivity Engineer",
+      "title": "Frontend Engineer",
       "location": "Remote",
       "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/supabase/8229db66-dc3f-4ffe-8d86-90ce9ffb4c90",
+      "url": "https://jobs.ashbyhq.com/supabase/f048dd68-63f8-4f98-9860-3d5a43c09a01",
       "board": "ashby",
       "remote": null
     },
     {
       "company": "Tide",
-      "title": "Customer Support Associate - L2",
-      "location": "India, Hyderabad | Hyderabad",
+      "title": "Commercial Services - UK Country Commercial Lead",
+      "location": "United Kingdom | London",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/6234225003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7822661003",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Tide",
-      "title": "Senior Analyst, AML Analytics",
+      "title": "Senior Product Manager, Ongoing Monitoring",
       "location": "India, Hyderabad | Hyderabad",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7819343003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7775820003",
       "board": "greenhouse",
       "remote": false
     }
