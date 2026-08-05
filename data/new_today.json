@@ -1,69 +1,150 @@
 {
-  "date": "2026-08-04",
-  "crawl_time_utc": "2026-08-04T09:31:09.243583+00:00",
-  "total_new": 7,
+  "date": "2026-08-05",
+  "crawl_time_utc": "2026-08-05T09:30:48.958564+00:00",
+  "total_new": 16,
   "jobs": [
     {
-      "company": "ClickHouse",
-      "title": "Offensive Security Engineer",
-      "location": "Netherlands (remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6116798004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "Form3",
-      "title": "Finance Manager",
-      "location": "100% Remote (UK) | Form3 London",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/541/jobs/8672239002",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "MagicSchool AI",
-      "title": "Senior Customer Success Manager - Mid-Market, TX",
-      "location": "Remote",
+      "company": "Cohere",
+      "title": "Business Development Representative - French Speaking",
+      "location": "United Kingdom",
       "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/magicschool/bc648bd4-e55d-40ff-931e-c169b8d04e98",
+      "url": "https://jobs.ashbyhq.com/cohere/9f8d2b51-7fe9-470d-8108-fe5fb48c8a89",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "Cohere",
+      "title": "Head of Sales EMEA, Public Sector",
+      "location": "Berlin",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/cohere/334b2a07-0c6a-4764-b4a8-c8bf68513cde",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Strategic Account Executive - Poland - Consumer & Retail",
+      "location": "Poland | {'location': 'Warsaw', 'address': {'postalAddress': {'addressRegion': 'Poland', 'addressCountry': 'Poland', 'addressLocality': 'Warsaw'}}}",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/6255f8a9-1ff8-49b3-8409-c104f8b46e56",
+      "board": "ashby",
+      "remote": false
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Strategic Account Executive - Poland - Financial Services",
+      "location": "Poland | {'location': 'Warsaw', 'address': {'postalAddress': {'addressRegion': 'Poland', 'addressCountry': 'Poland', 'addressLocality': 'Warsaw'}}}",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/daf083cd-feda-4f28-ae49-7922b1a26ed7",
+      "board": "ashby",
+      "remote": false
+    },
+    {
+      "company": "Hightouch",
+      "title": "Enterprise Account Executive, Spain ",
+      "location": "Spain | Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/hightouch/jobs/6134022004",
+      "board": "greenhouse",
+      "remote": true
+    },
+    {
+      "company": "Kong",
+      "title": "Account Development Rep (Bahasa Indonesia)",
+      "location": "Singapore",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/e4ca8151-011a-4a0b-9165-dec2eefd37bb",
+      "board": "ashby",
+      "remote": false
+    },
+    {
+      "company": "Kong",
+      "title": "Enterprise Account Executive, Italy",
+      "location": "Italy | {'location': 'Milan, Italy', 'address': {'postalAddress': {'addressRegion': 'Milano', 'addressCountry': 'Italy', 'addressLocality': 'Milano'}}}",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/a77d5f89-2a5e-4606-8f73-338a5560a2cf",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "Runway",
-      "title": "Sr./Staff Product Designer, Growth",
+      "title": "Data Analytics Leader",
       "location": "Remote",
-      "department": "Product Design",
-      "url": "https://jobs.ashbyhq.com/runway-ml/28e151ac-cb29-4695-9041-a9e352624111",
+      "department": "Product",
+      "url": "https://jobs.ashbyhq.com/runway-ml/b3b7f8e1-c252-4f61-baaf-c7ab6bfa9572",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "Sardine",
+      "title": "Account Executive - EU & UK",
+      "location": "United Kingdom | {'location': 'Europe', 'address': {'postalAddress': {}}}",
+      "department": "Sales",
+      "url": "https://jobs.ashbyhq.com/sardine/dcffa749-a791-424e-b372-070113557c9f",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "Supabase",
-      "title": "Frontend Engineer",
+      "title": "SDK Engineer - JavaScript",
       "location": "Remote",
       "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/supabase/f048dd68-63f8-4f98-9860-3d5a43c09a01",
+      "url": "https://jobs.ashbyhq.com/supabase/f44742fb-18c6-478f-bf78-63707ed57db7",
+      "board": "ashby",
+      "remote": null
+    },
+    {
+      "company": "Supabase",
+      "title": "Senior Data Analyst - Marketing",
+      "location": "Remote",
+      "department": "Growth",
+      "url": "https://jobs.ashbyhq.com/supabase/59083a14-b2b6-4dd8-8037-739aa1ad1e22",
       "board": "ashby",
       "remote": null
     },
     {
       "company": "Tide",
-      "title": "Commercial Services - UK Country Commercial Lead",
-      "location": "United Kingdom | London",
+      "title": "Engineer, Threat Detection - 5",
+      "location": "United Kingdom | Hyderabad",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7822661003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7827432003",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Tide",
-      "title": "Senior Product Manager, Ongoing Monitoring",
-      "location": "India, Hyderabad | Hyderabad",
+      "title": "Insurance  Services - Lead Country Commercial Manager - UK",
+      "location": "United Kingdom | London",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7775820003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7826088003",
       "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Inventory Clerk",
+      "location": "\">Niamey, Niger",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6119906004/",
+      "board": "generic",
+      "remote": false
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "People Partner- Support",
+      "location": "\">Conakry, Conakry, Guinea",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6134008004/",
+      "board": "generic",
+      "remote": false
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "People Partner- Support",
+      "location": "\">OpCo",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6134012004/",
+      "board": "generic",
       "remote": false
     }
   ]

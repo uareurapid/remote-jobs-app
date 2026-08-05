@@ -1,106 +1,250 @@
 {
-  "date": "2026-08-04",
-  "crawl_time_utc": "2026-08-04T09:31:09.243583+00:00",
-  "total_removed": 11,
+  "date": "2026-08-05",
+  "crawl_time_utc": "2026-08-05T09:30:48.958564+00:00",
+  "total_removed": 27,
   "jobs": [
     {
-      "company": "ClickHouse",
-      "title": "Full Stack Software Engineer - Billing Team",
-      "location": "Germany (remote) | EMEA",
+      "company": "AssemblyAI",
+      "title": "Senior Security Operations Engineer",
+      "location": "Remote | Remote",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5584382004",
+      "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4699429005",
       "board": "greenhouse",
       "remote": true
     },
     {
-      "company": "ClickHouse",
-      "title": "Full Stack Software Engineer - Billing Team",
-      "location": "Netherlands (remote) | EMEA",
+      "company": "Automattic",
+      "title": "Strategic Finance Manager, WordPress.com",
+      "location": "Remote | Finance Group",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5395374004",
+      "url": "https://job-boards.greenhouse.io/automatticcareers/jobs/7925416",
       "board": "greenhouse",
       "remote": true
     },
     {
-      "company": "Kong",
-      "title": "Executive and Administrative Assistant",
-      "location": "Hungary",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/43c4b55b-586a-46b5-bf37-255ef662af50",
+      "company": "Cohere",
+      "title": "Business Development Representative - Spanish Speaking",
+      "location": "United Kingdom",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/cohere/9f8d2b51-7fe9-470d-8108-fe5fb48c8a89",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "Cohere",
+      "title": "Data Annotation Specialist, Arabic Language Najdi/Hijazi Dialect",
+      "location": "Canada | {'location': 'Calgary', 'address': {'postalAddress': {'addressRegion': 'Alberta', 'addressCountry': 'Canada', 'addressLocality': 'Calgary'}}} | {'location': 'Vancouver', 'address': {'postalAddress': {'addressRegion': 'British Columbia', 'addressCountry': 'Canada', 'addressLocality': 'Vancouver'}}} | {'location': 'Toronto', 'address': {'postalAddress': {'addressRegion': 'Ontario', 'addressCountry': 'Canada', 'addressLocality': 'Toronto'}}} | {'location': 'Montreal', 'address': {'postalAddress': {'addressRegion': 'Quebec ', 'addressCountry': 'Canada', 'addressLocality': 'Montreal'}}}",
+      "department": "Data Quality (Contract)",
+      "url": "https://jobs.ashbyhq.com/cohere/23c35d20-e31e-42bb-a4dc-88a8e063061a",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "Cohere",
+      "title": "Data Annotation Specialist, Japanese",
+      "location": "Canada | {'location': 'Calgary', 'address': {'postalAddress': {'addressRegion': 'Alberta', 'addressCountry': 'Canada', 'addressLocality': 'Calgary'}}} | {'location': 'Vancouver', 'address': {'postalAddress': {'addressRegion': 'British Columbia', 'addressCountry': 'Canada', 'addressLocality': 'Vancouver'}}} | {'location': 'Toronto', 'address': {'postalAddress': {'addressRegion': 'Ontario', 'addressCountry': 'Canada', 'addressLocality': 'Toronto'}}} | {'location': 'Montreal', 'address': {'postalAddress': {'addressRegion': 'Quebec ', 'addressCountry': 'Canada', 'addressLocality': 'Montreal'}}}",
+      "department": "Data Quality (Contract)",
+      "url": "https://jobs.ashbyhq.com/cohere/5e8c8cc4-4349-4574-a8c6-b17687014d76",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "Cohere",
+      "title": "Senior Financial Analyst, Strategic Finance",
+      "location": "Toronto",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/cohere/346256f9-88eb-4934-aee7-83b28d60a6d6",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "Kong",
-      "title": "Senior Software Engineering Manager, Managed Gateways SREs",
-      "location": "Toronto, Canada",
+      "title": "Account Development Rep",
+      "location": "Singapore",
       "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/da83b9b4-a4ab-40af-99ac-0c3fabae3cc5",
+      "url": "https://jobs.ashbyhq.com/kong/e4ca8151-011a-4a0b-9165-dec2eefd37bb",
+      "board": "ashby",
+      "remote": false
+    },
+    {
+      "company": "Kong",
+      "title": "Senior Site Reliability Engineer, Kong Konnect",
+      "location": "Canada | {'location': 'Toronto, Canada', 'address': {'postalAddress': {'addressCountry': 'Canada', 'addressLocality': 'Toronto'}}}",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/3fd05ac3-b247-4d01-abb8-5deeef000347",
+      "board": "ashby",
+      "remote": false
+    },
+    {
+      "company": "Runway",
+      "title": "Director/ VP Revenue Operations",
+      "location": "Remote",
+      "department": "Commercial",
+      "url": "https://jobs.ashbyhq.com/runway-ml/2da1665a-81c0-4757-a6da-7a875156ce31",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "Runway",
-      "title": "Communications Manager",
+      "title": "Manager/Director of Data Analytics",
       "location": "Remote",
-      "department": "Marketing & Creative",
-      "url": "https://jobs.ashbyhq.com/runway-ml/d80c075f-0766-4510-b657-c092b843ce11",
+      "department": "Product",
+      "url": "https://jobs.ashbyhq.com/runway-ml/b3b7f8e1-c252-4f61-baaf-c7ab6bfa9572",
       "board": "ashby",
       "remote": true
     },
     {
-      "company": "Runway",
-      "title": "Product Engineer",
-      "location": "Remote",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/runway-ml/0feb8680-6573-458b-b00d-98aea86a94f5",
+      "company": "Sardine",
+      "title": "Account Executive - UK/EU",
+      "location": "United Kingdom | {'location': 'Europe', 'address': {'postalAddress': {}}}",
+      "department": "Sales",
+      "url": "https://jobs.ashbyhq.com/sardine/dcffa749-a791-424e-b372-070113557c9f",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "Sardine",
+      "title": "Recruiter - Business",
+      "location": "United Kingdom",
+      "department": "Talent and People",
+      "url": "https://jobs.ashbyhq.com/sardine/30fc5127-1677-478c-bf53-19b1e4ad11ea",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "Supabase",
-      "title": "Design Engineer",
+      "title": "SDK Engineer - Kotlin",
       "location": "Remote",
-      "department": "Design",
-      "url": "https://jobs.ashbyhq.com/supabase/2e6ee4b3-6573-477f-9c95-d1221cd9f9f9",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/supabase/ad92f53a-6d0f-4761-abc3-588c7c7c6cd8",
       "board": "ashby",
       "remote": null
     },
     {
       "company": "Tide",
-      "title": "Commercial Services - UK Country Commercial (Senior Manager / Lead)",
-      "location": "United Kingdom | London",
+      "title": "Customer Support Associate (KYC Analyst)",
+      "location": "India, Hyderabad | India",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7822661003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7773036003",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Tide",
-      "title": "Customer Support Associate - L2",
+      "title": "Engineer, Threat Detection - 5",
+      "location": "Bulgaria | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7786956003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Engineer, Threat Detection - 5",
       "location": "India, Hyderabad | Hyderabad",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/6234225003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7626455003",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Tide",
-      "title": "Senior Operations Manager - Commercial Operations",
-      "location": "Bulgaria | Sofia",
+      "title": "Engineer, Threat Detection - 5",
+      "location": "India, Delhi NCR | Hyderabad",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7770013003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7626464003",
       "board": "greenhouse",
       "remote": false
     },
     {
-      "company": "Vannevar",
-      "title": "Product Manager - Decision Advantage",
-      "location": "Remote | Remote",
+      "company": "Tide",
+      "title": "Engineer, Threat Detection - 5",
+      "location": "Lithuania | Hyderabad",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/vannevarlabs/jobs/4763846007",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7786953003",
       "board": "greenhouse",
-      "remote": true
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Engineer, Threat Detection - 5",
+      "location": "Serbia | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7786957003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Engineer, Threat Detection - 5‎\t  ͏͏",
+      "location": "India, Bengaluru | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7620231003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Lead Engineer, Backend - Java",
+      "location": "Bulgaria | Bulgaria",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/6614102003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Manager, Policy & Procedure, Fraud, UK",
+      "location": "India, Hyderabad | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7640233003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Member Support Agent (Bengali)",
+      "location": "India, Delhi NCR | Delhi",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7721701003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "SAR Analyst, Fincrime Intelligence and Reporting, Ongoing Monitoring",
+      "location": "India, Hyderabad | India",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7775954003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Senior Engineer, Backend",
+      "location": "Serbia | Serbia",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/6612967003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Senior Engineer, Backend",
+      "location": "Lithuania | Lithuania",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/6621720003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Agent Quality Manager",
+      "location": "\">Niamey, Niger",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/5978697004/",
+      "board": "generic",
+      "remote": false
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "date": "2026-08-04",
-  "crawl_time_utc": "2026-08-04T09:31:09.243583+00:00",
+  "date": "2026-08-05",
+  "crawl_time_utc": "2026-08-05T09:30:48.958564+00:00",
   "total_companies": 50,
-  "total_jobs": 773,
+  "total_jobs": 762,
   "stats": {
-    "total_found": 773,
+    "total_found": 762,
     "filtered_us": 0,
     "errors": 0
   },
@@ -96,15 +96,6 @@
       "location": "London, England  | Remote - United Kingdom",
       "department": "",
       "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4715911005",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "AssemblyAI",
-      "title": "Senior Security Operations Engineer",
-      "location": "Remote | Remote",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4699429005",
       "board": "greenhouse",
       "remote": true
     },
@@ -551,15 +542,6 @@
     },
     {
       "company": "Automattic",
-      "title": "Strategic Finance Manager, WordPress.com",
-      "location": "Remote | Finance Group",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/automatticcareers/jobs/7925416",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "Automattic",
       "title": "Support Engineer, VIP",
       "location": "Remote | VIP",
       "department": "",
@@ -651,9 +633,9 @@
     {
       "company": "ClickHouse",
       "title": "Database Reliability Engineer - Core Team",
-      "location": "Australia (remote) | EMEA",
+      "location": "Netherlands (remote) | EMEA",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843424004",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843421004",
       "board": "greenhouse",
       "remote": true
     },
@@ -669,18 +651,18 @@
     {
       "company": "ClickHouse",
       "title": "Database Reliability Engineer - Core Team",
-      "location": "Germany (remote) | EMEA",
+      "location": "Australia (remote) | EMEA",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843422004",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843424004",
       "board": "greenhouse",
       "remote": true
     },
     {
       "company": "ClickHouse",
       "title": "Database Reliability Engineer - Core Team",
-      "location": "Netherlands (remote) | EMEA",
+      "location": "Germany (remote) | EMEA",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843421004",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843422004",
       "board": "greenhouse",
       "remote": true
     },
@@ -831,24 +813,6 @@
     {
       "company": "ClickHouse",
       "title": "QA Engineer - Core Database (remote)",
-      "location": "United Kingdom (remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5654025004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "QA Engineer - Core Database (remote)",
-      "location": "Germany (remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5654023004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "QA Engineer - Core Database (remote)",
       "location": "Netherlands (remote) | EMEA",
       "department": "",
       "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5654024004",
@@ -861,6 +825,24 @@
       "location": "Spain (remote) | EMEA",
       "department": "",
       "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5654026004",
+      "board": "greenhouse",
+      "remote": true
+    },
+    {
+      "company": "ClickHouse",
+      "title": "QA Engineer - Core Database (remote)",
+      "location": "United Kingdom (remote) | EMEA",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5654025004",
+      "board": "greenhouse",
+      "remote": true
+    },
+    {
+      "company": "ClickHouse",
+      "title": "QA Engineer - Core Database (remote)",
+      "location": "Germany (remote) | EMEA",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5654023004",
       "board": "greenhouse",
       "remote": true
     },
@@ -912,9 +894,9 @@
     {
       "company": "ClickHouse",
       "title": "Senior Cloud Performance Engineer",
-      "location": "Amsterdam (remote) | Singapore",
+      "location": "United Kingdom (remote) | Singapore",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5768081004",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5768078004",
       "board": "greenhouse",
       "remote": true
     },
@@ -930,9 +912,9 @@
     {
       "company": "ClickHouse",
       "title": "Senior Cloud Performance Engineer",
-      "location": "United Kingdom (remote) | Singapore",
+      "location": "Amsterdam (remote) | Singapore",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5768078004",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5768081004",
       "board": "greenhouse",
       "remote": true
     },
@@ -1020,11 +1002,11 @@
     {
       "company": "ClickHouse",
       "title": "Senior Software Engineer - Clickpipes (CDC/Streaming)",
-      "location": "Germany (remote) | EMEA",
+      "location": "United Kingdom | EMEA",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5765671004",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6015050004",
       "board": "greenhouse",
-      "remote": true
+      "remote": false
     },
     {
       "company": "ClickHouse",
@@ -1032,15 +1014,6 @@
       "location": "Spain | EMEA",
       "department": "",
       "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6015049004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Clickpipes (CDC/Streaming)",
-      "location": "United Kingdom | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6015050004",
       "board": "greenhouse",
       "remote": false
     },
@@ -1055,10 +1028,10 @@
     },
     {
       "company": "ClickHouse",
-      "title": "Senior Software Engineer - Cloud Infrastructure",
-      "location": "Singapore (Remote) | AMER | APJ | EMEA",
+      "title": "Senior Software Engineer - Clickpipes (CDC/Streaming)",
+      "location": "Germany (remote) | EMEA",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819676004",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5765671004",
       "board": "greenhouse",
       "remote": true
     },
@@ -1074,6 +1047,15 @@
     {
       "company": "ClickHouse",
       "title": "Senior Software Engineer - Cloud Infrastructure",
+      "location": "Amsterdam(Remote) | AMER | APJ | EMEA",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819678004",
+      "board": "greenhouse",
+      "remote": true
+    },
+    {
+      "company": "ClickHouse",
+      "title": "Senior Software Engineer - Cloud Infrastructure",
       "location": "UK (Remote) | AMER | APJ | EMEA",
       "department": "",
       "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819677004",
@@ -1083,9 +1065,36 @@
     {
       "company": "ClickHouse",
       "title": "Senior Software Engineer - Cloud Infrastructure",
-      "location": "Amsterdam(Remote) | AMER | APJ | EMEA",
+      "location": "Singapore (Remote) | AMER | APJ | EMEA",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819678004",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819676004",
+      "board": "greenhouse",
+      "remote": true
+    },
+    {
+      "company": "ClickHouse",
+      "title": "Senior Software Engineer - Cloud Partner Integrations",
+      "location": "Tel Aviv  | EMEA",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6115279004",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "ClickHouse",
+      "title": "Senior Software Engineer - Cloud Partner Integrations",
+      "location": "Spain (remote) | EMEA",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6115280004",
+      "board": "greenhouse",
+      "remote": true
+    },
+    {
+      "company": "ClickHouse",
+      "title": "Senior Software Engineer - Cloud Partner Integrations",
+      "location": "UK (remote) | EMEA",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6116420004",
       "board": "greenhouse",
       "remote": true
     },
@@ -1109,46 +1118,10 @@
     },
     {
       "company": "ClickHouse",
-      "title": "Senior Software Engineer - Cloud Partner Integrations",
-      "location": "UK (remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6116420004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Cloud Partner Integrations",
-      "location": "Spain (remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6115280004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Cloud Partner Integrations",
-      "location": "Tel Aviv  | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6115279004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "ClickHouse",
       "title": "Senior Software Engineer - Identity & Authorization Platform",
       "location": "Canada (remote) | EMEA",
       "department": "",
       "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6018901004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Java Streaming - Connectors",
-      "location": "Canada (Remote) | AMER | Israel | The Netherlands | United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6000799004",
       "board": "greenhouse",
       "remote": true
     },
@@ -1173,9 +1146,9 @@
     {
       "company": "ClickHouse",
       "title": "Senior Software Engineer - Java Streaming - Connectors",
-      "location": "The Netherlands (Remote) | AMER | Israel | The Netherlands | United Kingdom",
+      "location": "Canada (Remote) | AMER | Israel | The Netherlands | United Kingdom",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6000798004",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6000799004",
       "board": "greenhouse",
       "remote": true
     },
@@ -1190,10 +1163,10 @@
     },
     {
       "company": "ClickHouse",
-      "title": "Senior Software Engineer - Postgres",
-      "location": "India (remote) | APJ",
+      "title": "Senior Software Engineer - Java Streaming - Connectors",
+      "location": "The Netherlands (Remote) | AMER | Israel | The Netherlands | United Kingdom",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5989606004",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6000798004",
       "board": "greenhouse",
       "remote": true
     },
@@ -1203,6 +1176,15 @@
       "location": "Canada (remote) | APJ",
       "department": "",
       "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5989605004",
+      "board": "greenhouse",
+      "remote": true
+    },
+    {
+      "company": "ClickHouse",
+      "title": "Senior Software Engineer - Postgres",
+      "location": "India (remote) | APJ",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5989606004",
       "board": "greenhouse",
       "remote": true
     },
@@ -1397,7 +1379,7 @@
     },
     {
       "company": "Cohere",
-      "title": "Business Development Representative - Spanish Speaking",
+      "title": "Business Development Representative - French Speaking",
       "location": "United Kingdom",
       "department": "Revenue",
       "url": "https://jobs.ashbyhq.com/cohere/9f8d2b51-7fe9-470d-8108-fe5fb48c8a89",
@@ -1433,15 +1415,6 @@
     },
     {
       "company": "Cohere",
-      "title": "Data Annotation Specialist, Arabic Language Najdi/Hijazi Dialect",
-      "location": "Canada | {'location': 'Calgary', 'address': {'postalAddress': {'addressRegion': 'Alberta', 'addressCountry': 'Canada', 'addressLocality': 'Calgary'}}} | {'location': 'Vancouver', 'address': {'postalAddress': {'addressRegion': 'British Columbia', 'addressCountry': 'Canada', 'addressLocality': 'Vancouver'}}} | {'location': 'Toronto', 'address': {'postalAddress': {'addressRegion': 'Ontario', 'addressCountry': 'Canada', 'addressLocality': 'Toronto'}}} | {'location': 'Montreal', 'address': {'postalAddress': {'addressRegion': 'Quebec ', 'addressCountry': 'Canada', 'addressLocality': 'Montreal'}}}",
-      "department": "Data Quality (Contract)",
-      "url": "https://jobs.ashbyhq.com/cohere/23c35d20-e31e-42bb-a4dc-88a8e063061a",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Cohere",
       "title": "Data Annotation Specialist, Data Science",
       "location": "Canada | {'location': 'Calgary', 'address': {'postalAddress': {'addressRegion': 'Alberta', 'addressCountry': 'Canada', 'addressLocality': 'Calgary'}}} | {'location': 'Winnipeg', 'address': {'postalAddress': {'postalCode': 'R2H 1H1', 'addressRegion': 'Manitoba', 'addressCountry': 'Canada', 'addressLocality': 'Winnipeg'}}} | {'location': 'Vancouver', 'address': {'postalAddress': {'addressRegion': 'British Columbia', 'addressCountry': 'Canada', 'addressLocality': 'Vancouver'}}} | {'location': 'Halifax', 'address': {'postalAddress': {'postalCode': 'B3J 3X8', 'addressRegion': 'Nova Scotia', 'addressCountry': 'Canada', 'addressLocality': 'Halifax'}}} | {'location': 'Edmonton', 'address': {'postalAddress': {'postalCode': 'T5J 3A3', 'addressRegion': 'Alberta', 'streetAddress': '9803 102A Ave NW, Edmonton, AB T5J 3A3', 'addressCountry': 'Canada', 'addressLocality': 'Edmonton'}}} | {'location': 'Ottawa', 'address': {'postalAddress': {'addressRegion': 'Ontario', 'addressCountry': 'Canada', 'addressLocality': 'Ottawa'}}} | {'location': 'Toronto', 'address': {'postalAddress': {'addressRegion': 'Ontario', 'addressCountry': 'Canada', 'addressLocality': 'Toronto'}}} | {'location': 'Victoria', 'address': {'postalAddress': {'postalCode': 'V8W 1P6', 'addressRegion': 'British Columbia', 'streetAddress': '1 Centennial Square, Victoria, B.C., V8W 1P6', 'addressCountry': 'Canada', 'addressLocality': 'Victoria'}}} | {'location': 'Montreal', 'address': {'postalAddress': {'addressRegion': 'Quebec ', 'addressCountry': 'Canada', 'addressLocality': 'Montreal'}}}",
       "department": "Data Quality (Contract)",
@@ -1464,15 +1437,6 @@
       "location": "Canada | {'location': 'Calgary', 'address': {'postalAddress': {'addressRegion': 'Alberta', 'addressCountry': 'Canada', 'addressLocality': 'Calgary'}}} | {'location': 'Winnipeg', 'address': {'postalAddress': {'postalCode': 'R2H 1H1', 'addressRegion': 'Manitoba', 'addressCountry': 'Canada', 'addressLocality': 'Winnipeg'}}} | {'location': 'Vancouver', 'address': {'postalAddress': {'addressRegion': 'British Columbia', 'addressCountry': 'Canada', 'addressLocality': 'Vancouver'}}} | {'location': 'Halifax', 'address': {'postalAddress': {'postalCode': 'B3J 3X8', 'addressRegion': 'Nova Scotia', 'addressCountry': 'Canada', 'addressLocality': 'Halifax'}}} | {'location': 'Edmonton', 'address': {'postalAddress': {'postalCode': 'T5J 3A3', 'addressRegion': 'Alberta', 'streetAddress': '9803 102A Ave NW, Edmonton, AB T5J 3A3', 'addressCountry': 'Canada', 'addressLocality': 'Edmonton'}}} | {'location': 'Toronto', 'address': {'postalAddress': {'addressRegion': 'Ontario', 'addressCountry': 'Canada', 'addressLocality': 'Toronto'}}} | {'location': 'Victoria', 'address': {'postalAddress': {'postalCode': 'V8W 1P6', 'addressRegion': 'British Columbia', 'streetAddress': '1 Centennial Square, Victoria, B.C., V8W 1P6', 'addressCountry': 'Canada', 'addressLocality': 'Victoria'}}} | {'location': 'Montreal', 'address': {'postalAddress': {'addressRegion': 'Quebec ', 'addressCountry': 'Canada', 'addressLocality': 'Montreal'}}}",
       "department": "Data Quality (Contract)",
       "url": "https://jobs.ashbyhq.com/cohere/a7321948-288c-4e9f-9fbe-2f9ccda07ffa",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Cohere",
-      "title": "Data Annotation Specialist, Japanese",
-      "location": "Canada | {'location': 'Calgary', 'address': {'postalAddress': {'addressRegion': 'Alberta', 'addressCountry': 'Canada', 'addressLocality': 'Calgary'}}} | {'location': 'Vancouver', 'address': {'postalAddress': {'addressRegion': 'British Columbia', 'addressCountry': 'Canada', 'addressLocality': 'Vancouver'}}} | {'location': 'Toronto', 'address': {'postalAddress': {'addressRegion': 'Ontario', 'addressCountry': 'Canada', 'addressLocality': 'Toronto'}}} | {'location': 'Montreal', 'address': {'postalAddress': {'addressRegion': 'Quebec ', 'addressCountry': 'Canada', 'addressLocality': 'Montreal'}}}",
-      "department": "Data Quality (Contract)",
-      "url": "https://jobs.ashbyhq.com/cohere/5e8c8cc4-4349-4574-a8c6-b17687014d76",
       "board": "ashby",
       "remote": true
     },
@@ -1613,6 +1577,15 @@
     },
     {
       "company": "Cohere",
+      "title": "Head of Sales EMEA, Public Sector",
+      "location": "Berlin",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/cohere/334b2a07-0c6a-4764-b4a8-c8bf68513cde",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "Cohere",
       "title": "Infrastructure Security Engineer (Secret + Clearance)",
       "location": "Toronto | {'location': 'Ottawa', 'address': {'postalAddress': {'addressRegion': 'Ontario', 'addressCountry': 'Canada', 'addressLocality': 'Ottawa'}}}",
       "department": "Product",
@@ -1725,15 +1698,6 @@
       "location": "Berlin",
       "department": "Revenue",
       "url": "https://jobs.ashbyhq.com/cohere/e588a0ac-6a84-42fd-808f-6474fd8ff6f0",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Cohere",
-      "title": "Senior Financial Analyst, Strategic Finance",
-      "location": "Toronto",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/cohere/346256f9-88eb-4934-aee7-83b28d60a6d6",
       "board": "ashby",
       "remote": true
     },
@@ -2707,7 +2671,7 @@
       "department": "Revenue",
       "url": "https://jobs.ashbyhq.com/elevenlabs/ceb4eb7b-f1ad-429d-a2ec-11fd902948b8",
       "board": "ashby",
-      "remote": true
+      "remote": false
     },
     {
       "company": "ElevenLabs",
@@ -2716,7 +2680,7 @@
       "department": "Revenue",
       "url": "https://jobs.ashbyhq.com/elevenlabs/1ef264b8-ee9e-4713-a10a-0603f2cdbb94",
       "board": "ashby",
-      "remote": true
+      "remote": false
     },
     {
       "company": "ElevenLabs",
@@ -2725,7 +2689,7 @@
       "department": "Revenue",
       "url": "https://jobs.ashbyhq.com/elevenlabs/20a29846-f8f5-483c-a3cb-52f14c525366",
       "board": "ashby",
-      "remote": true
+      "remote": false
     },
     {
       "company": "ElevenLabs",
@@ -2743,7 +2707,7 @@
       "department": "Revenue",
       "url": "https://jobs.ashbyhq.com/elevenlabs/3cfeeeae-fa89-4708-ad93-533953c29486",
       "board": "ashby",
-      "remote": true
+      "remote": false
     },
     {
       "company": "ElevenLabs",
@@ -2761,7 +2725,7 @@
       "department": "Revenue",
       "url": "https://jobs.ashbyhq.com/elevenlabs/a3873284-4344-4f3c-9bce-19a5de75d6fc",
       "board": "ashby",
-      "remote": null
+      "remote": false
     },
     {
       "company": "ElevenLabs",
@@ -2779,7 +2743,7 @@
       "department": "Revenue",
       "url": "https://jobs.ashbyhq.com/elevenlabs/ca1269c6-12c7-419a-ab4d-458a0a907a17",
       "board": "ashby",
-      "remote": true
+      "remote": false
     },
     {
       "company": "ElevenLabs",
@@ -2968,7 +2932,7 @@
       "department": "Revenue",
       "url": "https://jobs.ashbyhq.com/elevenlabs/a5a999e3-17f6-4f1f-aef3-bab73518244a",
       "board": "ashby",
-      "remote": null
+      "remote": false
     },
     {
       "company": "ElevenLabs",
@@ -2986,7 +2950,7 @@
       "department": "Revenue",
       "url": "https://jobs.ashbyhq.com/elevenlabs/d29d23d8-703f-4448-8d80-255d141cac10",
       "board": "ashby",
-      "remote": true
+      "remote": false
     },
     {
       "company": "ElevenLabs",
@@ -2995,7 +2959,7 @@
       "department": "Revenue",
       "url": "https://jobs.ashbyhq.com/elevenlabs/6c5d4386-8a3f-473f-9a39-394added49a5",
       "board": "ashby",
-      "remote": true
+      "remote": false
     },
     {
       "company": "ElevenLabs",
@@ -3004,7 +2968,7 @@
       "department": "Revenue",
       "url": "https://jobs.ashbyhq.com/elevenlabs/3de325f9-98e1-41df-b34e-9f6fddb34fa4",
       "board": "ashby",
-      "remote": true
+      "remote": false
     },
     {
       "company": "ElevenLabs",
@@ -3013,7 +2977,7 @@
       "department": "Revenue",
       "url": "https://jobs.ashbyhq.com/elevenlabs/f090d901-2305-4e72-b09d-32b7e2e0ca49",
       "board": "ashby",
-      "remote": true
+      "remote": false
     },
     {
       "company": "ElevenLabs",
@@ -3022,7 +2986,7 @@
       "department": "Revenue",
       "url": "https://jobs.ashbyhq.com/elevenlabs/4ea5b175-fa5c-46d4-8cd2-ca26513bd821",
       "board": "ashby",
-      "remote": true
+      "remote": false
     },
     {
       "company": "ElevenLabs",
@@ -3031,7 +2995,7 @@
       "department": "Revenue",
       "url": "https://jobs.ashbyhq.com/elevenlabs/d2d1efed-213f-45f4-8e18-ba48eaf22020",
       "board": "ashby",
-      "remote": true
+      "remote": false
     },
     {
       "company": "ElevenLabs",
@@ -3040,7 +3004,7 @@
       "department": "Revenue",
       "url": "https://jobs.ashbyhq.com/elevenlabs/03d5ffd2-5cfd-43a0-a767-3cb08d107233",
       "board": "ashby",
-      "remote": true
+      "remote": false
     },
     {
       "company": "ElevenLabs",
@@ -3049,7 +3013,25 @@
       "department": "Revenue",
       "url": "https://jobs.ashbyhq.com/elevenlabs/9a6b86ac-6c84-4423-9555-853723dd74ca",
       "board": "ashby",
-      "remote": true
+      "remote": false
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Strategic Account Executive - Poland - Consumer & Retail",
+      "location": "Poland | {'location': 'Warsaw', 'address': {'postalAddress': {'addressRegion': 'Poland', 'addressCountry': 'Poland', 'addressLocality': 'Warsaw'}}}",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/6255f8a9-1ff8-49b3-8409-c104f8b46e56",
+      "board": "ashby",
+      "remote": false
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Strategic Account Executive - Poland - Financial Services",
+      "location": "Poland | {'location': 'Warsaw', 'address': {'postalAddress': {'addressRegion': 'Poland', 'addressCountry': 'Poland', 'addressLocality': 'Warsaw'}}}",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/daf083cd-feda-4f28-ae49-7922b1a26ed7",
+      "board": "ashby",
+      "remote": false
     },
     {
       "company": "ElevenLabs",
@@ -3076,7 +3058,7 @@
       "department": "Revenue",
       "url": "https://jobs.ashbyhq.com/elevenlabs/1034a604-b714-428b-a9fd-fa8c0cd795cf",
       "board": "ashby",
-      "remote": true
+      "remote": false
     },
     {
       "company": "ElevenLabs",
@@ -3359,8 +3341,17 @@
     },
     {
       "company": "Hightouch",
+      "title": "Enterprise Account Executive, Spain ",
+      "location": "Spain | Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/hightouch/jobs/6134022004",
+      "board": "greenhouse",
+      "remote": true
+    },
+    {
+      "company": "Hightouch",
       "title": "Field Marketing Manager, EMEA South",
-      "location": "EMEA | London",
+      "location": "Paris | London",
       "department": "",
       "url": "https://job-boards.greenhouse.io/hightouch/jobs/6092042004",
       "board": "greenhouse",
@@ -3512,7 +3503,7 @@
     },
     {
       "company": "Kong",
-      "title": "Account Development Rep",
+      "title": "Account Development Rep (Bahasa Indonesia)",
       "location": "Singapore",
       "department": "All Cost Center",
       "url": "https://jobs.ashbyhq.com/kong/e4ca8151-011a-4a0b-9165-dec2eefd37bb",
@@ -3644,6 +3635,15 @@
       "url": "https://jobs.ashbyhq.com/kong/84b783e3-6f0b-437d-96bf-226ce55e88a1",
       "board": "ashby",
       "remote": false
+    },
+    {
+      "company": "Kong",
+      "title": "Enterprise Account Executive, Italy",
+      "location": "Italy | {'location': 'Milan, Italy', 'address': {'postalAddress': {'addressRegion': 'Milano', 'addressCountry': 'Italy', 'addressLocality': 'Milano'}}}",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/a77d5f89-2a5e-4606-8f73-338a5560a2cf",
+      "board": "ashby",
+      "remote": true
     },
     {
       "company": "Kong",
@@ -3779,15 +3779,6 @@
       "url": "https://jobs.ashbyhq.com/kong/fec792e6-fa03-4fc3-b2d0-e5813f6a0aac",
       "board": "ashby",
       "remote": true
-    },
-    {
-      "company": "Kong",
-      "title": "Senior Site Reliability Engineer, Kong Konnect",
-      "location": "Canada | {'location': 'Toronto, Canada', 'address': {'postalAddress': {'addressCountry': 'Canada', 'addressLocality': 'Toronto'}}}",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/3fd05ac3-b247-4d01-abb8-5deeef000347",
-      "board": "ashby",
-      "remote": false
     },
     {
       "company": "Kong",
@@ -4439,19 +4430,19 @@
     },
     {
       "company": "Runway",
-      "title": "Design Engineer",
+      "title": "Data Analytics Leader",
       "location": "Remote",
-      "department": "Runway Labs",
-      "url": "https://jobs.ashbyhq.com/runway-ml/92044f68-4957-4cf0-9590-98952732b219",
+      "department": "Product",
+      "url": "https://jobs.ashbyhq.com/runway-ml/b3b7f8e1-c252-4f61-baaf-c7ab6bfa9572",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "Runway",
-      "title": "Director/ VP Revenue Operations",
+      "title": "Design Engineer",
       "location": "Remote",
-      "department": "Commercial",
-      "url": "https://jobs.ashbyhq.com/runway-ml/2da1665a-81c0-4757-a6da-7a875156ce31",
+      "department": "Runway Labs",
+      "url": "https://jobs.ashbyhq.com/runway-ml/92044f68-4957-4cf0-9590-98952732b219",
       "board": "ashby",
       "remote": true
     },
@@ -4506,15 +4497,6 @@
       "location": "Remote",
       "department": "Commercial",
       "url": "https://jobs.ashbyhq.com/runway-ml/44c1578a-3b0c-4b64-b1c0-89f51e8635ee",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Runway",
-      "title": "Manager/Director of Data Analytics",
-      "location": "Remote",
-      "department": "Product",
-      "url": "https://jobs.ashbyhq.com/runway-ml/b3b7f8e1-c252-4f61-baaf-c7ab6bfa9572",
       "board": "ashby",
       "remote": true
     },
@@ -4628,7 +4610,7 @@
     },
     {
       "company": "Sardine",
-      "title": "Account Executive - UK/EU",
+      "title": "Account Executive - EU & UK",
       "location": "United Kingdom | {'location': 'Europe', 'address': {'postalAddress': {}}}",
       "department": "Sales",
       "url": "https://jobs.ashbyhq.com/sardine/dcffa749-a791-424e-b372-070113557c9f",
@@ -4704,15 +4686,6 @@
       "location": "Canada",
       "department": "Talent and People",
       "url": "https://jobs.ashbyhq.com/sardine/c1300dcf-410d-41aa-8fb1-6c4c75265ebf",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Sardine",
-      "title": "Recruiter - Business",
-      "location": "United Kingdom",
-      "department": "Talent and People",
-      "url": "https://jobs.ashbyhq.com/sardine/30fc5127-1677-478c-bf53-19b1e4ad11ea",
       "board": "ashby",
       "remote": true
     },
@@ -5195,10 +5168,10 @@
     },
     {
       "company": "Supabase",
-      "title": "SDK Engineer - Kotlin",
+      "title": "SDK Engineer - JavaScript",
       "location": "Remote",
       "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/supabase/ad92f53a-6d0f-4761-abc3-588c7c7c6cd8",
+      "url": "https://jobs.ashbyhq.com/supabase/f44742fb-18c6-478f-bf78-63707ed57db7",
       "board": "ashby",
       "remote": null
     },
@@ -5208,6 +5181,15 @@
       "location": "Remote",
       "department": "Security",
       "url": "https://jobs.ashbyhq.com/supabase/0bcf21fd-e24e-4a0b-b393-ca4eb25896ce",
+      "board": "ashby",
+      "remote": null
+    },
+    {
+      "company": "Supabase",
+      "title": "Senior Data Analyst - Marketing",
+      "location": "Remote",
+      "department": "Growth",
+      "url": "https://jobs.ashbyhq.com/supabase/59083a14-b2b6-4dd8-8037-739aa1ad1e22",
       "board": "ashby",
       "remote": null
     },
@@ -5474,15 +5456,6 @@
     },
     {
       "company": "Tide",
-      "title": "Customer Support Associate (KYC Analyst)",
-      "location": "India, Hyderabad | India",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7773036003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
       "title": "Customer Support Executive with German (Onboarding)",
       "location": "Bulgaria | Sofia",
       "department": "",
@@ -5502,18 +5475,18 @@
     {
       "company": "Tide",
       "title": "Director of Engineering",
-      "location": "India, Hyderabad | India",
+      "location": "Bulgaria | Lithuania",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7780921003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7765740003",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Tide",
       "title": "Director of Engineering",
-      "location": "Bulgaria | Lithuania",
+      "location": "India, Hyderabad | India",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7765740003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7780921003",
       "board": "greenhouse",
       "remote": false
     },
@@ -5529,72 +5502,9 @@
     {
       "company": "Tide",
       "title": "Engineer, Threat Detection - 5",
-      "location": "Bulgaria | Hyderabad",
+      "location": "United Kingdom | Hyderabad",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7786956003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Engineer, Threat Detection - 5",
-      "location": "India, Hyderabad | Hyderabad",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7626455003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Engineer, Threat Detection - 5",
-      "location": "India, Delhi NCR | Hyderabad",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7626464003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Engineer, Threat Detection - 5",
-      "location": "Lithuania | Hyderabad",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7786953003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Engineer, Threat Detection - 5",
-      "location": "Serbia | Hyderabad",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7786957003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Engineer, Threat Detection - 5‎\t  ͏͏",
-      "location": "India, Bengaluru | Hyderabad",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7620231003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Engineering Manager",
-      "location": "India, Hyderabad | Bengaluru | Delhi | Hyderabad",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/6643188003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Engineering Manager",
-      "location": "Lithuania | Bulgaria | Lithuania | Romania | Serbia",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7570173003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7827432003",
       "board": "greenhouse",
       "remote": false
     },
@@ -5610,9 +5520,9 @@
     {
       "company": "Tide",
       "title": "Engineering Manager",
-      "location": "India, Bengaluru | Bengaluru | Delhi | Hyderabad",
+      "location": "India, Hyderabad | Bengaluru | Delhi | Hyderabad",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/6643198003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/6643188003",
       "board": "greenhouse",
       "remote": false
     },
@@ -5628,9 +5538,27 @@
     {
       "company": "Tide",
       "title": "Engineering Manager",
+      "location": "India, Bengaluru | Bengaluru | Delhi | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/6643198003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Engineering Manager",
       "location": "Serbia | Bulgaria | Lithuania | Romania | Serbia",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7570167003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Engineering Manager",
+      "location": "Lithuania | Bulgaria | Lithuania | Romania | Serbia",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7570173003",
       "board": "greenhouse",
       "remote": false
     },
@@ -5735,19 +5663,10 @@
     },
     {
       "company": "Tide",
-      "title": "Lead Engineer, Backend - Java",
-      "location": "Bulgaria | Bulgaria",
+      "title": "Insurance  Services - Lead Country Commercial Manager - UK",
+      "location": "United Kingdom | London",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/6614102003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Lead Product Manager - Banking Payments",
-      "location": "Lithuania | Bulgaria",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7783199003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7826088003",
       "board": "greenhouse",
       "remote": false
     },
@@ -5757,6 +5676,15 @@
       "location": "Bulgaria | Bulgaria",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7737389003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Lead Product Manager - Banking Payments",
+      "location": "Lithuania | Bulgaria",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7783199003",
       "board": "greenhouse",
       "remote": false
     },
@@ -5775,24 +5703,6 @@
       "location": "India, Hyderabad | Hyderabad",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7638107003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Manager, Policy & Procedure, Fraud, UK",
-      "location": "India, Hyderabad | Hyderabad",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7640233003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Member Support Agent (Bengali)",
-      "location": "India, Delhi NCR | Delhi",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7721701003",
       "board": "greenhouse",
       "remote": false
     },
@@ -5861,15 +5771,6 @@
     },
     {
       "company": "Tide",
-      "title": "SAR Analyst, Fincrime Intelligence and Reporting, Ongoing Monitoring",
-      "location": "India, Hyderabad | India",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7775954003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
       "title": "Sales Executive",
       "location": "Paris, France | Paris",
       "department": "",
@@ -5925,15 +5826,6 @@
     {
       "company": "Tide",
       "title": "Security Engineer 3 - Vulnerability Management",
-      "location": "India, Hyderabad | Hyderabad",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7812620003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Security Engineer 3 - Vulnerability Management",
       "location": "India, Delhi NCR | Hyderabad",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7820212003",
@@ -5946,6 +5838,15 @@
       "location": "India, Bengaluru | Hyderabad",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7820211003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Security Engineer 3 - Vulnerability Management",
+      "location": "India, Hyderabad | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7812620003",
       "board": "greenhouse",
       "remote": false
     },
@@ -5981,7 +5882,7 @@
       "title": "Senior Commercial Finance Broker",
       "location": "United Kingdom | London",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7630894003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7652032003",
       "board": "greenhouse",
       "remote": false
     },
@@ -5990,25 +5891,7 @@
       "title": "Senior Commercial Finance Broker",
       "location": "United Kingdom | London",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7652032003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Senior Engineer, Backend",
-      "location": "Serbia | Serbia",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/6612967003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Senior Engineer, Backend",
-      "location": "Lithuania | Lithuania",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/6621720003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7630894003",
       "board": "greenhouse",
       "remote": false
     },
@@ -6024,18 +5907,18 @@
     {
       "company": "Tide",
       "title": "Senior Engineer, Flutter",
-      "location": "Lithuania | Lithuania",
+      "location": "Bulgaria | Bulgaria",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/6621953003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/6614190003",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Tide",
       "title": "Senior Engineer, Flutter",
-      "location": "Bulgaria | Bulgaria",
+      "location": "Lithuania | Lithuania",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/6614190003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/6621953003",
       "board": "greenhouse",
       "remote": false
     },
@@ -6087,15 +5970,6 @@
     {
       "company": "Tide",
       "title": "Senior Staff Software Engineer, Agentic Platform",
-      "location": "United Kingdom | United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7702547003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Senior Staff Software Engineer, Agentic Platform",
       "location": "Bulgaria | United Kingdom",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7702553003",
@@ -6105,9 +5979,18 @@
     {
       "company": "Tide",
       "title": "Senior Staff Software Engineer, Agentic Platform",
-      "location": "Serbia | United Kingdom",
+      "location": "United Kingdom | United Kingdom",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7702554003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7702547003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Senior Staff Software Engineer, Agentic Platform",
+      "location": "Berlin, Germany; Bulgaria; India, Bengaluru; India, Delhi NCR; India, Hyderabad; Lithuania; Serbia; United Kingdom",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7703992003",
       "board": "greenhouse",
       "remote": false
     },
@@ -6123,15 +6006,6 @@
     {
       "company": "Tide",
       "title": "Senior Staff Software Engineer, Agentic Platform",
-      "location": "India, Delhi NCR; India, Hyderabad | India",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7702549003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Senior Staff Software Engineer, Agentic Platform",
       "location": "India, Bengaluru | India",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7702561003",
@@ -6141,18 +6015,18 @@
     {
       "company": "Tide",
       "title": "Senior Staff Software Engineer, Agentic Platform",
-      "location": "Berlin, Germany; Bulgaria; India, Bengaluru; India, Delhi NCR; India, Hyderabad; Lithuania; Serbia; United Kingdom",
+      "location": "India, Delhi NCR; India, Hyderabad | India",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7703992003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7702549003",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Tide",
-      "title": "Senior UI Designer",
-      "location": "India, Delhi NCR | Delhi",
+      "title": "Senior Staff Software Engineer, Agentic Platform",
+      "location": "Serbia | United Kingdom",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7723084003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7702554003",
       "board": "greenhouse",
       "remote": false
     },
@@ -6185,28 +6059,19 @@
     },
     {
       "company": "Tide",
+      "title": "Senior UI Designer",
+      "location": "India, Delhi NCR | Delhi",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7723084003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
       "title": "Staff Data Scientist (Fraud & Risk)",
       "location": "India, Hyderabad | Hyderabad",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7777174003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Staff Software Engineer, Agentic Platform",
-      "location": "Serbia | Bulgaria | Lithuania | Serbia",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7701778003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Staff Software Engineer, Agentic Platform",
-      "location": "India, Bengaluru | India",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7703826003",
       "board": "greenhouse",
       "remote": false
     },
@@ -6222,9 +6087,18 @@
     {
       "company": "Tide",
       "title": "Staff Software Engineer, Agentic Platform",
-      "location": "Lithuania | Bulgaria | Lithuania | Serbia",
+      "location": "India, Delhi NCR; India, Hyderabad | India",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7701777003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7703793003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Staff Software Engineer, Agentic Platform",
+      "location": "India, Bengaluru | India",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7703826003",
       "board": "greenhouse",
       "remote": false
     },
@@ -6240,18 +6114,27 @@
     {
       "company": "Tide",
       "title": "Staff Software Engineer, Agentic Platform",
-      "location": "India, Delhi NCR; India, Hyderabad | India",
+      "location": "United Kingdom | Bulgaria | Lithuania | Serbia",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7703793003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7701767003",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Tide",
       "title": "Staff Software Engineer, Agentic Platform",
-      "location": "United Kingdom | Bulgaria | Lithuania | Serbia",
+      "location": "Lithuania | Bulgaria | Lithuania | Serbia",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7701767003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7701777003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Staff Software Engineer, Agentic Platform",
+      "location": "Serbia | Bulgaria | Lithuania | Serbia",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7701778003",
       "board": "greenhouse",
       "remote": false
     },
@@ -6527,17 +6410,8 @@
     },
     {
       "company": "Wave Mobile Money",
-      "title": "Agent Quality Manager",
-      "location": "\">Niamey, Niger",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/5978697004/",
-      "board": "generic",
-      "remote": false
-    },
-    {
-      "company": "Wave Mobile Money",
       "title": "Agent Quality Officer",
-      "location": "\">Freetown, Sierra Leone",
+      "location": "\">Niamey, Niger",
       "department": "",
       "url": "https://www.wave.com/en/careers/job/6100728004/",
       "board": "generic",
@@ -6609,7 +6483,7 @@
     {
       "company": "Wave Mobile Money",
       "title": "Field Auditor",
-      "location": "\">Abidjan, Côte d&#39;Ivoire",
+      "location": "\">Freetown, Sierra Leone",
       "department": "",
       "url": "https://www.wave.com/en/careers/job/5996008004/",
       "board": "generic",
@@ -6693,6 +6567,15 @@
       "location": "\">Cameroon (CM)",
       "department": "",
       "url": "https://www.wave.com/en/careers/job/6121472004/",
+      "board": "generic",
+      "remote": false
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Inventory Clerk",
+      "location": "\">Niamey, Niger",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6119906004/",
       "board": "generic",
       "remote": false
     },
@@ -6806,8 +6689,26 @@
     },
     {
       "company": "Wave Mobile Money",
-      "title": "People Programs Manager",
+      "title": "People Partner- Support",
       "location": "\">Conakry, Conakry, Guinea",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6134008004/",
+      "board": "generic",
+      "remote": false
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "People Partner- Support",
+      "location": "\">OpCo",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6134012004/",
+      "board": "generic",
+      "remote": false
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "People Programs Manager",
+      "location": "\">Dakar, Senegal",
       "department": "",
       "url": "https://www.wave.com/en/careers/job/6101291004/",
       "board": "generic",
@@ -6852,7 +6753,7 @@
     {
       "company": "Wave Mobile Money",
       "title": "Procurement Admin",
-      "location": "\">Niamey, Niger",
+      "location": "\">Malawi (MW)",
       "department": "",
       "url": "https://www.wave.com/en/careers/job/6016110004/",
       "board": "generic",
@@ -6870,7 +6771,7 @@
     {
       "company": "Wave Mobile Money",
       "title": "Reconciliation officer",
-      "location": "\">Malawi (MW)",
+      "location": "\">Ouagadougou, Burkina Faso",
       "department": "",
       "url": "https://www.wave.com/en/careers/job/6121636004/",
       "board": "generic",
