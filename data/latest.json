@@ -1,10 +1,10 @@
 {
   "date": "2026-08-06",
-  "crawl_time_utc": "2026-08-06T10:27:42.101584+00:00",
+  "crawl_time_utc": "2026-08-06T10:38:52.975954+00:00",
   "total_companies": 52,
-  "total_jobs": 777,
+  "total_jobs": 778,
   "stats": {
-    "total_found": 777,
+    "total_found": 778,
     "filtered_us": 0,
     "errors": 0
   },
@@ -5555,6 +5555,15 @@
     },
     {
       "company": "Tide",
+      "title": "Customer Support Associate ",
+      "location": "India, Hyderabad | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7831555003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
       "title": "Customer Support Associate - L2",
       "location": "India, Hyderabad | Hyderabad",
       "department": "",
@@ -5610,18 +5619,27 @@
     {
       "company": "Tide",
       "title": "Engineering Manager",
-      "location": "India, Bengaluru | Bengaluru | Delhi | Hyderabad",
+      "location": "Bulgaria | Bulgaria | Lithuania | Romania | Serbia",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/6643198003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7569898003",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Tide",
       "title": "Engineering Manager",
-      "location": "Bulgaria | Bulgaria | Lithuania | Romania | Serbia",
+      "location": "Serbia | Bulgaria | Lithuania | Romania | Serbia",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7569898003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7570167003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Engineering Manager",
+      "location": "Lithuania | Bulgaria | Lithuania | Romania | Serbia",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7570173003",
       "board": "greenhouse",
       "remote": false
     },
@@ -5646,27 +5664,9 @@
     {
       "company": "Tide",
       "title": "Engineering Manager",
-      "location": "Serbia | Bulgaria | Lithuania | Romania | Serbia",
+      "location": "India, Bengaluru | Bengaluru | Delhi | Hyderabad",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7570167003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Engineering Manager",
-      "location": "Lithuania | Bulgaria | Lithuania | Romania | Serbia",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7570173003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Engineering Manager - Accounts Platform",
-      "location": "Bulgaria | Lithuania",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7780974003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/6643198003",
       "board": "greenhouse",
       "remote": false
     },
@@ -5676,6 +5676,15 @@
       "location": "Lithuania | Lithuania",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7780973003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Engineering Manager - Accounts Platform",
+      "location": "Bulgaria | Lithuania",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7780974003",
       "board": "greenhouse",
       "remote": false
     },
@@ -5772,15 +5781,6 @@
     {
       "company": "Tide",
       "title": "Lead Product Manager - Banking Payments",
-      "location": "Bulgaria | Bulgaria",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7737389003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Lead Product Manager - Banking Payments",
       "location": "Serbia | Bulgaria",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7783194003",
@@ -5793,6 +5793,15 @@
       "location": "Lithuania | Bulgaria",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7783199003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Lead Product Manager - Banking Payments",
+      "location": "Bulgaria | Bulgaria",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7737389003",
       "board": "greenhouse",
       "remote": false
     },
@@ -5999,7 +6008,7 @@
       "title": "Senior Commercial Finance Broker",
       "location": "United Kingdom | London",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7652032003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7630894003",
       "board": "greenhouse",
       "remote": false
     },
@@ -6008,7 +6017,7 @@
       "title": "Senior Commercial Finance Broker",
       "location": "United Kingdom | London",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7630894003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7652032003",
       "board": "greenhouse",
       "remote": false
     },
@@ -6024,18 +6033,18 @@
     {
       "company": "Tide",
       "title": "Senior Engineer, Flutter",
-      "location": "Bulgaria | Bulgaria",
+      "location": "Lithuania | Lithuania",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/6614190003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/6621953003",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Tide",
       "title": "Senior Engineer, Flutter",
-      "location": "Lithuania | Lithuania",
+      "location": "Bulgaria | Bulgaria",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/6621953003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/6614190003",
       "board": "greenhouse",
       "remote": false
     },
@@ -6087,6 +6096,51 @@
     {
       "company": "Tide",
       "title": "Senior Staff Software Engineer, Agentic Platform",
+      "location": "Lithuania | United Kingdom",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7702555003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Senior Staff Software Engineer, Agentic Platform",
+      "location": "Berlin, Germany; Bulgaria; India, Bengaluru; India, Delhi NCR; India, Hyderabad; Lithuania; Serbia; United Kingdom",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7703992003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Senior Staff Software Engineer, Agentic Platform",
+      "location": "India, Bengaluru | India",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7702561003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Senior Staff Software Engineer, Agentic Platform",
+      "location": "India, Delhi NCR; India, Hyderabad | India",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7702549003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Senior Staff Software Engineer, Agentic Platform",
+      "location": "Serbia | United Kingdom",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7702554003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Senior Staff Software Engineer, Agentic Platform",
       "location": "Bulgaria | United Kingdom",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7702553003",
@@ -6104,46 +6158,19 @@
     },
     {
       "company": "Tide",
-      "title": "Senior Staff Software Engineer, Agentic Platform",
-      "location": "India, Bengaluru | India",
+      "title": "Senior UI Designer",
+      "location": "Serbia | Delhi",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7702561003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7797520003",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Tide",
-      "title": "Senior Staff Software Engineer, Agentic Platform",
-      "location": "Berlin, Germany; Bulgaria; India, Bengaluru; India, Delhi NCR; India, Hyderabad; Lithuania; Serbia; United Kingdom",
+      "title": "Senior UI Designer",
+      "location": "India, Delhi NCR | Delhi",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7703992003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Senior Staff Software Engineer, Agentic Platform",
-      "location": "Lithuania | United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7702555003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Senior Staff Software Engineer, Agentic Platform",
-      "location": "Serbia | United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7702554003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Senior Staff Software Engineer, Agentic Platform",
-      "location": "India, Delhi NCR; India, Hyderabad | India",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7702549003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7723084003",
       "board": "greenhouse",
       "remote": false
     },
@@ -6167,24 +6194,6 @@
     },
     {
       "company": "Tide",
-      "title": "Senior UI Designer",
-      "location": "India, Delhi NCR | Delhi",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7723084003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Senior UI Designer",
-      "location": "Serbia | Delhi",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7797520003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
       "title": "Staff Data Scientist (Fraud & Risk)",
       "location": "India, Hyderabad | Hyderabad",
       "department": "",
@@ -6195,36 +6204,9 @@
     {
       "company": "Tide",
       "title": "Staff Software Engineer, Agentic Platform",
-      "location": "Berlin, Germany; Bulgaria; India, Bengaluru; India, Delhi NCR; India, Hyderabad; Lithuania; Serbia; United Kingdom",
+      "location": "Bulgaria | Bulgaria | Lithuania | Serbia",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7703991003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Staff Software Engineer, Agentic Platform",
-      "location": "India, Bengaluru | India",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7703826003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Staff Software Engineer, Agentic Platform",
-      "location": "India, Delhi NCR; India, Hyderabad | India",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7703793003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Staff Software Engineer, Agentic Platform",
-      "location": "United Kingdom | Bulgaria | Lithuania | Serbia",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7701767003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7701766003",
       "board": "greenhouse",
       "remote": false
     },
@@ -6249,9 +6231,36 @@
     {
       "company": "Tide",
       "title": "Staff Software Engineer, Agentic Platform",
-      "location": "Bulgaria | Bulgaria | Lithuania | Serbia",
+      "location": "United Kingdom | Bulgaria | Lithuania | Serbia",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7701766003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7701767003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Staff Software Engineer, Agentic Platform",
+      "location": "India, Bengaluru | India",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7703826003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Staff Software Engineer, Agentic Platform",
+      "location": "India, Delhi NCR; India, Hyderabad | India",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7703793003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Staff Software Engineer, Agentic Platform",
+      "location": "Berlin, Germany; Bulgaria; India, Bengaluru; India, Delhi NCR; India, Hyderabad; Lithuania; Serbia; United Kingdom",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7703991003",
       "board": "greenhouse",
       "remote": false
     },
