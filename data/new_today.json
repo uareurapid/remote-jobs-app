@@ -1,185 +1,86 @@
 {
   "date": "2026-08-06",
-  "crawl_time_utc": "2026-08-06T09:31:29.192752+00:00",
-  "total_new": 20,
+  "crawl_time_utc": "2026-08-06T10:27:42.101584+00:00",
+  "total_new": 9,
   "jobs": [
     {
-      "company": "AssemblyAI",
-      "title": "Senior Software Engineer, Security ",
-      "location": "Remote | Remote",
+      "company": "Cyclops",
+      "title": "Apply Now",
+      "location": "unknown (check listing)",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4699429005",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "Assured",
-      "title": "Principal 3D Artist",
-      "location": "Remote",
-      "department": "Marketing",
-      "url": "https://jobs.ashbyhq.com/assured/094a7750-7920-4260-adf9-3be8d9b12bcf",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Assured",
-      "title": "Senior/Principal Client Engagement Manager (Operations)",
-      "location": "Remote",
-      "department": "Client Engagement",
-      "url": "https://jobs.ashbyhq.com/assured/8d77752a-3db6-413a-ab71-ac2196187aac",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "B2B Growth Marketer - Belgium",
-      "location": "Belgium",
-      "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/7c9abf17-1e6b-4038-92ba-bea97293627a",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "B2B Growth Marketer - Canada",
-      "location": "Canada",
-      "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/792d35d9-5a8e-4f57-bf79-5a1cdac463fb",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "B2B Growth Marketer - Denmark",
-      "location": "Denmark",
-      "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/2d4272f3-8cf3-487a-a399-1d3a5e74dca8",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "B2B Growth Marketer - Italy",
-      "location": "Italy",
-      "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/68316753-ec69-428d-bd8a-3adea30f7807",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "B2B Growth Marketer - Netherlands",
-      "location": "Netherlands",
-      "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/3717c857-9f59-40fd-b9eb-7d5e507082ee",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "B2B Growth Marketer - Switzerland",
-      "location": "Switzerland",
-      "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/6363a777-0bb0-4e1b-8302-25419f88e909",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Detection Engineer",
-      "location": "London",
-      "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/f9df85c5-bcb0-4d75-9728-775e746a0383",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Hightouch",
-      "title": "Sales Development Representative, EMEA (Paris) ",
-      "location": "Paris | Remote",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/hightouch/jobs/5852028004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "Infisical",
-      "title": "Enterprise Account Executive ",
-      "location": "London",
-      "department": "Sales",
-      "url": "https://jobs.ashbyhq.com/infisical/782cb5e9-3b98-4ad0-8f6f-8ca254531852",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Natter",
-      "title": "Senior Fullstack Engineer",
-      "location": "Remote - GMT */-3hrs",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/Natter/5d9e3f50-0e84-4fb9-97ed-65cbda497457",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Tide",
-      "title": "Customer Support Associate - L2",
-      "location": "India, Hyderabad | Hyderabad",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/6234225003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Lead, Treasury Policy & Procedures",
-      "location": "United Kingdom | London",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7828399003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "People Operations Analyst",
-      "location": "Bulgaria | Sofia",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7820089003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "SAR Analyst, Fincrime Intelligence and Reporting, Ongoing Monitoring",
-      "location": "India, Hyderabad | India",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7775954003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Vulnerable Customer Support Associate",
-      "location": "India, Hyderabad | Hyderabad",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/5943791003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Wave Mobile Money",
-      "title": "Applied AI Scientist - LLMs &amp; Voice",
-      "location": "\">Abidjan, Côte d&#39;Ivoire",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/5779974004/",
+      "url": "https://cyclopsio.applytojob.com/apply/ALsvQn09F6/Chief-Information-Security-Officer-CISO-IT-Security-Manager-Cyclops-EEC-Services-GmbH",
       "board": "generic",
       "remote": true
     },
     {
-      "company": "Wave Mobile Money",
-      "title": "Key Account Lead",
-      "location": "\">Ouagadougou, Burkina Faso",
+      "company": "Cyclops",
+      "title": "Apply Now",
+      "location": "\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-bl",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6128507004/",
+      "url": "https://cyclopsio.applytojob.com/apply/pSiJitoOaA/Engineering-Manager-Remote",
+      "board": "generic",
+      "remote": true
+    },
+    {
+      "company": "Cyclops",
+      "title": "Apply Now",
+      "location": "\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-bl",
+      "department": "",
+      "url": "https://cyclopsio.applytojob.com/apply/ZRWomzz1ER/Senior-Software-Engineer-Technical-Leadership-Platform-Remote",
+      "board": "generic",
+      "remote": true
+    },
+    {
+      "company": "Cyclops",
+      "title": "Apply Now",
+      "location": "\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-bl",
+      "department": "",
+      "url": "https://cyclopsio.applytojob.com/apply/IZcbFYU81w/Technical-Support-Engineer-Remote",
+      "board": "generic",
+      "remote": true
+    },
+    {
+      "company": "Cyclops",
+      "title": "Apply Now",
+      "location": "\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-bl",
+      "department": "",
+      "url": "https://cyclopsio.applytojob.com/apply/GCeTz6hXfd/Technical-Program-Manager-Remote",
+      "board": "generic",
+      "remote": true
+    },
+    {
+      "company": "Cyclops",
+      "title": "Apply Now",
+      "location": "unknown (check listing)",
+      "department": "",
+      "url": "https://cyclopsio.applytojob.com/apply/vfzZXr7X1b/Product-Manager-Compliance-Onboarding",
+      "board": "generic",
+      "remote": true
+    },
+    {
+      "company": "Cyclops",
+      "title": "Apply Now",
+      "location": "\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-bl",
+      "department": "",
+      "url": "https://cyclopsio.applytojob.com/apply/7LxqJlpzID/Lead-Solutions-Architect-Commercial-GTM-Remote",
+      "board": "generic",
+      "remote": true
+    },
+    {
+      "company": "Cyclops",
+      "title": "Apply Now",
+      "location": "\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-bl",
+      "department": "",
+      "url": "https://cyclopsio.applytojob.com/apply/D3KWTTPdfv/Senior-Commercial-Counsel-Remote",
+      "board": "generic",
+      "remote": true
+    },
+    {
+      "company": "Cyclops",
+      "title": "Apply Now",
+      "location": "unknown (check listing)",
+      "department": "",
+      "url": "https://cyclopsio.applytojob.com/apply/PxDuGJ6ORY/Legal-Counsel-entry-Level",
       "board": "generic",
       "remote": false
     }

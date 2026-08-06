@@ -48,3 +48,5 @@
 48. Deel
 49. Cohere
 50. ClickHouse
+51. Cyclops
+52. Tether
