@@ -1,149 +1,185 @@
 {
-  "date": "2026-08-05",
-  "crawl_time_utc": "2026-08-05T09:30:48.958564+00:00",
-  "total_new": 16,
+  "date": "2026-08-06",
+  "crawl_time_utc": "2026-08-06T09:31:29.192752+00:00",
+  "total_new": 20,
   "jobs": [
     {
-      "company": "Cohere",
-      "title": "Business Development Representative - French Speaking",
-      "location": "United Kingdom",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/cohere/9f8d2b51-7fe9-470d-8108-fe5fb48c8a89",
+      "company": "AssemblyAI",
+      "title": "Senior Software Engineer, Security ",
+      "location": "Remote | Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4699429005",
+      "board": "greenhouse",
+      "remote": true
+    },
+    {
+      "company": "Assured",
+      "title": "Principal 3D Artist",
+      "location": "Remote",
+      "department": "Marketing",
+      "url": "https://jobs.ashbyhq.com/assured/094a7750-7920-4260-adf9-3be8d9b12bcf",
       "board": "ashby",
       "remote": true
     },
     {
-      "company": "Cohere",
-      "title": "Head of Sales EMEA, Public Sector",
-      "location": "Berlin",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/cohere/334b2a07-0c6a-4764-b4a8-c8bf68513cde",
+      "company": "Assured",
+      "title": "Senior/Principal Client Engagement Manager (Operations)",
+      "location": "Remote",
+      "department": "Client Engagement",
+      "url": "https://jobs.ashbyhq.com/assured/8d77752a-3db6-413a-ab71-ac2196187aac",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "ElevenLabs",
-      "title": "Strategic Account Executive - Poland - Consumer & Retail",
-      "location": "Poland | {'location': 'Warsaw', 'address': {'postalAddress': {'addressRegion': 'Poland', 'addressCountry': 'Poland', 'addressLocality': 'Warsaw'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/6255f8a9-1ff8-49b3-8409-c104f8b46e56",
+      "title": "B2B Growth Marketer - Belgium",
+      "location": "Belgium",
+      "department": "Growth",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/7c9abf17-1e6b-4038-92ba-bea97293627a",
       "board": "ashby",
-      "remote": false
+      "remote": true
     },
     {
       "company": "ElevenLabs",
-      "title": "Strategic Account Executive - Poland - Financial Services",
-      "location": "Poland | {'location': 'Warsaw', 'address': {'postalAddress': {'addressRegion': 'Poland', 'addressCountry': 'Poland', 'addressLocality': 'Warsaw'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/daf083cd-feda-4f28-ae49-7922b1a26ed7",
+      "title": "B2B Growth Marketer - Canada",
+      "location": "Canada",
+      "department": "Growth",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/792d35d9-5a8e-4f57-bf79-5a1cdac463fb",
       "board": "ashby",
-      "remote": false
+      "remote": true
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "B2B Growth Marketer - Denmark",
+      "location": "Denmark",
+      "department": "Growth",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/2d4272f3-8cf3-487a-a399-1d3a5e74dca8",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "B2B Growth Marketer - Italy",
+      "location": "Italy",
+      "department": "Growth",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/68316753-ec69-428d-bd8a-3adea30f7807",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "B2B Growth Marketer - Netherlands",
+      "location": "Netherlands",
+      "department": "Growth",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/3717c857-9f59-40fd-b9eb-7d5e507082ee",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "B2B Growth Marketer - Switzerland",
+      "location": "Switzerland",
+      "department": "Growth",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/6363a777-0bb0-4e1b-8302-25419f88e909",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Detection Engineer",
+      "location": "London",
+      "department": "Engineering & Product",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/f9df85c5-bcb0-4d75-9728-775e746a0383",
+      "board": "ashby",
+      "remote": true
     },
     {
       "company": "Hightouch",
-      "title": "Enterprise Account Executive, Spain ",
-      "location": "Spain | Remote",
+      "title": "Sales Development Representative, EMEA (Paris) ",
+      "location": "Paris | Remote",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/hightouch/jobs/6134022004",
+      "url": "https://job-boards.greenhouse.io/hightouch/jobs/5852028004",
       "board": "greenhouse",
       "remote": true
     },
     {
-      "company": "Kong",
-      "title": "Account Development Rep (Bahasa Indonesia)",
-      "location": "Singapore",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/e4ca8151-011a-4a0b-9165-dec2eefd37bb",
-      "board": "ashby",
-      "remote": false
-    },
-    {
-      "company": "Kong",
-      "title": "Enterprise Account Executive, Italy",
-      "location": "Italy | {'location': 'Milan, Italy', 'address': {'postalAddress': {'addressRegion': 'Milano', 'addressCountry': 'Italy', 'addressLocality': 'Milano'}}}",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/a77d5f89-2a5e-4606-8f73-338a5560a2cf",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Runway",
-      "title": "Data Analytics Leader",
-      "location": "Remote",
-      "department": "Product",
-      "url": "https://jobs.ashbyhq.com/runway-ml/b3b7f8e1-c252-4f61-baaf-c7ab6bfa9572",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Sardine",
-      "title": "Account Executive - EU & UK",
-      "location": "United Kingdom | {'location': 'Europe', 'address': {'postalAddress': {}}}",
+      "company": "Infisical",
+      "title": "Enterprise Account Executive ",
+      "location": "London",
       "department": "Sales",
-      "url": "https://jobs.ashbyhq.com/sardine/dcffa749-a791-424e-b372-070113557c9f",
+      "url": "https://jobs.ashbyhq.com/infisical/782cb5e9-3b98-4ad0-8f6f-8ca254531852",
       "board": "ashby",
       "remote": true
     },
     {
-      "company": "Supabase",
-      "title": "SDK Engineer - JavaScript",
-      "location": "Remote",
+      "company": "Natter",
+      "title": "Senior Fullstack Engineer",
+      "location": "Remote - GMT */-3hrs",
       "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/supabase/f44742fb-18c6-478f-bf78-63707ed57db7",
+      "url": "https://jobs.ashbyhq.com/Natter/5d9e3f50-0e84-4fb9-97ed-65cbda497457",
       "board": "ashby",
-      "remote": null
-    },
-    {
-      "company": "Supabase",
-      "title": "Senior Data Analyst - Marketing",
-      "location": "Remote",
-      "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/supabase/59083a14-b2b6-4dd8-8037-739aa1ad1e22",
-      "board": "ashby",
-      "remote": null
+      "remote": true
     },
     {
       "company": "Tide",
-      "title": "Engineer, Threat Detection - 5",
-      "location": "United Kingdom | Hyderabad",
+      "title": "Customer Support Associate - L2",
+      "location": "India, Hyderabad | Hyderabad",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7827432003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/6234225003",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Tide",
-      "title": "Insurance  Services - Lead Country Commercial Manager - UK",
+      "title": "Lead, Treasury Policy & Procedures",
       "location": "United Kingdom | London",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7826088003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7828399003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "People Operations Analyst",
+      "location": "Bulgaria | Sofia",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7820089003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "SAR Analyst, Fincrime Intelligence and Reporting, Ongoing Monitoring",
+      "location": "India, Hyderabad | India",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7775954003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Vulnerable Customer Support Associate",
+      "location": "India, Hyderabad | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/5943791003",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Wave Mobile Money",
-      "title": "Inventory Clerk",
-      "location": "\">Niamey, Niger",
+      "title": "Applied AI Scientist - LLMs &amp; Voice",
+      "location": "\">Abidjan, Côte d&#39;Ivoire",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6119906004/",
+      "url": "https://www.wave.com/en/careers/job/5779974004/",
       "board": "generic",
-      "remote": false
+      "remote": true
     },
     {
       "company": "Wave Mobile Money",
-      "title": "People Partner- Support",
-      "location": "\">Conakry, Conakry, Guinea",
+      "title": "Key Account Lead",
+      "location": "\">Ouagadougou, Burkina Faso",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6134008004/",
-      "board": "generic",
-      "remote": false
-    },
-    {
-      "company": "Wave Mobile Money",
-      "title": "People Partner- Support",
-      "location": "\">OpCo",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/6134012004/",
+      "url": "https://www.wave.com/en/careers/job/6128507004/",
       "board": "generic",
       "remote": false
     }
