@@ -1,6 +1,133 @@
 {
   "date": "2026-08-06",
-  "crawl_time_utc": "2026-08-06T10:38:52.975954+00:00",
-  "total_removed": 0,
-  "jobs": []
+  "crawl_time_utc": "2026-08-06T11:21:18.128444+00:00",
+  "total_removed": 14,
+  "jobs": [
+    {
+      "company": "Cyclops",
+      "title": "Apply Now",
+      "location": "unknown (check listing)",
+      "department": "",
+      "url": "https://cyclopsio.applytojob.com/apply/ALsvQn09F6/Chief-Information-Security-Officer-CISO-IT-Security-Manager-Cyclops-EEC-Services-GmbH",
+      "board": "generic",
+      "remote": true
+    },
+    {
+      "company": "Cyclops",
+      "title": "Apply Now",
+      "location": "\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-bl",
+      "department": "",
+      "url": "https://cyclopsio.applytojob.com/apply/pSiJitoOaA/Engineering-Manager-Remote",
+      "board": "generic",
+      "remote": true
+    },
+    {
+      "company": "Cyclops",
+      "title": "Apply Now",
+      "location": "\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-bl",
+      "department": "",
+      "url": "https://cyclopsio.applytojob.com/apply/ZRWomzz1ER/Senior-Software-Engineer-Technical-Leadership-Platform-Remote",
+      "board": "generic",
+      "remote": true
+    },
+    {
+      "company": "Cyclops",
+      "title": "Apply Now",
+      "location": "\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-bl",
+      "department": "",
+      "url": "https://cyclopsio.applytojob.com/apply/IZcbFYU81w/Technical-Support-Engineer-Remote",
+      "board": "generic",
+      "remote": true
+    },
+    {
+      "company": "Cyclops",
+      "title": "Apply Now",
+      "location": "\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-bl",
+      "department": "",
+      "url": "https://cyclopsio.applytojob.com/apply/GCeTz6hXfd/Technical-Program-Manager-Remote",
+      "board": "generic",
+      "remote": true
+    },
+    {
+      "company": "Cyclops",
+      "title": "Apply Now",
+      "location": "unknown (check listing)",
+      "department": "",
+      "url": "https://cyclopsio.applytojob.com/apply/vfzZXr7X1b/Product-Manager-Compliance-Onboarding",
+      "board": "generic",
+      "remote": true
+    },
+    {
+      "company": "Cyclops",
+      "title": "Apply Now",
+      "location": "\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-bl",
+      "department": "",
+      "url": "https://cyclopsio.applytojob.com/apply/7LxqJlpzID/Lead-Solutions-Architect-Commercial-GTM-Remote",
+      "board": "generic",
+      "remote": true
+    },
+    {
+      "company": "Cyclops",
+      "title": "Apply Now",
+      "location": "\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"inline-bl",
+      "department": "",
+      "url": "https://cyclopsio.applytojob.com/apply/D3KWTTPdfv/Senior-Commercial-Counsel-Remote",
+      "board": "generic",
+      "remote": true
+    },
+    {
+      "company": "Cyclops",
+      "title": "Apply Now",
+      "location": "unknown (check listing)",
+      "department": "",
+      "url": "https://cyclopsio.applytojob.com/apply/PxDuGJ6ORY/Legal-Counsel-entry-Level",
+      "board": "generic",
+      "remote": false
+    },
+    {
+      "company": "Hightouch",
+      "title": "Enterprise Account Executive - South EMEA (Paris) ",
+      "location": "Paris  | London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/hightouch/jobs/5703873004",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "IT Technician",
+      "location": "\">Kenya; Remote; Spain; United Kingdom",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6121178004/",
+      "board": "generic",
+      "remote": true
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "IT Technician",
+      "location": "\">Cameroon (CM)",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6121472004/",
+      "board": "generic",
+      "remote": false
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Inventory Clerk",
+      "location": "\">Niamey, Niger",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6119906004/",
+      "board": "generic",
+      "remote": false
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Procurement Admin",
+      "location": "\">Malawi (MW)",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6016110004/",
+      "board": "generic",
+      "remote": false
+    }
+  ]
 }
