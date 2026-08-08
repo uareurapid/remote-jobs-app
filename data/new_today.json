@@ -1,104 +1,113 @@
 {
-  "date": "2026-08-07",
-  "crawl_time_utc": "2026-08-07T09:30:51.526397+00:00",
-  "total_new": 11,
+  "date": "2026-08-08",
+  "crawl_time_utc": "2026-08-08T09:31:20.210214+00:00",
+  "total_new": 12,
   "jobs": [
     {
-      "company": "Assured",
-      "title": "Contract GTM Sourcer",
+      "company": "Cohere",
+      "title": "Tax Counsel/Manager, Tax Planning",
+      "location": "Toronto | {'location': 'Montreal', 'address': {'postalAddress': {'addressRegion': 'Quebec ', 'addressCountry': 'Canada', 'addressLocality': 'Montreal'}}}",
+      "department": "Business Operations",
+      "url": "https://jobs.ashbyhq.com/cohere/427c8cbe-6823-4a0c-a59a-7a583be08fab",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Account Executive - Nordics - Enterprise ",
       "location": "Remote",
-      "department": "People",
-      "url": "https://jobs.ashbyhq.com/assured/1b93a826-9244-48f4-84d8-8347f7bbfb9f",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/be13cb57-272a-4640-9366-f1fbb7b8f166",
       "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Integrations - AI/ML",
-      "location": "UK (remote) | AMER | Israel | The Netherlands | United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6107517004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Integrations - AI/ML",
-      "location": "Germany (remote) | AMER | Israel | The Netherlands | United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6107516004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Integrations - AI/ML",
-      "location": "Israel (remote) | AMER | Israel | The Netherlands | United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6107518004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Integrations - AI/ML",
-      "location": "Canada (Remote) | AMER | Israel | The Netherlands | United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6107515004",
-      "board": "greenhouse",
-      "remote": true
+      "remote": null
     },
     {
       "company": "ElevenLabs",
-      "title": "B2B Marketing  - Poland",
-      "location": "Poland",
+      "title": "B2B Growth Marketer - Colombia",
+      "location": "Colombia",
       "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/60dcd870-86a1-4a00-b892-9ad30fc862f7",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/c340cedd-6453-4d48-a580-359c1d7d9d49",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "ElevenLabs",
-      "title": "B2B Marketing - Sweden",
-      "location": "Sweden",
-      "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/084978b8-b63d-4c61-8a15-362da4348ef4",
+      "title": "Commercial Counsel - India",
+      "location": "India",
+      "department": "Operations",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/e5cca48b-1f34-48fe-9ebf-3c6ff526f9ba",
       "board": "ashby",
       "remote": true
     },
     {
-      "company": "ElevenLabs",
-      "title": "Head of Music",
-      "location": "Remote",
-      "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/d4ea8b68-9042-4009-8fe7-cf998fca16a6",
-      "board": "ashby",
+      "company": "Filevine",
+      "title": "Senior Site Reliability engineer",
+      "location": "Remote Reliability remote",
+      "department": "Reliability",
+      "url": "https://jobs.lever.co/filevine/9522044d-e855-4c22-abfe-d15c6e3aa377",
+      "board": "lever",
+      "remote": true
+    },
+    {
+      "company": "Filevine",
+      "title": "Staff Site Reliability Engineer",
+      "location": "Remote Reliability remote",
+      "department": "Reliability",
+      "url": "https://jobs.lever.co/filevine/e57a5f16-0711-4f50-a9a9-d19edf7b097a",
+      "board": "lever",
       "remote": true
     },
     {
       "company": "Kong",
-      "title": "Strategic Account Executive, UKI",
-      "location": "England, United Kingdom",
+      "title": "Senior Director, Finance Systems & Applications",
+      "location": "Pune, India",
       "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/11779b45-c6dc-4c6a-9372-cc3e1b828278",
+      "url": "https://jobs.ashbyhq.com/kong/87afb4bd-152d-48b4-9849-3932b562fc51",
+      "board": "ashby",
+      "remote": false
+    },
+    {
+      "company": "Kong",
+      "title": "Senior Engineering Manager - Test Function",
+      "location": "Milan, Italy",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/002b4429-c38d-4db5-805f-6cbf97aa6118",
       "board": "ashby",
       "remote": true
     },
     {
-      "company": "Kong",
-      "title": "Strategic Account Executive, UKI",
-      "location": "England, United Kingdom | {'location': 'London, England, United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}}",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/c99555a0-1b53-4ab5-9722-c9c7e9c1ce1c",
+      "company": "Supabase",
+      "title": "Partner Solution Architect (AWS)",
+      "location": "Remote",
+      "department": "Growth",
+      "url": "https://jobs.ashbyhq.com/supabase/afd359ea-d37a-4bc4-b58d-7b851511988f",
       "board": "ashby",
-      "remote": true
+      "remote": null
+    },
+    {
+      "company": "Tide",
+      "title": "Admin Services - Lead Country Commercial Manager - UK",
+      "location": "United Kingdom | London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7818784003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Premium Accounts Associate",
+      "location": "India, Hyderabad | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7608569003",
+      "board": "greenhouse",
+      "remote": false
     },
     {
       "company": "Wave Mobile Money",
-      "title": "SN HR Admin Assistant",
-      "location": "\">OpCo",
+      "title": "Procurement Admin",
+      "location": "\">Niamey, Niger",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6134354004/",
+      "url": "https://www.wave.com/en/careers/job/6016110004/",
       "board": "generic",
       "remote": false
     }

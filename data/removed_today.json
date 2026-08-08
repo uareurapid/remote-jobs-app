@@ -1,133 +1,250 @@
 {
-  "date": "2026-08-07",
-  "crawl_time_utc": "2026-08-07T09:30:51.526397+00:00",
-  "total_removed": 14,
+  "date": "2026-08-08",
+  "crawl_time_utc": "2026-08-08T09:31:20.210214+00:00",
+  "total_removed": 27,
   "jobs": [
     {
       "company": "ClickHouse",
-      "title": "Senior Software Engineer - Python and Data Ecosystem",
-      "location": "Israel (remote) | AMER | Israel | The Netherlands | United Kingdom",
+      "title": "Senior Engineering Manager - Security Engineering",
+      "location": "Netherlands (remote) | EMEA",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6107518004",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6103158004",
       "board": "greenhouse",
       "remote": true
     },
     {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Python and Data Ecosystem",
-      "location": "UK (remote) | AMER | Israel | The Netherlands | United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6107517004",
-      "board": "greenhouse",
+      "company": "Cohere",
+      "title": "Lead, Global External Affairs",
+      "location": "Washington, DC | {'location': 'Europe', 'address': {'postalAddress': {'addressCountry': 'European Union'}}} | {'location': 'London', 'address': {'postalAddress': {'addressRegion': 'London', 'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}} | {'location': 'Toronto', 'address': {'postalAddress': {'addressRegion': 'Ontario', 'addressCountry': 'Canada', 'addressLocality': 'Toronto'}}}",
+      "department": "Government & Public Policy",
+      "url": "https://jobs.ashbyhq.com/cohere/2afb4605-136a-4f5b-a808-8577f15361df",
+      "board": "ashby",
       "remote": true
     },
     {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Python and Data Ecosystem",
-      "location": "Canada (Remote) | AMER | Israel | The Netherlands | United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6107515004",
-      "board": "greenhouse",
+      "company": "Cohere",
+      "title": "Senior Manager, Global Public Affairs & Policy Narratives",
+      "location": "Washington, DC | {'location': 'Europe', 'address': {'postalAddress': {'addressCountry': 'European Union'}}} | {'location': 'London', 'address': {'postalAddress': {'addressRegion': 'London', 'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}} | {'location': 'Toronto', 'address': {'postalAddress': {'addressRegion': 'Ontario', 'addressCountry': 'Canada', 'addressLocality': 'Toronto'}}}",
+      "department": "Government & Public Policy",
+      "url": "https://jobs.ashbyhq.com/cohere/8a2eaded-53a6-46aa-a7d0-d13f0fc45046",
+      "board": "ashby",
       "remote": true
     },
     {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Python and Data Ecosystem",
-      "location": "Germany (remote) | AMER | Israel | The Netherlands | United Kingdom",
+      "company": "Cyclops",
+      "title": "Director of Strategic Partnerships",
+      "location": "Remote",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6107516004",
-      "board": "greenhouse",
+      "url": "https://cyclopsio.applytojob.com/apply/NmVhI59PiV/Director-Of-Strategic-Partnerships-USA-Remote",
+      "board": "generic-jsonld",
       "remote": true
     },
     {
       "company": "ElevenLabs",
-      "title": "B2B Marketing Lead - CEE",
-      "location": "Poland",
-      "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/60dcd870-86a1-4a00-b892-9ad30fc862f7",
+      "title": "Account Executive - Italy - Enterprise",
+      "location": "Italy",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/23536336-26df-4205-9ce8-8548d0882a86",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "ElevenLabs",
-      "title": "B2B Marketing Lead - DACH",
-      "location": "Germany",
+      "title": "Enterprise Demand Generation",
+      "location": "Remote",
       "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/92cf0fca-0924-4302-9fbc-3bf70db432df",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/e8cf6379-6a95-4317-a7fd-52028510f432",
       "board": "ashby",
-      "remote": true
+      "remote": null
     },
     {
       "company": "ElevenLabs",
-      "title": "B2B Marketing Lead Nordics",
-      "location": "Sweden",
-      "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/084978b8-b63d-4c61-8a15-362da4348ef4",
+      "title": "Forward Deployed Engineering Recruiter",
+      "location": "United Kingdom | {'location': 'Ireland', 'address': {'postalAddress': {'addressCountry': 'Ireland'}}} | {'location': 'Spain', 'address': {'postalAddress': {'addressCountry': 'Spain'}}} | {'location': 'Australia', 'address': {'postalAddress': {'addressCountry': 'Australia'}}} | {'location': 'Germany', 'address': {'postalAddress': {'addressCountry': 'Germany'}}} | {'location': 'Belgium', 'address': {'postalAddress': {'addressCountry': 'Belgium'}}} | {'location': 'Brazil', 'address': {'postalAddress': {'addressCountry': 'Brazil'}}} | {'location': 'Mexico', 'address': {'postalAddress': {'addressCountry': 'Mexico'}}} | {'location': 'Chile', 'address': {'postalAddress': {'addressCountry': 'Chile'}}} | {'location': 'Italy', 'address': {'postalAddress': {'addressCountry': 'Italy', 'addressLocality': ''}}} | {'location': 'Singapore', 'address': {'postalAddress': {'addressCountry': 'Singapore', 'addressLocality': 'Singapore'}}} | {'location': 'France', 'address': {'postalAddress': {'addressCountry': 'France'}}} | {'location': 'Argentina', 'address': {'postalAddress': {'addressCountry': 'Argentina', 'addressLocality': ''}}}",
+      "department": "Operations",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/fc24cc63-43de-46e1-a1aa-2910013f5e7f",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "Filevine",
-      "title": "Staff Site Reliability Engineer",
-      "location": "Remote Reliability remote",
-      "department": "Reliability",
-      "url": "https://jobs.lever.co/filevine/e57a5f16-0711-4f50-a9a9-d19edf7b097a",
+      "title": "Head of Trust and Security",
+      "location": "Remote Product remote",
+      "department": "Product",
+      "url": "https://jobs.lever.co/filevine/e75e7272-2aaa-44f5-9c70-7192dcbd57e3",
       "board": "lever",
       "remote": true
     },
     {
-      "company": "Kong",
-      "title": "Renewal Account Representative (French or German Speaking)",
-      "location": "London, England, United Kingdom",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/df19512b-e6b2-46b2-9016-7cf4fd738421",
+      "company": "Sardine",
+      "title": "People Ops Partner",
+      "location": "Canada",
+      "department": "Talent and People",
+      "url": "https://jobs.ashbyhq.com/sardine/c1300dcf-410d-41aa-8fb1-6c4c75265ebf",
       "board": "ashby",
-      "remote": false
+      "remote": true
     },
     {
-      "company": "Kong",
-      "title": "Strategic Account Executive (Public Sector)",
-      "location": "England, United Kingdom",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/11779b45-c6dc-4c6a-9372-cc3e1b828278",
+      "company": "Supabase",
+      "title": "Strategic Partner Manager ",
+      "location": "Remote | {'location': 'AMER', 'address': {'postalAddress': {}}}",
+      "department": "Growth",
+      "url": "https://jobs.ashbyhq.com/supabase/cb04ae3a-3a47-4e21-928f-c2456b7b214e",
       "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "Tether",
+      "title": "Developer Relations AI (100% remote)",
+      "location": "Rome | Italy, Rome",
+      "department": "Operations",
+      "url": "https://careers.tether.io/o/mdnrh",
+      "board": "recruitee",
+      "remote": true
+    },
+    {
+      "company": "Tether",
+      "title": "Developer Relations AI (100% remote)",
+      "location": "Cairo | Egypt, Cairo",
+      "department": "Operations",
+      "url": "https://careers.tether.io/o/ahlvw",
+      "board": "recruitee",
+      "remote": true
+    },
+    {
+      "company": "Tether",
+      "title": "Developer Relations AI (100% remote)",
+      "location": "Montevideo | Uruguay, Montevideo",
+      "department": "Operations",
+      "url": "https://careers.tether.io/o/ff85f",
+      "board": "recruitee",
+      "remote": true
+    },
+    {
+      "company": "Tether",
+      "title": "Developer Relations AI (100% remote)",
+      "location": "Bucharest | Romania, Bucharest",
+      "department": "Operations",
+      "url": "https://careers.tether.io/o/2t2d1",
+      "board": "recruitee",
+      "remote": true
+    },
+    {
+      "company": "Tether",
+      "title": "Developer Relations AI (100% remote)",
+      "location": "Rio de Janeiro | Brazil, Rio de Janeiro",
+      "department": "Operations",
+      "url": "https://careers.tether.io/o/mb1k1",
+      "board": "recruitee",
+      "remote": true
+    },
+    {
+      "company": "Tether",
+      "title": "Developer Relations AI (100% remote)",
+      "location": "Lisbon | Portugal, Lisbon",
+      "department": "Operations",
+      "url": "https://careers.tether.io/o/2dpkn",
+      "board": "recruitee",
+      "remote": true
+    },
+    {
+      "company": "Tether",
+      "title": "Developer Relations AI (100% remote)",
+      "location": "Amsterdam | The Netherlands, Amsterdam",
+      "department": "Operations",
+      "url": "https://careers.tether.io/o/9new2",
+      "board": "recruitee",
+      "remote": true
+    },
+    {
+      "company": "Tether",
+      "title": "Developer Relations AI (100% remote)",
+      "location": "Brussels | Belgium ",
+      "department": "Operations",
+      "url": "https://careers.tether.io/o/rmpfb",
+      "board": "recruitee",
+      "remote": true
+    },
+    {
+      "company": "Tether",
+      "title": "Developer Relations AI (100% remote)",
+      "location": "Islamabad | Pakistan, Islamabad",
+      "department": "Operations",
+      "url": "https://careers.tether.io/o/9cylg",
+      "board": "recruitee",
+      "remote": true
+    },
+    {
+      "company": "Tether",
+      "title": "Developer Relations AI (100% remote)",
+      "location": "Dublin | Ireland, Dublin",
+      "department": "Operations",
+      "url": "https://careers.tether.io/o/sg1my",
+      "board": "recruitee",
+      "remote": true
+    },
+    {
+      "company": "Tether",
+      "title": "Developer Relations AI (100% remote)",
+      "location": "Bangalore | India, Bangalore",
+      "department": "Operations",
+      "url": "https://careers.tether.io/o/psd1l",
+      "board": "recruitee",
+      "remote": true
+    },
+    {
+      "company": "Tether",
+      "title": "Developer Relations AI (100% remote)",
+      "location": "Dubai | United Arab Emirates, Dubai",
+      "department": "Operations",
+      "url": "https://careers.tether.io/o/kl3pf",
+      "board": "recruitee",
+      "remote": true
+    },
+    {
+      "company": "Tether",
+      "title": "Developer Relations AI (100% remote)",
+      "location": "London | United Kingdom, London",
+      "department": "Operations",
+      "url": "https://careers.tether.io/o/vnpcl",
+      "board": "recruitee",
+      "remote": true
+    },
+    {
+      "company": "Tether",
+      "title": "Developer Relations AI (100% remote)",
+      "location": "Madrid | Spain, Madrid",
+      "department": "Operations",
+      "url": "https://careers.tether.io/o/p6d3o",
+      "board": "recruitee",
+      "remote": true
+    },
+    {
+      "company": "Tide",
+      "title": "Admin Services - Senior Country Commercial Manager - UK",
+      "location": "United Kingdom | London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7818784003",
+      "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Tide",
-      "title": "Analyst, Level 1, Onboarding KYX, UK",
+      "title": "SAR Analyst, Fincrime Intelligence and Reporting, Ongoing Monitoring",
       "location": "India, Hyderabad | India",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7621880003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Treasury Operations Manager",
-      "location": "Bulgaria | Sofia",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7652154003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7775954003",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Wave Mobile Money",
-      "title": "Agent &amp; Distribution Admin Manager",
-      "location": "\">Cameroon (CM)",
+      "title": "Support Group Lead",
+      "location": "\">Freetown, Sierra Leone",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/5997851004/",
+      "url": "https://www.wave.com/en/careers/job/5973396004/",
       "board": "generic",
       "remote": false
-    },
-    {
-      "company": "Wave Mobile Money",
-      "title": "ML Risk &amp; Compliance Lead",
-      "location": "\">Remote",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/5820496004/",
-      "board": "generic",
-      "remote": true
     }
   ]
 }
