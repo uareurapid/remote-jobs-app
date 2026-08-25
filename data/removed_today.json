@@ -1,223 +1,133 @@
 {
   "date": "2026-08-25",
-  "crawl_time_utc": "2026-08-25T12:30:20.543387+00:00",
-  "total_removed": 24,
+  "crawl_time_utc": "2026-08-25T13:41:37.250655+00:00",
+  "total_removed": 14,
   "jobs": [
     {
-      "company": "ClickHouse",
-      "title": "Enterprise Account Executive - Mumbai",
-      "location": "India  | India",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5802802004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Cohere",
-      "title": "Security Operations Engineer, EMEA",
-      "location": "London | {'location': 'Europe', 'address': {'postalAddress': {'addressCountry': 'European Union'}}} | {'location': 'Middle East', 'address': {'postalAddress': {}}}",
-      "department": "Product",
-      "url": "https://jobs.ashbyhq.com/cohere/d277180e-6528-4745-99e8-328c17530412",
-      "board": "ashby",
-      "remote": true
-    },
-    {
       "company": "ElevenLabs",
-      "title": "Account Executive  - India ",
-      "location": "India",
+      "title": "Strategic Account Executive - Switzerland - Banking, Financial Services & Insurance",
+      "location": "Switzerland | {'location': 'Zurich', 'address': {'postalAddress': {'addressCountry': 'Switzerland'}}}",
       "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/90873fda-95c3-4d21-bae8-c5a30f5b7ac8",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Account Executive - Spain - Mid-Market",
-      "location": "Spain | {'location': 'Italy', 'address': {'postalAddress': {'addressCountry': 'Italy', 'addressLocality': ''}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/347282a4-74ff-4e56-a92d-3c4249ee6c28",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Account Executive- Spain - Enterprise ",
-      "location": "Spain | {'location': 'Italy', 'address': {'postalAddress': {'addressCountry': 'Italy', 'addressLocality': ''}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/05e53a4b-8ab9-40a1-b53d-c730ef684dbe",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "B2B Marketing  - Poland",
-      "location": "Poland",
-      "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/60dcd870-86a1-4a00-b892-9ad30fc862f7",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Customer Success - DACH",
-      "location": "Germany | {'location': 'Switzerland', 'address': {'postalAddress': {'addressCountry': 'Switzerland'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/830e66a8-892c-4c68-b61c-494591236eef",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Customer Success - Scale - Western Europe",
-      "location": "United Kingdom | {'location': 'Spain', 'address': {'postalAddress': {'addressCountry': 'Spain'}}} | {'location': 'Italy', 'address': {'postalAddress': {'addressCountry': 'Italy', 'addressLocality': ''}}} | {'location': 'Poland', 'address': {'postalAddress': {'addressCountry': 'Poland'}}} | {'location': 'France', 'address': {'postalAddress': {'addressCountry': 'France'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/f330bd23-f909-4e50-bf58-9974aee85fc8",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Customer Success - Southern Europe",
-      "location": "Spain | {'location': 'Italy', 'address': {'postalAddress': {'addressCountry': 'Italy', 'addressLocality': ''}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/78c564eb-ee87-46d9-b2fd-4322a223a547",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Customer Success - UK/I",
-      "location": "United Kingdom | {'location': 'Ireland', 'address': {'postalAddress': {'addressCountry': 'Ireland'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/7d29f7f7-158a-42e0-a6be-0ceba630863c",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Customer Success Lead - UK/I",
-      "location": "United Kingdom | {'location': 'London', 'address': {'postalAddress': {'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/8f37f4e5-83f8-4e7d-b3b6-b5b406bf4eb9",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "General Manager - Colombia ",
-      "location": "Colombia",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/34147b32-c569-46f9-9e8d-8b6f22e9f9ea",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "General Manager - UAE ",
-      "location": "UAE",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/96fc056f-797f-448a-bd69-fcd9ac2ea663",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Proposal Manager (Global)",
-      "location": "Remote | {'location': 'Europe', 'address': {'postalAddress': {'addressCountry': 'European Union'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/db8e1ff9-5a5a-49ed-89ea-93f993e5a65f",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Kalepa",
-      "title": "Senior Content Marketing Manager ",
-      "location": "Canada (Remote) | Kalepa HQ | Kalepa Remote",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/kalepa/jobs/6031095004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "Kong",
-      "title": "Software Engineer, Core Platform",
-      "location": "Canada",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/06d0057a-f08c-467e-8337-d75b1d8fc835",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/6e48c4c7-b6df-496c-a72c-c269ffb7f53a",
       "board": "ashby",
       "remote": false
     },
     {
-      "company": "Kong",
-      "title": "Staff Curriculum Developer",
-      "location": "Bangalore, India",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/8e008396-aa74-41f8-92cb-9d3ffd59e125",
-      "board": "ashby",
-      "remote": false
-    },
-    {
-      "company": "Sardine",
-      "title": "Enterprise Account Executive - EU & UK",
-      "location": "United Kingdom / Europe | {'location': 'Europe', 'address': {'postalAddress': {}}}",
-      "department": "Sales",
-      "url": "https://jobs.ashbyhq.com/sardine/dcffa749-a791-424e-b372-070113557c9f",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Sardine",
-      "title": "Senior Account Executive ",
-      "location": "Australia",
-      "department": "Sales",
-      "url": "https://jobs.ashbyhq.com/sardine/6040a00f-70d7-4140-9534-d3e670b4fe2b",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Sardine",
-      "title": "Senior Software Engineer - AI Experiences",
-      "location": "Canada",
+      "company": "Maze",
+      "title": "Backend Engineer (AI Agents)",
+      "location": "Remote (Europe)",
       "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/sardine/0602a07b-6f97-44c8-84e0-b2b1483852e9",
+      "url": "https://jobs.ashbyhq.com/mazehq/dc1cb28c-c866-4fba-a991-6ae8c7ad4128",
       "board": "ashby",
       "remote": true
     },
     {
-      "company": "Supabase",
-      "title": "Anti Abuse Engineer ",
-      "location": "Remote, Anywhere",
+      "company": "Maze",
+      "title": "Engineering Director",
+      "location": "Remote (Europe)",
       "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/supabase/c59d03d5-60c4-43ce-9556-04acab8d87cb",
+      "url": "https://jobs.ashbyhq.com/mazehq/b1284560-f82a-489d-a2c7-78b16dd50d04",
       "board": "ashby",
-      "remote": null
+      "remote": true
+    },
+    {
+      "company": "Maze",
+      "title": "Machine Learning Engineer",
+      "location": "Remote (Europe)",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/mazehq/f20f4948-57c1-4aff-a746-128cf2749ec6",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "Maze",
+      "title": "Product Engineer (Full Stack)",
+      "location": "Remote (Europe)",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/mazehq/971941ec-5aa2-49eb-bb0d-fed342455619",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "Postscript",
+      "title": "Solutions Engineer",
+      "location": "Remote | GTM",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/postscript/jobs/8733945002",
+      "board": "greenhouse",
+      "remote": true
     },
     {
       "company": "Tide",
-      "title": "Business Development Event Executive",
-      "location": "United Kingdom | London",
+      "title": "Senior Product Designer",
+      "location": "Serbia | Sofia",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7770027003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7779785003",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Tide",
-      "title": "Information Security Compliance Manager (India)",
-      "location": "India, Delhi NCR | Delhi",
+      "title": "Senior Product Designer",
+      "location": "Bulgaria | Sofia",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7731764003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7731830003",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Tide",
-      "title": "Revenue Controller",
-      "location": "India, Delhi NCR | Delhi",
+      "title": "Senior Product Designer",
+      "location": "Lithuania | Sofia",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7720579003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7788378003",
       "board": "greenhouse",
       "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Senior UI Designer",
+      "location": "Bulgaria | Delhi",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7797522003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Senior UI Designer",
+      "location": "Serbia | Delhi",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7797520003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Senior UI Designer",
+      "location": "Lithuania | Delhi",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7797523003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Vannevar",
+      "title": "Engineering Manager, Collection",
+      "location": "Remote | Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/vannevarlabs/jobs/5198399007",
+      "board": "greenhouse",
+      "remote": true
+    },
+    {
+      "company": "Vannevar",
+      "title": "Software Engineer, Backend (Collection Fingerprinting)",
+      "location": "Remote | Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/vannevarlabs/jobs/5089923007",
+      "board": "greenhouse",
+      "remote": true
     }
   ]
 }

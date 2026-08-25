@@ -1,10 +1,10 @@
 {
   "date": "2026-08-25",
-  "crawl_time_utc": "2026-08-25T12:30:20.543387+00:00",
+  "crawl_time_utc": "2026-08-25T13:41:37.250655+00:00",
   "total_companies": 52,
-  "total_jobs": 953,
+  "total_jobs": 941,
   "stats": {
-    "total_found": 953,
+    "total_found": 941,
     "filtered_us": 0,
     "errors": 0
   },
@@ -3575,15 +3575,6 @@
     },
     {
       "company": "ElevenLabs",
-      "title": "Strategic Account Executive - Switzerland - Banking, Financial Services & Insurance",
-      "location": "Switzerland | {'location': 'Zurich', 'address': {'postalAddress': {'addressCountry': 'Switzerland'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/6e48c4c7-b6df-496c-a72c-c269ffb7f53a",
-      "board": "ashby",
-      "remote": false
-    },
-    {
-      "company": "ElevenLabs",
       "title": "Strategic Account Executive - Switzerland - Consumer & Retail",
       "location": "Switzerland | {'location': 'Zurich', 'address': {'postalAddress': {'addressCountry': 'Switzerland'}}}",
       "department": "Revenue",
@@ -3926,12 +3917,12 @@
     },
     {
       "company": "Hightouch",
-      "title": "Enterprise Account Executive - East",
-      "location": "Remote (Southeast) | Remote",
+      "title": "Deliverability Specialist ",
+      "location": "Europe | London",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/hightouch/jobs/5799234004",
+      "url": "https://job-boards.greenhouse.io/hightouch/jobs/6161179004",
       "board": "greenhouse",
-      "remote": true
+      "remote": false
     },
     {
       "company": "Hightouch",
@@ -3939,6 +3930,15 @@
       "location": "Remote (Northeast) | Remote",
       "department": "",
       "url": "https://job-boards.greenhouse.io/hightouch/jobs/5799223004",
+      "board": "greenhouse",
+      "remote": true
+    },
+    {
+      "company": "Hightouch",
+      "title": "Enterprise Account Executive - East",
+      "location": "Remote (Southeast) | Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/hightouch/jobs/5799234004",
       "board": "greenhouse",
       "remote": true
     },
@@ -4637,33 +4637,6 @@
     },
     {
       "company": "Maze",
-      "title": "Backend Engineer (AI Agents)",
-      "location": "Remote (Europe)",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/mazehq/dc1cb28c-c866-4fba-a991-6ae8c7ad4128",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Maze",
-      "title": "Engineering Director",
-      "location": "Remote (Europe)",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/mazehq/b1284560-f82a-489d-a2c7-78b16dd50d04",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Maze",
-      "title": "Machine Learning Engineer",
-      "location": "Remote (Europe)",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/mazehq/f20f4948-57c1-4aff-a746-128cf2749ec6",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Maze",
       "title": "Operations Associate",
       "location": "Remote (UK)",
       "department": "Operations",
@@ -4677,15 +4650,6 @@
       "location": "Remote (Europe)",
       "department": "Product",
       "url": "https://jobs.ashbyhq.com/mazehq/b8b9ba92-de27-4c49-a4a6-820c9c414a71",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Maze",
-      "title": "Product Engineer (Full Stack)",
-      "location": "Remote (Europe)",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/mazehq/971941ec-5aa2-49eb-bb0d-fed342455619",
       "board": "ashby",
       "remote": true
     },
@@ -4808,6 +4772,15 @@
     },
     {
       "company": "Postscript",
+      "title": "Sales Engineer",
+      "location": "Remote | GTM",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/postscript/jobs/8733945002",
+      "board": "greenhouse",
+      "remote": true
+    },
+    {
+      "company": "Postscript",
       "title": "Senior Customer Success Manager ",
       "location": "Remote | GTM",
       "department": "",
@@ -4821,15 +4794,6 @@
       "location": "Remote | PDE",
       "department": "",
       "url": "https://job-boards.greenhouse.io/postscript/jobs/8525612002",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "Postscript",
-      "title": "Solutions Engineer",
-      "location": "Remote | GTM",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/postscript/jobs/8733945002",
       "board": "greenhouse",
       "remote": true
     },
@@ -7185,6 +7149,15 @@
     {
       "company": "Tide",
       "title": "Director of Mobile Frontend Engineering",
+      "location": "United Kingdom | Lithuania",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7848597003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Director of Mobile Frontend Engineering",
       "location": "Serbia | Lithuania",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7768101003",
@@ -7202,28 +7175,10 @@
     },
     {
       "company": "Tide",
-      "title": "Director of Mobile Frontend Engineering",
-      "location": "United Kingdom | Lithuania",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7848597003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
       "title": "Engineer, Threat Detection - 5",
       "location": "United Kingdom | London",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7827432003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Engineering Manager",
-      "location": "Bulgaria | Bulgaria | Lithuania | Romania | Serbia",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7569898003",
       "board": "greenhouse",
       "remote": false
     },
@@ -7247,10 +7202,10 @@
     },
     {
       "company": "Tide",
-      "title": "Engineering Manager - Accounts Platform",
-      "location": "Lithuania | Romania",
+      "title": "Engineering Manager",
+      "location": "Bulgaria | Bulgaria | Lithuania | Romania | Serbia",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7780973003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7569898003",
       "board": "greenhouse",
       "remote": false
     },
@@ -7260,6 +7215,15 @@
       "location": "Bulgaria | Romania",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7780974003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Engineering Manager - Accounts Platform",
+      "location": "Lithuania | Romania",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7780973003",
       "board": "greenhouse",
       "remote": false
     },
@@ -7374,9 +7338,9 @@
     {
       "company": "Tide",
       "title": "Lead Product Manager - Banking Payments",
-      "location": "Lithuania | Bulgaria",
+      "location": "Bulgaria | Bulgaria",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7783199003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7737389003",
       "board": "greenhouse",
       "remote": false
     },
@@ -7392,9 +7356,9 @@
     {
       "company": "Tide",
       "title": "Lead Product Manager - Banking Payments",
-      "location": "Bulgaria | Bulgaria",
+      "location": "Lithuania | Bulgaria",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7737389003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7783199003",
       "board": "greenhouse",
       "remote": false
     },
@@ -7545,6 +7509,15 @@
     {
       "company": "Tide",
       "title": "Security Engineer 3 - Vulnerability Management",
+      "location": "India, Delhi NCR | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7820212003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Security Engineer 3 - Vulnerability Management",
       "location": "India, Hyderabad | Hyderabad",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7812620003",
@@ -7557,15 +7530,6 @@
       "location": "India, Bengaluru | Hyderabad",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7820211003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Security Engineer 3 - Vulnerability Management",
-      "location": "India, Delhi NCR | Hyderabad",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7820212003",
       "board": "greenhouse",
       "remote": false
     },
@@ -7601,7 +7565,7 @@
       "title": "Senior Commercial Finance Broker",
       "location": "United Kingdom | London",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7630894003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7652032003",
       "board": "greenhouse",
       "remote": false
     },
@@ -7610,16 +7574,7 @@
       "title": "Senior Commercial Finance Broker",
       "location": "United Kingdom | London",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7652032003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Senior Engineer, Flutter",
-      "location": "Bulgaria | Bulgaria",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/6614190003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7630894003",
       "board": "greenhouse",
       "remote": false
     },
@@ -7634,28 +7589,10 @@
     },
     {
       "company": "Tide",
-      "title": "Senior Product Designer",
-      "location": "Serbia | Sofia",
+      "title": "Senior Engineer, Flutter",
+      "location": "Bulgaria | Bulgaria",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7779785003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Senior Product Designer",
-      "location": "Bulgaria | Sofia",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7731830003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Senior Product Designer",
-      "location": "Lithuania | Sofia",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7788378003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/6614190003",
       "board": "greenhouse",
       "remote": false
     },
@@ -7689,18 +7626,18 @@
     {
       "company": "Tide",
       "title": "Senior Software Engineer, Flutter",
-      "location": "India, Delhi NCR | Hyderabad",
+      "location": "India, Hyderabad | Hyderabad",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7815729003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7766790003",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Tide",
       "title": "Senior Software Engineer, Flutter",
-      "location": "India, Hyderabad | Hyderabad",
+      "location": "India, Delhi NCR | Hyderabad",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7766790003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7815729003",
       "board": "greenhouse",
       "remote": false
     },
@@ -7734,15 +7671,6 @@
     {
       "company": "Tide",
       "title": "Senior Staff Software Engineer, Agentic Platform",
-      "location": "Bulgaria | United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7702553003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Senior Staff Software Engineer, Agentic Platform",
       "location": "Lithuania | United Kingdom",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7702555003",
@@ -7760,28 +7688,10 @@
     },
     {
       "company": "Tide",
-      "title": "Senior UI Designer",
-      "location": "Bulgaria | Delhi",
+      "title": "Senior Staff Software Engineer, Agentic Platform",
+      "location": "Bulgaria | United Kingdom",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7797522003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Senior UI Designer",
-      "location": "Serbia | Delhi",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7797520003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Senior UI Designer",
-      "location": "Lithuania | Delhi",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7797523003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7702553003",
       "board": "greenhouse",
       "remote": false
     },
@@ -7895,15 +7805,6 @@
     },
     {
       "company": "Vannevar",
-      "title": "Engineering Manager, Collection",
-      "location": "Remote | Remote",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/vannevarlabs/jobs/5198399007",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "Vannevar",
       "title": "Engineering Manager, Security Platform",
       "location": "Remote | Remote",
       "department": "",
@@ -7980,15 +7881,6 @@
       "location": "Remote | Remote",
       "department": "",
       "url": "https://job-boards.greenhouse.io/vannevarlabs/jobs/4191402007",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "Vannevar",
-      "title": "Software Engineer, Backend (Collection Fingerprinting)",
-      "location": "Remote | Remote",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/vannevarlabs/jobs/5089923007",
       "board": "greenhouse",
       "remote": true
     },
