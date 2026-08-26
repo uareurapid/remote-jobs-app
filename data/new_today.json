@@ -1,25 +1,115 @@
 {
-  "date": "2026-08-25",
-  "crawl_time_utc": "2026-08-25T13:41:37.250655+00:00",
-  "total_new": 2,
+  "date": "2026-08-26",
+  "crawl_time_utc": "2026-08-26T12:56:28.901075+00:00",
+  "total_new": 12,
   "jobs": [
     {
-      "company": "Hightouch",
-      "title": "Deliverability Specialist ",
-      "location": "Europe | London",
+      "company": "Cohere",
+      "title": "Solutions Architect - Nordics",
+      "location": "Stockholm | {'location': 'London', 'address': {'postalAddress': {'addressRegion': 'London', 'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}}",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/cohere/a42976d7-0ae5-4892-b3ba-bf5510c6cecd",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Revenue Strategy & Operations - APAC",
+      "location": "Singapore | {'location': 'Australia', 'address': {'postalAddress': {'addressCountry': 'Australia'}}} | {'location': 'India', 'address': {'postalAddress': {'addressCountry': 'India', 'addressLocality': ''}}}",
+      "department": "Operations",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/0bbf2519-4f28-4de3-836a-aabc302050d7",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Revenue Strategy & Operations - EMEA",
+      "location": "Europe | {'location': 'Ireland', 'address': {'postalAddress': {'addressCountry': 'Ireland'}}} | {'location': 'Spain', 'address': {'postalAddress': {'addressCountry': 'Spain'}}} | {'location': 'Warsaw', 'address': {'postalAddress': {'addressRegion': 'Poland', 'addressCountry': 'Poland', 'addressLocality': 'Warsaw'}}} | {'location': 'Poland', 'address': {'postalAddress': {'addressCountry': 'Poland'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}} | {'location': 'London', 'address': {'postalAddress': {'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}}",
+      "department": "Operations",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/13dbc714-dc3e-4743-9c25-3400c23b6673",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Revenue Strategy & Operations - LATAM",
+      "location": "Mexico | {'location': 'Brazil', 'address': {'postalAddress': {'addressCountry': 'Brazil'}}} | {'location': 'Chile', 'address': {'postalAddress': {'addressCountry': 'Chile'}}} | {'location': 'Argentina', 'address': {'postalAddress': {'addressCountry': 'Argentina', 'addressLocality': ''}}}",
+      "department": "Operations",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/9ff4210a-208d-4e65-a1ed-b2a6926bd4a7",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "System Architect Lifecycle Marketing",
+      "location": "United Kingdom",
+      "department": "Growth",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/bf20b446-c839-4869-bac9-cc05740e03e1",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "Kong",
+      "title": "Senior Manager, Technical Support",
+      "location": "Bangalore, India | {'location': 'Bangalore, India', 'address': {'postalAddress': {'postalCode': '560048', 'addressRegion': 'Karnataka', 'streetAddress': 'Kong Software and Business Services India Private Limited, 7th Floor, Table Space Towers Plot No.6, Devasandra, Industrial Area Mahadevapura, White Field ', 'addressCountry': 'India', 'addressLocality': 'Bengaluru'}}}",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/547cf017-fa70-49ed-b972-10617c091844",
+      "board": "ashby",
+      "remote": false
+    },
+    {
+      "company": "Kong",
+      "title": "Staff Solutions Engineer- Mumbai",
+      "location": "Mumbai, India",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/cdd9c02b-d594-40ad-944e-5f931e8c3148",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "Kong",
+      "title": "Strategic Account Executive",
+      "location": "New Delhi, India",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/b435e044-45ab-4395-a681-24131c63ca0e",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "Supabase",
+      "title": "IAM Engineer",
+      "location": "AMER",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/supabase/4abf21b5-0fd3-4e2c-a384-6de77ec7f0d3",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "Tether",
+      "title": "Expansion Manager - Ivory Coast",
+      "location": "Yamoussoukro |  Cote d'Ivoire, Yamoussoukro",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/hightouch/jobs/6161179004",
+      "url": "https://careers.tether.io/o/ryy82",
+      "board": "recruitee",
+      "remote": true
+    },
+    {
+      "company": "Tide",
+      "title": "Senior Platform Operations Specialist",
+      "location": "Berlin, Germany | Berlin",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7862926003",
       "board": "greenhouse",
       "remote": false
     },
     {
-      "company": "Postscript",
-      "title": "Sales Engineer",
-      "location": "Remote | GTM",
+      "company": "Wave Mobile Money",
+      "title": "Agent Operations Regional Lead",
+      "location": "\">Freetown, Sierra Leone",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/postscript/jobs/8733945002",
-      "board": "greenhouse",
-      "remote": true
+      "url": "https://www.wave.com/en/careers/job/6112039004/",
+      "board": "generic",
+      "remote": false
     }
   ]
 }

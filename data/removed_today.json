@@ -1,133 +1,196 @@
 {
-  "date": "2026-08-25",
-  "crawl_time_utc": "2026-08-25T13:41:37.250655+00:00",
-  "total_removed": 14,
+  "date": "2026-08-26",
+  "crawl_time_utc": "2026-08-26T12:56:28.901075+00:00",
+  "total_removed": 21,
   "jobs": [
     {
+      "company": "ClickHouse",
+      "title": "Partner Sales Director - CEMEA",
+      "location": "Germany | Germany",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6103393004",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "ClickHouse",
+      "title": "Partner Sales Director - MEA",
+      "location": "UAE | UAE",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6147403004",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "ClickHouse",
+      "title": "Solutions Architect - UAE",
+      "location": "United Arab Emirates | UAE",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6143041004",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Cohere",
+      "title": "Infrastructure Security Engineer (Secret + Clearance)",
+      "location": "Toronto | {'location': 'Ottawa', 'address': {'postalAddress': {'addressRegion': 'Ontario', 'addressCountry': 'Canada', 'addressLocality': 'Ottawa'}}}",
+      "department": "Product",
+      "url": "https://jobs.ashbyhq.com/cohere/e48c5456-6ff5-4d4b-a632-df0a3dc497ab",
+      "board": "ashby",
+      "remote": true
+    },
+    {
       "company": "ElevenLabs",
-      "title": "Strategic Account Executive - Switzerland - Banking, Financial Services & Insurance",
-      "location": "Switzerland | {'location': 'Zurich', 'address': {'postalAddress': {'addressCountry': 'Switzerland'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/6e48c4c7-b6df-496c-a72c-c269ffb7f53a",
+      "title": "Deployment Strategist Lead - Canada",
+      "location": "Canada | {'location': 'Toronto', 'address': {'postalAddress': {'addressRegion': 'Ontario', 'addressCountry': 'Canada', 'addressLocality': 'Toronto'}}}",
+      "department": "Engineering & Product",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/6c007e5b-a2da-47e6-b388-f017b86abb1f",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "System Architet Lifecycle Marketing",
+      "location": "United Kingdom",
+      "department": "Growth",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/bf20b446-c839-4869-bac9-cc05740e03e1",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "Hightouch",
+      "title": "Sales Development Representative, EMEA (Paris) ",
+      "location": "Paris | Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/hightouch/jobs/5852028004",
+      "board": "greenhouse",
+      "remote": true
+    },
+    {
+      "company": "Kong",
+      "title": "Senior People Operations Coordinator - Shanghai",
+      "location": "Shanghai, China",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/eeffcd94-7d79-4762-a596-ab0d7405973e",
       "board": "ashby",
       "remote": false
     },
     {
-      "company": "Maze",
-      "title": "Backend Engineer (AI Agents)",
-      "location": "Remote (Europe)",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/mazehq/dc1cb28c-c866-4fba-a991-6ae8c7ad4128",
+      "company": "Kong",
+      "title": "Senior Software Engineer, Gateway Enterprise - Shanghai",
+      "location": "Shanghai, China",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/6ee097d0-166d-4bac-95ab-c9d602341c60",
+      "board": "ashby",
+      "remote": false
+    },
+    {
+      "company": "Kong",
+      "title": "Senior Technical Instructor",
+      "location": "Bangalore, India",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/b6058e1b-335d-4b2e-aa69-1a8e1186fd61",
+      "board": "ashby",
+      "remote": false
+    },
+    {
+      "company": "Kong",
+      "title": "Staff Software Engineer, Managed Gateways",
+      "location": "Bangalore, India",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/7784ccd4-fe19-40bb-a781-d0226beb4b03",
+      "board": "ashby",
+      "remote": false
+    },
+    {
+      "company": "Kong",
+      "title": "Staff Solutions Engineer",
+      "location": "New Delhi, India",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/cdd9c02b-d594-40ad-944e-5f931e8c3148",
       "board": "ashby",
       "remote": true
     },
     {
-      "company": "Maze",
-      "title": "Engineering Director",
-      "location": "Remote (Europe)",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/mazehq/b1284560-f82a-489d-a2c7-78b16dd50d04",
+      "company": "Kong",
+      "title": "Staff Technical Customer Success Manager",
+      "location": "Canada",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/bd5bd4c4-7728-41d1-b461-65e6d7e9b392",
       "board": "ashby",
       "remote": true
     },
     {
-      "company": "Maze",
-      "title": "Machine Learning Engineer",
-      "location": "Remote (Europe)",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/mazehq/f20f4948-57c1-4aff-a746-128cf2749ec6",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Maze",
-      "title": "Product Engineer (Full Stack)",
-      "location": "Remote (Europe)",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/mazehq/971941ec-5aa2-49eb-bb0d-fed342455619",
+      "company": "MagicSchool AI",
+      "title": "Sr People Operations Manager",
+      "location": "Remote",
+      "department": "Operations",
+      "url": "https://jobs.ashbyhq.com/magicschool/ff62b99f-a523-4cd3-ac69-1462cc14c53a",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "Postscript",
-      "title": "Solutions Engineer",
-      "location": "Remote | GTM",
+      "title": "Senior Software Engineer, Full Stack",
+      "location": "Remote | PDE",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/postscript/jobs/8733945002",
+      "url": "https://job-boards.greenhouse.io/postscript/jobs/8525612002",
       "board": "greenhouse",
       "remote": true
     },
     {
-      "company": "Tide",
-      "title": "Senior Product Designer",
-      "location": "Serbia | Sofia",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7779785003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Senior Product Designer",
-      "location": "Bulgaria | Sofia",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7731830003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Senior Product Designer",
-      "location": "Lithuania | Sofia",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7788378003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Senior UI Designer",
-      "location": "Bulgaria | Delhi",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7797522003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Senior UI Designer",
-      "location": "Serbia | Delhi",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7797520003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Senior UI Designer",
-      "location": "Lithuania | Delhi",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7797523003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Vannevar",
-      "title": "Engineering Manager, Collection",
-      "location": "Remote | Remote",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/vannevarlabs/jobs/5198399007",
-      "board": "greenhouse",
+      "company": "Supabase",
+      "title": "Customer Solution Architect (EMEA)",
+      "location": "Remote",
+      "department": "Success",
+      "url": "https://jobs.ashbyhq.com/supabase/c3099780-60d5-4b8a-ab08-c701d114cf62",
+      "board": "ashby",
       "remote": true
     },
     {
-      "company": "Vannevar",
-      "title": "Software Engineer, Backend (Collection Fingerprinting)",
-      "location": "Remote | Remote",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/vannevarlabs/jobs/5089923007",
-      "board": "greenhouse",
+      "company": "Supabase",
+      "title": "IT Systems Administrator ",
+      "location": "AMER",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/supabase/4abf21b5-0fd3-4e2c-a384-6de77ec7f0d3",
+      "board": "ashby",
       "remote": true
+    },
+    {
+      "company": "Tide",
+      "title": "Treasury Analyst",
+      "location": "India, Delhi NCR | United Kingdom",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7892224003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "IT Operations Associate",
+      "location": "\">Kenya; Remote; Spain; United Kingdom",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6147535004/",
+      "board": "generic",
+      "remote": true
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Portfolio Manager",
+      "location": "\">Niamey, Niger",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/5835028004/",
+      "board": "generic",
+      "remote": true
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Regional Lead",
+      "location": "\">Cameroon (CM)",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6112039004/",
+      "board": "generic",
+      "remote": false
     }
   ]
 }
