@@ -1,114 +1,141 @@
 {
-  "date": "2026-08-26",
-  "crawl_time_utc": "2026-08-26T12:56:28.901075+00:00",
-  "total_new": 12,
+  "date": "2026-08-27",
+  "crawl_time_utc": "2026-08-27T09:30:58.465172+00:00",
+  "total_new": 15,
   "jobs": [
     {
+      "company": "Automattic",
+      "title": "Technical Account Manager, Automattic Special Projects Team",
+      "location": "Remote | Customer-Centric Operations",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/automatticcareers/jobs/6458591",
+      "board": "greenhouse",
+      "remote": true
+    },
+    {
+      "company": "ClickHouse",
+      "title": "Technical Customer Support Engineer, AI Infrastructure & Observability - EMEA",
+      "location": "EMEA (Remote) | EMEA",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6163307004",
+      "board": "greenhouse",
+      "remote": true
+    },
+    {
       "company": "Cohere",
-      "title": "Solutions Architect - Nordics",
-      "location": "Stockholm | {'location': 'London', 'address': {'postalAddress': {'addressRegion': 'London', 'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}}",
+      "title": "Senior Mobile Engineer (iOS or Android)",
+      "location": "Toronto | {'location': 'Calgary', 'address': {'postalAddress': {'addressRegion': 'Alberta', 'addressCountry': 'Canada', 'addressLocality': 'Calgary'}}} | {'location': 'Canada', 'address': {'postalAddress': {'addressCountry': 'Canada'}}} | {'location': 'Ottawa', 'address': {'postalAddress': {'addressRegion': 'Ontario', 'addressCountry': 'Canada', 'addressLocality': 'Ottawa'}}} | {'location': 'Montreal', 'address': {'postalAddress': {'addressRegion': 'Quebec ', 'addressCountry': 'Canada', 'addressLocality': 'Montreal'}}}",
+      "department": "Platform",
+      "url": "https://jobs.ashbyhq.com/cohere/cd7de8ed-1b3d-4977-a909-5c0d04ddfcb3",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Adoption Strategist - APAC",
+      "location": "Singapore",
       "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/cohere/a42976d7-0ae5-4892-b3ba-bf5510c6cecd",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/8d25dd85-5b50-4dfa-b410-273b1ddd437c",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "ElevenLabs",
-      "title": "Revenue Strategy & Operations - APAC",
-      "location": "Singapore | {'location': 'Australia', 'address': {'postalAddress': {'addressCountry': 'Australia'}}} | {'location': 'India', 'address': {'postalAddress': {'addressCountry': 'India', 'addressLocality': ''}}}",
-      "department": "Operations",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/0bbf2519-4f28-4de3-836a-aabc302050d7",
+      "title": "Customer Success - DACH",
+      "location": "Germany | {'location': 'Switzerland', 'address': {'postalAddress': {'addressCountry': 'Switzerland'}}}",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/830e66a8-892c-4c68-b61c-494591236eef",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "ElevenLabs",
-      "title": "Revenue Strategy & Operations - EMEA",
-      "location": "Europe | {'location': 'Ireland', 'address': {'postalAddress': {'addressCountry': 'Ireland'}}} | {'location': 'Spain', 'address': {'postalAddress': {'addressCountry': 'Spain'}}} | {'location': 'Warsaw', 'address': {'postalAddress': {'addressRegion': 'Poland', 'addressCountry': 'Poland', 'addressLocality': 'Warsaw'}}} | {'location': 'Poland', 'address': {'postalAddress': {'addressCountry': 'Poland'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}} | {'location': 'London', 'address': {'postalAddress': {'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}}",
-      "department": "Operations",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/13dbc714-dc3e-4743-9c25-3400c23b6673",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Revenue Strategy & Operations - LATAM",
-      "location": "Mexico | {'location': 'Brazil', 'address': {'postalAddress': {'addressCountry': 'Brazil'}}} | {'location': 'Chile', 'address': {'postalAddress': {'addressCountry': 'Chile'}}} | {'location': 'Argentina', 'address': {'postalAddress': {'addressCountry': 'Argentina', 'addressLocality': ''}}}",
-      "department": "Operations",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/9ff4210a-208d-4e65-a1ed-b2a6926bd4a7",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "System Architect Lifecycle Marketing",
+      "title": "Growth PM",
       "location": "United Kingdom",
       "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/bf20b446-c839-4869-bac9-cc05740e03e1",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/14d0ad09-fa26-4aa5-9bb3-f22a7f5917b9",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "Kong",
-      "title": "Senior Manager, Technical Support",
-      "location": "Bangalore, India | {'location': 'Bangalore, India', 'address': {'postalAddress': {'postalCode': '560048', 'addressRegion': 'Karnataka', 'streetAddress': 'Kong Software and Business Services India Private Limited, 7th Floor, Table Space Towers Plot No.6, Devasandra, Industrial Area Mahadevapura, White Field ', 'addressCountry': 'India', 'addressLocality': 'Bengaluru'}}}",
+      "title": "Enterprise Account Executive, Spain",
+      "location": "Spain",
       "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/547cf017-fa70-49ed-b972-10617c091844",
-      "board": "ashby",
-      "remote": false
-    },
-    {
-      "company": "Kong",
-      "title": "Staff Solutions Engineer- Mumbai",
-      "location": "Mumbai, India",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/cdd9c02b-d594-40ad-944e-5f931e8c3148",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Kong",
-      "title": "Strategic Account Executive",
-      "location": "New Delhi, India",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/b435e044-45ab-4395-a681-24131c63ca0e",
+      "url": "https://jobs.ashbyhq.com/kong/0606f894-f8ff-4888-8458-026589866809",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "Supabase",
-      "title": "IAM Engineer",
-      "location": "AMER",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/supabase/4abf21b5-0fd3-4e2c-a384-6de77ec7f0d3",
+      "title": " Account Executive, EMEA",
+      "location": "Remote | {'location': 'Europe', 'address': {'postalAddress': {}}}",
+      "department": "Sales",
+      "url": "https://jobs.ashbyhq.com/supabase/a069c886-1107-408e-88b4-e1aa8d33d4bc",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "Tether",
-      "title": "Expansion Manager - Ivory Coast",
-      "location": "Yamoussoukro |  Cote d'Ivoire, Yamoussoukro",
-      "department": "",
-      "url": "https://careers.tether.io/o/ryy82",
+      "title": "Frontend Software Engineer (100% Remote)",
+      "location": "Bucharest | Romania, Bucharest",
+      "department": "Engineering",
+      "url": "https://careers.tether.io/o/e67c7",
+      "board": "recruitee",
+      "remote": true
+    },
+    {
+      "company": "Tether",
+      "title": "Frontend Software Engineer (100% Remote)",
+      "location": "Lisbon | Portugal, Lisbon",
+      "department": "Engineering",
+      "url": "https://careers.tether.io/o/esys9",
+      "board": "recruitee",
+      "remote": true
+    },
+    {
+      "company": "Tether",
+      "title": "Frontend Software Engineer (100% Remote)",
+      "location": "Madrid | Spain, Madrid",
+      "department": "Engineering",
+      "url": "https://careers.tether.io/o/eple8",
+      "board": "recruitee",
+      "remote": true
+    },
+    {
+      "company": "Tether",
+      "title": "Frontend Software Engineer (100% Remote)",
+      "location": "Lugano | Switzerland, Lugano",
+      "department": "Engineering",
+      "url": "https://careers.tether.io/o/kvg5w",
       "board": "recruitee",
       "remote": true
     },
     {
       "company": "Tide",
-      "title": "Senior Platform Operations Specialist",
-      "location": "Berlin, Germany | Berlin",
+      "title": "Information Security Compliance Manager (India)",
+      "location": "India, Delhi NCR | Delhi",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7862926003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7731764003",
       "board": "greenhouse",
       "remote": false
     },
     {
-      "company": "Wave Mobile Money",
-      "title": "Agent Operations Regional Lead",
-      "location": "\">Freetown, Sierra Leone",
+      "company": "Tide",
+      "title": "Sales Specialist",
+      "location": "Bulgaria | Sofia",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6112039004/",
-      "board": "generic",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7713104003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Senior Operations Manager",
+      "location": "Berlin, Germany | Berlin",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7978146003",
+      "board": "greenhouse",
       "remote": false
     }
   ]

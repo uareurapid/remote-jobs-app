@@ -1,196 +1,133 @@
 {
-  "date": "2026-08-26",
-  "crawl_time_utc": "2026-08-26T12:56:28.901075+00:00",
-  "total_removed": 21,
+  "date": "2026-08-27",
+  "crawl_time_utc": "2026-08-27T09:30:58.465172+00:00",
+  "total_removed": 14,
   "jobs": [
     {
-      "company": "ClickHouse",
-      "title": "Partner Sales Director - CEMEA",
-      "location": "Germany | Germany",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6103393004",
-      "board": "greenhouse",
-      "remote": false
+      "company": "Assured",
+      "title": "Principal Creative Producer, Brand Design",
+      "location": "Remote",
+      "department": "Marketing",
+      "url": "https://jobs.ashbyhq.com/assured/d9eb6813-7762-426f-a0ae-8aea4c149bb8",
+      "board": "ashby",
+      "remote": true
     },
     {
       "company": "ClickHouse",
-      "title": "Partner Sales Director - MEA",
-      "location": "UAE | UAE",
+      "title": "Product Marketing, Industry Marketing",
+      "location": "The Netherlands | AMER",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6147403004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Solutions Architect - UAE",
-      "location": "United Arab Emirates | UAE",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6143041004",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6017708004",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Cohere",
-      "title": "Infrastructure Security Engineer (Secret + Clearance)",
-      "location": "Toronto | {'location': 'Ottawa', 'address': {'postalAddress': {'addressRegion': 'Ontario', 'addressCountry': 'Canada', 'addressLocality': 'Ottawa'}}}",
-      "department": "Product",
-      "url": "https://jobs.ashbyhq.com/cohere/e48c5456-6ff5-4d4b-a632-df0a3dc497ab",
+      "title": "Senior Account Executive - Energy & Utilities",
+      "location": "Calgary",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/cohere/e550c9f7-db88-408b-a1ad-3aad9fd77bf1",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "ElevenLabs",
-      "title": "Deployment Strategist Lead - Canada",
-      "location": "Canada | {'location': 'Toronto', 'address': {'postalAddress': {'addressRegion': 'Ontario', 'addressCountry': 'Canada', 'addressLocality': 'Toronto'}}}",
-      "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/6c007e5b-a2da-47e6-b388-f017b86abb1f",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "System Architet Lifecycle Marketing",
+      "title": "Front-End Development and Conversion Rate Optimization (CRO) Manager",
       "location": "United Kingdom",
       "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/bf20b446-c839-4869-bac9-cc05740e03e1",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/f278c1e5-5710-4ed5-8c4f-9808ca1d2975",
       "board": "ashby",
       "remote": true
     },
     {
-      "company": "Hightouch",
-      "title": "Sales Development Representative, EMEA (Paris) ",
-      "location": "Paris | Remote",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/hightouch/jobs/5852028004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "Kong",
-      "title": "Senior People Operations Coordinator - Shanghai",
-      "location": "Shanghai, China",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/eeffcd94-7d79-4762-a596-ab0d7405973e",
-      "board": "ashby",
-      "remote": false
-    },
-    {
-      "company": "Kong",
-      "title": "Senior Software Engineer, Gateway Enterprise - Shanghai",
-      "location": "Shanghai, China",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/6ee097d0-166d-4bac-95ab-c9d602341c60",
-      "board": "ashby",
-      "remote": false
-    },
-    {
-      "company": "Kong",
-      "title": "Senior Technical Instructor",
-      "location": "Bangalore, India",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/b6058e1b-335d-4b2e-aa69-1a8e1186fd61",
-      "board": "ashby",
-      "remote": false
-    },
-    {
-      "company": "Kong",
-      "title": "Staff Software Engineer, Managed Gateways",
-      "location": "Bangalore, India",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/7784ccd4-fe19-40bb-a781-d0226beb4b03",
-      "board": "ashby",
-      "remote": false
-    },
-    {
-      "company": "Kong",
-      "title": "Staff Solutions Engineer",
-      "location": "New Delhi, India",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/cdd9c02b-d594-40ad-944e-5f931e8c3148",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Kong",
-      "title": "Staff Technical Customer Success Manager",
-      "location": "Canada",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/bd5bd4c4-7728-41d1-b461-65e6d7e9b392",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "MagicSchool AI",
-      "title": "Sr People Operations Manager",
+      "company": "ElevenLabs",
+      "title": "Head of Music",
       "location": "Remote",
-      "department": "Operations",
-      "url": "https://jobs.ashbyhq.com/magicschool/ff62b99f-a523-4cd3-ac69-1462cc14c53a",
+      "department": "Engineering & Product",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/d4ea8b68-9042-4009-8fe7-cf998fca16a6",
       "board": "ashby",
       "remote": true
     },
     {
-      "company": "Postscript",
-      "title": "Senior Software Engineer, Full Stack",
-      "location": "Remote | PDE",
+      "company": "ElevenLabs",
+      "title": "Private Equity Partnerships",
+      "location": "New York | {'location': 'London', 'address': {'postalAddress': {'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}}",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/f1427164-3037-47d1-a768-11cfb87953ae",
+      "board": "ashby",
+      "remote": null
+    },
+    {
+      "company": "Remote",
+      "title": "Hire for skill, not location: How isolved and Remote are opening global hiring to SMBs",
+      "location": "@2x.webp?width=1200&amp;quality=90&amp;auto=webp&amp;disable",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/postscript/jobs/8525612002",
-      "board": "greenhouse",
+      "url": "https://remote.com/blog/hire-for-skill-not-location-how-isolved-and-remote-are-opening-global-hiring-to-smbs",
+      "board": "generic",
       "remote": true
     },
     {
       "company": "Supabase",
-      "title": "Customer Solution Architect (EMEA)",
-      "location": "Remote",
-      "department": "Success",
-      "url": "https://jobs.ashbyhq.com/supabase/c3099780-60d5-4b8a-ab08-c701d114cf62",
+      "title": "Commercial FinOps Lead ",
+      "location": "Remote, Anywhere",
+      "department": "Data + Growth",
+      "url": "https://jobs.ashbyhq.com/supabase/d2707c73-fe36-4f23-b53a-dde88d7f1132",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "Supabase",
-      "title": "IT Systems Administrator ",
-      "location": "AMER",
+      "title": "Product Security Engineer ",
+      "location": "Remote, Anywhere",
       "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/supabase/4abf21b5-0fd3-4e2c-a384-6de77ec7f0d3",
+      "url": "https://jobs.ashbyhq.com/supabase/8d05bc85-53f3-4ebf-b5b4-c88cdb922673",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "Tide",
-      "title": "Treasury Analyst",
-      "location": "India, Delhi NCR | United Kingdom",
+      "title": "Account Manager",
+      "location": "United Kingdom | London",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7892224003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7816967003",
       "board": "greenhouse",
       "remote": false
     },
     {
+      "company": "Tide",
+      "title": "Group Financial Controller",
+      "location": "India, Delhi NCR | India",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7853531003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Premium  Accounts Associate",
+      "location": "Bulgaria | Sofia",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7713036003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Vannevar",
+      "title": "Product Engineer - Systems Agents (TS/SCI Clearance Required)",
+      "location": "Remote | Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/vannevarlabs/jobs/5165235007",
+      "board": "greenhouse",
+      "remote": true
+    },
+    {
       "company": "Wave Mobile Money",
-      "title": "IT Operations Associate",
+      "title": "IT Technician",
       "location": "\">Kenya; Remote; Spain; United Kingdom",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6147535004/",
+      "url": "https://www.wave.com/en/careers/job/6121178004/",
       "board": "generic",
       "remote": true
-    },
-    {
-      "company": "Wave Mobile Money",
-      "title": "Portfolio Manager",
-      "location": "\">Niamey, Niger",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/5835028004/",
-      "board": "generic",
-      "remote": true
-    },
-    {
-      "company": "Wave Mobile Money",
-      "title": "Regional Lead",
-      "location": "\">Cameroon (CM)",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/6112039004/",
-      "board": "generic",
-      "remote": false
     }
   ]
 }
