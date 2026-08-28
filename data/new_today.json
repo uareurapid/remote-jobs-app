@@ -1,142 +1,142 @@
 {
-  "date": "2026-08-27",
-  "crawl_time_utc": "2026-08-27T09:30:58.465172+00:00",
+  "date": "2026-08-28",
+  "crawl_time_utc": "2026-08-28T09:30:52.603737+00:00",
   "total_new": 15,
   "jobs": [
     {
       "company": "Automattic",
-      "title": "Technical Account Manager, Automattic Special Projects Team",
+      "title": "Senior Partner Manager, Enterprise",
       "location": "Remote | Customer-Centric Operations",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/automatticcareers/jobs/6458591",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Technical Customer Support Engineer, AI Infrastructure & Observability - EMEA",
-      "location": "EMEA (Remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6163307004",
+      "url": "https://job-boards.greenhouse.io/automatticcareers/jobs/7482826",
       "board": "greenhouse",
       "remote": true
     },
     {
       "company": "Cohere",
-      "title": "Senior Mobile Engineer (iOS or Android)",
-      "location": "Toronto | {'location': 'Calgary', 'address': {'postalAddress': {'addressRegion': 'Alberta', 'addressCountry': 'Canada', 'addressLocality': 'Calgary'}}} | {'location': 'Canada', 'address': {'postalAddress': {'addressCountry': 'Canada'}}} | {'location': 'Ottawa', 'address': {'postalAddress': {'addressRegion': 'Ontario', 'addressCountry': 'Canada', 'addressLocality': 'Ottawa'}}} | {'location': 'Montreal', 'address': {'postalAddress': {'addressRegion': 'Quebec ', 'addressCountry': 'Canada', 'addressLocality': 'Montreal'}}}",
-      "department": "Platform",
-      "url": "https://jobs.ashbyhq.com/cohere/cd7de8ed-1b3d-4977-a909-5c0d04ddfcb3",
+      "title": "Software Engineer, Adoption",
+      "location": "Toronto | {'location': 'Canada', 'address': {'postalAddress': {'addressCountry': 'Canada'}}} | {'location': 'Montreal', 'address': {'postalAddress': {'addressRegion': 'Quebec ', 'addressCountry': 'Canada', 'addressLocality': 'Montreal'}}}",
+      "department": "Product",
+      "url": "https://jobs.ashbyhq.com/cohere/732c05f5-a9ec-43a3-9ae4-3ec7f7630fff",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "ElevenLabs",
-      "title": "Adoption Strategist - APAC",
-      "location": "Singapore",
+      "title": "Customer Success - Southern Europe",
+      "location": "Spain | {'location': 'Italy', 'address': {'postalAddress': {'addressCountry': 'Italy', 'addressLocality': ''}}}",
       "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/8d25dd85-5b50-4dfa-b410-273b1ddd437c",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/78c564eb-ee87-46d9-b2fd-4322a223a547",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "ElevenLabs",
-      "title": "Customer Success - DACH",
-      "location": "Germany | {'location': 'Switzerland', 'address': {'postalAddress': {'addressCountry': 'Switzerland'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/830e66a8-892c-4c68-b61c-494591236eef",
+      "title": "Executive Assistant",
+      "location": "Poland | {'location': 'Amsterdam', 'address': {'postalAddress': {'addressCountry': 'Netherlands'}}}",
+      "department": "Operations",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/aa387988-9983-46a0-a265-d678af9939cb",
       "board": "ashby",
       "remote": true
     },
     {
-      "company": "ElevenLabs",
-      "title": "Growth PM",
-      "location": "United Kingdom",
+      "company": "Filevine",
+      "title": "Partner Manager - Federal",
+      "location": "District of Columbia Strategic Partnerships onsite",
+      "department": "Strategic Partnerships",
+      "url": "https://jobs.lever.co/filevine/70917b72-6a48-4255-87c5-fbf8abe293ae",
+      "board": "lever",
+      "remote": false
+    },
+    {
+      "company": "Sardine",
+      "title": "Strategic Account Manager - MENA",
+      "location": "Dubai, United Arab Emirates | {'location': 'Europe', 'address': {'postalAddress': {}}}",
+      "department": "Account Management",
+      "url": "https://jobs.ashbyhq.com/sardine/c7c6097e-0ceb-4337-a846-29fd5ede3ed7",
+      "board": "ashby",
+      "remote": null
+    },
+    {
+      "company": "Supabase",
+      "title": "AWS Enterprise Segment Lead",
+      "location": "Remote, AMER",
       "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/14d0ad09-fa26-4aa5-9bb3-f22a7f5917b9",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Kong",
-      "title": "Enterprise Account Executive, Spain",
-      "location": "Spain",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/0606f894-f8ff-4888-8458-026589866809",
+      "url": "https://jobs.ashbyhq.com/supabase/f3a7c4bf-3e79-4556-a4e9-04d6987a0e8f",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "Supabase",
-      "title": " Account Executive, EMEA",
-      "location": "Remote | {'location': 'Europe', 'address': {'postalAddress': {}}}",
-      "department": "Sales",
-      "url": "https://jobs.ashbyhq.com/supabase/a069c886-1107-408e-88b4-e1aa8d33d4bc",
+      "title": "AWS Game Development Segment Lead",
+      "location": "Remote, AMER",
+      "department": "Growth",
+      "url": "https://jobs.ashbyhq.com/supabase/344787f2-d115-4056-87ca-7668fc14be3d",
       "board": "ashby",
       "remote": true
     },
     {
-      "company": "Tether",
-      "title": "Frontend Software Engineer (100% Remote)",
-      "location": "Bucharest | Romania, Bucharest",
-      "department": "Engineering",
-      "url": "https://careers.tether.io/o/e67c7",
-      "board": "recruitee",
-      "remote": true
-    },
-    {
-      "company": "Tether",
-      "title": "Frontend Software Engineer (100% Remote)",
-      "location": "Lisbon | Portugal, Lisbon",
-      "department": "Engineering",
-      "url": "https://careers.tether.io/o/esys9",
-      "board": "recruitee",
-      "remote": true
-    },
-    {
-      "company": "Tether",
-      "title": "Frontend Software Engineer (100% Remote)",
-      "location": "Madrid | Spain, Madrid",
-      "department": "Engineering",
-      "url": "https://careers.tether.io/o/eple8",
-      "board": "recruitee",
-      "remote": true
-    },
-    {
-      "company": "Tether",
-      "title": "Frontend Software Engineer (100% Remote)",
-      "location": "Lugano | Switzerland, Lugano",
-      "department": "Engineering",
-      "url": "https://careers.tether.io/o/kvg5w",
-      "board": "recruitee",
-      "remote": true
-    },
-    {
       "company": "Tide",
-      "title": "Information Security Compliance Manager (India)",
-      "location": "India, Delhi NCR | Delhi",
+      "title": "Director of Mobile and Web Platform",
+      "location": "United Kingdom | Lithuania",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7731764003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7848597003",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Tide",
-      "title": "Sales Specialist",
-      "location": "Bulgaria | Sofia",
+      "title": "Director of Mobile and Web Platform",
+      "location": "Berlin, Germany | Lithuania",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7713104003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7980053003",
       "board": "greenhouse",
       "remote": false
     },
     {
       "company": "Tide",
-      "title": "Senior Operations Manager",
-      "location": "Berlin, Germany | Berlin",
+      "title": "Director of Mobile and Web Platform",
+      "location": "Bulgaria | Lithuania",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7978146003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7765740003",
       "board": "greenhouse",
       "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Director of Mobile and Web Platform",
+      "location": "Serbia | Lithuania",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7768101003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Manager, AML Analytics",
+      "location": "India, Hyderabad | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7819343003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Premium Accounts Associate",
+      "location": "India, Hyderabad | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7608569003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "IT Operations Associate",
+      "location": "\">Kenya; Remote; Spain; United Kingdom",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6147535004/",
+      "board": "generic",
+      "remote": true
     }
   ]
 }

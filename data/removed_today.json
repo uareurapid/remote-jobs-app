@@ -1,131 +1,131 @@
 {
-  "date": "2026-08-27",
-  "crawl_time_utc": "2026-08-27T09:30:58.465172+00:00",
+  "date": "2026-08-28",
+  "crawl_time_utc": "2026-08-28T09:30:52.603737+00:00",
   "total_removed": 14,
   "jobs": [
     {
-      "company": "Assured",
-      "title": "Principal Creative Producer, Brand Design",
-      "location": "Remote",
-      "department": "Marketing",
-      "url": "https://jobs.ashbyhq.com/assured/d9eb6813-7762-426f-a0ae-8aea4c149bb8",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Product Marketing, Industry Marketing",
-      "location": "The Netherlands | AMER",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6017708004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
       "company": "Cohere",
-      "title": "Senior Account Executive - Energy & Utilities",
-      "location": "Calgary",
+      "title": "Account Executive",
+      "location": "Singapore",
       "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/cohere/e550c9f7-db88-408b-a1ad-3aad9fd77bf1",
+      "url": "https://jobs.ashbyhq.com/cohere/ad4309df-9239-4b59-a79b-c7bee617b224",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "ElevenLabs",
-      "title": "Front-End Development and Conversion Rate Optimization (CRO) Manager",
-      "location": "United Kingdom",
-      "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/f278c1e5-5710-4ed5-8c4f-9808ca1d2975",
+      "title": "Commercial Counsel - India",
+      "location": "India",
+      "department": "Operations",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/e5cca48b-1f34-48fe-9ebf-3c6ff526f9ba",
       "board": "ashby",
       "remote": true
     },
     {
-      "company": "ElevenLabs",
-      "title": "Head of Music",
+      "company": "Filevine",
+      "title": "Partner Manager - Federal Manager",
+      "location": "District of Columbia Strategic Partnerships onsite",
+      "department": "Strategic Partnerships",
+      "url": "https://jobs.lever.co/filevine/70917b72-6a48-4255-87c5-fbf8abe293ae",
+      "board": "lever",
+      "remote": false
+    },
+    {
+      "company": "Goodnotes",
+      "title": "Lifecycle Marketing Manager, B2C (12-months Fixed-Term Contract – Renewable / Convertible)⁠",
+      "location": "Singapore | Singapore",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/goodnotes/jobs/5740271004",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Kong",
+      "title": "Strategic Account Executive",
+      "location": "New Delhi, India",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/b435e044-45ab-4395-a681-24131c63ca0e",
+      "board": "ashby",
+      "remote": true
+    },
+    {
+      "company": "Runway",
+      "title": "Data Analytics Leader",
       "location": "Remote",
-      "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/d4ea8b68-9042-4009-8fe7-cf998fca16a6",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Private Equity Partnerships",
-      "location": "New York | {'location': 'London', 'address': {'postalAddress': {'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/f1427164-3037-47d1-a768-11cfb87953ae",
-      "board": "ashby",
-      "remote": null
-    },
-    {
-      "company": "Remote",
-      "title": "Hire for skill, not location: How isolved and Remote are opening global hiring to SMBs",
-      "location": "@2x.webp?width=1200&amp;quality=90&amp;auto=webp&amp;disable",
-      "department": "",
-      "url": "https://remote.com/blog/hire-for-skill-not-location-how-isolved-and-remote-are-opening-global-hiring-to-smbs",
-      "board": "generic",
-      "remote": true
-    },
-    {
-      "company": "Supabase",
-      "title": "Commercial FinOps Lead ",
-      "location": "Remote, Anywhere",
-      "department": "Data + Growth",
-      "url": "https://jobs.ashbyhq.com/supabase/d2707c73-fe36-4f23-b53a-dde88d7f1132",
+      "department": "Product",
+      "url": "https://jobs.ashbyhq.com/runway-ml/b3b7f8e1-c252-4f61-baaf-c7ab6bfa9572",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "Supabase",
-      "title": "Product Security Engineer ",
-      "location": "Remote, Anywhere",
+      "title": "IAM Engineer",
+      "location": "AMER",
       "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/supabase/8d05bc85-53f3-4ebf-b5b4-c88cdb922673",
+      "url": "https://jobs.ashbyhq.com/supabase/4abf21b5-0fd3-4e2c-a384-6de77ec7f0d3",
       "board": "ashby",
       "remote": true
     },
     {
-      "company": "Tide",
-      "title": "Account Manager",
-      "location": "United Kingdom | London",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7816967003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Group Financial Controller",
-      "location": "India, Delhi NCR | India",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7853531003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Premium  Accounts Associate",
-      "location": "Bulgaria | Sofia",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7713036003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Vannevar",
-      "title": "Product Engineer - Systems Agents (TS/SCI Clearance Required)",
-      "location": "Remote | Remote",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/vannevarlabs/jobs/5165235007",
-      "board": "greenhouse",
+      "company": "Tether",
+      "title": "Software Engineer P2P - Search Team (100% Remote, Worldwide)",
+      "location": "Hanoi | Vietnam, Hanoi | Turkiye, Istambul | Italy, Rome | Guatemala, Guatemala City | Greece, Athens | Ecuador, Quito",
+      "department": "Engineering",
+      "url": "https://careers.tether.io/o/4r9te",
+      "board": "recruitee",
       "remote": true
+    },
+    {
+      "company": "Tide",
+      "title": "Director of Mobile Frontend Engineering",
+      "location": "United Kingdom | Lithuania",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7848597003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Director of Mobile Frontend Engineering",
+      "location": "Bulgaria | Lithuania",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7765740003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Director of Mobile Frontend Engineering",
+      "location": "Serbia | Lithuania",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7768101003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Head of Machine Learning, Ongoing Monitoring",
+      "location": "India, Hyderabad | India",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7780917003",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "Tide",
+      "title": "Senior Analyst, AML Analytics",
+      "location": "India, Hyderabad | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7819343003",
+      "board": "greenhouse",
+      "remote": false
     },
     {
       "company": "Wave Mobile Money",
       "title": "IT Technician",
       "location": "\">Kenya; Remote; Spain; United Kingdom",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6121178004/",
+      "url": "https://www.wave.com/en/careers/job/6121472004/",
       "board": "generic",
       "remote": true
     }
