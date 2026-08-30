@@ -1,115 +1,61 @@
 {
-  "date": "2026-08-28",
-  "crawl_time_utc": "2026-08-28T13:20:40.167380+00:00",
-  "total_new": 12,
+  "date": "2026-08-30",
+  "crawl_time_utc": "2026-08-30T13:53:54.177551+00:00",
+  "total_new": 6,
   "jobs": [
     {
+      "company": "ClickHouse",
+      "title": "Partner Sales Director - MEA",
+      "location": "UAE | UAE",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6147403004",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
+      "company": "ClickHouse",
+      "title": "Solutions Architect - UAE",
+      "location": "United Arab Emirates | UAE",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6143041004",
+      "board": "greenhouse",
+      "remote": false
+    },
+    {
       "company": "ElevenLabs",
-      "title": "Customer Success - EMEA",
-      "location": "Germany | {'location': 'Dublin', 'address': {'postalAddress': {'addressCountry': 'Ireland', 'addressLocality': 'Dublin'}}} | {'location': 'Sofia', 'address': {'postalAddress': {'addressCountry': 'Bulgaria', 'addressLocality': 'Bulgaria'}}} | {'location': 'Warsaw', 'address': {'postalAddress': {'addressRegion': 'Poland', 'addressCountry': 'Poland', 'addressLocality': 'Warsaw'}}} | {'location': 'Italy', 'address': {'postalAddress': {'addressCountry': 'Italy', 'addressLocality': ''}}} | {'location': 'Madrid', 'address': {'postalAddress': {'addressRegion': 'Spain', 'addressCountry': 'Spain', 'addressLocality': 'Madrid'}}} | {'location': 'Amsterdam', 'address': {'postalAddress': {'addressCountry': 'Netherlands'}}} | {'location': 'Berlin', 'address': {'postalAddress': {'addressCountry': 'Germany', 'addressLocality': 'Berlin'}}}",
+      "title": "Revenue Leader - Mid-Market, India",
+      "location": "India",
       "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/3db51b70-d22b-46f7-8888-763f4d73029a",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/118df45c-32b8-468e-88d4-691b9cae3627",
       "board": "ashby",
       "remote": true
     },
     {
-      "company": "Kong",
-      "title": "Web Experience Specialist",
-      "location": "Bangalore, India",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/a5386015-0a8a-4a12-9e5a-d021b4474d22",
+      "company": "Sardine",
+      "title": "Strategic Account Manager",
+      "location": "Brazil | {'location': 'São Paulo', 'address': {'postalAddress': {'addressRegion': '', 'addressCountry': 'Brazil', 'addressLocality': ''}}}",
+      "department": "Account Management",
+      "url": "https://jobs.ashbyhq.com/sardine/886f9f32-d184-4876-83f4-36ed6b3672c9",
       "board": "ashby",
       "remote": true
     },
     {
       "company": "Supabase",
-      "title": " Account Executive (EMEA)",
-      "location": "Remote, EMEA | {'location': 'Europe', 'address': {'postalAddress': {}}}",
-      "department": "Sales",
-      "url": "https://jobs.ashbyhq.com/supabase/a069c886-1107-408e-88b4-e1aa8d33d4bc",
+      "title": "AI Platform Engineer",
+      "location": "Remote, Global",
+      "department": "Business Operations",
+      "url": "https://jobs.ashbyhq.com/supabase/3b5d54ca-741b-45ac-bd3f-31605a0d3541",
       "board": "ashby",
       "remote": null
     },
     {
-      "company": "Supabase",
-      "title": "Account Executive  (APAC)",
-      "location": "Remote, APAC",
-      "department": "Sales",
-      "url": "https://jobs.ashbyhq.com/supabase/4859464f-afab-4409-b295-4f4cbbfc41eb",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Supabase",
-      "title": "Customer Solution Architect, Team Lead ",
-      "location": "Remote, AMER",
-      "department": "Success",
-      "url": "https://jobs.ashbyhq.com/supabase/66bab062-b769-43cf-ac3c-a2630257624c",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Supabase",
-      "title": "OrioleDB Developer ",
-      "location": "Remote, AMER",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/supabase/621516b5-4d8f-4ee9-8287-2da12e63d023",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Supabase",
-      "title": "Partnerships Lead (APAC)",
-      "location": "Remote, Singapore",
-      "department": "Partnerships",
-      "url": "https://jobs.ashbyhq.com/supabase/180257c0-ad46-4fae-b34f-36d8ddc2fe2e",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Supabase",
-      "title": "Partnerships Lead (EMEA)",
-      "location": "Remote, London UK",
-      "department": "Partnerships",
-      "url": "https://jobs.ashbyhq.com/supabase/79dd0887-e54c-484c-a988-c8720040dd0b",
-      "board": "ashby",
-      "remote": null
-    },
-    {
-      "company": "Supabase",
-      "title": "Product Manager - Strategic Partner Integrations",
-      "location": "Remote, Bay Area, CA",
-      "department": "Product",
-      "url": "https://jobs.ashbyhq.com/supabase/68a397e7-8a1a-4566-ae41-e8c61dd6ed93",
-      "board": "ashby",
-      "remote": null
-    },
-    {
-      "company": "Tide",
-      "title": "Sales Specialist",
-      "location": "Bulgaria | Sofia",
+      "company": "Vannevar",
+      "title": "Senior Software Engineer, Search ",
+      "location": "Remote | Remote",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7980283003",
+      "url": "https://job-boards.greenhouse.io/vannevarlabs/jobs/5225653007",
       "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Werkstudent:in (m/w/d) – Operations & Office Management",
-      "location": "Berlin, Germany | Berlin",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7980213003",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Wave Mobile Money",
-      "title": "Merchant Account Supervisor",
-      "location": "\">Banjul, The Gambia",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/6163846004/",
-      "board": "generic",
-      "remote": false
+      "remote": true
     }
   ]
 }
