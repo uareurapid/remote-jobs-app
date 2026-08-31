@@ -1,61 +1,34 @@
 {
-  "date": "2026-08-30",
-  "crawl_time_utc": "2026-08-30T13:53:54.177551+00:00",
-  "total_new": 6,
+  "date": "2026-08-31",
+  "crawl_time_utc": "2026-08-31T09:31:00.255862+00:00",
+  "total_new": 3,
   "jobs": [
     {
-      "company": "ClickHouse",
-      "title": "Partner Sales Director - MEA",
-      "location": "UAE | UAE",
+      "company": "Cyclops",
+      "title": "Head of Brand",
+      "location": "Remote",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6147403004",
-      "board": "greenhouse",
+      "url": "https://cyclopsio.applytojob.com/apply/Da0QTMknFH/Head-Of-Brand-Remote",
+      "board": "generic-jsonld",
+      "remote": true
+    },
+    {
+      "company": "Cyclops",
+      "title": "Marketing Operations & Data Manager",
+      "location": "Remote",
+      "department": "",
+      "url": "https://cyclopsio.applytojob.com/apply/E9Sv4tLPCG/Marketing-Operations-Data-Manager-Remote",
+      "board": "generic-jsonld",
+      "remote": true
+    },
+    {
+      "company": "Kong",
+      "title": "Senior Director, Finance Systems & Applications",
+      "location": "Pune, India",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/87afb4bd-152d-48b4-9849-3932b562fc51",
+      "board": "ashby",
       "remote": false
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Solutions Architect - UAE",
-      "location": "United Arab Emirates | UAE",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6143041004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Revenue Leader - Mid-Market, India",
-      "location": "India",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/118df45c-32b8-468e-88d4-691b9cae3627",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Sardine",
-      "title": "Strategic Account Manager",
-      "location": "Brazil | {'location': 'São Paulo', 'address': {'postalAddress': {'addressRegion': '', 'addressCountry': 'Brazil', 'addressLocality': ''}}}",
-      "department": "Account Management",
-      "url": "https://jobs.ashbyhq.com/sardine/886f9f32-d184-4876-83f4-36ed6b3672c9",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Supabase",
-      "title": "AI Platform Engineer",
-      "location": "Remote, Global",
-      "department": "Business Operations",
-      "url": "https://jobs.ashbyhq.com/supabase/3b5d54ca-741b-45ac-bd3f-31605a0d3541",
-      "board": "ashby",
-      "remote": null
-    },
-    {
-      "company": "Vannevar",
-      "title": "Senior Software Engineer, Search ",
-      "location": "Remote | Remote",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/vannevarlabs/jobs/5225653007",
-      "board": "greenhouse",
-      "remote": true
     }
   ]
 }

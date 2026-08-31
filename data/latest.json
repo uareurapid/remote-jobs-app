@@ -1,10 +1,10 @@
 {
-  "date": "2026-08-30",
-  "crawl_time_utc": "2026-08-30T13:53:54.177551+00:00",
+  "date": "2026-08-31",
+  "crawl_time_utc": "2026-08-31T09:31:00.255862+00:00",
   "total_companies": 53,
-  "total_jobs": 937,
+  "total_jobs": 938,
   "stats": {
-    "total_found": 937,
+    "total_found": 938,
     "filtered_us": 0,
     "errors": 0
   },
@@ -1543,7 +1543,7 @@
       "company": "Cohere",
       "title": "Engineering Manager, FDE Infrastructure (UK)",
       "location": "United Kingdom | {'location': 'Europe', 'address': {'postalAddress': {'addressCountry': 'European Union'}}} | {'location': 'London', 'address': {'postalAddress': {'addressRegion': 'London', 'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}}",
-      "department": "Product",
+      "department": "Agentic Platform",
       "url": "https://jobs.ashbyhq.com/cohere/9bdbb821-6536-4090-8faa-a2b04a70bbf1",
       "board": "ashby",
       "remote": true
@@ -1597,7 +1597,7 @@
       "company": "Cohere",
       "title": "Forward Deployed Engineer, Infrastructure Specialist",
       "location": "Tokyo",
-      "department": "Product",
+      "department": "Agentic Platform",
       "url": "https://jobs.ashbyhq.com/cohere/38f75a48-199c-4325-a7f8-2af6ed6a1b3b",
       "board": "ashby",
       "remote": true
@@ -1606,7 +1606,7 @@
       "company": "Cohere",
       "title": "Forward Deployed Engineer, Infrastructure Specialist (Europe/Middle East)",
       "location": "United Kingdom | {'location': 'Dubai', 'address': {'postalAddress': {'addressCountry': 'United Arab Emirates', 'addressLocality': 'Dubai'}}} | {'location': 'Brussels', 'address': {'postalAddress': {'addressCountry': 'Belgium', 'addressLocality': 'Brussels'}}} | {'location': 'United Arab Emirates', 'address': {'postalAddress': {'addressCountry': 'United Arab Emirates'}}} | {'location': 'Europe', 'address': {'postalAddress': {'addressCountry': 'European Union'}}} | {'location': 'Munich', 'address': {'postalAddress': {'addressRegion': 'Bavaria', 'addressCountry': 'Germany', 'addressLocality': 'Munich'}}} | {'location': 'Saudi Arabia', 'address': {'postalAddress': {'addressCountry': 'Saudi Arabia'}}} | {'location': 'London', 'address': {'postalAddress': {'addressRegion': 'London', 'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}} | {'location': 'Edinburgh', 'address': {'postalAddress': {'addressRegion': 'Edinburgh', 'addressCountry': 'United Kingdom', 'addressLocality': 'Edinburgh'}}} | {'location': 'Paris', 'address': {'postalAddress': {'addressCountry': 'France', 'addressLocality': 'Paris'}}} | {'location': 'Berlin', 'address': {'postalAddress': {'addressRegion': 'Berlin', 'addressCountry': 'Germany', 'addressLocality': 'Berlin'}}} | {'location': 'France', 'address': {'postalAddress': {'addressCountry': 'France'}}} | {'location': 'Middle East', 'address': {'postalAddress': {}}} | {'location': 'Riyadh', 'address': {'postalAddress': {'addressRegion': 'Riyadh', 'addressCountry': 'Saudi Arabia', 'addressLocality': 'Riyadh'}}} | {'location': 'Frankfurt', 'address': {'postalAddress': {'addressRegion': 'Hesse', 'addressCountry': 'Germany', 'addressLocality': 'Frankfurt'}}} | {'location': 'Belgium', 'address': {'postalAddress': {'addressCountry': 'Belgium'}}}",
-      "department": "Product",
+      "department": "Agentic Platform",
       "url": "https://jobs.ashbyhq.com/cohere/69a9ab2e-a7eb-4c4f-825a-5c25cf063900",
       "board": "ashby",
       "remote": true
@@ -1615,7 +1615,7 @@
       "company": "Cohere",
       "title": "Forward Deployed Engineer, Infrastructure Specialist (France)",
       "location": "France | {'location': 'Europe', 'address': {'postalAddress': {'addressCountry': 'European Union'}}} | {'location': 'Munich', 'address': {'postalAddress': {'addressRegion': 'Bavaria', 'addressCountry': 'Germany', 'addressLocality': 'Munich'}}} | {'location': 'Paris', 'address': {'postalAddress': {'addressCountry': 'France', 'addressLocality': 'Paris'}}}",
-      "department": "Product",
+      "department": "Agentic Platform",
       "url": "https://jobs.ashbyhq.com/cohere/24cdb030-3913-4c38-a7db-8f31c3c91ee6",
       "board": "ashby",
       "remote": true
@@ -1624,7 +1624,7 @@
       "company": "Cohere",
       "title": "Forward Deployed Engineer, Infrastructure Specialist (North America)",
       "location": "Toronto | {'location': 'Canada', 'address': {'postalAddress': {'addressCountry': 'Canada'}}} | {'location': 'Vancouver', 'address': {'postalAddress': {'addressRegion': 'British Columbia', 'addressCountry': 'Canada', 'addressLocality': 'Vancouver'}}} | {'location': 'Ottawa', 'address': {'postalAddress': {'addressRegion': 'Ontario', 'addressCountry': 'Canada', 'addressLocality': 'Ottawa'}}} | {'location': 'Montreal', 'address': {'postalAddress': {'addressRegion': 'Quebec ', 'addressCountry': 'Canada', 'addressLocality': 'Montreal'}}}",
-      "department": "Product",
+      "department": "Agentic Platform",
       "url": "https://jobs.ashbyhq.com/cohere/be48aafc-9610-4ebd-8414-a0722a3cd59a",
       "board": "ashby",
       "remote": true
@@ -1633,7 +1633,7 @@
       "company": "Cohere",
       "title": "Forward Deployed Engineer, Infrastructure Specialist (Public Sector)",
       "location": "Ottawa | {'location': 'Canada', 'address': {'postalAddress': {'addressCountry': 'Canada'}}}",
-      "department": "Product",
+      "department": "Agentic Platform",
       "url": "https://jobs.ashbyhq.com/cohere/52a2b83b-7537-4e88-af7b-e4e9630a96e0",
       "board": "ashby",
       "remote": true
@@ -1642,7 +1642,7 @@
       "company": "Cohere",
       "title": "Forward Deployed Engineer, Infrastructure Specialist (Singapore)",
       "location": "Singapore | {'location': 'APAC', 'address': {'postalAddress': {}}}",
-      "department": "Product",
+      "department": "Agentic Platform",
       "url": "https://jobs.ashbyhq.com/cohere/e88931c0-d3fa-4e81-accc-45db823ea616",
       "board": "ashby",
       "remote": true
@@ -1651,7 +1651,7 @@
       "company": "Cohere",
       "title": "Forward Deployed Engineer, Infrastructure Specialist (South Korea)",
       "location": "Korea | {'location': 'APAC', 'address': {'postalAddress': {}}}",
-      "department": "Product",
+      "department": "Agentic Platform",
       "url": "https://jobs.ashbyhq.com/cohere/9c5e1ab3-883b-4d15-885c-76400da7ca11",
       "board": "ashby",
       "remote": true
@@ -1660,7 +1660,7 @@
       "company": "Cohere",
       "title": "Forward Deployed Engineer, Infrastructure Specialist (UK Public Sector)",
       "location": "United Kingdom | {'location': 'Europe', 'address': {'postalAddress': {'addressCountry': 'European Union'}}} | {'location': 'London', 'address': {'postalAddress': {'addressRegion': 'London', 'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}}",
-      "department": "Product",
+      "department": "Agentic Platform",
       "url": "https://jobs.ashbyhq.com/cohere/a0f174cf-4407-4334-b812-45a767092fca",
       "board": "ashby",
       "remote": true
@@ -1804,7 +1804,7 @@
       "company": "Cohere",
       "title": "Senior Mobile Engineer (iOS or Android)",
       "location": "Toronto | {'location': 'Calgary', 'address': {'postalAddress': {'addressRegion': 'Alberta', 'addressCountry': 'Canada', 'addressLocality': 'Calgary'}}} | {'location': 'Canada', 'address': {'postalAddress': {'addressCountry': 'Canada'}}} | {'location': 'Ottawa', 'address': {'postalAddress': {'addressRegion': 'Ontario', 'addressCountry': 'Canada', 'addressLocality': 'Ottawa'}}} | {'location': 'Montreal', 'address': {'postalAddress': {'addressRegion': 'Quebec ', 'addressCountry': 'Canada', 'addressLocality': 'Montreal'}}}",
-      "department": "Platform",
+      "department": "Agentic Platform",
       "url": "https://jobs.ashbyhq.com/cohere/cd7de8ed-1b3d-4977-a909-5c0d04ddfcb3",
       "board": "ashby",
       "remote": true
@@ -1813,7 +1813,7 @@
       "company": "Cohere",
       "title": "Software Engineer, Adoption",
       "location": "Toronto | {'location': 'Canada', 'address': {'postalAddress': {'addressCountry': 'Canada'}}} | {'location': 'Montreal', 'address': {'postalAddress': {'addressRegion': 'Quebec ', 'addressCountry': 'Canada', 'addressLocality': 'Montreal'}}}",
-      "department": "Product",
+      "department": "Agentic Platform",
       "url": "https://jobs.ashbyhq.com/cohere/732c05f5-a9ec-43a3-9ae4-3ec7f7630fff",
       "board": "ashby",
       "remote": true
@@ -1946,19 +1946,10 @@
     },
     {
       "company": "Cyclops",
-      "title": "Deputy AMLO - AML/CFT/Sanctions Analyst",
+      "title": "Head of Brand",
       "location": "Remote",
       "department": "",
-      "url": "https://cyclopsio.applytojob.com/apply/yZrkZabNgo/Deputy-AMLO-AMLCFTSanctions-Analyst",
-      "board": "generic-jsonld",
-      "remote": true
-    },
-    {
-      "company": "Cyclops",
-      "title": "Engineering Manager",
-      "location": "Remote",
-      "department": "",
-      "url": "https://cyclopsio.applytojob.com/apply/pSiJitoOaA/Engineering-Manager-Remote",
+      "url": "https://cyclopsio.applytojob.com/apply/Da0QTMknFH/Head-Of-Brand-Remote",
       "board": "generic-jsonld",
       "remote": true
     },
@@ -1968,6 +1959,15 @@
       "location": "Remote",
       "department": "",
       "url": "https://cyclopsio.applytojob.com/apply/7LxqJlpzID/Lead-Solutions-Architect-Commercial-GTM-Remote",
+      "board": "generic-jsonld",
+      "remote": true
+    },
+    {
+      "company": "Cyclops",
+      "title": "Marketing Operations & Data Manager",
+      "location": "Remote",
+      "department": "",
+      "url": "https://cyclopsio.applytojob.com/apply/E9Sv4tLPCG/Marketing-Operations-Data-Manager-Remote",
       "board": "generic-jsonld",
       "remote": true
     },
@@ -4254,6 +4254,15 @@
       "location": "Maharashtra, India",
       "department": "All Cost Center",
       "url": "https://jobs.ashbyhq.com/kong/ccfb0043-3566-4794-a8cb-6345c25bfee5",
+      "board": "ashby",
+      "remote": false
+    },
+    {
+      "company": "Kong",
+      "title": "Senior Director, Finance Systems & Applications",
+      "location": "Pune, India",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/87afb4bd-152d-48b4-9849-3932b562fc51",
       "board": "ashby",
       "remote": false
     },

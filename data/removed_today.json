@@ -1,51 +1,24 @@
 {
-  "date": "2026-08-30",
-  "crawl_time_utc": "2026-08-30T13:53:54.177551+00:00",
-  "total_removed": 5,
+  "date": "2026-08-31",
+  "crawl_time_utc": "2026-08-31T09:31:00.255862+00:00",
+  "total_removed": 2,
   "jobs": [
     {
-      "company": "ClickHouse",
-      "title": "Senior Security Automation Engineer",
-      "location": "Netherlands (remote) | EMEA",
+      "company": "Cyclops",
+      "title": "Deputy AMLO - AML/CFT/Sanctions Analyst",
+      "location": "Remote",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6105350004",
-      "board": "greenhouse",
+      "url": "https://cyclopsio.applytojob.com/apply/yZrkZabNgo/Deputy-AMLO-AMLCFTSanctions-Analyst",
+      "board": "generic-jsonld",
       "remote": true
     },
     {
-      "company": "ElevenLabs",
-      "title": "Commercial Counsel - APAC",
-      "location": "Australia | {'location': 'Singapore', 'address': {'postalAddress': {'addressCountry': 'Singapore', 'addressLocality': 'Singapore'}}}",
-      "department": "Operations",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/03b07a06-ad0e-4ef6-a516-7d14cc13adf3",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Deployment Strategist Lead - Poland",
-      "location": "Poland | {'location': 'Warsaw', 'address': {'postalAddress': {'addressRegion': 'Poland', 'addressCountry': 'Poland', 'addressLocality': 'Warsaw'}}}",
-      "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/c85b00d2-e72a-4c48-ae1b-3e0ea8d90499",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Executive Assistant",
-      "location": "Poland | {'location': 'Amsterdam', 'address': {'postalAddress': {'addressCountry': 'Netherlands'}}}",
-      "department": "Operations",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/aa387988-9983-46a0-a265-d678af9939cb",
-      "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Vannevar",
-      "title": "Senior Software Engineer, Search ",
-      "location": "Remote | Remote",
+      "company": "Cyclops",
+      "title": "Engineering Manager",
+      "location": "Remote",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/vannevarlabs/jobs/4191402007",
-      "board": "greenhouse",
+      "url": "https://cyclopsio.applytojob.com/apply/pSiJitoOaA/Engineering-Manager-Remote",
+      "board": "generic-jsonld",
       "remote": true
     }
   ]
