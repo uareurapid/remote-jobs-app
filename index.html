@@ -40,6 +40,11 @@ a:hover{color:var(--primary)}
 .hero{padding:48px 0 32px;text-align:center}
 .hero h1{font-family:'Space Grotesk',sans-serif;font-size:clamp(1.8rem,4vw,2.8rem);font-weight:700;color:var(--primary);letter-spacing:-0.03em;margin-bottom:8px}
 .hero p{color:var(--on-surface-variant);font-size:0.95rem;max-width:560px;margin:0 auto}
+.last-updated{
+  font-family:'JetBrains Mono',monospace;font-size:0.72rem;color:var(--on-surface-variant);
+  margin-top:12px;opacity:.85
+}
+.last-updated b{color:var(--tertiary);font-weight:500}
 
 /* Stats bar */
 .stats-row{
@@ -125,6 +130,10 @@ a:hover{color:var(--primary)}
   font-size:0.62rem;padding:1px 8px;border-radius:10px;font-weight:700;
   background:rgba(255,184,77,.15);color:var(--accent-new);text-transform:uppercase;letter-spacing:0.05em
 }
+.posted-tag{
+  font-size:0.62rem;padding:2px 8px;border-radius:10px;font-weight:500;white-space:nowrap;
+  color:var(--on-surface-variant);border:1px solid var(--outline);background:transparent
+}
 
 /* Empty state */
 .empty-state{text-align:center;padding:48px 16px;color:var(--on-surface-variant)}
@@ -183,14 +192,15 @@ a:hover{color:var(--primary)}
 <div class="hero">
   <h1>Remote Jobs, No Middlemen</h1>
   <p>Direct from company career pages. No paid boards, no recruiter gates. Just remote openings at companies we trust.</p>
+  <p class="last-updated">Last updated: <b id="last-updated">…</b></p>
 </div>
 
 <!-- Stats -->
 <div class="stats-row" id="stats-row">
   <div class="stat-card"><div class="val" id="stat-total">…</div><div class="lbl">Open Positions</div></div>
   <div class="stat-card"><div class="val" id="stat-companies">…</div><div class="lbl">Companies Hiring</div></div>
-  <div class="stat-card new"><div class="val" id="stat-new">…</div><div class="lbl">🆕 New Today</div></div>
-  <div class="stat-card removed"><div class="val" id="stat-removed">…</div><div class="lbl">❌ Removed</div></div>
+  <div class="stat-card new"><div class="val" id="stat-new">…</div><div class="lbl" id="lbl-new">🆕 New</div></div>
+  <div class="stat-card removed"><div class="val" id="stat-removed">…</div><div class="lbl" id="lbl-removed">❌ Removed</div></div>
   <div class="stat-card"><div class="val" id="stat-tracked">…</div><div class="lbl">Companies Tracked</div></div>
 </div>
 
@@ -230,6 +240,7 @@ a:hover{color:var(--primary)}
 
 <div class="footer">
   Updated daily · Data crawled directly from company career pages ·
+  <span id="footer-updated"></span>
   <a href="data/latest.json" target="_blank">JSON</a> ·
   <a href="data/companies.txt" target="_blank">Companies</a>
 </div>
@@ -266,6 +277,9 @@ const state = {
   activeTab: 'all',
   companiesTracked: 0,
   date: '',
+  crawlTime: '',
+  newDate: '',
+  removedDate: '',
 };
 
 // ─── Location badge logic ───
@@ -283,6 +297,40 @@ function getLocType(loc) {
 const locLabels = {eu:'🇪🇺',apac:'🌏',amer:'🌎',africa:'🌍',global:'🌐',remote:'🏠',other:'📍'};
 
 function esc(s){return(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;')}
+
+// ─── Time helpers ───
+function formatUtc(iso) {
+  if (!iso) return '';
+  const d = new Date(iso);
+  if (isNaN(d.getTime())) return '';
+  const m = d.toLocaleString('en-US', { timeZone:'UTC', month:'short' });
+  const day = d.toLocaleString('en-US', { timeZone:'UTC', day:'numeric' });
+  const y = d.toLocaleString('en-US', { timeZone:'UTC', year:'numeric' });
+  const hh = d.toLocaleString('en-US', { timeZone:'UTC', hour:'2-digit', hour12:false });
+  const mm = d.toLocaleString('en-US', { timeZone:'UTC', minute:'2-digit' });
+  return `${m} ${day}, ${y} at ${hh}:${mm} UTC`;
+}
+function shortDate(iso) {
+  if (!iso) return '';
+  const d = new Date(iso.length === 10 ? iso + 'T00:00:00Z' : iso);
+  if (isNaN(d.getTime())) return iso;
+  return d.toLocaleDateString('en-US', { timeZone:'UTC', month:'short', day:'numeric' });
+}
+function formatPosted(iso) {
+  if (!iso) return null;
+  const d = new Date(iso);
+  if (isNaN(d.getTime())) return null;
+  const days = Math.floor((Date.now() - d.getTime()) / 86400000);
+  const full = 'Posted ' + d.toLocaleDateString('en-US', { month:'short', day:'numeric', year:'numeric' });
+  let label;
+  if (days <= 0) label = 'posted today';
+  else if (days === 1) label = 'posted 1d ago';
+  else if (days < 7) label = `posted ${days}d ago`;
+  else if (days < 30) label = `posted ${Math.floor(days/7)}w ago`;
+  else if (days < 365) label = d.toLocaleDateString('en-US', { month:'short', day:'numeric' });
+  else label = d.toLocaleDateString('en-US', { month:'short', year:'numeric' });
+  return { label, full };
+}
 
 // ─── Render ───
 function render() {
@@ -314,10 +362,10 @@ function render() {
     info.innerHTML = `Showing <strong>${jobs.length}</strong> results for "<span class="highlight">${esc(q)}</span>"`;
     info.classList.remove('hidden');
   } else if (tab === 'new') {
-    info.innerHTML = `🆕 <strong>${jobs.length}</strong> new jobs added today`;
+    info.innerHTML = `🆕 <strong>${jobs.length}</strong> new job${jobs.length!==1?'s':''} added on ${esc(shortDate(state.newDate)) || 'the latest crawl'}`;
     info.classList.remove('hidden');
   } else if (tab === 'removed') {
-    info.innerHTML = `❌ <strong>${jobs.length}</strong> jobs no longer listed`;
+    info.innerHTML = `❌ <strong>${jobs.length}</strong> job${jobs.length!==1?'s':''} no longer listed (as of ${esc(shortDate(state.removedDate)) || 'the latest crawl'})`;
     info.classList.remove('hidden');
   } else {
     info.classList.add('hidden');
@@ -350,10 +398,12 @@ function render() {
       const lt = getLocType(loc);
       const isNew = state.newKeys.has(`${j.company}|||${j.title}|||${j.url}`);
       const locDisplay = loc.length > 60 ? loc.substring(0,60)+'…' : loc;
+      const pf = formatPosted(j.posted_at);
+      const postedHtml = pf ? ` <span class="posted-tag" title="${esc(pf.full)}">📅 ${esc(pf.label)}</span>` : '';
       html += `<a href="${esc(j.url)}" target="_blank" rel="noopener" class="job-row" title="${esc(loc)}">
         <span class="title">${esc(j.title)}${isNew ? ' <span class="new-badge">NEW</span>' : ''}</span>
         <span class="meta">
-          <span class="loc-tag ${lt}">${locLabels[lt]||'📍'} ${esc(locDisplay)}</span>
+          ${postedHtml}<span class="loc-tag ${lt}">${locLabels[lt]||'📍'} ${esc(locDisplay)}</span>
         </span>
       </a>`;
     });
@@ -378,17 +428,20 @@ async function loadData() {
     const latest = await latestRes.json();
     state.allJobs = latest.jobs || [];
     state.date = latest.date || '';
+    state.crawlTime = latest.crawl_time_utc || (state.date ? state.date + 'T00:00:00Z' : '');
     state.companiesTracked = latest.total_companies || 0;
 
     // Build new keys set
     if (newRes.ok) {
       const nd = await newRes.json();
       state.newJobs = nd.jobs || [];
+      state.newDate = nd.date || '';
       state.newJobs.forEach(j => state.newKeys.add(`${j.company}|||${j.title}|||${j.url}`));
     }
     if (removedRes.ok) {
       const rd = await removedRes.json();
       state.removedJobs = rd.jobs || [];
+      state.removedDate = rd.date || '';
     }
 
     // Update stats
@@ -398,6 +451,14 @@ async function loadData() {
     document.getElementById('stat-new').textContent = state.newJobs.length;
     document.getElementById('stat-removed').textContent = state.removedJobs.length;
     document.getElementById('stat-tracked').textContent = state.companiesTracked;
+
+    // Last updated timestamp + dated new/removed labels
+    const lu = document.getElementById('last-updated');
+    lu.textContent = state.crawlTime ? formatUtc(state.crawlTime) : 'unknown';
+    const fu = document.getElementById('footer-updated');
+    if (state.crawlTime) fu.textContent = `Last updated: ${formatUtc(state.crawlTime)} · `;
+    if (state.newDate) document.getElementById('lbl-new').textContent = `🆕 New · ${shortDate(state.newDate)}`;
+    if (state.removedDate) document.getElementById('lbl-removed').textContent = `❌ Removed · ${shortDate(state.removedDate)}`;
 
     document.getElementById('loading').classList.add('hidden');
     render();
