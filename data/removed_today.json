@@ -1,889 +1,137 @@
 {
-  "date": "2026-09-01",
-  "crawl_time_utc": "2026-09-01T15:17:39.997782+00:00",
-  "total_removed": 98,
+  "date": "2026-09-02",
+  "crawl_time_utc": "2026-09-02T07:53:58.492330+00:00",
+  "total_removed": 13,
   "jobs": [
     {
-      "company": "ClickHouse",
-      "title": "AI Operations Engineer",
-      "location": "AMER | AMER | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6143997004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Certification Manager",
-      "location": "EMEA (Remote) | AMER | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6128997004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Cloud Security Engineer",
-      "location": "Netherlands (remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5854400004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Commercial Account Executive - Bangalore",
-      "location": "Bangalore | India",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6134879004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Commercial Solutions Architect - Germany or France",
-      "location": "Germany or France | Germany",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6138716004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Database Reliability Engineer - Core Team",
-      "location": "Netherlands (remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843421004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Database Reliability Engineer - Core Team",
-      "location": "Australia (remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843424004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Database Reliability Engineer - Core Team",
-      "location": "United Kingdom (remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843423004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Database Reliability Engineer - Core Team",
-      "location": "Germany (remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5843422004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Digital Native Account Executive-Israel",
-      "location": "Israel | Israel",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5798957004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Engineering Manager - China",
-      "location": "Mainland China (remote) | APJ",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5720674004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Enterprise Account Executive - Greater China Region ",
-      "location": "Singapore (remote) | Singapore",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6134906004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Enterprise Account Executive - Sweden",
-      "location": "Sweden | United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6147428004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Enterprise Account Executive - UK",
-      "location": "United Kingdom | United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6113761004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Enterprise Account Executive-Mumbai",
-      "location": "India | India",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6134900004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Full Stack Software Engineer - Control Plane",
-      "location": "Netherlands (remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5587664004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Full Stack Software Engineer - Control Plane",
-      "location": "Germany (remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5587665004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Offensive Security Engineer",
-      "location": "Netherlands (remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6116798004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Partner Sales Director - MEA",
-      "location": "UAE | UAE",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6147403004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Partner Sales Director-India",
-      "location": "India (Remote) | India",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6001185004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Partner Solutions Architect - India",
-      "location": "India | India",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6029800004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "ClickHouse",
-      "title": "People Business Partner Lead - APJ",
-      "location": "Singapore or Australia (remote) | Singapore",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6097383004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Principal  Product Manager, Security",
-      "location": "United Kingdom (remote) | The Netherlands",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5664427004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Principal Product Manager, Security",
-      "location": "Netherlands (remote) | The Netherlands",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5664384004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Principal Software Engineer - Postgres",
-      "location": "India (remote) | AMER | APJ | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6001255004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Principal Software Engineer - Postgres",
-      "location": "Netherlands | AMER | APJ | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6001256004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Product Marketing, Postgres",
-      "location": "The Netherlands | AMER",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6017719004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "ClickHouse",
-      "title": "QA Engineer - Core Database (remote)",
-      "location": "Spain (remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5654026004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "QA Engineer - Core Database (remote)",
-      "location": "India (remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5670526004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "QA Engineer - Core Database (remote)",
-      "location": "United Kingdom (remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5654025004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "QA Engineer - Core Database (remote)",
-      "location": "Netherlands (remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5654024004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "QA Engineer - Core Database (remote)",
-      "location": "Germany (remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5654023004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Security Specialist - EMEA (location flexible)",
-      "location": "EMEA (location flexible) | United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6143078004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Backend Engineer - Infrastructure (ClickPipes)",
-      "location": "Canada (remote) | AMER",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5776994004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Cloud Data Infrastructure Engineer",
-      "location": "Canada (Remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5778616004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Cloud Data Infrastructure Engineer",
-      "location": "Germany (remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5778615004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Cloud Performance Engineer",
-      "location": "Amsterdam (remote) | Singapore",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5768081004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Cloud Performance Engineer",
-      "location": "United Kingdom (remote) | Singapore",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5768078004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Cloud Performance Engineer",
-      "location": "Singapore (remote) | Singapore",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5768077004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Cloud Performance Engineer",
-      "location": "Australia (remote) | Singapore",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5768080004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Cloud Software Engineer - Efficiency Engineering",
-      "location": "Canada(Remote) | AMER",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6142785004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Consulting Engineer - Australia",
-      "location": "Australia (Remote) | Australia ",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6140117004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Consulting Engineer - EMEA",
-      "location": "EMEA (Remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6145650004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Consulting Engineer - India",
-      "location": "India (Remote) | India",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5848328004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Consulting Engineer - Japan",
-      "location": "Japan (Remote) | Japan",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6140123004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Consulting Engineer - LATAM",
-      "location": "LATAM (Remote) | LatAm",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6139814004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Consulting Engineer - Singapore",
-      "location": "Singapore (Remote) | Singapore",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5980183004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Full Stack Software Engineer - ClickPipes Platform",
-      "location": "United Kingdom (remote) | AMER | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5777061004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Full Stack Software Engineer - ClickPipes Platform",
-      "location": "Netherlands (remote) | AMER | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5777062004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer (Backend) - AI/ML",
-      "location": "Canada | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6009094004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer (Typescript / FrontEnd) - AI/ML",
-      "location": "Canada | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5999695004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Cloud Infrastructure",
-      "location": "Singapore (Remote) | AMER | APJ | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819676004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Cloud Infrastructure",
-      "location": "Amsterdam(Remote) | AMER | APJ | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819678004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Cloud Infrastructure",
-      "location": "UK (Remote) | AMER | APJ | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819677004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Cloud Infrastructure",
-      "location": "Canada(Remote) | AMER | APJ | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819679004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Cloud Partner Integrations",
-      "location": "Tel Aviv  | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6115279004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Cloud Partner Integrations",
-      "location": "UK (remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6116420004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Cloud Partner Integrations",
-      "location": "Germany (remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6115275004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Cloud Partner Integrations",
-      "location": "Spain (remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6115280004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Cloud Partner Integrations",
-      "location": "Canada (remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6115276004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Identity & Authorization Platform",
-      "location": "Canada (remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6018901004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Integrations - AI/ML",
-      "location": "Canada (Remote) | AMER | Israel | The Netherlands | United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6107515004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Integrations - AI/ML",
-      "location": "Germany (remote) | AMER | Israel | The Netherlands | United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6107516004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Integrations - AI/ML",
-      "location": "UK (remote) | AMER | Israel | The Netherlands | United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6107517004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Integrations - AI/ML",
-      "location": "Israel (remote) | AMER | Israel | The Netherlands | United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6107518004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Java Streaming - Connectors",
-      "location": "Germany (Remote) | AMER | Israel | The Netherlands | United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6000805004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Java Streaming - Connectors",
-      "location": "Canada (Remote) | AMER | Israel | The Netherlands | United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6000799004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Java Streaming - Connectors",
-      "location": "The Netherlands (Remote) | AMER | Israel | The Netherlands | United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6000798004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Java Streaming - Connectors",
-      "location": "United Kingdom (Remote) | AMER | Israel | The Netherlands | United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6000803004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Java Streaming - Connectors",
-      "location": "Israel (Remote) | AMER | Israel | The Netherlands | United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6000804004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Postgres",
-      "location": "Canada (remote) | APJ",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5989605004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Software Engineer - Postgres",
-      "location": "India (remote) | APJ",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5989606004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Technical Customer Support Engineer - Australia",
-      "location": "Australia (Remote) | APJ",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6139887004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Technical Customer Support Engineer - India",
-      "location": "India (Remote) | India",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5983191004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Senior Technical Customer Support Engineer - LATAM",
-      "location": "Latin America (Remote) | LatAm",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6151098004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Solutions Architect (Presales) ",
-      "location": "Singapore | Singapore",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5709944004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Solutions Architect - Colombia / Argentina",
-      "location": "Colombia or Argentina | LatAm",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6111028004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Solutions Architect - Germany",
-      "location": "Germany | United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6138821004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Solutions Architect - Melbourne",
-      "location": "Melbourne | APJ",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5994465004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Solutions Architect - Netherlands",
-      "location": "Netherlands | The Netherlands",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6151579004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Solutions Architect - Spain",
-      "location": "Spain | Spain",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6143029004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Solutions Architect - UAE",
-      "location": "United Arab Emirates | UAE",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6143041004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Solutions Architect - UK",
-      "location": "UK | United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6138732004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Support Engineer - China (Alibaba Cloud Strategic Accounts) 支持工程师 - 中国（阿里云战略客户）",
-      "location": "Mainland China (remote) | APJ",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6018725004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Technical Account Manager Architect - India",
-      "location": "India (Remote) | India",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6139783004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Technical Account Manager Architect - Singapore",
-      "location": "Singapore (Remote) | Singapore",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5810564004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Technical Customer Support Engineer - EMEA",
-      "location": "EMEA (Remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6145568004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "Technical Customer Support Engineer, AI Infrastructure & Observability - EMEA",
-      "location": "EMEA (Remote) | EMEA",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6163307004",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ClickHouse",
-      "title": "シニアコンサルティングエンジニア",
-      "location": "日本 (リモート) | Japan",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6140146004",
-      "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Customer.io",
-      "title": "Account Manager, EMEA",
-      "location": "EMEA Remote | EMEA Remote",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/customerio/jobs/7915379",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "Customer.io",
-      "title": "Customer Success Manager, EMEA",
-      "location": "EMEA Remote | EMEA Remote",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/customerio/jobs/8089365",
-      "board": "greenhouse",
-      "remote": true
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "GTM Chief of Staff - Middle East",
-      "location": "UAE",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/6797aaec-8471-4af2-ae20-534d7089f734",
+      "company": "Automattic",
+      "title": "Executive Assistant to CEO",
+      "location": "Remote | Product Maisons",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/automatticcareers/jobs/8076786",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-07-21T09:48:42-04:00"
+    },
+    {
+      "company": "Filevine",
+      "title": "Senior Site Reliability engineer",
+      "location": "Remote Reliability remote",
+      "department": "Reliability",
+      "url": "https://jobs.lever.co/filevine/9522044d-e855-4c22-abfe-d15c6e3aa377",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2026-08-07T22:51:58Z"
+    },
+    {
+      "company": "Filevine",
+      "title": "Staff Site Reliability Engineer",
+      "location": "Remote Reliability remote",
+      "department": "Reliability",
+      "url": "https://jobs.lever.co/filevine/e57a5f16-0711-4f50-a9a9-d19edf7b097a",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2026-08-01T17:15:32Z"
+    },
+    {
+      "company": "Maze",
+      "title": "Account Executive (UK)",
+      "location": "Remote (UK)",
+      "department": "GTM",
+      "url": "https://jobs.ashbyhq.com/mazehq/57188724-eaf5-4671-aff4-d1d3d02ea807",
       "board": "ashby",
-      "remote": true
+      "remote": true,
+      "posted_at": "2026-04-29T12:57:08.166+00:00"
     },
     {
-      "company": "ElevenLabs",
-      "title": "Production Manager ",
-      "location": "Europe | {'location': 'Spain', 'address': {'postalAddress': {'addressCountry': 'Spain'}}} | {'location': 'Sofia', 'address': {'postalAddress': {'addressCountry': 'Bulgaria', 'addressLocality': 'Bulgaria'}}} | {'location': 'Germany', 'address': {'postalAddress': {'addressCountry': 'Germany'}}} | {'location': 'Belgium', 'address': {'postalAddress': {'addressCountry': 'Belgium'}}} | {'location': 'Denmark', 'address': {'postalAddress': {'addressCountry': 'Denmark'}}} | {'location': 'Sweden', 'address': {'postalAddress': {'addressCountry': 'Sweden', 'addressLocality': 'Stockholm'}}} | {'location': 'Italy', 'address': {'postalAddress': {'addressCountry': 'Italy', 'addressLocality': ''}}} | {'location': 'Poland', 'address': {'postalAddress': {'addressCountry': 'Poland'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}} | {'location': 'Netherlands', 'address': {'postalAddress': {'addressCountry': 'Netherlands'}}} | {'location': 'France', 'address': {'postalAddress': {'addressCountry': 'France'}}}",
-      "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/cf173c80-b9b9-4e27-85fa-a26c68693ea9",
+      "company": "Maze",
+      "title": "Operations Associate",
+      "location": "Remote (UK)",
+      "department": "Operations",
+      "url": "https://jobs.ashbyhq.com/mazehq/2fb0bca8-ae4b-42ab-8f40-94966899e426",
       "board": "ashby",
-      "remote": true
+      "remote": true,
+      "posted_at": "2026-07-22T18:45:17.526+00:00"
     },
     {
-      "company": "Kong",
-      "title": "Software Engineer - Kubernetes ",
-      "location": "Milan, Italy",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/95db1297-8b22-439b-9331-2c4881f61b92",
+      "company": "Sardine",
+      "title": "Senior Data Scientist",
+      "location": "United Kingdom | {'location': 'Europe', 'address': {'postalAddress': {}}}",
+      "department": "Data Science",
+      "url": "https://jobs.ashbyhq.com/sardine/1a00a64d-2dbb-4e2f-9efe-1ed32226397e",
       "board": "ashby",
-      "remote": true
-    },
-    {
-      "company": "Kong",
-      "title": "Technical Certification Developer",
-      "location": "Bangalore, India",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/ec3cc260-7894-4613-9b05-0fe3626b159d",
-      "board": "ashby",
-      "remote": false
+      "remote": true,
+      "posted_at": "2026-04-29T23:37:48.981+00:00"
     },
     {
       "company": "Tide",
-      "title": "Senior Operations Manager",
-      "location": "Berlin, Germany | Berlin",
+      "title": "Senior Business Development Representative (Partner Credit Services - Funding Options)",
+      "location": "India, Delhi NCR | Delhi",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7978146003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7718232003",
       "board": "greenhouse",
-      "remote": false
-    },
-    {
-      "company": "Tide",
-      "title": "Senior Platform Operations Specialist",
-      "location": "Berlin, Germany | Berlin",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7862926003",
-      "board": "greenhouse",
-      "remote": false
+      "remote": false,
+      "posted_at": "2026-04-28T07:39:35-04:00"
     },
     {
       "company": "Wave Mobile Money",
-      "title": "Partner Operations Representative",
-      "location": "\">Abidjan, Côte d&#39;Ivoire; Bamako, Mali; OpCo; Ouagadougo",
+      "title": "Head of Brand Design and Creative",
+      "location": "\">Freetown, Sierra Leone",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6116959004/",
+      "url": "https://www.wave.com/en/careers/job/5836751004/",
       "board": "generic",
-      "remote": false
+      "remote": true,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Head of Marketing",
+      "location": "\">Ouagadougou, Burkina Faso",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/5817527004/",
+      "board": "generic",
+      "remote": true,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Head of Marketing",
+      "location": "\">Ouagadougou, Burkina Faso",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/5887670004/",
+      "board": "generic",
+      "remote": true,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Legal Counsel",
+      "location": "\">Banjul, The Gambia",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6121085004/",
+      "board": "generic",
+      "remote": true,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Marketing Manager",
+      "location": "\">Bamako, Mali",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6145124004/",
+      "board": "generic",
+      "remote": true,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Premium Cash Officer",
+      "location": "\">Malawi (MW)",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6098550004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
     }
   ]
 }

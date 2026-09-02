@@ -1,127 +1,67 @@
 {
-  "date": "2026-09-01",
-  "crawl_time_utc": "2026-09-01T15:17:39.997782+00:00",
-  "total_new": 12,
+  "date": "2026-09-02",
+  "crawl_time_utc": "2026-09-02T07:53:58.492330+00:00",
+  "total_new": 6,
   "jobs": [
     {
       "company": "Assured",
-      "title": "Outbound Product Manager",
+      "title": "Contract Technical Sourcer",
       "location": "Remote",
-      "department": "Product",
-      "url": "https://jobs.ashbyhq.com/assured/c3b06f35-8b7d-4b85-b2f7-fefb1bae6e87",
+      "department": "People",
+      "url": "https://jobs.ashbyhq.com/assured/2d8c3f83-69be-4bed-b0ed-a2852f6c1931",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-08-31T15:41:48.656+00:00"
+      "posted_at": "2026-09-01T16:17:21.142+00:00"
     },
     {
       "company": "ElevenLabs",
-      "title": "Production Manager (Arabic speaking) ",
-      "location": "Europe | {'location': 'Spain', 'address': {'postalAddress': {'addressCountry': 'Spain'}}} | {'location': 'Sofia', 'address': {'postalAddress': {'addressCountry': 'Bulgaria', 'addressLocality': 'Bulgaria'}}} | {'location': 'Germany', 'address': {'postalAddress': {'addressCountry': 'Germany'}}} | {'location': 'Belgium', 'address': {'postalAddress': {'addressCountry': 'Belgium'}}} | {'location': 'Denmark', 'address': {'postalAddress': {'addressCountry': 'Denmark'}}} | {'location': 'Sweden', 'address': {'postalAddress': {'addressCountry': 'Sweden', 'addressLocality': 'Stockholm'}}} | {'location': 'Italy', 'address': {'postalAddress': {'addressCountry': 'Italy', 'addressLocality': ''}}} | {'location': 'Poland', 'address': {'postalAddress': {'addressCountry': 'Poland'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}} | {'location': 'Netherlands', 'address': {'postalAddress': {'addressCountry': 'Netherlands'}}} | {'location': 'France', 'address': {'postalAddress': {'addressCountry': 'France'}}}",
+      "title": "Data Scientist - AI Safety",
+      "location": "London",
       "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/cf173c80-b9b9-4e27-85fa-a26c68693ea9",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/507e390a-eaeb-4000-936e-83e3e498c760",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-06-01T16:50:08.911+00:00"
-    },
-    {
-      "company": "Filevine",
-      "title": "AI Product Engineer (Backend/LLM)",
-      "location": "Prague Machine Learning hybrid",
-      "department": "Machine Learning",
-      "url": "https://jobs.lever.co/filevine/2e06e99f-fd88-459d-b959-c55bdfe5c641",
-      "board": "lever",
-      "remote": false,
-      "posted_at": "2026-09-01T11:20:10Z"
-    },
-    {
-      "company": "Filevine",
-      "title": "AI Product Engineer (Backend/LLM)",
-      "location": "Bratislava Machine Learning hybrid",
-      "department": "Machine Learning",
-      "url": "https://jobs.lever.co/filevine/e98e600b-4f80-429f-aaba-8d520ef659e4",
-      "board": "lever",
-      "remote": false,
-      "posted_at": "2026-09-01T11:48:23Z"
-    },
-    {
-      "company": "Filevine",
-      "title": "Senior Software Engineer, DepoLive",
-      "location": "Bratislava Depo Live hybrid",
-      "department": "Depo Live",
-      "url": "https://jobs.lever.co/filevine/87996a6f-53c7-44c4-a780-87cde0935137",
-      "board": "lever",
-      "remote": false,
-      "posted_at": "2026-09-01T09:39:35Z"
+      "posted_at": "2026-09-01T15:58:17.399+00:00"
     },
     {
       "company": "Kong",
-      "title": "Enterprise Account Executive",
-      "location": "United Arab Emirates",
+      "title": "Strategic Account Director – PSU",
+      "location": "New Delhi, India",
       "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/fbac8352-bd0b-478c-b709-eec6ef804357",
+      "url": "https://jobs.ashbyhq.com/kong/b435e044-45ab-4395-a681-24131c63ca0e",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-06-08T16:32:36.343+00:00"
+      "posted_at": "2026-09-02T07:26:20.348+00:00"
     },
     {
-      "company": "Kong",
-      "title": "IT Operations Support",
-      "location": "Milan, Italy",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/5e75624f-4dd9-43be-8958-317ae3f256a2",
+      "company": "Sardine",
+      "title": "General Manager - Mexico",
+      "location": "Mexico",
+      "department": "Operations",
+      "url": "https://jobs.ashbyhq.com/sardine/703c168c-956a-4e6c-ad62-0db65cd73ff6",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-09-01T07:58:16.177+00:00"
+      "posted_at": "2026-09-02T02:31:35.101+00:00"
     },
     {
-      "company": "Tide",
-      "title": "Business Operations Manager",
-      "location": "Berlin, Germany | Berlin",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7983019003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-09-01T02:44:08-04:00"
-    },
-    {
-      "company": "Tide",
-      "title": "Platform Operations Specialist",
-      "location": "Berlin, Germany | Berlin",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7862926003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-08-25T11:04:17-04:00"
-    },
-    {
-      "company": "Tide",
-      "title": "Product Operations Manager",
-      "location": "Berlin, Germany | Berlin",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7978146003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-08-26T09:57:20-04:00"
-    },
-    {
-      "company": "Vannevar",
-      "title": "Application Security Engineer",
-      "location": "Remote | Remote",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/vannevarlabs/jobs/5227131007",
-      "board": "greenhouse",
+      "company": "Sardine",
+      "title": "Senior Software Engineer, Frontend",
+      "location": "Canada",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/sardine/0602a07b-6f97-44c8-84e0-b2b1483852e9",
+      "board": "ashby",
       "remote": true,
-      "posted_at": "2026-09-01T09:20:12-04:00"
+      "posted_at": "2026-09-01T21:12:44.882+00:00"
     },
     {
-      "company": "Wave Mobile Money",
-      "title": "Legal Counsel",
-      "location": "\">Banjul, The Gambia",
+      "company": "Tide",
+      "title": "Group Financial Controller",
+      "location": "India, Delhi NCR | India",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6121085004/",
-      "board": "generic",
-      "remote": true,
-      "posted_at": ""
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7853531003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-08-17T12:21:07-04:00"
     }
   ]
 }
