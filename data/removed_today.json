@@ -1,6 +1,107 @@
 {
-  "date": "2026-09-02",
-  "crawl_time_utc": "2026-09-02T09:30:58.547798+00:00",
-  "total_removed": 0,
-  "jobs": []
+  "date": "2026-09-03",
+  "crawl_time_utc": "2026-09-03T09:30:59.928620+00:00",
+  "total_removed": 10,
+  "jobs": [
+    {
+      "company": "AssemblyAI",
+      "title": "Senior Forward Deployed Engineer",
+      "location": "London, England  | Remote - United Kingdom",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4715911005",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-07-16T13:30:01-04:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Customer Success - EMEA",
+      "location": "Germany | {'location': 'Dublin', 'address': {'postalAddress': {'addressCountry': 'Ireland', 'addressLocality': 'Dublin'}}} | {'location': 'Sofia', 'address': {'postalAddress': {'addressCountry': 'Bulgaria', 'addressLocality': 'Bulgaria'}}} | {'location': 'Warsaw', 'address': {'postalAddress': {'addressRegion': 'Poland', 'addressCountry': 'Poland', 'addressLocality': 'Warsaw'}}} | {'location': 'Italy', 'address': {'postalAddress': {'addressCountry': 'Italy', 'addressLocality': ''}}} | {'location': 'Madrid', 'address': {'postalAddress': {'addressRegion': 'Spain', 'addressCountry': 'Spain', 'addressLocality': 'Madrid'}}} | {'location': 'Amsterdam', 'address': {'postalAddress': {'addressCountry': 'Netherlands'}}} | {'location': 'Berlin', 'address': {'postalAddress': {'addressCountry': 'Germany', 'addressLocality': 'Berlin'}}}",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/3db51b70-d22b-46f7-8888-763f4d73029a",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-08-28T12:04:22.904+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Sales Development - LATAM",
+      "location": "Mexico | {'location': 'Argentina', 'address': {'postalAddress': {'addressCountry': 'Argentina', 'addressLocality': ''}}}",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/8ec246ab-a18e-4f6a-a8ba-6956668d31bf",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-01-22T14:34:36.203+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Strategic Account Executive - Switzerland - Consumer & Retail",
+      "location": "Switzerland | {'location': 'Zurich', 'address': {'postalAddress': {'addressCountry': 'Switzerland'}}}",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/f00cd4ae-3429-43a9-9e78-247ca3e4c404",
+      "board": "ashby",
+      "remote": false,
+      "posted_at": "2026-08-25T12:34:13.825+00:00"
+    },
+    {
+      "company": "Kong",
+      "title": "Site Reliability Engineer 2",
+      "location": "Singapore",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/3897636f-8d00-4096-88b5-808e104a19d9",
+      "board": "ashby",
+      "remote": false,
+      "posted_at": "2026-07-15T03:05:31.555+00:00"
+    },
+    {
+      "company": "Kong",
+      "title": "Strategic Account Executive, UKI",
+      "location": "England, United Kingdom",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/11779b45-c6dc-4c6a-9372-cc3e1b828278",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-06-22T09:44:10.392+00:00"
+    },
+    {
+      "company": "Sardine",
+      "title": "Enterprise Sales Engineer",
+      "location": "Japan",
+      "department": "Sales",
+      "url": "https://jobs.ashbyhq.com/sardine/2374df99-7e7e-453f-a3d0-5455812a4d15",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-07-29T16:13:29.291+00:00"
+    },
+    {
+      "company": "Tether",
+      "title": "Account Manager (100% remote)",
+      "location": " Warsaw | Poland, Warsaw",
+      "department": "Data",
+      "url": "https://careers.tether.io/o/1cc4o",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2025-12-02T14:43:45Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Account Manager (100% remote)",
+      "location": "Milano | Italy, Milano",
+      "department": "Data",
+      "url": "https://careers.tether.io/o/kvw9n",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2025-12-01T12:13:27Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Account Manager (100% remote)",
+      "location": "Madrid | Spain, Madrid",
+      "department": "",
+      "url": "https://careers.tether.io/o/p4t8s",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2025-11-25T17:28:21Z"
+    }
+  ]
 }
