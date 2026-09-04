@@ -1,107 +1,187 @@
 {
-  "date": "2026-09-03",
-  "crawl_time_utc": "2026-09-03T09:30:59.928620+00:00",
-  "total_removed": 10,
+  "date": "2026-09-04",
+  "crawl_time_utc": "2026-09-04T13:35:28.405135+00:00",
+  "total_removed": 18,
   "jobs": [
     {
-      "company": "AssemblyAI",
-      "title": "Senior Forward Deployed Engineer",
-      "location": "London, England  | Remote - United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4715911005",
-      "board": "greenhouse",
+      "company": "ElevenLabs",
+      "title": "Customer Success - Southern Europe",
+      "location": "Spain | {'location': 'Italy', 'address': {'postalAddress': {'addressCountry': 'Italy', 'addressLocality': ''}}}",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/78c564eb-ee87-46d9-b2fd-4322a223a547",
+      "board": "ashby",
       "remote": true,
-      "posted_at": "2026-07-16T13:30:01-04:00"
+      "posted_at": "2026-08-27T14:49:33.021+00:00"
     },
     {
       "company": "ElevenLabs",
-      "title": "Customer Success - EMEA",
-      "location": "Germany | {'location': 'Dublin', 'address': {'postalAddress': {'addressCountry': 'Ireland', 'addressLocality': 'Dublin'}}} | {'location': 'Sofia', 'address': {'postalAddress': {'addressCountry': 'Bulgaria', 'addressLocality': 'Bulgaria'}}} | {'location': 'Warsaw', 'address': {'postalAddress': {'addressRegion': 'Poland', 'addressCountry': 'Poland', 'addressLocality': 'Warsaw'}}} | {'location': 'Italy', 'address': {'postalAddress': {'addressCountry': 'Italy', 'addressLocality': ''}}} | {'location': 'Madrid', 'address': {'postalAddress': {'addressRegion': 'Spain', 'addressCountry': 'Spain', 'addressLocality': 'Madrid'}}} | {'location': 'Amsterdam', 'address': {'postalAddress': {'addressCountry': 'Netherlands'}}} | {'location': 'Berlin', 'address': {'postalAddress': {'addressCountry': 'Germany', 'addressLocality': 'Berlin'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/3db51b70-d22b-46f7-8888-763f4d73029a",
+      "title": "Deployment Strategist Lead - DACH",
+      "location": "Germany | {'location': 'Switzerland', 'address': {'postalAddress': {'addressCountry': 'Switzerland'}}}",
+      "department": "Engineering & Product",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/3f933746-136a-4d2b-9f5d-218da7b18eeb",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-08-28T12:04:22.904+00:00"
+      "posted_at": "2026-09-02T23:14:53.355+00:00"
     },
     {
       "company": "ElevenLabs",
-      "title": "Sales Development - LATAM",
-      "location": "Mexico | {'location': 'Argentina', 'address': {'postalAddress': {'addressCountry': 'Argentina', 'addressLocality': ''}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/8ec246ab-a18e-4f6a-a8ba-6956668d31bf",
+      "title": "IT Engineer",
+      "location": "London",
+      "department": "Engineering & Product",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/9aca205e-b2bc-405b-85d6-3d2aadbe49b1",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-01-22T14:34:36.203+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Strategic Account Executive - Switzerland - Consumer & Retail",
-      "location": "Switzerland | {'location': 'Zurich', 'address': {'postalAddress': {'addressCountry': 'Switzerland'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/f00cd4ae-3429-43a9-9e78-247ca3e4c404",
-      "board": "ashby",
-      "remote": false,
-      "posted_at": "2026-08-25T12:34:13.825+00:00"
+      "posted_at": "2026-07-31T12:28:58.871+00:00"
     },
     {
       "company": "Kong",
-      "title": "Site Reliability Engineer 2",
-      "location": "Singapore",
+      "title": "Cloud Alliances Director, EMEA",
+      "location": "London, England, United Kingdom",
       "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/3897636f-8d00-4096-88b5-808e104a19d9",
+      "url": "https://jobs.ashbyhq.com/kong/1cc44cc4-b068-4f70-86a2-c5e31000c5b5",
       "board": "ashby",
       "remote": false,
-      "posted_at": "2026-07-15T03:05:31.555+00:00"
+      "posted_at": "2026-05-19T19:40:05.831+00:00"
     },
     {
       "company": "Kong",
-      "title": "Strategic Account Executive, UKI",
+      "title": "Enterprise Account Executive - Germany",
+      "location": "Germany",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/eea494f4-4383-4191-b661-ec60e6100c38",
+      "board": "ashby",
+      "remote": false,
+      "posted_at": "2026-06-19T11:15:05.050+00:00"
+    },
+    {
+      "company": "Kong",
+      "title": "Senior Engagement Manager",
       "location": "England, United Kingdom",
       "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/11779b45-c6dc-4c6a-9372-cc3e1b828278",
+      "url": "https://jobs.ashbyhq.com/kong/622e1789-f5f0-4a60-9635-c2168646fcdc",
+      "board": "ashby",
+      "remote": false,
+      "posted_at": "2026-06-22T09:11:30.638+00:00"
+    },
+    {
+      "company": "Kong",
+      "title": "Senior Program Manager, Security Engineering",
+      "location": "Toronto, Canada",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/eba0b07d-752a-47c9-a585-71049677b55d",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-06-22T09:44:10.392+00:00"
+      "posted_at": "2026-01-26T18:59:59.666+00:00"
     },
     {
-      "company": "Sardine",
-      "title": "Enterprise Sales Engineer",
-      "location": "Japan",
-      "department": "Sales",
-      "url": "https://jobs.ashbyhq.com/sardine/2374df99-7e7e-453f-a3d0-5455812a4d15",
+      "company": "Kong",
+      "title": "Strategic Account Director – PSU",
+      "location": "New Delhi, India",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/b435e044-45ab-4395-a681-24131c63ca0e",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-07-29T16:13:29.291+00:00"
+      "posted_at": "2026-09-02T07:26:20.348+00:00"
     },
     {
-      "company": "Tether",
-      "title": "Account Manager (100% remote)",
-      "location": " Warsaw | Poland, Warsaw",
-      "department": "Data",
-      "url": "https://careers.tether.io/o/1cc4o",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2025-12-02T14:43:45Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Account Manager (100% remote)",
-      "location": "Milano | Italy, Milano",
-      "department": "Data",
-      "url": "https://careers.tether.io/o/kvw9n",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2025-12-01T12:13:27Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Account Manager (100% remote)",
-      "location": "Madrid | Spain, Madrid",
+      "company": "Postscript",
+      "title": "Staff Platform Engineer",
+      "location": "Remote | PDE",
       "department": "",
-      "url": "https://careers.tether.io/o/p4t8s",
-      "board": "recruitee",
+      "url": "https://job-boards.greenhouse.io/postscript/jobs/8637343002",
+      "board": "greenhouse",
       "remote": true,
-      "posted_at": "2025-11-25T17:28:21Z"
+      "posted_at": "2026-07-16T16:44:15-04:00"
+    },
+    {
+      "company": "Runway",
+      "title": "Revenue Accountant",
+      "location": "Remote",
+      "department": "Finance",
+      "url": "https://jobs.ashbyhq.com/runway-ml/e27165f8-f71d-4954-9912-8ce7488d6534",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-07-14T19:58:29.260+00:00"
+    },
+    {
+      "company": "Supabase",
+      "title": "AI Platform Engineer",
+      "location": "Remote, Global",
+      "department": "Business Operations",
+      "url": "https://jobs.ashbyhq.com/supabase/3b5d54ca-741b-45ac-bd3f-31605a0d3541",
+      "board": "ashby",
+      "remote": null,
+      "posted_at": "2026-07-31T18:56:39.246+00:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Manager, Policy & Procedure, Fraud, UK",
+      "location": "India, Hyderabad | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7640233003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-02-24T06:43:11-05:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Staff Data Scientist (Fraud & Risk)",
+      "location": "India, Hyderabad | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7777174003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-06-23T04:10:42-04:00"
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Corporate Events Coordinator",
+      "location": "\">Bamako, Mali",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6111579004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Merchant Distribution Supervisor",
+      "location": "\">Abidjan, Côte d&#39;Ivoire",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6151454004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Observability Specialist",
+      "location": "\">Abidjan, Côte d&#39;Ivoire",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6146026004/",
+      "board": "generic",
+      "remote": true,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Partner Operations Representative",
+      "location": "\">Abidjan, Côte d&#39;Ivoire; Bamako, Mali; OpCo; Ouagadougo",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6121394004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Premium Cash Officer",
+      "location": "\">Kinshasa, Democratic Republic of the Congo",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/5737018004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
     }
   ]
 }
