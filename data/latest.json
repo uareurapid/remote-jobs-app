@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-04",
-  "crawl_time_utc": "2026-09-04T13:35:28.405135+00:00",
+  "date": "2026-09-05",
+  "crawl_time_utc": "2026-09-05T18:14:41.665540+00:00",
   "total_companies": 53,
-  "total_jobs": 861,
+  "total_jobs": 862,
   "stats": {
-    "total_found": 861,
+    "total_found": 862,
     "filtered_us": 0,
     "errors": 0
   },
@@ -108,6 +108,16 @@
       "board": "ashby",
       "remote": true,
       "posted_at": "2026-09-01T16:17:21.142+00:00"
+    },
+    {
+      "company": "Assured",
+      "title": "Design Lead, Foundations",
+      "location": "Remote",
+      "department": "Product Design",
+      "url": "https://jobs.ashbyhq.com/assured/81394770-20c8-4ebc-91d4-838ad783b301",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-04T13:42:43.148+00:00"
     },
     {
       "company": "Assured",
@@ -518,6 +528,16 @@
       "board": "greenhouse",
       "remote": true,
       "posted_at": "2026-07-21T16:32:29-04:00"
+    },
+    {
+      "company": "Automattic",
+      "title": "Senior Counsel",
+      "location": "Remote | Legal Group",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/automatticcareers/jobs/8174113",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-09-04T20:26:34-04:00"
     },
     {
       "company": "Automattic",
@@ -2753,7 +2773,7 @@
       "company": "ElevenLabs",
       "title": "Revenue Strategy & Operations - APAC",
       "location": "Singapore | {'location': 'Australia', 'address': {'postalAddress': {'addressCountry': 'Australia'}}} | {'location': 'India', 'address': {'postalAddress': {'addressCountry': 'India', 'addressLocality': ''}}}",
-      "department": "Operations",
+      "department": "Revenue",
       "url": "https://jobs.ashbyhq.com/elevenlabs/0bbf2519-4f28-4de3-836a-aabc302050d7",
       "board": "ashby",
       "remote": true,
@@ -2763,7 +2783,7 @@
       "company": "ElevenLabs",
       "title": "Revenue Strategy & Operations - EMEA",
       "location": "Europe | {'location': 'Ireland', 'address': {'postalAddress': {'addressCountry': 'Ireland'}}} | {'location': 'Spain', 'address': {'postalAddress': {'addressCountry': 'Spain'}}} | {'location': 'Poland', 'address': {'postalAddress': {'addressRegion': 'Poland', 'addressCountry': 'Poland', 'addressLocality': 'Warsaw'}}} | {'location': 'Poland', 'address': {'postalAddress': {'addressCountry': 'Poland'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}} | {'location': 'London', 'address': {'postalAddress': {'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}}",
-      "department": "Operations",
+      "department": "Revenue",
       "url": "https://jobs.ashbyhq.com/elevenlabs/13dbc714-dc3e-4743-9c25-3400c23b6673",
       "board": "ashby",
       "remote": true,
@@ -2773,7 +2793,7 @@
       "company": "ElevenLabs",
       "title": "Revenue Strategy & Operations - LATAM",
       "location": "Mexico | {'location': 'Brazil', 'address': {'postalAddress': {'addressCountry': 'Brazil'}}} | {'location': 'Chile', 'address': {'postalAddress': {'addressCountry': 'Chile'}}} | {'location': 'Argentina', 'address': {'postalAddress': {'addressCountry': 'Argentina', 'addressLocality': ''}}}",
-      "department": "Operations",
+      "department": "Revenue",
       "url": "https://jobs.ashbyhq.com/elevenlabs/9ff4210a-208d-4e65-a1ed-b2a6926bd4a7",
       "board": "ashby",
       "remote": true,
@@ -3492,22 +3512,22 @@
     {
       "company": "Hightouch",
       "title": "Enterprise Account Executive - East",
-      "location": "Remote (Northeast) | Remote",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/hightouch/jobs/5799223004",
-      "board": "greenhouse",
-      "remote": true,
-      "posted_at": "2026-02-11T10:24:14-05:00"
-    },
-    {
-      "company": "Hightouch",
-      "title": "Enterprise Account Executive - East",
       "location": "Remote (Southeast) | Remote",
       "department": "",
       "url": "https://job-boards.greenhouse.io/hightouch/jobs/5799234004",
       "board": "greenhouse",
       "remote": true,
       "posted_at": "2026-02-11T10:22:58-05:00"
+    },
+    {
+      "company": "Hightouch",
+      "title": "Enterprise Account Executive - East",
+      "location": "Remote (Northeast) | Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/hightouch/jobs/5799223004",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-02-11T10:24:14-05:00"
     },
     {
       "company": "Hightouch",
@@ -4311,13 +4331,13 @@
     },
     {
       "company": "Phantom",
-      "title": "Senior Data Scientist",
+      "title": "Senior Software Engineer, Backend (Money Movement)",
       "location": "Remote",
-      "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/phantom/560634d5-2234-4dbc-9143-d8416c4efbdc",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/phantom/01acfd54-49c2-4913-a968-fc70fcf61e12",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-04-14T17:51:05.287+00:00"
+      "posted_at": "2026-09-04T19:36:11.336+00:00"
     },
     {
       "company": "Phantom",
@@ -4462,7 +4482,7 @@
     {
       "company": "Remote",
       "title": "For jobseekers",
-      "location": ".com/platform/use-case/startup-founders\" rel=\"noopener\" clas",
+      "location": "\" class=\"site-footer-module-scss-module__qYa75a__link typogr",
       "department": "",
       "url": "https://remote.com/jobs",
       "board": "generic",
@@ -4541,16 +4561,6 @@
     },
     {
       "company": "Runway",
-      "title": "Governance, Risk & Compliance",
-      "location": "Remote",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/runway-ml/54d1390a-0697-4102-88d2-68fa2da8bf0a",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-06-22T22:14:42.853+00:00"
-    },
-    {
-      "company": "Runway",
       "title": "Manager/ Director, Sales Development",
       "location": "Remote",
       "department": "Commercial",
@@ -4588,16 +4598,6 @@
       "board": "ashby",
       "remote": true,
       "posted_at": "2026-01-09T18:16:24.183+00:00"
-    },
-    {
-      "company": "Runway",
-      "title": "Product Engineer",
-      "location": "Remote",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/runway-ml/0feb8680-6573-458b-b00d-98aea86a94f5",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-09-02T17:10:33.177+00:00"
     },
     {
       "company": "Runway",
@@ -4668,6 +4668,16 @@
       "board": "ashby",
       "remote": true,
       "posted_at": "2026-04-17T04:16:28.824+00:00"
+    },
+    {
+      "company": "Runway",
+      "title": "Staff Product Engineer",
+      "location": "Remote",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/runway-ml/0feb8680-6573-458b-b00d-98aea86a94f5",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-02T17:10:33.177+00:00"
     },
     {
       "company": "Sardine",
