@@ -1,47 +1,27 @@
 {
-  "date": "2026-09-05",
-  "crawl_time_utc": "2026-09-05T18:14:41.665540+00:00",
-  "total_new": 4,
+  "date": "2026-09-07",
+  "crawl_time_utc": "2026-09-07T09:56:02.780034+00:00",
+  "total_new": 2,
   "jobs": [
     {
-      "company": "Assured",
-      "title": "Design Lead, Foundations",
-      "location": "Remote",
-      "department": "Product Design",
-      "url": "https://jobs.ashbyhq.com/assured/81394770-20c8-4ebc-91d4-838ad783b301",
+      "company": "Kong",
+      "title": "Site Reliability Engineer 2, Managed Gateways",
+      "location": "Bangalore, India",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/4da28c63-9926-4b14-93ba-c5c589233344",
       "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-09-04T13:42:43.148+00:00"
+      "remote": false,
+      "posted_at": "2026-09-07T04:02:20.356+00:00"
     },
     {
-      "company": "Automattic",
-      "title": "Senior Counsel",
-      "location": "Remote | Legal Group",
+      "company": "Wave Mobile Money",
+      "title": "Agent Operations Territory Lead",
+      "location": "\">Malawi (MW)",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/automatticcareers/jobs/8174113",
-      "board": "greenhouse",
-      "remote": true,
-      "posted_at": "2026-09-04T20:26:34-04:00"
-    },
-    {
-      "company": "Phantom",
-      "title": "Senior Software Engineer, Backend (Money Movement)",
-      "location": "Remote",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/phantom/01acfd54-49c2-4913-a968-fc70fcf61e12",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-09-04T19:36:11.336+00:00"
-    },
-    {
-      "company": "Runway",
-      "title": "Staff Product Engineer",
-      "location": "Remote",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/runway-ml/0feb8680-6573-458b-b00d-98aea86a94f5",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-09-02T17:10:33.177+00:00"
+      "url": "https://www.wave.com/en/careers/job/6173010004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
     }
   ]
 }

@@ -1,37 +1,257 @@
 {
-  "date": "2026-09-05",
-  "crawl_time_utc": "2026-09-05T18:14:41.665540+00:00",
-  "total_removed": 3,
+  "date": "2026-09-07",
+  "crawl_time_utc": "2026-09-07T09:56:02.780034+00:00",
+  "total_removed": 25,
   "jobs": [
     {
-      "company": "Phantom",
-      "title": "Senior Data Scientist",
-      "location": "Remote",
-      "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/phantom/560634d5-2234-4dbc-9143-d8416c4efbdc",
+      "company": "Maze",
+      "title": "Product Designer",
+      "location": "Remote (Europe)",
+      "department": "Product",
+      "url": "https://jobs.ashbyhq.com/mazehq/b8b9ba92-de27-4c49-a4a6-820c9c414a71",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-04-14T17:51:05.287+00:00"
+      "posted_at": "2026-05-31T16:15:09.607+00:00"
     },
     {
-      "company": "Runway",
-      "title": "Governance, Risk & Compliance",
-      "location": "Remote",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/runway-ml/54d1390a-0697-4102-88d2-68fa2da8bf0a",
-      "board": "ashby",
+      "company": "Tether",
+      "title": "Corporate Development Portfolio Manager ( Fintech & Emerging Markets)",
+      "location": "Geneve | Switzerland, Geneve",
+      "department": "Investment",
+      "url": "https://careers.tether.io/o/u6vor",
+      "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-06-22T22:14:42.853+00:00"
+      "posted_at": "2026-08-03T12:59:39Z"
     },
     {
-      "company": "Runway",
-      "title": "Product Engineer",
-      "location": "Remote",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/runway-ml/0feb8680-6573-458b-b00d-98aea86a94f5",
-      "board": "ashby",
+      "company": "Tether",
+      "title": "Global Events Finance Manager (100% remote)",
+      "location": "Medellin | Colombia, Medellin",
+      "department": "Operations",
+      "url": "https://careers.tether.io/o/m9s1w",
+      "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-09-02T17:10:33.177+00:00"
+      "posted_at": "2026-06-08T13:47:23Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Global Events Finance Manager (100% remote)",
+      "location": "Bogotá | Colombia, Bogotá",
+      "department": "Operations",
+      "url": "https://careers.tether.io/o/fv8cy",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-06-08T13:46:29Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Global Events Finance Manager (100% remote)",
+      "location": "Dubai | United Arab Emirates, Dubai",
+      "department": "Operations",
+      "url": "https://careers.tether.io/o/t9fmv",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-06-08T13:45:14Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Global Events Finance Manager (100% remote)",
+      "location": "Santo Domingo | Dominican Republic, Santo Domingo",
+      "department": "Operations",
+      "url": "https://careers.tether.io/o/6pctd",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-06-08T13:42:18Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Global Events Finance Manager (100% remote)",
+      "location": "Mexico City | Mexico, Mexico City",
+      "department": "Operations",
+      "url": "https://careers.tether.io/o/alh51",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-06-08T13:41:07Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Global Events Finance Manager (100% remote)",
+      "location": "Lisbon | Portugal, Lisbon",
+      "department": "Operations",
+      "url": "https://careers.tether.io/o/o2glu",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-06-02T07:54:04Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Global Events Finance Manager (100% remote)",
+      "location": "Budapest | Budapest, Hungary",
+      "department": "Operations",
+      "url": "https://careers.tether.io/o/kua8u",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-06-01T17:41:01Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Global Events Financial Controller (100% remote)",
+      "location": "Milano | Italy, Milano",
+      "department": "Operations",
+      "url": "https://careers.tether.io/o/7rrgh",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-06-01T13:18:55Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Global Events Financial Controller (100% remote)",
+      "location": "Brussels | Belgium, Brussels",
+      "department": "Operations",
+      "url": "https://careers.tether.io/o/e6hbu",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-06-01T13:17:18Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Global Events Financial Controller (100% remote)",
+      "location": "Luxemburg | Luxemburg ",
+      "department": "Operations",
+      "url": "https://careers.tether.io/o/wept9",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-06-01T13:13:54Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Internal Audit Manager (100% remote)",
+      "location": " Warsaw | Poland, Warsaw",
+      "department": "",
+      "url": "https://careers.tether.io/o/dwg9t",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-06-03T13:04:32Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Internal Audit Manager (100% remote)",
+      "location": "Prague | Czech Republic, Prague",
+      "department": "",
+      "url": "https://careers.tether.io/o/ppn8g",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-06-03T13:03:43Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Internal Audit Manager (100% remote)",
+      "location": "Barcelona | Spain, Barcelona",
+      "department": "",
+      "url": "https://careers.tether.io/o/vm2up",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-06-03T13:02:00Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Internal Audit Manager (100% remote)",
+      "location": "Lisbon | Portugal, Lisbon",
+      "department": "",
+      "url": "https://careers.tether.io/o/ycdtw",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-06-03T12:58:13Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Internal Audit Manager (100% remote)",
+      "location": "Dubai | United Arab Emirates, Dubai",
+      "department": "",
+      "url": "https://careers.tether.io/o/vae49",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-06-01T08:36:37Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Internal Audit Manager (100% remote)",
+      "location": "Amsterdam | The Netherlands, Amsterdam",
+      "department": "",
+      "url": "https://careers.tether.io/o/so1t6",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-06-01T08:35:46Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Internal Audit Manager (100% remote)",
+      "location": "London | United Kingdom, London",
+      "department": "",
+      "url": "https://careers.tether.io/o/stb1p",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-06-01T08:34:58Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Internal Audit Manager (100% remote)",
+      "location": "Madrid | Spain, Madrid",
+      "department": "",
+      "url": "https://careers.tether.io/o/wy5fn",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-06-01T08:33:46Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Internal Audit Manager (100% remote)",
+      "location": "United Kindom",
+      "department": "",
+      "url": "https://careers.tether.io/o/ogb4t",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-06-01T08:29:10Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Portfolio Manager - Real Estate",
+      "location": "Paris | France, Paris",
+      "department": "",
+      "url": "https://careers.tether.io/o/nbynu",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-07-15T06:20:57Z"
+    },
+    {
+      "company": "Tide",
+      "title": "People Operations Analyst",
+      "location": "Bulgaria | Sofia",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7820089003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-08-06T04:52:44-04:00"
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Agent Operations Regional Lead",
+      "location": "\">Freetown, Sierra Leone",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/5679105004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Fraud Analyst",
+      "location": "\">Dakar, Senegal",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6122324004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
     }
   ]
 }
