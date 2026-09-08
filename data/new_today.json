@@ -1,26 +1,66 @@
 {
-  "date": "2026-09-07",
-  "crawl_time_utc": "2026-09-07T09:56:02.780034+00:00",
-  "total_new": 2,
+  "date": "2026-09-08",
+  "crawl_time_utc": "2026-09-08T10:15:15.896532+00:00",
+  "total_new": 6,
   "jobs": [
     {
-      "company": "Kong",
-      "title": "Site Reliability Engineer 2, Managed Gateways",
-      "location": "Bangalore, India",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/4da28c63-9926-4b14-93ba-c5c589233344",
+      "company": "ElevenLabs",
+      "title": "B2B Marketing Lead- India",
+      "location": "India",
+      "department": "Growth",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/7f829e53-a3f1-42be-9e3e-5d4c417f3efd",
       "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-07-20T15:47:41.430+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Sales Development Lead - Middle East",
+      "location": "UAE",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/48c17c4e-f2ce-40a7-8eff-f22c15a13f53",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-07T10:18:45.976+00:00"
+    },
+    {
+      "company": "Phantom",
+      "title": "VIP Account Manager",
+      "location": "Remote",
+      "department": "Customer Happiness",
+      "url": "https://jobs.ashbyhq.com/phantom/84bfcb1e-74a6-4cd7-b1d4-01b7b5d59d2e",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-07T21:14:18.958+00:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Customer Support Associate ",
+      "location": "India, Hyderabad | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7608569003",
+      "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-09-07T04:02:20.356+00:00"
+      "posted_at": "2026-02-18T04:03:54-05:00"
     },
     {
       "company": "Wave Mobile Money",
-      "title": "Agent Operations Territory Lead",
-      "location": "\">Malawi (MW)",
+      "title": "Legal Counsel",
+      "location": "\">Cameroon (CM)",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6173010004/",
+      "url": "https://www.wave.com/en/careers/job/6121085004/",
       "board": "generic",
-      "remote": false,
+      "remote": true,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Marketing Manager",
+      "location": "\"\n        >",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6145124004/",
+      "board": "generic",
+      "remote": true,
       "posted_at": ""
     }
   ]
