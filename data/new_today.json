@@ -1,66 +1,46 @@
 {
-  "date": "2026-09-08",
-  "crawl_time_utc": "2026-09-08T10:15:15.896532+00:00",
-  "total_new": 6,
+  "date": "2026-09-09",
+  "crawl_time_utc": "2026-09-09T09:31:01.169181+00:00",
+  "total_new": 4,
   "jobs": [
     {
       "company": "ElevenLabs",
-      "title": "B2B Marketing Lead- India",
-      "location": "India",
-      "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/7f829e53-a3f1-42be-9e3e-5d4c417f3efd",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-07-20T15:47:41.430+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Sales Development Lead - Middle East",
-      "location": "UAE",
+      "title": "Account Executive - Germany - Core",
+      "location": "Germany | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}} | {'location': 'London', 'address': {'postalAddress': {'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}}",
       "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/48c17c4e-f2ce-40a7-8eff-f22c15a13f53",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/b16fee34-782a-47e3-85f4-7b3d683fc938",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-09-07T10:18:45.976+00:00"
+      "posted_at": "2026-04-02T11:47:13.254+00:00"
     },
     {
-      "company": "Phantom",
-      "title": "VIP Account Manager",
-      "location": "Remote",
-      "department": "Customer Happiness",
-      "url": "https://jobs.ashbyhq.com/phantom/84bfcb1e-74a6-4cd7-b1d4-01b7b5d59d2e",
+      "company": "Kong",
+      "title": "Renewal Account Manager",
+      "location": "Singapore",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/04fefde7-56ab-4f53-813d-c588b80c2700",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-09-07T21:14:18.958+00:00"
+      "posted_at": "2026-09-09T02:37:26.213+00:00"
     },
     {
-      "company": "Tide",
-      "title": "Customer Support Associate ",
-      "location": "India, Hyderabad | Hyderabad",
+      "company": "Tether",
+      "title": "Technical Content Creator - Pear/ Bare/ P2P (100% Remote Worldwide)",
+      "location": "Madrid | Spain, Madrid | Spain, Barcelona | Andorra | United Kindom | Switzerland, Lugano | Italy, Milano | Poland, Warsaw | Estonia, Tallinn | Portugal, Lisbon | Croatia, Zagreb | Ireland, Dublin | Denmark, Copenhagen | Malta, Sliema",
+      "department": "Marketing",
+      "url": "https://careers.tether.io/o/d7gw8",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-08T17:51:35Z"
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Customer Support Representative",
+      "location": "\">Freetown, Sierra Leone",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7608569003",
-      "board": "greenhouse",
+      "url": "https://www.wave.com/en/careers/job/6184890004/",
+      "board": "generic",
       "remote": false,
-      "posted_at": "2026-02-18T04:03:54-05:00"
-    },
-    {
-      "company": "Wave Mobile Money",
-      "title": "Legal Counsel",
-      "location": "\">Cameroon (CM)",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/6121085004/",
-      "board": "generic",
-      "remote": true,
-      "posted_at": ""
-    },
-    {
-      "company": "Wave Mobile Money",
-      "title": "Marketing Manager",
-      "location": "\"\n        >",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/6145124004/",
-      "board": "generic",
-      "remote": true,
       "posted_at": ""
     }
   ]

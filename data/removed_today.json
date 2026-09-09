@@ -1,106 +1,116 @@
 {
-  "date": "2026-09-08",
-  "crawl_time_utc": "2026-09-08T10:15:15.896532+00:00",
-  "total_removed": 10,
+  "date": "2026-09-09",
+  "crawl_time_utc": "2026-09-09T09:31:01.169181+00:00",
+  "total_removed": 11,
   "jobs": [
     {
-      "company": "ElevenLabs",
-      "title": "B2B Marketing - India",
-      "location": "India",
-      "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/7f829e53-a3f1-42be-9e3e-5d4c417f3efd",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-07-20T15:47:41.430+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Chief of Staff GTM - France",
-      "location": "France",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/e0fdb2f5-54b4-4dff-813d-2c328d990e4c",
-      "board": "ashby",
-      "remote": false,
-      "posted_at": "2026-08-11T09:04:36.968+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Customer Success - EMEA - Nordics",
-      "location": "Sweden",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/632efe5f-865b-43b1-9432-3b84bc6f7a31",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-09-02T16:13:24.952+00:00"
-    },
-    {
-      "company": "Form3",
-      "title": "Finance Manager",
-      "location": "100% Remote (UK) | Form3 London",
+      "company": "Automattic",
+      "title": "Product Manager, Growth & Analytics, Beeper",
+      "location": "Remote | Beeper Division",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/541/jobs/8672239002",
+      "url": "https://job-boards.greenhouse.io/automatticcareers/jobs/7796540",
       "board": "greenhouse",
       "remote": true,
-      "posted_at": "2026-08-03T11:37:05-04:00"
+      "posted_at": "2026-04-17T09:51:48-04:00"
+    },
+    {
+      "company": "Automattic",
+      "title": "Senior Sales Account Executive, Pressable",
+      "location": "Remote | Pressable",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/automatticcareers/jobs/8077926",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-07-21T16:32:35-04:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Account Executive - DACH - Core",
+      "location": "Germany | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}} | {'location': 'London', 'address': {'postalAddress': {'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}}",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/b16fee34-782a-47e3-85f4-7b3d683fc938",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-04-02T11:47:13.254+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Android Engineer",
+      "location": "London | {'location': 'Croatia', 'address': {'postalAddress': {}}} | {'location': 'Spain', 'address': {'postalAddress': {'addressCountry': 'Spain'}}} | {'location': 'Hungary', 'address': {'postalAddress': {}}} | {'location': 'Europe', 'address': {'postalAddress': {'addressCountry': 'European Union'}}} | {'location': 'Sofia', 'address': {'postalAddress': {'addressCountry': 'Bulgaria', 'addressLocality': 'Bulgaria'}}} | {'location': 'Germany', 'address': {'postalAddress': {'addressCountry': 'Germany'}}} | {'location': 'Denmark', 'address': {'postalAddress': {'addressCountry': 'Denmark'}}} | {'location': 'Portugal', 'address': {'postalAddress': {'addressCountry': 'Portugal'}}} | {'location': 'Finland', 'address': {'postalAddress': {}}} | {'location': 'Poland', 'address': {'postalAddress': {'addressRegion': 'Poland', 'addressCountry': 'Poland', 'addressLocality': 'Warsaw'}}} | {'location': 'Sweden', 'address': {'postalAddress': {'addressCountry': 'Sweden', 'addressLocality': 'Stockholm'}}} | {'location': 'Norway', 'address': {'postalAddress': {}}} | {'location': 'Poland', 'address': {'postalAddress': {'addressCountry': 'Poland'}}} | {'location': 'Slovakia', 'address': {'postalAddress': {}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}} | {'location': 'Romania', 'address': {'postalAddress': {}}} | {'location': 'Czechia', 'address': {'postalAddress': {}}} | {'location': 'France', 'address': {'postalAddress': {'addressCountry': 'France'}}} | {'location': 'Berlin', 'address': {'postalAddress': {'addressCountry': 'Germany', 'addressLocality': 'Berlin'}}}",
+      "department": "Engineering & Product",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/b05d28ca-bd69-4a3e-ba47-3fa12aa0ef8d",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-07-29T09:46:40.807+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Executive Assistant",
+      "location": "Poland | {'location': 'London', 'address': {'postalAddress': {'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}} | {'location': 'Amsterdam', 'address': {'postalAddress': {'addressCountry': 'Netherlands'}}}",
+      "department": "Operations",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/aa387988-9983-46a0-a265-d678af9939cb",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-08-27T20:21:07.157+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Strategic Account Executive - Spain",
+      "location": "Spain",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/1034a604-b714-428b-a9fd-fa8c0cd795cf",
+      "board": "ashby",
+      "remote": false,
+      "posted_at": "2026-07-13T02:53:41.465+00:00"
+    },
+    {
+      "company": "Kong",
+      "title": "Forward Deployed Engineer",
+      "location": "Milan, Italy",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/79315bf1-cfba-49b4-b2bf-af087bb92c8d",
+      "board": "ashby",
+      "remote": false,
+      "posted_at": "2026-06-10T09:00:55.228+00:00"
+    },
+    {
+      "company": "Runway",
+      "title": "Sr/Staff Business/GTM Recruiter",
+      "location": "Remote",
+      "department": "People",
+      "url": "https://jobs.ashbyhq.com/runway-ml/f65e164b-d577-4bd3-993b-7868d51fab5d",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-07-24T19:46:46.389+00:00"
     },
     {
       "company": "Tether",
       "title": "Portfolio Manager - Real Estate",
-      "location": "Luxemburg | Luxemburg ",
+      "location": "United Kindom",
       "department": "",
-      "url": "https://careers.tether.io/o/srndc",
+      "url": "https://careers.tether.io/o/23ull",
       "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-06-09T07:11:23Z"
+      "posted_at": "2026-06-05T11:25:52Z"
     },
     {
       "company": "Tide",
-      "title": "Premium Accounts Associate",
+      "title": "Head of Engineering, Commercial Services",
       "location": "India, Hyderabad | Hyderabad",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7608569003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7767017003",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-02-18T04:03:54-05:00"
+      "posted_at": "2026-06-09T11:14:53-04:00"
     },
     {
       "company": "Wave Mobile Money",
-      "title": "Agent Quality Officer",
-      "location": "\">Freetown, Sierra Leone",
+      "title": "Assistant Financial Controller",
+      "location": "\"\n        >",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6100728004/",
+      "url": "https://www.wave.com/en/careers/job/6119722004/",
       "board": "generic",
-      "remote": false,
-      "posted_at": ""
-    },
-    {
-      "company": "Wave Mobile Money",
-      "title": "CI Fraud Communications Officer",
-      "location": "\">Abidjan, Côte d&#39;Ivoire; Ouagadougou, Burkina Faso",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/6174626004/",
-      "board": "generic",
-      "remote": false,
-      "posted_at": ""
-    },
-    {
-      "company": "Wave Mobile Money",
-      "title": "Marketing Manager",
-      "location": "\">Banjul, The Gambia",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/6127381004/",
-      "board": "generic",
-      "remote": false,
-      "posted_at": ""
-    },
-    {
-      "company": "Wave Mobile Money",
-      "title": "Premium Cash Assistant",
-      "location": "\">Mbarara, Uganda",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/6004411004/",
-      "board": "generic",
-      "remote": false,
+      "remote": true,
       "posted_at": ""
     }
   ]
