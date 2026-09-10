@@ -1,46 +1,86 @@
 {
-  "date": "2026-09-09",
-  "crawl_time_utc": "2026-09-09T09:31:01.169181+00:00",
-  "total_new": 4,
+  "date": "2026-09-10",
+  "crawl_time_utc": "2026-09-10T09:31:19.088403+00:00",
+  "total_new": 8,
   "jobs": [
     {
-      "company": "ElevenLabs",
-      "title": "Account Executive - Germany - Core",
-      "location": "Germany | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}} | {'location': 'London', 'address': {'postalAddress': {'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/b16fee34-782a-47e3-85f4-7b3d683fc938",
+      "company": "Cohere",
+      "title": "Talent Partner, GTM",
+      "location": "London | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}}",
+      "department": "People Operations",
+      "url": "https://jobs.ashbyhq.com/cohere/cfbcd878-ed1c-4cdb-a02b-729d86bf2178",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-04-02T11:47:13.254+00:00"
+      "posted_at": "2026-09-10T03:28:04.499+00:00"
     },
     {
-      "company": "Kong",
-      "title": "Renewal Account Manager",
-      "location": "Singapore",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/04fefde7-56ab-4f53-813d-c588b80c2700",
+      "company": "ElevenLabs",
+      "title": "Executive Assistant - Finance",
+      "location": "Poland | {'location': 'Europe', 'address': {'postalAddress': {'addressCountry': 'European Union'}}} | {'location': 'London', 'address': {'postalAddress': {'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}} | {'location': 'Amsterdam', 'address': {'postalAddress': {'addressCountry': 'Netherlands'}}}",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/aa387988-9983-46a0-a265-d678af9939cb",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-09-09T02:37:26.213+00:00"
+      "posted_at": "2026-08-27T20:21:07.157+00:00"
+    },
+    {
+      "company": "Postscript",
+      "title": "Senior Customer Onboarding Manager",
+      "location": "Remote | GTM",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/postscript/jobs/8646237002",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-07-22T17:06:20-04:00"
+    },
+    {
+      "company": "Supabase",
+      "title": "Product Lead - Infrastructure",
+      "location": "Remote, Global",
+      "department": "Product",
+      "url": "https://jobs.ashbyhq.com/supabase/47bcfdb8-b954-423e-8a9e-85256434575c",
+      "board": "ashby",
+      "remote": null,
+      "posted_at": "2026-06-01T09:46:41.367+00:00"
     },
     {
       "company": "Tether",
-      "title": "Technical Content Creator - Pear/ Bare/ P2P (100% Remote Worldwide)",
-      "location": "Madrid | Spain, Madrid | Spain, Barcelona | Andorra | United Kindom | Switzerland, Lugano | Italy, Milano | Poland, Warsaw | Estonia, Tallinn | Portugal, Lisbon | Croatia, Zagreb | Ireland, Dublin | Denmark, Copenhagen | Malta, Sliema",
-      "department": "Marketing",
-      "url": "https://careers.tether.io/o/d7gw8",
+      "title": "Software Engineer P2P - Search Team (100% Remote, Worldwide)",
+      "location": "London | United Kingdom, London | United Kindom | United Kingdom, Manchester | United Kingdom, Scotland | United Arab Emirates, Dubai | United Arab Emirates, Abu Dhabi",
+      "department": "Engineering",
+      "url": "https://careers.tether.io/o/4r9te",
       "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-09-08T17:51:35Z"
+      "posted_at": "2026-07-08T19:01:50Z"
+    },
+    {
+      "company": "Tide",
+      "title": "Treasury Analyst",
+      "location": "India, Delhi NCR | United Kingdom",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7892224003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-08-18T11:26:47-04:00"
+    },
+    {
+      "company": "Vannevar",
+      "title": "Technical Recruiter",
+      "location": "Remote | Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/vannevarlabs/jobs/5044077007",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-05-15T12:04:11-04:00"
     },
     {
       "company": "Wave Mobile Money",
-      "title": "Customer Support Representative",
-      "location": "\">Freetown, Sierra Leone",
+      "title": "Applied AI Scientist - LLMs &amp; Voice",
+      "location": "\">OpCo",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6184890004/",
+      "url": "https://www.wave.com/en/careers/job/5779974004/",
       "board": "generic",
-      "remote": false,
+      "remote": true,
       "posted_at": ""
     }
   ]
