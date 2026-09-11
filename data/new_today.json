@@ -1,86 +1,246 @@
 {
-  "date": "2026-09-10",
-  "crawl_time_utc": "2026-09-10T09:31:19.088403+00:00",
-  "total_new": 8,
+  "date": "2026-09-11",
+  "crawl_time_utc": "2026-09-11T09:31:10.460797+00:00",
+  "total_new": 24,
   "jobs": [
     {
-      "company": "Cohere",
-      "title": "Talent Partner, GTM",
-      "location": "London | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}}",
-      "department": "People Operations",
-      "url": "https://jobs.ashbyhq.com/cohere/cfbcd878-ed1c-4cdb-a02b-729d86bf2178",
+      "company": "Assured",
+      "title": "Accounting Manager",
+      "location": "Remote",
+      "department": "Operations",
+      "url": "https://jobs.ashbyhq.com/assured/c0892339-7946-4893-8e8e-4d65e1b99691",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-09-10T03:28:04.499+00:00"
+      "posted_at": "2026-09-10T16:14:20.505+00:00"
     },
     {
-      "company": "ElevenLabs",
-      "title": "Executive Assistant - Finance",
-      "location": "Poland | {'location': 'Europe', 'address': {'postalAddress': {'addressCountry': 'European Union'}}} | {'location': 'London', 'address': {'postalAddress': {'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}} | {'location': 'Amsterdam', 'address': {'postalAddress': {'addressCountry': 'Netherlands'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/aa387988-9983-46a0-a265-d678af9939cb",
+      "company": "Assured",
+      "title": "Technical Program Manager",
+      "location": "Remote",
+      "department": "Product",
+      "url": "https://jobs.ashbyhq.com/assured/c3b06f35-8b7d-4b85-b2f7-fefb1bae6e87",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-08-27T20:21:07.157+00:00"
+      "posted_at": "2026-08-31T15:41:48.656+00:00"
     },
     {
-      "company": "Postscript",
-      "title": "Senior Customer Onboarding Manager",
-      "location": "Remote | GTM",
+      "company": "Automattic",
+      "title": "Business Development Representative, Pressable",
+      "location": "Remote | Pressable",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/postscript/jobs/8646237002",
+      "url": "https://job-boards.greenhouse.io/automatticcareers/jobs/6356799",
       "board": "greenhouse",
       "remote": true,
-      "posted_at": "2026-07-22T17:06:20-04:00"
+      "posted_at": "2024-11-05T12:15:25-05:00"
+    },
+    {
+      "company": "Automattic",
+      "title": "Technical Support Engineer, Pressable",
+      "location": "Remote | Pressable",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/automatticcareers/jobs/6294984",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2024-10-01T14:24:02-04:00"
+    },
+    {
+      "company": "Checkly",
+      "title": "Senior Product Engineer (DevTools & AI reliability, remote)",
+      "location": "Remote (UTC-3 to UTC+3) | {'location': 'Madrid', 'address': {'postalAddress': {'postalCode': '', 'addressRegion': 'MD', 'addressCountry': 'ES', 'addressLocality': 'Madrid'}}} | {'location': 'Sofia', 'address': {'postalAddress': {'addressCountry': 'Bulgaria', 'addressLocality': 'Sofia'}}} | {'location': 'Berlin', 'address': {'postalAddress': {'addressCountry': 'Germany', 'addressLocality': 'Berlin'}}}",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/checkly/8d068314-5ef8-4dcb-96a0-f79030a42dc1",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-10T11:44:58.559+00:00"
+    },
+    {
+      "company": "Cohere",
+      "title": "Forward Deployed Engineer, Infrastructure Specialist (Europe)",
+      "location": "United Kingdom | {'location': 'Brussels', 'address': {'postalAddress': {'addressCountry': 'Belgium', 'addressLocality': 'Brussels'}}} | {'location': 'Europe', 'address': {'postalAddress': {'addressCountry': 'European Union'}}} | {'location': 'Munich', 'address': {'postalAddress': {'addressRegion': 'Bavaria', 'addressCountry': 'Germany', 'addressLocality': 'Munich'}}} | {'location': 'London', 'address': {'postalAddress': {'addressRegion': 'London', 'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}} | {'location': 'Edinburgh', 'address': {'postalAddress': {'addressRegion': 'Edinburgh', 'addressCountry': 'United Kingdom', 'addressLocality': 'Edinburgh'}}} | {'location': 'Paris', 'address': {'postalAddress': {'addressCountry': 'France', 'addressLocality': 'Paris'}}} | {'location': 'Berlin', 'address': {'postalAddress': {'addressRegion': 'Berlin', 'addressCountry': 'Germany', 'addressLocality': 'Berlin'}}} | {'location': 'France', 'address': {'postalAddress': {'addressCountry': 'France'}}} | {'location': 'Middle East', 'address': {'postalAddress': {}}} | {'location': 'Frankfurt', 'address': {'postalAddress': {'addressRegion': 'Hesse', 'addressCountry': 'Germany', 'addressLocality': 'Frankfurt'}}} | {'location': 'Belgium', 'address': {'postalAddress': {'addressCountry': 'Belgium'}}}",
+      "department": "Engineering & Infra",
+      "url": "https://jobs.ashbyhq.com/cohere/69a9ab2e-a7eb-4c4f-825a-5c25cf063900",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2025-12-10T00:32:26.898+00:00"
+    },
+    {
+      "company": "Cohere",
+      "title": "Forward Deployed Engineer, Infrastructure Specialist (Middle East)",
+      "location": "Middle East | {'location': 'Dubai', 'address': {'postalAddress': {'addressCountry': 'United Arab Emirates', 'addressLocality': 'Dubai'}}} | {'location': 'United Arab Emirates', 'address': {'postalAddress': {'addressCountry': 'United Arab Emirates'}}} | {'location': 'Saudi Arabia', 'address': {'postalAddress': {'addressCountry': 'Saudi Arabia'}}} | {'location': 'Riyadh', 'address': {'postalAddress': {'addressRegion': 'Riyadh', 'addressCountry': 'Saudi Arabia', 'addressLocality': 'Riyadh'}}}",
+      "department": "Engineering & Infra",
+      "url": "https://jobs.ashbyhq.com/cohere/291e5dee-dcda-49e6-a1b6-dae0d48f80af",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-10T09:55:34.718+00:00"
+    },
+    {
+      "company": "Kong",
+      "title": "Account Executive, Commercial",
+      "location": "London, England, United Kingdom",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/8cfcb25c-6138-489f-849a-4d0da4158943",
+      "board": "ashby",
+      "remote": false,
+      "posted_at": "2026-08-10T14:22:20.815+00:00"
+    },
+    {
+      "company": "Sardine",
+      "title": "Forward Deployed Engineer, Integrations - EU/UK",
+      "location": "Singapore",
+      "department": "Integrations",
+      "url": "https://jobs.ashbyhq.com/sardine/ae38f6b8-91c6-4914-9113-e146813e2b28",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-10T20:46:35.770+00:00"
+    },
+    {
+      "company": "Sardine",
+      "title": "Senior Sales Engineer - MENA",
+      "location": "Remote",
+      "department": "Sales",
+      "url": "https://jobs.ashbyhq.com/sardine/7b1fa71e-4de6-4d45-bbcb-7ffc5f9297b6",
+      "board": "ashby",
+      "remote": null,
+      "posted_at": "2026-09-10T19:14:24.948+00:00"
     },
     {
       "company": "Supabase",
-      "title": "Product Lead - Infrastructure",
-      "location": "Remote, Global",
+      "title": "Product Manager - Strategic Partner Integrations (Bay Area based)",
+      "location": "Remote, Bay Area, CA",
       "department": "Product",
-      "url": "https://jobs.ashbyhq.com/supabase/47bcfdb8-b954-423e-8a9e-85256434575c",
+      "url": "https://jobs.ashbyhq.com/supabase/68a397e7-8a1a-4566-ae41-e8c61dd6ed93",
       "board": "ashby",
       "remote": null,
-      "posted_at": "2026-06-01T09:46:41.367+00:00"
+      "posted_at": "2026-08-21T11:40:44.050+00:00"
     },
     {
       "company": "Tether",
-      "title": "Software Engineer P2P - Search Team (100% Remote, Worldwide)",
-      "location": "London | United Kingdom, London | United Kindom | United Kingdom, Manchester | United Kingdom, Scotland | United Arab Emirates, Dubai | United Arab Emirates, Abu Dhabi",
-      "department": "Engineering",
-      "url": "https://careers.tether.io/o/4r9te",
+      "title": "Backend Engineer - Wallets (100% Remote Worldwide)",
+      "location": "Dubai | United Arab Emirates, Dubai",
+      "department": "Development",
+      "url": "https://careers.tether.io/o/55d4o",
       "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-07-08T19:01:50Z"
+      "posted_at": "2026-09-10T14:36:29Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Backend Engineer - Wallets (100% Remote)",
+      "location": "London | United Kingdom, London",
+      "department": "Development",
+      "url": "https://careers.tether.io/o/rmht4",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-10T14:34:53Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Backend Engineer - Wallets (100% Remote)",
+      "location": "Abu Dhabi | United Arab Emirates, Abu Dhabi",
+      "department": "Development",
+      "url": "https://careers.tether.io/o/mtk6b",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-10T14:35:12Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Backend Engineer - Wallets (100% Remote)",
+      "location": "Barcelona | Spain, Barcelona",
+      "department": "Development",
+      "url": "https://careers.tether.io/o/tr9wm",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-10T14:35:24Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Backend Engineer - Wallets (100% Remote)",
+      "location": "Rio de Janeiro | Brazil, Rio de Janeiro",
+      "department": "Development",
+      "url": "https://careers.tether.io/o/r4mfc",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-10T14:35:35Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Backend Engineer - Wallets (100% Remote)",
+      "location": "Dubai | United Arab Emirates, Dubai",
+      "department": "Development",
+      "url": "https://careers.tether.io/o/fr6pw",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-10T14:35:56Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Backend Engineer - Wallets (100% Remote)",
+      "location": "Dublin | Ireland, Dublin",
+      "department": "",
+      "url": "https://careers.tether.io/o/l8l1s",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-10T14:36:08Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Backend Engineer - Wallets (100% Remote)",
+      "location": "Hanoi | Vietnam, Hanoi",
+      "department": "Development",
+      "url": "https://careers.tether.io/o/y6nav",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-10T14:36:18Z"
     },
     {
       "company": "Tide",
-      "title": "Treasury Analyst",
-      "location": "India, Delhi NCR | United Kingdom",
+      "title": "Director of Member Engagement Marketing",
+      "location": "India, Delhi NCR | Delhi",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7892224003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7992215003",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-08-18T11:26:47-04:00"
-    },
-    {
-      "company": "Vannevar",
-      "title": "Technical Recruiter",
-      "location": "Remote | Remote",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/vannevarlabs/jobs/5044077007",
-      "board": "greenhouse",
-      "remote": true,
-      "posted_at": "2026-05-15T12:04:11-04:00"
+      "posted_at": "2026-09-11T02:37:45-04:00"
     },
     {
       "company": "Wave Mobile Money",
-      "title": "Applied AI Scientist - LLMs &amp; Voice",
-      "location": "\">OpCo",
+      "title": "Head of Compliance and Risk",
+      "location": "\">Cameroon (CM)",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/5779974004/",
+      "url": "https://www.wave.com/en/careers/job/6173810004/",
       "board": "generic",
-      "remote": true,
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "IT Operations Associate",
+      "location": "\">Cameroon (CM)",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6147511004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "IT Operations Associate",
+      "location": "\">Bamako, Mali",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6147535004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Senior Recruiter",
+      "location": "\">Abidjan, Côte d&#39;Ivoire; Bamako, Mali; OpCo; Ouagadougo",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6184860004/",
+      "board": "generic",
+      "remote": false,
       "posted_at": ""
     }
   ]
