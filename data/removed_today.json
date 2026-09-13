@@ -1,57 +1,6 @@
 {
   "date": "2026-09-13",
-  "crawl_time_utc": "2026-09-13T14:20:56.344245+00:00",
-  "total_removed": 5,
-  "jobs": [
-    {
-      "company": "ElevenLabs",
-      "title": "Deployment Strategist Lead - Poland",
-      "location": "Poland | {'location': 'Poland', 'address': {'postalAddress': {'addressRegion': 'Poland', 'addressCountry': 'Poland', 'addressLocality': 'Warsaw'}}}",
-      "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/c85b00d2-e72a-4c48-ae1b-3e0ea8d90499",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-09-02T23:12:52.221+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Sales Development - Southern Europe",
-      "location": "Spain | {'location': 'Ireland', 'address': {'postalAddress': {'addressCountry': 'Ireland'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/66c91741-b009-48ca-8d08-fad475ffc6e6",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-08-12T12:38:11.437+00:00"
-    },
-    {
-      "company": "Qualio",
-      "title": "Senior Full Stack Engineer (Remote Ireland )",
-      "location": "Ireland | EU",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/qualio/jobs/7628607003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-02-12T13:49:41-05:00"
-    },
-    {
-      "company": "Runway",
-      "title": "Staff Product Engineer",
-      "location": "Remote",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/runway-ml/0feb8680-6573-458b-b00d-98aea86a94f5",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-09-02T17:10:33.177+00:00"
-    },
-    {
-      "company": "Wave Mobile Money",
-      "title": "Legal Counsel",
-      "location": "\">Cameroon (CM)",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/6016067004/",
-      "board": "generic",
-      "remote": false,
-      "posted_at": ""
-    }
-  ]
+  "crawl_time_utc": "2026-09-13T14:25:58.889450+00:00",
+  "total_removed": 0,
+  "jobs": []
 }
