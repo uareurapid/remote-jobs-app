@@ -1,174 +1,54 @@
 {
-  "date": "2026-09-11",
-  "crawl_time_utc": "2026-09-11T09:31:10.460797+00:00",
-  "total_removed": 17,
+  "date": "2026-09-13",
+  "crawl_time_utc": "2026-09-13T14:20:56.344245+00:00",
+  "total_removed": 5,
   "jobs": [
     {
-      "company": "Assured",
-      "title": "Outbound Product Manager",
+      "company": "ElevenLabs",
+      "title": "Deployment Strategist Lead - Poland",
+      "location": "Poland | {'location': 'Poland', 'address': {'postalAddress': {'addressRegion': 'Poland', 'addressCountry': 'Poland', 'addressLocality': 'Warsaw'}}}",
+      "department": "Engineering & Product",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/c85b00d2-e72a-4c48-ae1b-3e0ea8d90499",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-02T23:12:52.221+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Sales Development - Southern Europe",
+      "location": "Spain | {'location': 'Ireland', 'address': {'postalAddress': {'addressCountry': 'Ireland'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}}",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/66c91741-b009-48ca-8d08-fad475ffc6e6",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-08-12T12:38:11.437+00:00"
+    },
+    {
+      "company": "Qualio",
+      "title": "Senior Full Stack Engineer (Remote Ireland )",
+      "location": "Ireland | EU",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/qualio/jobs/7628607003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-02-12T13:49:41-05:00"
+    },
+    {
+      "company": "Runway",
+      "title": "Staff Product Engineer",
       "location": "Remote",
-      "department": "Product",
-      "url": "https://jobs.ashbyhq.com/assured/c3b06f35-8b7d-4b85-b2f7-fefb1bae6e87",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-08-31T15:41:48.656+00:00"
-    },
-    {
-      "company": "Cohere",
-      "title": "Forward Deployed Engineer, Infrastructure Specialist (Europe/Middle East)",
-      "location": "United Kingdom | {'location': 'Dubai', 'address': {'postalAddress': {'addressCountry': 'United Arab Emirates', 'addressLocality': 'Dubai'}}} | {'location': 'Brussels', 'address': {'postalAddress': {'addressCountry': 'Belgium', 'addressLocality': 'Brussels'}}} | {'location': 'United Arab Emirates', 'address': {'postalAddress': {'addressCountry': 'United Arab Emirates'}}} | {'location': 'Europe', 'address': {'postalAddress': {'addressCountry': 'European Union'}}} | {'location': 'Munich', 'address': {'postalAddress': {'addressRegion': 'Bavaria', 'addressCountry': 'Germany', 'addressLocality': 'Munich'}}} | {'location': 'Saudi Arabia', 'address': {'postalAddress': {'addressCountry': 'Saudi Arabia'}}} | {'location': 'London', 'address': {'postalAddress': {'addressRegion': 'London', 'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}} | {'location': 'Edinburgh', 'address': {'postalAddress': {'addressRegion': 'Edinburgh', 'addressCountry': 'United Kingdom', 'addressLocality': 'Edinburgh'}}} | {'location': 'Paris', 'address': {'postalAddress': {'addressCountry': 'France', 'addressLocality': 'Paris'}}} | {'location': 'Berlin', 'address': {'postalAddress': {'addressRegion': 'Berlin', 'addressCountry': 'Germany', 'addressLocality': 'Berlin'}}} | {'location': 'France', 'address': {'postalAddress': {'addressCountry': 'France'}}} | {'location': 'Middle East', 'address': {'postalAddress': {}}} | {'location': 'Riyadh', 'address': {'postalAddress': {'addressRegion': 'Riyadh', 'addressCountry': 'Saudi Arabia', 'addressLocality': 'Riyadh'}}} | {'location': 'Frankfurt', 'address': {'postalAddress': {'addressRegion': 'Hesse', 'addressCountry': 'Germany', 'addressLocality': 'Frankfurt'}}} | {'location': 'Belgium', 'address': {'postalAddress': {'addressCountry': 'Belgium'}}}",
-      "department": "Engineering & Infra",
-      "url": "https://jobs.ashbyhq.com/cohere/69a9ab2e-a7eb-4c4f-825a-5c25cf063900",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2025-12-10T00:32:26.898+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "B2B Field Marketer - EMEA",
-      "location": "United Kingdom | {'location': 'Ireland', 'address': {'postalAddress': {'addressCountry': 'Ireland'}}} | {'location': 'Spain', 'address': {'postalAddress': {'addressCountry': 'Spain'}}} | {'location': 'Europe', 'address': {'postalAddress': {'addressCountry': 'European Union'}}} | {'location': 'Germany', 'address': {'postalAddress': {'addressCountry': 'Germany'}}} | {'location': 'Poland', 'address': {'postalAddress': {'addressCountry': 'Poland'}}} | {'location': 'London', 'address': {'postalAddress': {'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}}",
-      "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/2d986e5a-4e34-4e58-b7ad-1d335f8d54b8",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-08-13T09:33:14.081+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Events Manager - Europe",
-      "location": "Germany | {'location': 'Spain', 'address': {'postalAddress': {'addressCountry': 'Spain'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}}",
-      "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/de0b9e17-6a32-4034-8a38-dba2513ad326",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-07-20T15:28:04.792+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Revenue Partnerships - Southern Europe",
-      "location": "Spain",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/2aa0b7f5-bd25-487f-9831-bcf623d8b11d",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-07-13T14:35:08.859+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Sales Development Lead - APAC ",
-      "location": "Singapore",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/a3f3404f-7cac-4fd8-a1c9-77470da49b61",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-08-17T08:04:45.860+00:00"
-    },
-    {
-      "company": "Filevine",
-      "title": "Partner Manager - Federal",
-      "location": "District of Columbia Strategic Partnerships onsite",
-      "department": "Strategic Partnerships",
-      "url": "https://jobs.lever.co/filevine/70917b72-6a48-4255-87c5-fbf8abe293ae",
-      "board": "lever",
-      "remote": false,
-      "posted_at": "2026-08-14T05:02:06Z"
-    },
-    {
-      "company": "Kong",
-      "title": "Senior Incident Response Engineer",
-      "location": "Milan, Italy",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/25a443f2-17c3-4dee-b9f2-89e74ec2d5f2",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-01-07T10:14:32.891+00:00"
-    },
-    {
-      "company": "Kong",
-      "title": "Senior Security Engineer",
-      "location": "Milan, Italy",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/fec792e6-fa03-4fc3-b2d0-e5813f6a0aac",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-03-31T12:02:48.627+00:00"
-    },
-    {
-      "company": "Supabase",
-      "title": "CLI Engineer",
-      "location": "Remote, Global",
       "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/supabase/dd3f74dc-29f8-46b1-bcfb-b7f090b7146a",
+      "url": "https://jobs.ashbyhq.com/runway-ml/0feb8680-6573-458b-b00d-98aea86a94f5",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-04-30T18:13:57.035+00:00"
-    },
-    {
-      "company": "Supabase",
-      "title": "Product Manager - Strategic Partner Integrations",
-      "location": "Remote, Bay Area, CA",
-      "department": "Product",
-      "url": "https://jobs.ashbyhq.com/supabase/68a397e7-8a1a-4566-ae41-e8c61dd6ed93",
-      "board": "ashby",
-      "remote": null,
-      "posted_at": "2026-08-21T11:40:44.050+00:00"
-    },
-    {
-      "company": "Tide",
-      "title": "Asset Finance Specialist",
-      "location": "United Kingdom | London",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7685198003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-04-01T08:43:11-04:00"
-    },
-    {
-      "company": "Tide",
-      "title": "Customer Support Associate - L2",
-      "location": "India, Hyderabad | Hyderabad",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/6234225003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2024-10-07T05:22:57-04:00"
-    },
-    {
-      "company": "Tide",
-      "title": "Senior Engineer, Flutter",
-      "location": "Bulgaria | Bulgaria",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/6614190003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-04-28T07:18:24-04:00"
+      "posted_at": "2026-09-02T17:10:33.177+00:00"
     },
     {
       "company": "Wave Mobile Money",
-      "title": "Agent Operations Territory Lead",
-      "location": "\">Malawi (MW)",
+      "title": "Legal Counsel",
+      "location": "\">Cameroon (CM)",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6173010004/",
-      "board": "generic",
-      "remote": false,
-      "posted_at": ""
-    },
-    {
-      "company": "Wave Mobile Money",
-      "title": "Customer Support Team Lead",
-      "location": "\">Freetown, Sierra Leone",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/6126510004/",
-      "board": "generic",
-      "remote": false,
-      "posted_at": ""
-    },
-    {
-      "company": "Wave Mobile Money",
-      "title": "Field Auditor",
-      "location": "\">Abidjan, Côte d&#39;Ivoire; Ouagadougou, Burkina Faso",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/6141097004/",
+      "url": "https://www.wave.com/en/careers/job/6016067004/",
       "board": "generic",
       "remote": false,
       "posted_at": ""
