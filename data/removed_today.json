@@ -1,6 +1,27 @@
 {
-  "date": "2026-09-13",
-  "crawl_time_utc": "2026-09-13T14:25:58.889450+00:00",
-  "total_removed": 0,
-  "jobs": []
+  "date": "2026-09-14",
+  "crawl_time_utc": "2026-09-14T09:58:17.962792+00:00",
+  "total_removed": 2,
+  "jobs": [
+    {
+      "company": "Kong",
+      "title": "Account Development Representative (Swedish Speaking)",
+      "location": "London, England, United Kingdom",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/d8009a4d-01b6-4125-aa08-eabe4ea9d596",
+      "board": "ashby",
+      "remote": false,
+      "posted_at": "2026-05-29T11:16:17.282+00:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Business Development Specialist (International Sales)",
+      "location": "India, Delhi NCR | Delhi",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7598880003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-01-21T06:59:06-05:00"
+    }
+  ]
 }

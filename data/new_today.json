@@ -1,6 +1,57 @@
 {
-  "date": "2026-09-13",
-  "crawl_time_utc": "2026-09-13T14:25:58.889450+00:00",
-  "total_new": 0,
-  "jobs": []
+  "date": "2026-09-14",
+  "crawl_time_utc": "2026-09-14T09:58:17.962792+00:00",
+  "total_new": 5,
+  "jobs": [
+    {
+      "company": "Tide",
+      "title": "Lead Country Commercial Manager for Payments UK",
+      "location": "United Kingdom | London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7993817003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-14T04:27:56-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Tele-Sales Specialist (Business Finance Specialist) - Loans",
+      "location": "India, Delhi NCR | India",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7773217003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-06-15T06:08:26-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "VP Engineering, Ongoing Monitoring",
+      "location": "Berlin, Germany | London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7993908003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-14T05:49:08-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "VP Engineering, Ongoing Monitoring",
+      "location": "United Kingdom | London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7993879003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-14T05:20:03-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "VP Engineering, Ongoing Monitoring",
+      "location": "India, Hyderabad | London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7993896003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-14T05:43:54-04:00"
+    }
+  ]
 }

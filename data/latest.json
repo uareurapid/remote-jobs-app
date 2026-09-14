@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-13",
-  "crawl_time_utc": "2026-09-13T14:25:58.889450+00:00",
+  "date": "2026-09-14",
+  "crawl_time_utc": "2026-09-14T09:58:17.962792+00:00",
   "total_companies": 53,
-  "total_jobs": 823,
+  "total_jobs": 826,
   "stats": {
-    "total_found": 823,
+    "total_found": 826,
     "filtered_us": 0,
     "errors": 0
   },
@@ -3641,16 +3641,6 @@
     },
     {
       "company": "Kong",
-      "title": "Account Development Representative (Swedish Speaking)",
-      "location": "London, England, United Kingdom",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/d8009a4d-01b6-4125-aa08-eabe4ea9d596",
-      "board": "ashby",
-      "remote": false,
-      "posted_at": "2026-05-29T11:16:17.282+00:00"
-    },
-    {
-      "company": "Kong",
       "title": "Account Executive, Commercial",
       "location": "London, England, United Kingdom",
       "department": "All Cost Center",
@@ -6742,16 +6732,6 @@
     {
       "company": "Tide",
       "title": "Business Development Executive - French Speaking",
-      "location": "India, Hyderabad | Hyderabad",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7769443003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-06-12T05:01:36-04:00"
-    },
-    {
-      "company": "Tide",
-      "title": "Business Development Executive - French Speaking",
       "location": "Bulgaria | Hyderabad",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7821236003",
@@ -6761,13 +6741,13 @@
     },
     {
       "company": "Tide",
-      "title": "Business Development Specialist (International Sales)",
-      "location": "India, Delhi NCR | Delhi",
+      "title": "Business Development Executive - French Speaking",
+      "location": "India, Hyderabad | Hyderabad",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7598880003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7769443003",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-01-21T06:59:06-05:00"
+      "posted_at": "2026-06-12T05:01:36-04:00"
     },
     {
       "company": "Tide",
@@ -6832,22 +6812,22 @@
     {
       "company": "Tide",
       "title": "Director of Mobile and Web Platform",
-      "location": "Bulgaria | London",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7765740003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-06-08T02:06:39-04:00"
-    },
-    {
-      "company": "Tide",
-      "title": "Director of Mobile and Web Platform",
       "location": "Serbia | London",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7768101003",
       "board": "greenhouse",
       "remote": false,
       "posted_at": "2026-06-10T05:28:47-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Director of Mobile and Web Platform",
+      "location": "Berlin, Germany | London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7980053003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-08-27T22:43:29-04:00"
     },
     {
       "company": "Tide",
@@ -6862,12 +6842,12 @@
     {
       "company": "Tide",
       "title": "Director of Mobile and Web Platform",
-      "location": "Berlin, Germany | London",
+      "location": "Bulgaria | London",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7980053003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7765740003",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-08-27T22:43:29-04:00"
+      "posted_at": "2026-06-08T02:06:39-04:00"
     },
     {
       "company": "Tide",
@@ -6892,16 +6872,6 @@
     {
       "company": "Tide",
       "title": "Engineering Manager",
-      "location": "Bulgaria | Bulgaria | Lithuania | Romania | Serbia",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7569898003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2025-12-22T10:38:21-05:00"
-    },
-    {
-      "company": "Tide",
-      "title": "Engineering Manager",
       "location": "Serbia | Bulgaria | Lithuania | Romania | Serbia",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7570167003",
@@ -6911,13 +6881,13 @@
     },
     {
       "company": "Tide",
-      "title": "Engineering Manager - Accounts Platform",
-      "location": "Bulgaria | Sofia",
+      "title": "Engineering Manager",
+      "location": "Bulgaria | Bulgaria | Lithuania | Romania | Serbia",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7780974003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7569898003",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-07-01T04:33:22-04:00"
+      "posted_at": "2025-12-22T10:38:21-05:00"
     },
     {
       "company": "Tide",
@@ -6928,6 +6898,16 @@
       "board": "greenhouse",
       "remote": false,
       "posted_at": "2026-06-23T05:29:48-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Engineering Manager - Accounts Platform",
+      "location": "Bulgaria | Sofia",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7780974003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-07-01T04:33:22-04:00"
     },
     {
       "company": "Tide",
@@ -6962,22 +6942,22 @@
     {
       "company": "Tide",
       "title": "Engineering Manager, Member Accession Marketing ",
-      "location": "India, Bengaluru | Bengaluru | Delhi | Hyderabad",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/6643198003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2025-07-09T06:39:19-04:00"
-    },
-    {
-      "company": "Tide",
-      "title": "Engineering Manager, Member Accession Marketing ",
       "location": "India, Hyderabad | Bengaluru | Delhi | Hyderabad",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/6643188003",
       "board": "greenhouse",
       "remote": false,
       "posted_at": "2025-07-09T06:37:08-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Engineering Manager, Member Accession Marketing ",
+      "location": "India, Bengaluru | Bengaluru | Delhi | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/6643198003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2025-07-09T06:39:19-04:00"
     },
     {
       "company": "Tide",
@@ -7061,6 +7041,16 @@
     },
     {
       "company": "Tide",
+      "title": "Lead Country Commercial Manager for Payments UK",
+      "location": "United Kingdom | London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7993817003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-14T04:27:56-04:00"
+    },
+    {
+      "company": "Tide",
       "title": "Lead Product Manager - Banking Payments",
       "location": "Bulgaria | Bulgaria | Lithuania | Serbia",
       "department": "",
@@ -7072,22 +7062,22 @@
     {
       "company": "Tide",
       "title": "Lead Product Manager - Banking Payments",
-      "location": "Serbia | Bulgaria | Lithuania | Serbia",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7783194003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-06-24T10:01:15-04:00"
-    },
-    {
-      "company": "Tide",
-      "title": "Lead Product Manager - Banking Payments",
       "location": "Lithuania | Bulgaria | Lithuania | Serbia",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7783199003",
       "board": "greenhouse",
       "remote": false,
       "posted_at": "2026-06-24T10:03:45-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Lead Product Manager - Banking Payments",
+      "location": "Serbia | Bulgaria | Lithuania | Serbia",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7783194003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-06-24T10:01:15-04:00"
     },
     {
       "company": "Tide",
@@ -7262,22 +7252,22 @@
     {
       "company": "Tide",
       "title": "Security Engineer 3 - Vulnerability Management",
-      "location": "India, Bengaluru | Hyderabad",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7820211003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-07-29T08:52:44-04:00"
-    },
-    {
-      "company": "Tide",
-      "title": "Security Engineer 3 - Vulnerability Management",
       "location": "India, Hyderabad | Hyderabad",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7812620003",
       "board": "greenhouse",
       "remote": false,
       "posted_at": "2026-07-29T08:52:45-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Security Engineer 3 - Vulnerability Management",
+      "location": "India, Bengaluru | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7820211003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-07-29T08:52:44-04:00"
     },
     {
       "company": "Tide",
@@ -7304,20 +7294,20 @@
       "title": "Senior Commercial Finance Broker",
       "location": "United Kingdom | London",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7630894003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7652032003",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-02-15T13:26:28-05:00"
+      "posted_at": "2026-03-04T03:08:11-05:00"
     },
     {
       "company": "Tide",
       "title": "Senior Commercial Finance Broker",
       "location": "United Kingdom | London",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7652032003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7630894003",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-03-04T03:08:11-05:00"
+      "posted_at": "2026-02-15T13:26:28-05:00"
     },
     {
       "company": "Tide",
@@ -7362,6 +7352,16 @@
     {
       "company": "Tide",
       "title": "Senior Software Engineer, Flutter",
+      "location": "India, Hyderabad | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7766790003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-06-09T04:35:05-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Senior Software Engineer, Flutter",
       "location": "India, Delhi NCR | Hyderabad",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7815729003",
@@ -7381,16 +7381,6 @@
     },
     {
       "company": "Tide",
-      "title": "Senior Software Engineer, Flutter",
-      "location": "India, Hyderabad | Hyderabad",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7766790003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-06-09T04:35:05-04:00"
-    },
-    {
-      "company": "Tide",
       "title": "Senior Staff Software Engineer, Agentic Platform",
       "location": "United Kingdom | United Kingdom",
       "department": "",
@@ -7398,16 +7388,6 @@
       "board": "greenhouse",
       "remote": false,
       "posted_at": "2026-04-16T02:05:44-04:00"
-    },
-    {
-      "company": "Tide",
-      "title": "Senior Staff Software Engineer, Agentic Platform",
-      "location": "Bulgaria | United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7702553003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-04-16T02:05:46-04:00"
     },
     {
       "company": "Tide",
@@ -7422,12 +7402,12 @@
     {
       "company": "Tide",
       "title": "Senior Staff Software Engineer, Agentic Platform",
-      "location": "Lithuania | United Kingdom",
+      "location": "Bulgaria | United Kingdom",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7702555003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7702553003",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-04-16T02:05:51-04:00"
+      "posted_at": "2026-04-16T02:05:46-04:00"
     },
     {
       "company": "Tide",
@@ -7438,6 +7418,36 @@
       "board": "greenhouse",
       "remote": false,
       "posted_at": "2026-04-17T08:33:08-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Senior Staff Software Engineer, Agentic Platform",
+      "location": "Lithuania | United Kingdom",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7702555003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-04-16T02:05:51-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Staff Software Engineer, Agentic Platform",
+      "location": "Bulgaria | Bulgaria | Lithuania | Serbia",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7701766003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-04-15T10:58:13-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Staff Software Engineer, Agentic Platform",
+      "location": "Lithuania | Bulgaria | Lithuania | Serbia",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7701777003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-04-15T10:58:16-04:00"
     },
     {
       "company": "Tide",
@@ -7462,32 +7472,22 @@
     {
       "company": "Tide",
       "title": "Staff Software Engineer, Agentic Platform",
-      "location": "Lithuania | Bulgaria | Lithuania | Serbia",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7701777003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-04-15T10:58:16-04:00"
-    },
-    {
-      "company": "Tide",
-      "title": "Staff Software Engineer, Agentic Platform",
-      "location": "Bulgaria | Bulgaria | Lithuania | Serbia",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7701766003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-04-15T10:58:13-04:00"
-    },
-    {
-      "company": "Tide",
-      "title": "Staff Software Engineer, Agentic Platform",
       "location": "Berlin, Germany; Bulgaria; India, Bengaluru; India, Delhi NCR; India, Hyderabad; Lithuania; Serbia; United Kingdom",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7703991003",
       "board": "greenhouse",
       "remote": false,
       "posted_at": "2026-04-17T08:29:26-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Tele-Sales Specialist (Business Finance Specialist) - Loans",
+      "location": "India, Delhi NCR | India",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7773217003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-06-15T06:08:26-04:00"
     },
     {
       "company": "Tide",
@@ -7518,6 +7518,36 @@
       "board": "greenhouse",
       "remote": false,
       "posted_at": "2026-09-02T09:08:42-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "VP Engineering, Ongoing Monitoring",
+      "location": "Berlin, Germany | London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7993908003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-14T05:49:08-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "VP Engineering, Ongoing Monitoring",
+      "location": "United Kingdom | London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7993879003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-14T05:20:03-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "VP Engineering, Ongoing Monitoring",
+      "location": "India, Hyderabad | London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7993896003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-14T05:43:54-04:00"
     },
     {
       "company": "Tide",
