@@ -1,57 +1,147 @@
 {
-  "date": "2026-09-14",
-  "crawl_time_utc": "2026-09-14T09:58:17.962792+00:00",
-  "total_new": 5,
+  "date": "2026-09-15",
+  "crawl_time_utc": "2026-09-15T09:30:59.129257+00:00",
+  "total_new": 14,
   "jobs": [
     {
-      "company": "Tide",
-      "title": "Lead Country Commercial Manager for Payments UK",
-      "location": "United Kingdom | London",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7993817003",
-      "board": "greenhouse",
+      "company": "Kong",
+      "title": "EMEA Solutions Engineering Specialist",
+      "location": "England, United Kingdom",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/74759e4a-65f4-4c62-95b0-af06982f48cc",
+      "board": "ashby",
       "remote": false,
-      "posted_at": "2026-09-14T04:27:56-04:00"
+      "posted_at": "2026-09-14T13:25:36.204+00:00"
     },
     {
-      "company": "Tide",
-      "title": "Tele-Sales Specialist (Business Finance Specialist) - Loans",
-      "location": "India, Delhi NCR | India",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7773217003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-06-15T06:08:26-04:00"
+      "company": "Kong",
+      "title": "Senior Technical Product Marketing Manager, Agent Identity & Auth (EMEA)",
+      "location": "London, England, United Kingdom",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/f218e79e-fcdd-439f-9e7e-d31a0243d2a7",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-15T05:01:46.300+00:00"
     },
     {
-      "company": "Tide",
-      "title": "VP Engineering, Ongoing Monitoring",
-      "location": "Berlin, Germany | London",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7993908003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-09-14T05:49:08-04:00"
+      "company": "Phantom",
+      "title": "Staff Machine Learning Engineer",
+      "location": "Remote",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/phantom/1075b491-988e-4c24-8806-9e5e840cbe5a",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-14T13:27:39.132+00:00"
     },
     {
-      "company": "Tide",
-      "title": "VP Engineering, Ongoing Monitoring",
-      "location": "United Kingdom | London",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7993879003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-09-14T05:20:03-04:00"
+      "company": "Supabase",
+      "title": "Platform Engineer, Edge & Networking",
+      "location": "Remote, Global",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/supabase/6c9de03c-e289-4612-9045-492985d0274b",
+      "board": "ashby",
+      "remote": null,
+      "posted_at": "2026-09-14T13:27:23.742+00:00"
     },
     {
-      "company": "Tide",
-      "title": "VP Engineering, Ongoing Monitoring",
-      "location": "India, Hyderabad | London",
+      "company": "Tether",
+      "title": "Technical Lead - GPU Infrastructure",
+      "location": "Islamabad | Pakistan, Islamabad",
+      "department": "Data",
+      "url": "https://careers.tether.io/o/k6p3a",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-14T14:05:35Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Technical Lead - GPU Infrastructure",
+      "location": "Cairo | Egypt, Cairo",
+      "department": "Data",
+      "url": "https://careers.tether.io/o/nucgb",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-14T14:03:58Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Technical Lead - GPU Infrastructure",
+      "location": "Dublin | Ireland, Dublin",
+      "department": "Data",
+      "url": "https://careers.tether.io/o/umpwp",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-14T14:03:24Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Technical Lead - GPU Infrastructure",
+      "location": "Yerevan | Armenia, Yerevan",
+      "department": "Data",
+      "url": "https://careers.tether.io/o/ueop9",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-14T14:02:47Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Technical Lead - GPU Infrastructure",
+      "location": "Bucharest | Romania, Bucharest",
+      "department": "Data",
+      "url": "https://careers.tether.io/o/nt489",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-14T14:02:06Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Technical Lead - GPU Infrastructure",
+      "location": "Bangalore | India, Bangalore",
+      "department": "Data",
+      "url": "https://careers.tether.io/o/h6ggb",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-14T14:01:16Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Technical Lead - GPU Infrastructure",
+      "location": "Barcelona | Spain, Barcelona",
+      "department": "Data",
+      "url": "https://careers.tether.io/o/b9s4p",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-14T13:58:54Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Technical Lead - GPU Infrastructure",
+      "location": "London | United Kingdom, London",
+      "department": "Data",
+      "url": "https://careers.tether.io/o/7ksyr",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-14T14:00:25Z"
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Key Account Manager",
+      "location": "\">Banjul, The Gambia",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7993896003",
-      "board": "greenhouse",
+      "url": "https://www.wave.com/en/careers/job/6191353004/",
+      "board": "generic",
       "remote": false,
-      "posted_at": "2026-09-14T05:43:54-04:00"
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Senior Recruiter, Expansion",
+      "location": "\">Abidjan, Côte d&#39;Ivoire; Ouagadougou, Burkina Faso",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6191347004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
     }
   ]
 }
