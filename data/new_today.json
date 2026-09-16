@@ -1,144 +1,154 @@
 {
-  "date": "2026-09-15",
-  "crawl_time_utc": "2026-09-15T09:30:59.129257+00:00",
-  "total_new": 14,
+  "date": "2026-09-16",
+  "crawl_time_utc": "2026-09-16T11:09:39.814831+00:00",
+  "total_new": 15,
   "jobs": [
     {
+      "company": "Assured",
+      "title": "Product SME – Property Claims",
+      "location": "Remote",
+      "department": "Product",
+      "url": "https://jobs.ashbyhq.com/assured/e5c654ca-e216-4b14-a422-eebbce2648b4",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-15T17:32:56.553+00:00"
+    },
+    {
+      "company": "Checkly",
+      "title": "Solutions Engineer, Post-Sales (remote, US East Coast)",
+      "location": "Eastern Time zone",
+      "department": "Sales",
+      "url": "https://jobs.ashbyhq.com/checkly/ab803762-3024-4982-90ab-27fbfc17adeb",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-16T08:26:57.276+00:00"
+    },
+    {
+      "company": "Cohere",
+      "title": "Senior Full-Stack Engineer, Internal Applications ",
+      "location": "Toronto | {'location': 'Canada', 'address': {'postalAddress': {'addressCountry': 'Canada'}}}",
+      "department": "Engineering & Infra",
+      "url": "https://jobs.ashbyhq.com/cohere/7133d205-5421-4336-a8e2-6037b5f55073",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-15T18:21:37.401+00:00"
+    },
+    {
+      "company": "Junction",
+      "title": "Operations Associate (Proactive Posting)",
+      "location": "Philippines (Remote)",
+      "department": "Operations",
+      "url": "https://jobs.ashbyhq.com/junction/76cce4d7-ba68-4581-a299-c47df850c84e",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-15T14:19:00.837+00:00"
+    },
+    {
       "company": "Kong",
-      "title": "EMEA Solutions Engineering Specialist",
-      "location": "England, United Kingdom",
+      "title": "Account Development Representative",
+      "location": "Bangalore, India",
       "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/74759e4a-65f4-4c62-95b0-af06982f48cc",
+      "url": "https://jobs.ashbyhq.com/kong/0c83fc46-001a-42d2-b979-d16ff0806681",
       "board": "ashby",
       "remote": false,
-      "posted_at": "2026-09-14T13:25:36.204+00:00"
+      "posted_at": "2026-09-15T15:05:24.502+00:00"
     },
     {
       "company": "Kong",
-      "title": "Senior Technical Product Marketing Manager, Agent Identity & Auth (EMEA)",
+      "title": "Administrative Assistant-EMEA & APJ",
+      "location": "Bangalore, India",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/ed329e70-914f-486f-9143-b9f19b22e5fe",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-16T06:05:59.346+00:00"
+    },
+    {
+      "company": "Kong",
+      "title": "Product Marketing Manager, AI Governance (EMEA)",
       "location": "London, England, United Kingdom",
       "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/f218e79e-fcdd-439f-9e7e-d31a0243d2a7",
+      "url": "https://jobs.ashbyhq.com/kong/a9282dc2-d0ec-4440-a926-c3df78c0b517",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-09-15T05:01:46.300+00:00"
+      "posted_at": "2026-09-15T09:53:44.358+00:00"
     },
     {
-      "company": "Phantom",
-      "title": "Staff Machine Learning Engineer",
-      "location": "Remote",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/phantom/1075b491-988e-4c24-8806-9e5e840cbe5a",
+      "company": "Kong",
+      "title": "Senior Technical Support Engineer",
+      "location": "Bangalore, India",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/e022613c-5246-40f4-9c03-38b85394e62d",
       "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-09-14T13:27:39.132+00:00"
-    },
-    {
-      "company": "Supabase",
-      "title": "Platform Engineer, Edge & Networking",
-      "location": "Remote, Global",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/supabase/6c9de03c-e289-4612-9045-492985d0274b",
-      "board": "ashby",
-      "remote": null,
-      "posted_at": "2026-09-14T13:27:23.742+00:00"
+      "remote": false,
+      "posted_at": "2026-09-15T13:43:41.887+00:00"
     },
     {
       "company": "Tether",
-      "title": "Technical Lead - GPU Infrastructure",
-      "location": "Islamabad | Pakistan, Islamabad",
-      "department": "Data",
-      "url": "https://careers.tether.io/o/k6p3a",
+      "title": "Event Design Coordinator (Remote / Europe)",
+      "location": "Barcelona | Spain, Barcelona | Spain, Madrid | Belgium  | Belgium, Brussels | The Netherlands, Amsterdam",
+      "department": "Marketing",
+      "url": "https://careers.tether.io/o/8onuk",
       "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-09-14T14:05:35Z"
+      "posted_at": "2026-09-15T15:04:01Z"
     },
     {
       "company": "Tether",
-      "title": "Technical Lead - GPU Infrastructure",
-      "location": "Cairo | Egypt, Cairo",
-      "department": "Data",
-      "url": "https://careers.tether.io/o/nucgb",
+      "title": "Technical Content Creator - Pear/ Bare/ P2P (Remote / Europe)",
+      "location": "Madrid | Spain, Madrid | Spain, Barcelona | Andorra | United Kindom | Switzerland, Lugano | Italy, Milano | Poland, Warsaw | Estonia, Tallinn | Portugal, Lisbon | Croatia, Zagreb | Ireland, Dublin | Denmark, Copenhagen | Malta, Sliema",
+      "department": "Marketing",
+      "url": "https://careers.tether.io/o/d7gw8",
       "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-09-14T14:03:58Z"
+      "posted_at": "2026-09-08T17:51:35Z"
     },
     {
-      "company": "Tether",
-      "title": "Technical Lead - GPU Infrastructure",
-      "location": "Dublin | Ireland, Dublin",
-      "department": "Data",
-      "url": "https://careers.tether.io/o/umpwp",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-09-14T14:03:24Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Technical Lead - GPU Infrastructure",
-      "location": "Yerevan | Armenia, Yerevan",
-      "department": "Data",
-      "url": "https://careers.tether.io/o/ueop9",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-09-14T14:02:47Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Technical Lead - GPU Infrastructure",
-      "location": "Bucharest | Romania, Bucharest",
-      "department": "Data",
-      "url": "https://careers.tether.io/o/nt489",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-09-14T14:02:06Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Technical Lead - GPU Infrastructure",
-      "location": "Bangalore | India, Bangalore",
-      "department": "Data",
-      "url": "https://careers.tether.io/o/h6ggb",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-09-14T14:01:16Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Technical Lead - GPU Infrastructure",
-      "location": "Barcelona | Spain, Barcelona",
-      "department": "Data",
-      "url": "https://careers.tether.io/o/b9s4p",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-09-14T13:58:54Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Technical Lead - GPU Infrastructure",
-      "location": "London | United Kingdom, London",
-      "department": "Data",
-      "url": "https://careers.tether.io/o/7ksyr",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-09-14T14:00:25Z"
+      "company": "Tide",
+      "title": "Chief of Staff",
+      "location": "India, Hyderabad | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7994176003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-16T07:07:27-04:00"
     },
     {
       "company": "Wave Mobile Money",
-      "title": "Key Account Manager",
-      "location": "\">Banjul, The Gambia",
+      "title": "Merchant Opening Supervisor",
+      "location": "\">Abidjan, Côte d&#39;Ivoire",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6191353004/",
+      "url": "https://www.wave.com/en/careers/job/6191506004/",
       "board": "generic",
       "remote": false,
       "posted_at": ""
     },
     {
       "company": "Wave Mobile Money",
-      "title": "Senior Recruiter, Expansion",
-      "location": "\">Abidjan, Côte d&#39;Ivoire; Ouagadougou, Burkina Faso",
+      "title": "Partner Operations Team Lead",
+      "location": "\">Niamey, Niger",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6191347004/",
+      "url": "https://www.wave.com/en/careers/job/6191368004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Premium Agent Network Officer",
+      "location": "\">Niamey, Niger",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6190870004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Premium Cash Assistant",
+      "location": "\">Kinshasa, Democratic Republic of the Congo",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6190871004/",
       "board": "generic",
       "remote": false,
       "posted_at": ""
