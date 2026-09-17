@@ -1,114 +1,184 @@
 {
-  "date": "2026-09-16",
-  "crawl_time_utc": "2026-09-16T11:09:39.814831+00:00",
-  "total_removed": 11,
+  "date": "2026-09-17",
+  "crawl_time_utc": "2026-09-17T09:30:59.869230+00:00",
+  "total_removed": 18,
   "jobs": [
     {
       "company": "Cohere",
-      "title": "Senior Account Executive, Germany PUBSEC (Berlin, Germany)",
-      "location": "Berlin",
+      "title": "Business Development Representative ",
+      "location": "Korea",
       "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/cohere/e588a0ac-6a84-42fd-808f-6474fd8ff6f0",
+      "url": "https://jobs.ashbyhq.com/cohere/dd2f91e7-d2bb-41b7-b8e9-4de925dc0111",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-07-27T03:38:05.576+00:00"
+      "posted_at": "2026-07-07T20:20:13.304+00:00"
     },
     {
       "company": "ElevenLabs",
-      "title": "Account Executive - Nordics - Enterprise ",
-      "location": "Remote | {'location': 'Sweden', 'address': {'postalAddress': {'addressCountry': 'Sweden', 'addressLocality': 'Stockholm'}}}",
+      "title": "Account Executive - ElevenCreative - France",
+      "location": "France",
+      "department": "Growth",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/7ce7ff0a-564c-488a-aee1-db227b6a50ca",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-07-10T16:32:58.256+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Account Manager - APAC",
+      "location": "Singapore",
       "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/be13cb57-272a-4640-9366-f1fbb7b8f166",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/46b3cde4-709f-4d46-9817-5cf881bb35d5",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-07-08T07:54:46.988+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Compliance Engineer - APAC",
+      "location": "Tokyo | {'location': 'Australia', 'address': {'postalAddress': {'addressCountry': 'Australia'}}} | {'location': 'Japan', 'address': {'postalAddress': {'addressCountry': 'Japan'}}} | {'location': 'Singapore', 'address': {'postalAddress': {'addressCountry': 'Singapore', 'addressLocality': 'Singapore'}}}",
+      "department": "Engineering & Product",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/03cefd49-972f-45b2-b6c7-9a42d133af0c",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-04-09T09:40:36.354+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Revenue Leader - Mid-Market, India",
+      "location": "India",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/118df45c-32b8-468e-88d4-691b9cae3627",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-08-28T13:43:03.488+00:00"
+    },
+    {
+      "company": "Kong",
+      "title": "Software Engineer",
+      "location": "Toronto, Canada",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/e75c7ded-f94e-4ee8-9365-794bbd0e0e91",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-01-22T17:23:10.510+00:00"
+    },
+    {
+      "company": "Postscript",
+      "title": "Principal Customer Success Manager, Email ",
+      "location": "Remote | GTM",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/postscript/jobs/8659896002",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-07-30T17:17:11-04:00"
+    },
+    {
+      "company": "Runway",
+      "title": "Senior IT Engineer - London",
+      "location": "Remote | {'location': 'London', 'address': {'postalAddress': {'addressRegion': 'England', 'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}}",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/runway-ml/67831df0-4dfb-4db2-b5ea-947506774e5a",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-08-17T21:02:12.081+00:00"
+    },
+    {
+      "company": "Sardine",
+      "title": "Strategic Account Manager - MENA",
+      "location": "Dubai, United Arab Emirates",
+      "department": "Account Management",
+      "url": "https://jobs.ashbyhq.com/sardine/c7c6097e-0ceb-4337-a846-29fd5ede3ed7",
       "board": "ashby",
       "remote": null,
-      "posted_at": "2026-08-07T14:25:37.453+00:00"
+      "posted_at": "2026-08-27T12:54:19.769+00:00"
     },
     {
-      "company": "ElevenLabs",
-      "title": "Detection Engineer",
-      "location": "London",
-      "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/f9df85c5-bcb0-4d75-9728-775e746a0383",
+      "company": "Sardine",
+      "title": "Technical Recruiter - UK",
+      "location": "United Kingdom",
+      "department": "Talent and People",
+      "url": "https://jobs.ashbyhq.com/sardine/e69eed0d-3a56-4084-ab50-4618237442f7",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-08-05T20:48:47.450+00:00"
+      "posted_at": "2026-07-25T00:26:34.988+00:00"
     },
     {
-      "company": "ElevenLabs",
-      "title": "Detection Engineer - APAC",
-      "location": "Australia | {'location': 'Singapore', 'address': {'postalAddress': {'addressCountry': 'Singapore', 'addressLocality': 'Singapore'}}} | {'location': 'Philippines', 'address': {'postalAddress': {'addressCountry': 'Philippines'}}}",
-      "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/6fb6f3a3-9680-41ac-bcde-e5a7abfc5f5c",
+      "company": "Supabase",
+      "title": "OrioleDB Developer ",
+      "location": "Remote, AMER",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/supabase/621516b5-4d8f-4ee9-8287-2da12e63d023",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-07-29T07:52:29.160+00:00"
+      "posted_at": "2026-05-19T14:43:21.010+00:00"
     },
     {
-      "company": "Filevine",
-      "title": "Senior Software Engineer",
-      "location": "Prague MedChron hybrid",
-      "department": "MedChron",
-      "url": "https://jobs.lever.co/filevine/40a981ed-93b8-4fdb-b354-065ca82f4719",
-      "board": "lever",
-      "remote": false,
-      "posted_at": "2026-08-21T13:10:36Z"
-    },
-    {
-      "company": "Filevine",
-      "title": "Senior Software Engineer",
-      "location": "Bratislava MedChron hybrid",
-      "department": "MedChron",
-      "url": "https://jobs.lever.co/filevine/e9aaf01a-2479-4e23-975d-a4920cd33dea",
-      "board": "lever",
-      "remote": false,
-      "posted_at": "2026-08-21T13:06:58Z"
-    },
-    {
-      "company": "Junction",
-      "title": "Operations Associate",
-      "location": "Philippines (Remote)",
-      "department": "Operations",
-      "url": "https://jobs.ashbyhq.com/junction/76cce4d7-ba68-4581-a299-c47df850c84e",
+      "company": "Supabase",
+      "title": "Postgres Engineer",
+      "location": "Remote, Global",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/supabase/c16bd707-29f2-46fb-8409-7270ff00978b",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-07-16T17:20:36.538+00:00"
-    },
-    {
-      "company": "Tether",
-      "title": "Technical Content Creator - Pear/ Bare/ P2P (100% Remote Worldwide)",
-      "location": "Madrid | Spain, Madrid | Spain, Barcelona | Andorra | United Kindom | Switzerland, Lugano | Italy, Milano | Poland, Warsaw | Estonia, Tallinn | Portugal, Lisbon | Croatia, Zagreb | Ireland, Dublin | Denmark, Copenhagen | Malta, Sliema",
-      "department": "Marketing",
-      "url": "https://careers.tether.io/o/d7gw8",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-09-08T17:51:35Z"
+      "posted_at": "2026-02-27T13:33:39.016+00:00"
     },
     {
       "company": "Tide",
-      "title": "Customer Support Associate ",
-      "location": "India, Hyderabad | Hyderabad",
+      "title": "Business Development Specialist (Outbound- International)",
+      "location": "India, Delhi NCR | Delhi",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7608569003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7081017003",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-02-18T04:03:54-05:00"
+      "posted_at": "2025-09-08T06:25:07-04:00"
     },
     {
       "company": "Tide",
-      "title": "Ongoing Monitoring Operations Manager",
-      "location": "Bulgaria | Sofia",
+      "title": "VP Engineering, Ongoing Monitoring",
+      "location": "United Kingdom | London",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7777339003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7993879003",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-06-19T03:10:13-04:00"
+      "posted_at": "2026-09-14T05:20:03-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "VP Engineering, Ongoing Monitoring",
+      "location": "India, Hyderabad | London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7993896003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-14T05:43:54-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "VP Engineering, Ongoing Monitoring",
+      "location": "Berlin, Germany | London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7993908003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-14T05:49:08-04:00"
+    },
+    {
+      "company": "Vannevar",
+      "title": "Controller",
+      "location": "Remote | Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/vannevarlabs/jobs/5140427007",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-05-18T14:12:00-04:00"
     },
     {
       "company": "Wave Mobile Money",
-      "title": "Customer Support Representative",
-      "location": "\">Dakar, Senegal",
+      "title": "AML Transaction Monitoring Analyst",
+      "location": "\">Cameroon (CM)",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/5982368004/",
+      "url": "https://www.wave.com/en/careers/job/6113596004/",
       "board": "generic",
       "remote": false,
       "posted_at": ""
