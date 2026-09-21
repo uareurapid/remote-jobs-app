@@ -1,6 +1,147 @@
 {
-  "date": "2026-09-20",
-  "crawl_time_utc": "2026-09-20T09:30:55.880814+00:00",
-  "total_new": 0,
-  "jobs": []
+  "date": "2026-09-21",
+  "crawl_time_utc": "2026-09-21T09:31:17.875639+00:00",
+  "total_new": 14,
+  "jobs": [
+    {
+      "company": "Cohere",
+      "title": "Revenue Enablement Program Manager - EMEA",
+      "location": "Europe | {'location': 'London', 'address': {'postalAddress': {'addressRegion': 'London', 'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}}",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/cohere/595a2d50-46a5-4ff9-af1c-d58cea9d8e68",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-20T16:46:49.814+00:00"
+    },
+    {
+      "company": "Kong",
+      "title": "P-Staff Solutions Engineer (Dubai)",
+      "location": "Dubai, United Arab Emirates",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/62e57b5a-52e7-4e09-b345-cec9411eddd4",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-21T08:03:48.031+00:00"
+    },
+    {
+      "company": "Kong",
+      "title": "Software Engineer 2, Managed Gateways",
+      "location": "Bangalore, India",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/c394bebf-d83e-47d9-acd1-78cfebd0affc",
+      "board": "ashby",
+      "remote": false,
+      "posted_at": "2026-09-21T04:36:30.140+00:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Senior Product Analyst",
+      "location": "India, Delhi NCR | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/8000351003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-21T03:22:05-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Senior Product Analyst",
+      "location": "India, Hyderabad | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/8000356003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-21T03:24:38-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Senior Product Analyst",
+      "location": "India, Bengaluru | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/8000355003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-21T03:22:31-04:00"
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Digital Marketing Coordinator",
+      "location": "\">Banjul, The Gambia",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6184741004/",
+      "board": "generic",
+      "remote": true,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Field Auditor",
+      "location": "\">Banjul, The Gambia",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6200357004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Head of Brand Design and Creative",
+      "location": "\">Freetown, Sierra Leone",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/5836751004/",
+      "board": "generic",
+      "remote": true,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Head of Marketing",
+      "location": "\">Bamako, Mali",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/5817527004/",
+      "board": "generic",
+      "remote": true,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Head of Marketing",
+      "location": "\">Bamako, Mali",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/5887670004/",
+      "board": "generic",
+      "remote": true,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Marketing Manager",
+      "location": "\">Dakar, Senegal",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6127381004/",
+      "board": "generic",
+      "remote": true,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Premium Cash Assistant",
+      "location": "\">Kinshasa, Democratic Republic of the Congo",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6179061004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Premium Cash Officer",
+      "location": "\">Cameroon (CM)",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6180183004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    }
+  ]
 }
