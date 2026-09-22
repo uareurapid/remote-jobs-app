@@ -1,144 +1,154 @@
 {
-  "date": "2026-09-21",
-  "crawl_time_utc": "2026-09-21T09:31:17.875639+00:00",
-  "total_new": 14,
+  "date": "2026-09-22",
+  "crawl_time_utc": "2026-09-22T09:30:57.929244+00:00",
+  "total_new": 15,
   "jobs": [
     {
+      "company": "Arize AI",
+      "title": "DevOps Support Engineer (Argentina)",
+      "location": "Remote (Buenos Aires) | LATAM",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/arizeai/jobs/6203648004",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-09-21T14:32:34-04:00"
+    },
+    {
       "company": "Cohere",
-      "title": "Revenue Enablement Program Manager - EMEA",
-      "location": "Europe | {'location': 'London', 'address': {'postalAddress': {'addressRegion': 'London', 'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/cohere/595a2d50-46a5-4ff9-af1c-d58cea9d8e68",
+      "title": "IT Support Specialist",
+      "location": "Dubai",
+      "department": "IT Operations",
+      "url": "https://jobs.ashbyhq.com/cohere/0a77830f-d3a9-4b17-8ce7-58765d5be7e4",
       "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-09-20T16:46:49.814+00:00"
+      "remote": false,
+      "posted_at": "2026-09-22T03:49:16.768+00:00"
     },
     {
       "company": "Kong",
-      "title": "P-Staff Solutions Engineer (Dubai)",
-      "location": "Dubai, United Arab Emirates",
+      "title": "Software Engineer - AI Gateway",
+      "location": "Shanghai, China",
       "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/62e57b5a-52e7-4e09-b345-cec9411eddd4",
+      "url": "https://jobs.ashbyhq.com/kong/fbf4dae8-0e84-4579-90f9-61005eabea58",
       "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-09-21T08:03:48.031+00:00"
+      "remote": false,
+      "posted_at": "2026-07-23T06:50:01.427+00:00"
     },
     {
       "company": "Kong",
-      "title": "Software Engineer 2, Managed Gateways",
+      "title": "Technical Certification Developer",
       "location": "Bangalore, India",
       "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/c394bebf-d83e-47d9-acd1-78cfebd0affc",
+      "url": "https://jobs.ashbyhq.com/kong/ec3cc260-7894-4613-9b05-0fe3626b159d",
       "board": "ashby",
       "remote": false,
-      "posted_at": "2026-09-21T04:36:30.140+00:00"
+      "posted_at": "2026-09-21T10:22:59.648+00:00"
     },
     {
-      "company": "Tide",
-      "title": "Senior Product Analyst",
-      "location": "India, Delhi NCR | Hyderabad",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/8000351003",
-      "board": "greenhouse",
+      "company": "Kong",
+      "title": "Territory Account Manager",
+      "location": "Thailand",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/af71102d-f883-495c-9a2d-6474addc8862",
+      "board": "ashby",
       "remote": false,
-      "posted_at": "2026-09-21T03:22:05-04:00"
+      "posted_at": "2026-09-22T02:12:22.726+00:00"
     },
     {
-      "company": "Tide",
-      "title": "Senior Product Analyst",
-      "location": "India, Hyderabad | Hyderabad",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/8000356003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-09-21T03:24:38-04:00"
-    },
-    {
-      "company": "Tide",
-      "title": "Senior Product Analyst",
-      "location": "India, Bengaluru | Hyderabad",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/8000355003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-09-21T03:22:31-04:00"
-    },
-    {
-      "company": "Wave Mobile Money",
-      "title": "Digital Marketing Coordinator",
-      "location": "\">Banjul, The Gambia",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/6184741004/",
-      "board": "generic",
+      "company": "Phantom",
+      "title": "Staff Engineer, Full Stack (Trust, Safety & Risk)",
+      "location": "Remote",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/phantom/5198c911-6232-493d-bf14-41a13e713b99",
+      "board": "ashby",
       "remote": true,
-      "posted_at": ""
+      "posted_at": "2026-09-21T18:45:38.679+00:00"
     },
     {
-      "company": "Wave Mobile Money",
-      "title": "Field Auditor",
-      "location": "\">Banjul, The Gambia",
+      "company": "Phantom",
+      "title": "Staff Product Security Engineer (Security)",
+      "location": "Remote",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/phantom/7a9e300a-14bd-489f-aad8-7d1360941e80",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-21T18:48:21.486+00:00"
+    },
+    {
+      "company": "Runway",
+      "title": "Founding Developer Experience Lead",
+      "location": "Remote",
+      "department": "Product",
+      "url": "https://jobs.ashbyhq.com/runway-ml/f89f3b6d-8558-4402-b3ac-cb5ee2980326",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-04-17T19:44:04.756+00:00"
+    },
+    {
+      "company": "Supabase",
+      "title": "Product Lead, Infrastructure",
+      "location": "Remote, Global",
+      "department": "Product",
+      "url": "https://jobs.ashbyhq.com/supabase/47bcfdb8-b954-423e-8a9e-85256434575c",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-06-01T09:46:41.367+00:00"
+    },
+    {
+      "company": "Tide",
+      "title": "VP Engineering, Ongoing Monitoring",
+      "location": "Berlin, Germany | London",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6200357004/",
-      "board": "generic",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7993908003",
+      "board": "greenhouse",
       "remote": false,
-      "posted_at": ""
+      "posted_at": "2026-09-14T05:49:08-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "VP Engineering, Ongoing Monitoring",
+      "location": "India, Hyderabad | London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7993896003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-14T05:43:54-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "VP Engineering, Ongoing Monitoring",
+      "location": "United Kingdom | London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7993879003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-14T05:20:03-04:00"
     },
     {
       "company": "Wave Mobile Money",
-      "title": "Head of Brand Design and Creative",
+      "title": "Agent Liquidity Regional Lead",
       "location": "\">Freetown, Sierra Leone",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/5836751004/",
-      "board": "generic",
-      "remote": true,
-      "posted_at": ""
-    },
-    {
-      "company": "Wave Mobile Money",
-      "title": "Head of Marketing",
-      "location": "\">Bamako, Mali",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/5817527004/",
-      "board": "generic",
-      "remote": true,
-      "posted_at": ""
-    },
-    {
-      "company": "Wave Mobile Money",
-      "title": "Head of Marketing",
-      "location": "\">Bamako, Mali",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/5887670004/",
-      "board": "generic",
-      "remote": true,
-      "posted_at": ""
-    },
-    {
-      "company": "Wave Mobile Money",
-      "title": "Marketing Manager",
-      "location": "\">Dakar, Senegal",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/6127381004/",
-      "board": "generic",
-      "remote": true,
-      "posted_at": ""
-    },
-    {
-      "company": "Wave Mobile Money",
-      "title": "Premium Cash Assistant",
-      "location": "\">Kinshasa, Democratic Republic of the Congo",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/6179061004/",
+      "url": "https://www.wave.com/en/careers/job/6202385004/",
       "board": "generic",
       "remote": false,
       "posted_at": ""
     },
     {
       "company": "Wave Mobile Money",
-      "title": "Premium Cash Officer",
-      "location": "\">Cameroon (CM)",
+      "title": "Operations Training Regional Lead",
+      "location": "\">Niamey, Niger",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6180183004/",
+      "url": "https://www.wave.com/en/careers/job/6202395004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Premium Agent Manager - Construction",
+      "location": "\">Kinshasa, Democratic Republic of the Congo",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6200262004/",
       "board": "generic",
       "remote": false,
       "posted_at": ""

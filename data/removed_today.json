@@ -1,147 +1,207 @@
 {
-  "date": "2026-09-21",
-  "crawl_time_utc": "2026-09-21T09:31:17.875639+00:00",
-  "total_removed": 14,
+  "date": "2026-09-22",
+  "crawl_time_utc": "2026-09-22T09:30:57.929244+00:00",
+  "total_removed": 20,
   "jobs": [
     {
+      "company": "Cyclops",
+      "title": "Senior Commercial Counsel",
+      "location": "Remote",
+      "department": "",
+      "url": "https://cyclopsio.applytojob.com/apply/D3KWTTPdfv/Senior-Commercial-Counsel-Remote",
+      "board": "generic-jsonld",
+      "remote": true,
+      "posted_at": "2025-01-01"
+    },
+    {
       "company": "ElevenLabs",
-      "title": "Deployment Strategist - ANZ",
-      "location": "Australia",
-      "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/9e546bae-d86e-4f47-82cc-5b7b2ea28e12",
+      "title": "Adoption Strategist - India",
+      "location": "India",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/d944dcea-d18a-44e5-b892-5cb099ed2eb6",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-04-29T13:17:24.095+00:00"
+      "posted_at": "2026-07-06T14:09:20.068+00:00"
     },
     {
       "company": "ElevenLabs",
-      "title": "Enterprise Solutions Engineer - ANZ",
-      "location": "Australia",
-      "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/1a9d687d-0030-4732-8160-f1da54844bba",
+      "title": "General Manager - Brazil ",
+      "location": "Brazil",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/3d0bf739-c71f-42b0-b957-161572bc8e0e",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-07-27T22:48:48.569+00:00"
+      "posted_at": "2026-07-20T12:54:05.518+00:00"
     },
     {
-      "company": "ElevenLabs",
-      "title": "Forward Deployed Engineer - Software Engineer - ANZ",
-      "location": "Australia",
-      "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/5459cb9d-5396-4729-9507-22729582781a",
+      "company": "Filevine",
+      "title": "Proposal Manager - Federal",
+      "location": "District of Columbia Strategic Partnerships onsite",
+      "department": "Strategic Partnerships",
+      "url": "https://jobs.lever.co/filevine/1caf41d8-1ddf-40de-8033-91fffe2b586e",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2026-08-14T05:24:27Z"
+    },
+    {
+      "company": "Filevine",
+      "title": "Senior Web Developer",
+      "location": "Prague Brand hybrid",
+      "department": "Brand",
+      "url": "https://jobs.lever.co/filevine/8e089a7c-8848-4cbd-9ddc-bfd3feec9061",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2026-02-12T09:09:13Z"
+    },
+    {
+      "company": "Hightouch",
+      "title": "Technical Account Manager",
+      "location": "Remote (India) | Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/hightouch/jobs/5842464004",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-04-06T11:01:02-04:00"
+    },
+    {
+      "company": "Kong",
+      "title": "Senior Software Engineer - AI Gateway",
+      "location": "Shanghai, China",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/fbf4dae8-0e84-4579-90f9-61005eabea58",
+      "board": "ashby",
+      "remote": false,
+      "posted_at": "2026-07-23T06:50:01.427+00:00"
+    },
+    {
+      "company": "Postscript",
+      "title": "Director, Email Deliverability ",
+      "location": "Remote | GTM",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/postscript/jobs/8610790002",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-08-11T12:04:57-04:00"
+    },
+    {
+      "company": "Runway",
+      "title": "Founding Developer Relations Lead",
+      "location": "Remote",
+      "department": "Product",
+      "url": "https://jobs.ashbyhq.com/runway-ml/f89f3b6d-8558-4402-b3ac-cb5ee2980326",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-07-20T01:21:20.786+00:00"
+      "posted_at": "2026-04-17T19:44:04.756+00:00"
     },
     {
-      "company": "ElevenLabs",
-      "title": "General Manager - Denmark",
-      "location": "Denmark",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/ceb4eb7b-f1ad-429d-a2ec-11fd902948b8",
+      "company": "Sardine",
+      "title": "Solutions Architect, Integrations (APAC)",
+      "location": "Singapore",
+      "department": "Integrations",
+      "url": "https://jobs.ashbyhq.com/sardine/26bf8965-c5d2-4df5-bbdc-c7bb9bfaffa2",
       "board": "ashby",
-      "remote": false,
-      "posted_at": "2026-07-22T10:34:17.807+00:00"
+      "remote": true,
+      "posted_at": "2026-06-29T17:38:40.721+00:00"
     },
     {
-      "company": "ElevenLabs",
-      "title": "General Manager - Italy",
-      "location": "Italy | {'location': 'Milan', 'address': {'postalAddress': {'addressCountry': 'Italy'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/20a29846-f8f5-483c-a3cb-52f14c525366",
+      "company": "Supabase",
+      "title": "Developer Relations Engineer",
+      "location": "Remote, Global",
+      "department": "Marketing",
+      "url": "https://jobs.ashbyhq.com/supabase/26f7817d-ca92-4094-a2b5-f22e07a218c4",
       "board": "ashby",
-      "remote": false,
-      "posted_at": "2026-07-16T11:04:31.866+00:00"
+      "remote": true,
+      "posted_at": "2026-08-21T00:46:35.584+00:00"
     },
     {
-      "company": "ElevenLabs",
-      "title": "General Manager - Poland",
-      "location": "Poland | {'location': 'Poland', 'address': {'postalAddress': {'addressRegion': 'Poland', 'addressCountry': 'Poland', 'addressLocality': 'Warsaw'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/3cfeeeae-fa89-4708-ad93-533953c29486",
-      "board": "ashby",
-      "remote": false,
-      "posted_at": "2026-07-24T19:19:15.407+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "General Manager - Switzerland",
-      "location": "Switzerland",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/a3873284-4344-4f3c-9bce-19a5de75d6fc",
-      "board": "ashby",
-      "remote": false,
-      "posted_at": "2026-07-22T11:40:20.145+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "General Manager - UK",
-      "location": "United Kingdom | {'location': 'London', 'address': {'postalAddress': {'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/ca1269c6-12c7-419a-ab4d-458a0a907a17",
-      "board": "ashby",
-      "remote": false,
-      "posted_at": "2026-07-24T19:13:48.206+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Public Sector Partnerships Lead - Colombia",
-      "location": "Colombia",
+      "company": "Supabase",
+      "title": "Executive Assistant to the CEO",
+      "location": "Remote, APAC",
       "department": "Operations",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/ca83a725-1db7-45d4-92af-424dd2b04d1f",
+      "url": "https://jobs.ashbyhq.com/supabase/b566fbf8-2894-4314-9533-8fa920e80c19",
       "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-08-12T17:02:56.178+00:00"
+      "remote": null,
+      "posted_at": "2026-07-06T18:49:00.242+00:00"
+    },
+    {
+      "company": "Supabase",
+      "title": "Product Lead - Infrastructure",
+      "location": "Remote, Global",
+      "department": "Product",
+      "url": "https://jobs.ashbyhq.com/supabase/47bcfdb8-b954-423e-8a9e-85256434575c",
+      "board": "ashby",
+      "remote": null,
+      "posted_at": "2026-06-01T09:46:41.367+00:00"
+    },
+    {
+      "company": "Supabase",
+      "title": "Product Manager - Branching",
+      "location": "Remote, Global",
+      "department": "Product",
+      "url": "https://jobs.ashbyhq.com/supabase/9773ea1b-e25b-437c-bdbd-3fce0c69101e",
+      "board": "ashby",
+      "remote": null,
+      "posted_at": "2026-08-21T11:28:17.044+00:00"
     },
     {
       "company": "Tide",
-      "title": "Engineer, Threat Detection - 5",
-      "location": "United Kingdom | London",
+      "title": "Business Operations Manager",
+      "location": "Berlin, Germany | Berlin",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7827432003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7983019003",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-08-05T03:01:29-04:00"
+      "posted_at": "2026-09-01T02:44:08-04:00"
     },
     {
       "company": "Tide",
-      "title": "Head of Engineering, Developer Experience",
-      "location": "India, Delhi NCR | Delhi",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7817071003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-07-31T05:03:51-04:00"
-    },
-    {
-      "company": "Tide",
-      "title": "Security Engineer 3 - Vulnerability Management",
+      "title": "Manager, Analytics, Fraud, UK",
       "location": "India, Hyderabad | Hyderabad",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7812620003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7655326003",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-07-29T08:52:45-04:00"
+      "posted_at": "2026-03-06T05:03:38-05:00"
     },
     {
       "company": "Tide",
-      "title": "Security Engineer 3 - Vulnerability Management",
-      "location": "India, Delhi NCR | Hyderabad",
+      "title": "Platform Operations Specialist",
+      "location": "Berlin, Germany | Berlin",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7820212003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7862926003",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-07-29T08:52:43-04:00"
+      "posted_at": "2026-08-25T11:04:17-04:00"
     },
     {
       "company": "Tide",
-      "title": "Security Engineer 3 - Vulnerability Management",
-      "location": "India, Bengaluru | Hyderabad",
+      "title": "Product Operations Manager",
+      "location": "Berlin, Germany | Berlin",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7820211003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7978146003",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-07-29T08:52:44-04:00"
+      "posted_at": "2026-08-26T09:57:20-04:00"
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Field Auditor",
+      "location": "\">Banjul, The Gambia",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6200357004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Premium Cash Assistant",
+      "location": "\">Malawi (MW)",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6190871004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
     }
   ]
 }
