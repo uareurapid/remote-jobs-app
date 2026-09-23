@@ -1,154 +1,124 @@
 {
-  "date": "2026-09-22",
-  "crawl_time_utc": "2026-09-22T09:30:57.929244+00:00",
-  "total_new": 15,
+  "date": "2026-09-23",
+  "crawl_time_utc": "2026-09-23T09:31:01.526554+00:00",
+  "total_new": 12,
   "jobs": [
     {
-      "company": "Arize AI",
-      "title": "DevOps Support Engineer (Argentina)",
-      "location": "Remote (Buenos Aires) | LATAM",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/arizeai/jobs/6203648004",
-      "board": "greenhouse",
-      "remote": true,
-      "posted_at": "2026-09-21T14:32:34-04:00"
-    },
-    {
-      "company": "Cohere",
-      "title": "IT Support Specialist",
-      "location": "Dubai",
-      "department": "IT Operations",
-      "url": "https://jobs.ashbyhq.com/cohere/0a77830f-d3a9-4b17-8ce7-58765d5be7e4",
-      "board": "ashby",
-      "remote": false,
-      "posted_at": "2026-09-22T03:49:16.768+00:00"
-    },
-    {
-      "company": "Kong",
-      "title": "Software Engineer - AI Gateway",
-      "location": "Shanghai, China",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/fbf4dae8-0e84-4579-90f9-61005eabea58",
-      "board": "ashby",
-      "remote": false,
-      "posted_at": "2026-07-23T06:50:01.427+00:00"
-    },
-    {
-      "company": "Kong",
-      "title": "Technical Certification Developer",
-      "location": "Bangalore, India",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/ec3cc260-7894-4613-9b05-0fe3626b159d",
-      "board": "ashby",
-      "remote": false,
-      "posted_at": "2026-09-21T10:22:59.648+00:00"
-    },
-    {
-      "company": "Kong",
-      "title": "Territory Account Manager",
-      "location": "Thailand",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/af71102d-f883-495c-9a2d-6474addc8862",
-      "board": "ashby",
-      "remote": false,
-      "posted_at": "2026-09-22T02:12:22.726+00:00"
-    },
-    {
-      "company": "Phantom",
-      "title": "Staff Engineer, Full Stack (Trust, Safety & Risk)",
+      "company": "Assured",
+      "title": "Principal Program Manager",
       "location": "Remote",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/phantom/5198c911-6232-493d-bf14-41a13e713b99",
+      "department": "Client Engagement",
+      "url": "https://jobs.ashbyhq.com/assured/67e24e65-81d1-4bed-8f73-9fb519d32e56",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-09-21T18:45:38.679+00:00"
+      "posted_at": "2026-09-22T18:38:11.943+00:00"
     },
     {
-      "company": "Phantom",
-      "title": "Staff Product Security Engineer (Security)",
-      "location": "Remote",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/phantom/7a9e300a-14bd-489f-aad8-7d1360941e80",
+      "company": "ElevenLabs",
+      "title": "Enterprise Account Executive - Chile",
+      "location": "Chile | {'location': 'Argentina', 'address': {'postalAddress': {'addressCountry': 'Argentina', 'addressLocality': ''}}}",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/91dd600a-d0dd-4a75-a53d-f59aa9855626",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-09-21T18:48:21.486+00:00"
+      "posted_at": "2026-09-22T12:56:50.149+00:00"
+    },
+    {
+      "company": "Kong",
+      "title": "Senior Customer Success Manager",
+      "location": "Dubai, United Arab Emirates",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/892cdab5-427f-4fc8-aac0-eb5ccbdbff5c",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-22T16:18:57.872+00:00"
     },
     {
       "company": "Runway",
-      "title": "Founding Developer Experience Lead",
+      "title": "Member of Technical Staff, ML Platform",
       "location": "Remote",
-      "department": "Product",
-      "url": "https://jobs.ashbyhq.com/runway-ml/f89f3b6d-8558-4402-b3ac-cb5ee2980326",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/runway-ml/9a5bef1b-cd54-4258-bb71-4dc7dfded54c",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-04-17T19:44:04.756+00:00"
+      "posted_at": "2026-09-22T21:56:34.155+00:00"
     },
     {
       "company": "Supabase",
-      "title": "Product Lead, Infrastructure",
-      "location": "Remote, Global",
-      "department": "Product",
-      "url": "https://jobs.ashbyhq.com/supabase/47bcfdb8-b954-423e-8a9e-85256434575c",
+      "title": "AWS Gaming GTM Segment Lead",
+      "location": "Remote, AMER",
+      "department": "Partnerships",
+      "url": "https://jobs.ashbyhq.com/supabase/344787f2-d115-4056-87ca-7668fc14be3d",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-06-01T09:46:41.367+00:00"
+      "posted_at": "2026-08-28T01:19:05.415+00:00"
+    },
+    {
+      "company": "Supabase",
+      "title": "AWS Partner Marketing Manager",
+      "location": "Remote, Global",
+      "department": "Partnerships",
+      "url": "https://jobs.ashbyhq.com/supabase/8e4ddc16-6308-432a-acea-55709c15ddc7",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-22T15:00:43.044+00:00"
     },
     {
       "company": "Tide",
-      "title": "VP Engineering, Ongoing Monitoring",
-      "location": "Berlin, Germany | London",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7993908003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-09-14T05:49:08-04:00"
-    },
-    {
-      "company": "Tide",
-      "title": "VP Engineering, Ongoing Monitoring",
-      "location": "India, Hyderabad | London",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7993896003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-09-14T05:43:54-04:00"
-    },
-    {
-      "company": "Tide",
-      "title": "VP Engineering, Ongoing Monitoring",
+      "title": "Business Development Executive",
       "location": "United Kingdom | London",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7993879003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/8002207003",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-09-14T05:20:03-04:00"
+      "posted_at": "2026-09-22T06:00:09-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Sales Representative - International Markets",
+      "location": "India, Delhi NCR | India",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7727286003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-10T07:04:28-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Senior Financial Controller",
+      "location": "United Kingdom | London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7809674003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-23T02:56:58-04:00"
+    },
+    {
+      "company": "Vannevar",
+      "title": "Backend Engineer, Collection Platform",
+      "location": "Remote | Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/vannevarlabs/jobs/5092167007",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-03-27T15:26:20-04:00"
     },
     {
       "company": "Wave Mobile Money",
-      "title": "Agent Liquidity Regional Lead",
-      "location": "\">Freetown, Sierra Leone",
+      "title": "Agent Operations Regional Lead",
+      "location": "\">Cameroon (CM)",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6202385004/",
+      "url": "https://www.wave.com/en/careers/job/6201584004/",
       "board": "generic",
       "remote": false,
       "posted_at": ""
     },
     {
       "company": "Wave Mobile Money",
-      "title": "Operations Training Regional Lead",
-      "location": "\">Niamey, Niger",
+      "title": "Field Auditor",
+      "location": "\">Banjul, The Gambia",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6202395004/",
-      "board": "generic",
-      "remote": false,
-      "posted_at": ""
-    },
-    {
-      "company": "Wave Mobile Money",
-      "title": "Premium Agent Manager - Construction",
-      "location": "\">Kinshasa, Democratic Republic of the Congo",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/6200262004/",
+      "url": "https://www.wave.com/en/careers/job/6200357004/",
       "board": "generic",
       "remote": false,
       "posted_at": ""
