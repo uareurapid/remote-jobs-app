@@ -1,124 +1,244 @@
 {
-  "date": "2026-09-23",
-  "crawl_time_utc": "2026-09-23T09:31:01.526554+00:00",
-  "total_new": 12,
+  "date": "2026-09-24",
+  "crawl_time_utc": "2026-09-24T09:31:01.974835+00:00",
+  "total_new": 24,
   "jobs": [
     {
-      "company": "Assured",
-      "title": "Principal Program Manager",
-      "location": "Remote",
-      "department": "Client Engagement",
-      "url": "https://jobs.ashbyhq.com/assured/67e24e65-81d1-4bed-8f73-9fb519d32e56",
+      "company": "Cohere",
+      "title": "Forward Deployed Engineer, Agentic Platform (Europe)",
+      "location": "Europe | {'location': 'Brussels', 'address': {'postalAddress': {'addressCountry': 'Belgium', 'addressLocality': 'Brussels'}}} | {'location': 'Munich', 'address': {'postalAddress': {'addressRegion': 'Bavaria', 'addressCountry': 'Germany', 'addressLocality': 'Munich'}}} | {'location': 'London', 'address': {'postalAddress': {'addressRegion': 'London', 'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}} | {'location': 'Edinburgh', 'address': {'postalAddress': {'addressRegion': 'Edinburgh', 'addressCountry': 'United Kingdom', 'addressLocality': 'Edinburgh'}}} | {'location': 'Paris', 'address': {'postalAddress': {'addressCountry': 'France', 'addressLocality': 'Paris'}}} | {'location': 'Berlin', 'address': {'postalAddress': {'addressRegion': 'Berlin', 'addressCountry': 'Germany', 'addressLocality': 'Berlin'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}} | {'location': 'France', 'address': {'postalAddress': {'addressCountry': 'France'}}} | {'location': 'Frankfurt', 'address': {'postalAddress': {'addressRegion': 'Hesse', 'addressCountry': 'Germany', 'addressLocality': 'Frankfurt'}}} | {'location': 'Germany', 'address': {'postalAddress': {'addressCountry': 'Germany'}}}",
+      "department": "Engineering & Infra",
+      "url": "https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-09-22T18:38:11.943+00:00"
+      "posted_at": "2026-05-12T17:55:27.452+00:00"
+    },
+    {
+      "company": "Cohere",
+      "title": "Manager, Executive Assistants (Revenue)",
+      "location": "United Kingdom",
+      "department": "People Operations",
+      "url": "https://jobs.ashbyhq.com/cohere/be14b338-eac9-4099-9599-1e15cfdd11be",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-23T23:15:57.458+00:00"
     },
     {
       "company": "ElevenLabs",
-      "title": "Enterprise Account Executive - Chile",
-      "location": "Chile | {'location': 'Argentina', 'address': {'postalAddress': {'addressCountry': 'Argentina', 'addressLocality': ''}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/91dd600a-d0dd-4a75-a53d-f59aa9855626",
+      "title": "Technical Customer Support Specialist",
+      "location": "Australia | {'location': 'New Zealand', 'address': {'postalAddress': {'addressCountry': 'New Zealand'}}} | {'location': 'Taiwan', 'address': {'postalAddress': {}}}",
+      "department": "Operations",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/f2bf078d-d104-4a7b-96fd-5187a550f4a0",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-09-22T12:56:50.149+00:00"
+      "posted_at": "2026-09-22T10:36:40.634+00:00"
+    },
+    {
+      "company": "Filevine",
+      "title": "AI Solutions Architect - Console, Department of Defense",
+      "location": "District of Columbia Strategic Partnerships onsite",
+      "department": "Strategic Partnerships",
+      "url": "https://jobs.lever.co/filevine/2f9d6697-fbc9-432c-894a-fc793d1771f1",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2026-08-14T05:30:40Z"
+    },
+    {
+      "company": "Filevine",
+      "title": "AI Solutions Architect - Federal Civilian",
+      "location": "District of Columbia Strategic Partnerships onsite",
+      "department": "Strategic Partnerships",
+      "url": "https://jobs.lever.co/filevine/e22d91ed-5b7f-46b8-b3c9-38af7cebd90b",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2026-08-14T05:28:36Z"
+    },
+    {
+      "company": "Infisical",
+      "title": "Enterprise Account Executive (DACH)",
+      "location": "Germany",
+      "department": "Sales",
+      "url": "https://jobs.ashbyhq.com/infisical/8423f7da-e0f6-49d5-add9-94bc3c43ca8e",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-23T22:44:41.518+00:00"
+    },
+    {
+      "company": "Kalepa",
+      "title": "Backend Engineer (Europe)",
+      "location": "Europe (Full Remote)  | Kalepa Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/kalepa/jobs/4359659004",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2022-02-21T16:06:59-05:00"
+    },
+    {
+      "company": "Kalepa",
+      "title": "Full Stack Engineer (Europe)",
+      "location": "Europe (Full Remote) | Kalepa Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/kalepa/jobs/4359670004",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2022-02-21T16:14:09-05:00"
+    },
+    {
+      "company": "Kalepa",
+      "title": "Junior Backend Engineer (Europe)",
+      "location": "Europe (Full Remote) | Kalepa Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/kalepa/jobs/6206643004",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-09-23T13:27:49-04:00"
     },
     {
       "company": "Kong",
-      "title": "Senior Customer Success Manager",
-      "location": "Dubai, United Arab Emirates",
+      "title": "Senior Technical Instructor",
+      "location": "Bangalore, India",
       "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/892cdab5-427f-4fc8-aac0-eb5ccbdbff5c",
+      "url": "https://jobs.ashbyhq.com/kong/ec3cc260-7894-4613-9b05-0fe3626b159d",
       "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-09-22T16:18:57.872+00:00"
+      "remote": false,
+      "posted_at": "2026-09-24T09:10:11.495+00:00"
     },
     {
       "company": "Runway",
-      "title": "Member of Technical Staff, ML Platform",
+      "title": "Detection &  Response Engineer ",
       "location": "Remote",
       "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/runway-ml/9a5bef1b-cd54-4258-bb71-4dc7dfded54c",
+      "url": "https://jobs.ashbyhq.com/runway-ml/06590ce3-fe8f-493f-8545-3f905c74f05f",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-09-22T21:56:34.155+00:00"
+      "posted_at": "2026-09-24T00:52:48.310+00:00"
+    },
+    {
+      "company": "Runway",
+      "title": "Infrastructure Security Engineer",
+      "location": "Remote",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/runway-ml/0c750d2f-f894-4c8d-8b47-f03ddbb794a6",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-24T00:51:57.743+00:00"
     },
     {
       "company": "Supabase",
-      "title": "AWS Gaming GTM Segment Lead",
+      "title": "Database Support Engineer (Japanese Speaking)",
+      "location": "Remote, APAC",
+      "department": "Support",
+      "url": "https://jobs.ashbyhq.com/supabase/ab8d1463-bc97-417f-97b1-bfc1fe619b3e",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-23T13:58:42.792+00:00"
+    },
+    {
+      "company": "Supabase",
+      "title": "OrioleDB Deployment Engineer (AMER)",
       "location": "Remote, AMER",
-      "department": "Partnerships",
-      "url": "https://jobs.ashbyhq.com/supabase/344787f2-d115-4056-87ca-7668fc14be3d",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/supabase/c9f78e74-fb9d-4cd0-af0b-b1cec4632331",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-08-28T01:19:05.415+00:00"
+      "posted_at": "2026-09-23T19:21:08.593+00:00"
     },
     {
-      "company": "Supabase",
-      "title": "AWS Partner Marketing Manager",
-      "location": "Remote, Global",
-      "department": "Partnerships",
-      "url": "https://jobs.ashbyhq.com/supabase/8e4ddc16-6308-432a-acea-55709c15ddc7",
-      "board": "ashby",
+      "company": "Tether",
+      "title": "Frontend Software Engineer (100% Remote)",
+      "location": "Lahore | Pakistan, Lahore",
+      "department": "Engineering",
+      "url": "https://careers.tether.io/o/cadtb",
+      "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-09-22T15:00:43.044+00:00"
+      "posted_at": "2026-09-23T18:39:36Z"
     },
     {
-      "company": "Tide",
-      "title": "Business Development Executive",
-      "location": "United Kingdom | London",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/8002207003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-09-22T06:00:09-04:00"
-    },
-    {
-      "company": "Tide",
-      "title": "Sales Representative - International Markets",
-      "location": "India, Delhi NCR | India",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7727286003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-09-10T07:04:28-04:00"
-    },
-    {
-      "company": "Tide",
-      "title": "Senior Financial Controller",
-      "location": "United Kingdom | London",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7809674003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-09-23T02:56:58-04:00"
-    },
-    {
-      "company": "Vannevar",
-      "title": "Backend Engineer, Collection Platform",
-      "location": "Remote | Remote",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/vannevarlabs/jobs/5092167007",
-      "board": "greenhouse",
+      "company": "Tether",
+      "title": "Frontend Software Engineer (100% Remote)",
+      "location": "Bangalore | India, Bangalore",
+      "department": "Engineering",
+      "url": "https://careers.tether.io/o/ycm6k",
+      "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-03-27T15:26:20-04:00"
+      "posted_at": "2026-09-23T18:39:20Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Frontend Software Engineer (100% Remote)",
+      "location": "Bucharest | Romania, Bucharest",
+      "department": "Engineering",
+      "url": "https://careers.tether.io/o/e67c7",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-23T11:37:38Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Frontend Software Engineer (100% Remote)",
+      "location": "Lisbon | Portugal, Lisbon",
+      "department": "Engineering",
+      "url": "https://careers.tether.io/o/esys9",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-23T11:37:57Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Frontend Software Engineer (100% Remote)",
+      "location": "Madrid | Spain, Madrid",
+      "department": "Engineering",
+      "url": "https://careers.tether.io/o/eple8",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-23T11:37:52Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Frontend Software Engineer (100% Remote)",
+      "location": "Lugano | Switzerland, Lugano",
+      "department": "Engineering",
+      "url": "https://careers.tether.io/o/kvg5w",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-23T11:38:05Z"
+    },
+    {
+      "company": "Tide",
+      "title": "Senior Manager Ongoing Monitoring Operations",
+      "location": "Bulgaria | Sofia",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7777339003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-06-19T03:10:13-04:00"
     },
     {
       "company": "Wave Mobile Money",
-      "title": "Agent Operations Regional Lead",
-      "location": "\">Cameroon (CM)",
+      "title": "Field Officer",
+      "location": "\">Niamey, Niger",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6201584004/",
+      "url": "https://www.wave.com/en/careers/job/6202495004/",
       "board": "generic",
       "remote": false,
       "posted_at": ""
     },
     {
       "company": "Wave Mobile Money",
-      "title": "Field Auditor",
-      "location": "\">Banjul, The Gambia",
+      "title": "Regional Lead",
+      "location": "\">Abidjan, Côte d&#39;Ivoire",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6200357004/",
+      "url": "https://www.wave.com/en/careers/job/6202877004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Sales Representative",
+      "location": "\">Bamako, Mali",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6204932004/",
       "board": "generic",
       "remote": false,
       "posted_at": ""

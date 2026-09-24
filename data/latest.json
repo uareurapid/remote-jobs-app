@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-23",
-  "crawl_time_utc": "2026-09-23T09:31:01.526554+00:00",
+  "date": "2026-09-24",
+  "crawl_time_utc": "2026-09-24T09:31:01.974835+00:00",
   "total_companies": 53,
-  "total_jobs": 824,
+  "total_jobs": 833,
   "stats": {
-    "total_found": 824,
+    "total_found": 833,
     "filtered_us": 0,
     "errors": 0
   },
@@ -811,16 +811,6 @@
     },
     {
       "company": "Cohere",
-      "title": "Engineering Manager, FDE Infrastructure (UK)",
-      "location": "United Kingdom | {'location': 'Europe', 'address': {'postalAddress': {'addressCountry': 'European Union'}}} | {'location': 'London', 'address': {'postalAddress': {'addressRegion': 'London', 'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}}",
-      "department": "Engineering & Infra",
-      "url": "https://jobs.ashbyhq.com/cohere/9bdbb821-6536-4090-8faa-a2b04a70bbf1",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-04-21T10:38:10.835+00:00"
-    },
-    {
-      "company": "Cohere",
       "title": "Forward Deployed Engineer, Agentic Platform",
       "location": "Middle East | {'location': 'Dubai', 'address': {'postalAddress': {'addressCountry': 'United Arab Emirates', 'addressLocality': 'Dubai'}}} | {'location': 'United Arab Emirates', 'address': {'postalAddress': {'addressCountry': 'United Arab Emirates'}}} | {'location': 'Saudi Arabia', 'address': {'postalAddress': {'addressCountry': 'Saudi Arabia'}}} | {'location': 'Riyadh', 'address': {'postalAddress': {'addressRegion': 'Riyadh', 'addressCountry': 'Saudi Arabia', 'addressLocality': 'Riyadh'}}}",
       "department": "Engineering & Infra",
@@ -828,6 +818,16 @@
       "board": "ashby",
       "remote": true,
       "posted_at": "2026-03-04T13:57:24.549+00:00"
+    },
+    {
+      "company": "Cohere",
+      "title": "Forward Deployed Engineer, Agentic Platform (Europe)",
+      "location": "Europe | {'location': 'Brussels', 'address': {'postalAddress': {'addressCountry': 'Belgium', 'addressLocality': 'Brussels'}}} | {'location': 'Munich', 'address': {'postalAddress': {'addressRegion': 'Bavaria', 'addressCountry': 'Germany', 'addressLocality': 'Munich'}}} | {'location': 'London', 'address': {'postalAddress': {'addressRegion': 'London', 'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}} | {'location': 'Edinburgh', 'address': {'postalAddress': {'addressRegion': 'Edinburgh', 'addressCountry': 'United Kingdom', 'addressLocality': 'Edinburgh'}}} | {'location': 'Paris', 'address': {'postalAddress': {'addressCountry': 'France', 'addressLocality': 'Paris'}}} | {'location': 'Berlin', 'address': {'postalAddress': {'addressRegion': 'Berlin', 'addressCountry': 'Germany', 'addressLocality': 'Berlin'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}} | {'location': 'France', 'address': {'postalAddress': {'addressCountry': 'France'}}} | {'location': 'Frankfurt', 'address': {'postalAddress': {'addressRegion': 'Hesse', 'addressCountry': 'Germany', 'addressLocality': 'Frankfurt'}}} | {'location': 'Germany', 'address': {'postalAddress': {'addressCountry': 'Germany'}}}",
+      "department": "Engineering & Infra",
+      "url": "https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-05-12T17:55:27.452+00:00"
     },
     {
       "company": "Cohere",
@@ -858,16 +858,6 @@
       "board": "ashby",
       "remote": true,
       "posted_at": "2026-08-24T02:15:28.558+00:00"
-    },
-    {
-      "company": "Cohere",
-      "title": "Forward Deployed Engineer, Agentic Platform (UK/Europe)",
-      "location": "Europe | {'location': 'Brussels', 'address': {'postalAddress': {'addressCountry': 'Belgium', 'addressLocality': 'Brussels'}}} | {'location': 'Munich', 'address': {'postalAddress': {'addressRegion': 'Bavaria', 'addressCountry': 'Germany', 'addressLocality': 'Munich'}}} | {'location': 'London', 'address': {'postalAddress': {'addressRegion': 'London', 'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}} | {'location': 'Edinburgh', 'address': {'postalAddress': {'addressRegion': 'Edinburgh', 'addressCountry': 'United Kingdom', 'addressLocality': 'Edinburgh'}}} | {'location': 'Paris', 'address': {'postalAddress': {'addressCountry': 'France', 'addressLocality': 'Paris'}}} | {'location': 'Berlin', 'address': {'postalAddress': {'addressRegion': 'Berlin', 'addressCountry': 'Germany', 'addressLocality': 'Berlin'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}} | {'location': 'France', 'address': {'postalAddress': {'addressCountry': 'France'}}} | {'location': 'Frankfurt', 'address': {'postalAddress': {'addressRegion': 'Hesse', 'addressCountry': 'Germany', 'addressLocality': 'Frankfurt'}}} | {'location': 'Germany', 'address': {'postalAddress': {'addressCountry': 'Germany'}}}",
-      "department": "Engineering & Infra",
-      "url": "https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-05-12T17:55:27.452+00:00"
     },
     {
       "company": "Cohere",
@@ -1018,6 +1008,16 @@
       "board": "ashby",
       "remote": false,
       "posted_at": "2026-09-18T03:45:38.778+00:00"
+    },
+    {
+      "company": "Cohere",
+      "title": "Manager, Executive Assistants (Revenue)",
+      "location": "United Kingdom",
+      "department": "People Operations",
+      "url": "https://jobs.ashbyhq.com/cohere/be14b338-eac9-4099-9599-1e15cfdd11be",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-23T23:15:57.458+00:00"
     },
     {
       "company": "Cohere",
@@ -1433,7 +1433,7 @@
       "company": "ElevenLabs",
       "title": "Account Executive - ElevenCreative - Germany",
       "location": "Germany",
-      "department": "Growth",
+      "department": "Revenue",
       "url": "https://jobs.ashbyhq.com/elevenlabs/42167cd0-3736-45b3-a1de-3fb6bedfe71d",
       "board": "ashby",
       "remote": true,
@@ -2781,6 +2781,16 @@
     },
     {
       "company": "ElevenLabs",
+      "title": "Technical Customer Support Specialist",
+      "location": "Australia | {'location': 'New Zealand', 'address': {'postalAddress': {'addressCountry': 'New Zealand'}}} | {'location': 'Taiwan', 'address': {'postalAddress': {}}}",
+      "department": "Operations",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/f2bf078d-d104-4a7b-96fd-5187a550f4a0",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-22T10:36:40.634+00:00"
+    },
+    {
+      "company": "ElevenLabs",
       "title": "Translator/Linguist (Freelance)",
       "location": "United Kingdom | {'location': 'Spain', 'address': {'postalAddress': {'addressCountry': 'Spain'}}} | {'location': 'Germany', 'address': {'postalAddress': {'addressCountry': 'Germany'}}} | {'location': 'Brazil', 'address': {'postalAddress': {'addressCountry': 'Brazil'}}} | {'location': 'Portugal', 'address': {'postalAddress': {'addressCountry': 'Portugal'}}} | {'location': 'Mexico', 'address': {'postalAddress': {'addressCountry': 'Mexico'}}} | {'location': 'France', 'address': {'postalAddress': {'addressCountry': 'France'}}} | {'location': 'India', 'address': {'postalAddress': {'addressCountry': 'India', 'addressLocality': ''}}}",
       "department": "Engineering & Product",
@@ -2828,6 +2838,26 @@
       "board": "lever",
       "remote": false,
       "posted_at": "2026-09-01T11:48:23Z"
+    },
+    {
+      "company": "Filevine",
+      "title": "AI Solutions Architect - Console, Department of Defense",
+      "location": "District of Columbia Strategic Partnerships onsite",
+      "department": "Strategic Partnerships",
+      "url": "https://jobs.lever.co/filevine/2f9d6697-fbc9-432c-894a-fc793d1771f1",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2026-08-14T05:30:40Z"
+    },
+    {
+      "company": "Filevine",
+      "title": "AI Solutions Architect - Federal Civilian",
+      "location": "District of Columbia Strategic Partnerships onsite",
+      "department": "Strategic Partnerships",
+      "url": "https://jobs.lever.co/filevine/e22d91ed-5b7f-46b8-b3c9-38af7cebd90b",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2026-08-14T05:28:36Z"
     },
     {
       "company": "Filevine",
@@ -2921,26 +2951,6 @@
     },
     {
       "company": "Filevine",
-      "title": "Sales Engineer - Console, Department of Defense",
-      "location": "District of Columbia Strategic Partnerships onsite",
-      "department": "Strategic Partnerships",
-      "url": "https://jobs.lever.co/filevine/2f9d6697-fbc9-432c-894a-fc793d1771f1",
-      "board": "lever",
-      "remote": false,
-      "posted_at": "2026-08-14T05:30:40Z"
-    },
-    {
-      "company": "Filevine",
-      "title": "Sales Engineer - Federal Civilian",
-      "location": "District of Columbia Strategic Partnerships onsite",
-      "department": "Strategic Partnerships",
-      "url": "https://jobs.lever.co/filevine/e22d91ed-5b7f-46b8-b3c9-38af7cebd90b",
-      "board": "lever",
-      "remote": false,
-      "posted_at": "2026-08-14T05:28:36Z"
-    },
-    {
-      "company": "Filevine",
       "title": "Senior Software Engineer, DepoLive",
       "location": "Bratislava Depo Live hybrid",
       "department": "Depo Live",
@@ -2948,26 +2958,6 @@
       "board": "lever",
       "remote": false,
       "posted_at": "2026-09-01T09:39:35Z"
-    },
-    {
-      "company": "Filevine",
-      "title": "Senior/Staff ML Ops Engineer",
-      "location": "Bratislava ML Ops hybrid",
-      "department": "ML Ops",
-      "url": "https://jobs.lever.co/filevine/863a3a41-f46a-4d88-9f87-cb3fe69873b0",
-      "board": "lever",
-      "remote": false,
-      "posted_at": "2026-06-17T10:03:16Z"
-    },
-    {
-      "company": "Filevine",
-      "title": "Senior/Staff ML Ops Engineer",
-      "location": "Prague ML Ops hybrid",
-      "department": "ML Ops",
-      "url": "https://jobs.lever.co/filevine/d358ce6d-86f8-4674-af4c-9de6b89a5d1b",
-      "board": "lever",
-      "remote": false,
-      "posted_at": "2026-06-17T10:04:29Z"
     },
     {
       "company": "Form3",
@@ -3211,13 +3201,13 @@
     },
     {
       "company": "Infisical",
-      "title": "Enterprise Account Executive ",
-      "location": "London",
+      "title": "Enterprise Account Executive (DACH)",
+      "location": "Germany",
       "department": "Sales",
-      "url": "https://jobs.ashbyhq.com/infisical/782cb5e9-3b98-4ad0-8f6f-8ca254531852",
+      "url": "https://jobs.ashbyhq.com/infisical/8423f7da-e0f6-49d5-add9-94bc3c43ca8e",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-08-05T16:20:35.534+00:00"
+      "posted_at": "2026-09-23T22:44:41.518+00:00"
     },
     {
       "company": "Junction",
@@ -3268,6 +3258,36 @@
       "board": "ashby",
       "remote": true,
       "posted_at": "2026-04-30T08:40:45.146+00:00"
+    },
+    {
+      "company": "Kalepa",
+      "title": "Backend Engineer (Europe)",
+      "location": "Europe (Full Remote)  | Kalepa Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/kalepa/jobs/4359659004",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2022-02-21T16:06:59-05:00"
+    },
+    {
+      "company": "Kalepa",
+      "title": "Full Stack Engineer (Europe)",
+      "location": "Europe (Full Remote) | Kalepa Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/kalepa/jobs/4359670004",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2022-02-21T16:14:09-05:00"
+    },
+    {
+      "company": "Kalepa",
+      "title": "Junior Backend Engineer (Europe)",
+      "location": "Europe (Full Remote) | Kalepa Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/kalepa/jobs/6206643004",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-09-23T13:27:49-04:00"
     },
     {
       "company": "Kalepa",
@@ -3641,6 +3661,16 @@
     },
     {
       "company": "Kong",
+      "title": "Senior Technical Instructor",
+      "location": "Bangalore, India",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/ec3cc260-7894-4613-9b05-0fe3626b159d",
+      "board": "ashby",
+      "remote": false,
+      "posted_at": "2026-09-24T09:10:11.495+00:00"
+    },
+    {
+      "company": "Kong",
       "title": "Senior Technical Product Marketing Manager, Agent Identity & Auth (EMEA)",
       "location": "London, England, United Kingdom",
       "department": "All Cost Center",
@@ -3808,16 +3838,6 @@
       "board": "ashby",
       "remote": true,
       "posted_at": "2026-08-06T14:21:57.408+00:00"
-    },
-    {
-      "company": "Kong",
-      "title": "Technical Certification Developer",
-      "location": "Bangalore, India",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/ec3cc260-7894-4613-9b05-0fe3626b159d",
-      "board": "ashby",
-      "remote": false,
-      "posted_at": "2026-09-21T10:22:59.648+00:00"
     },
     {
       "company": "Kong",
@@ -4101,6 +4121,16 @@
     },
     {
       "company": "Runway",
+      "title": "Detection &  Response Engineer ",
+      "location": "Remote",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/runway-ml/06590ce3-fe8f-493f-8545-3f905c74f05f",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-24T00:52:48.310+00:00"
+    },
+    {
+      "company": "Runway",
       "title": "Engineering Manager, API",
       "location": "Remote",
       "department": "Engineering",
@@ -4128,6 +4158,16 @@
       "board": "ashby",
       "remote": true,
       "posted_at": "2026-04-15T19:12:33.645+00:00"
+    },
+    {
+      "company": "Runway",
+      "title": "Infrastructure Security Engineer",
+      "location": "Remote",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/runway-ml/0c750d2f-f894-4c8d-8b47-f03ddbb794a6",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-24T00:51:57.743+00:00"
     },
     {
       "company": "Runway",
@@ -4472,7 +4512,7 @@
     {
       "company": "Supabase",
       "title": "AWS Partner Marketing Manager",
-      "location": "Remote, Global",
+      "location": "Remote, AMER",
       "department": "Partnerships",
       "url": "https://jobs.ashbyhq.com/supabase/8e4ddc16-6308-432a-acea-55709c15ddc7",
       "board": "ashby",
@@ -4488,16 +4528,6 @@
       "board": "ashby",
       "remote": true,
       "posted_at": "2026-03-06T19:19:02.506+00:00"
-    },
-    {
-      "company": "Supabase",
-      "title": "Brand Designer",
-      "location": "Remote, Global",
-      "department": "Design",
-      "url": "https://jobs.ashbyhq.com/supabase/4a85c92b-1d0d-43ee-8dbc-0e45a58be208",
-      "board": "ashby",
-      "remote": null,
-      "posted_at": "2026-06-23T14:51:39.758+00:00"
     },
     {
       "company": "Supabase",
@@ -4548,6 +4578,16 @@
       "board": "ashby",
       "remote": null,
       "posted_at": "2025-12-17T21:45:16.304+00:00"
+    },
+    {
+      "company": "Supabase",
+      "title": "Database Support Engineer (Japanese Speaking)",
+      "location": "Remote, APAC",
+      "department": "Support",
+      "url": "https://jobs.ashbyhq.com/supabase/ab8d1463-bc97-417f-97b1-bfc1fe619b3e",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-23T13:58:42.792+00:00"
     },
     {
       "company": "Supabase",
@@ -4638,6 +4678,16 @@
       "board": "ashby",
       "remote": null,
       "posted_at": "2025-06-04T00:35:34.670+00:00"
+    },
+    {
+      "company": "Supabase",
+      "title": "OrioleDB Deployment Engineer (AMER)",
+      "location": "Remote, AMER",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/supabase/c9f78e74-fb9d-4cd0-af0b-b1cec4632331",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-23T19:21:08.593+00:00"
     },
     {
       "company": "Supabase",
@@ -4748,16 +4798,6 @@
       "board": "ashby",
       "remote": true,
       "posted_at": "2026-08-24T22:00:58.257+00:00"
-    },
-    {
-      "company": "Supabase",
-      "title": "Product Designer",
-      "location": "Remote, Global",
-      "department": "Design",
-      "url": "https://jobs.ashbyhq.com/supabase/97fe8e68-28c5-42db-a763-60113f0b31fd",
-      "board": "ashby",
-      "remote": null,
-      "posted_at": "2026-07-22T11:01:14.397+00:00"
     },
     {
       "company": "Supabase",
@@ -5612,7 +5652,7 @@
     {
       "company": "Tether",
       "title": "Event Design Coordinator (Remote / Europe)",
-      "location": "Barcelona | Spain, Barcelona | Spain, Madrid | Andorra | Belgium  | The Netherlands, Amsterdam",
+      "location": "Andorra la Vella | Andorra | Belgium  | The Netherlands, Amsterdam | Austria, Vienna | Germany, Munich | Germany, Berlin",
       "department": "Marketing",
       "url": "https://careers.tether.io/o/8onuk",
       "board": "recruitee",
@@ -5868,6 +5908,66 @@
       "board": "recruitee",
       "remote": false,
       "posted_at": "2026-06-02T13:45:18Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Frontend Software Engineer (100% Remote)",
+      "location": "Lahore | Pakistan, Lahore",
+      "department": "Engineering",
+      "url": "https://careers.tether.io/o/cadtb",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-23T18:39:36Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Frontend Software Engineer (100% Remote)",
+      "location": "Bangalore | India, Bangalore",
+      "department": "Engineering",
+      "url": "https://careers.tether.io/o/ycm6k",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-23T18:39:20Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Frontend Software Engineer (100% Remote)",
+      "location": "Bucharest | Romania, Bucharest",
+      "department": "Engineering",
+      "url": "https://careers.tether.io/o/e67c7",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-23T11:37:38Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Frontend Software Engineer (100% Remote)",
+      "location": "Lisbon | Portugal, Lisbon",
+      "department": "Engineering",
+      "url": "https://careers.tether.io/o/esys9",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-23T11:37:57Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Frontend Software Engineer (100% Remote)",
+      "location": "Madrid | Spain, Madrid",
+      "department": "Engineering",
+      "url": "https://careers.tether.io/o/eple8",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-23T11:37:52Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Frontend Software Engineer (100% Remote)",
+      "location": "Lugano | Switzerland, Lugano",
+      "department": "Engineering",
+      "url": "https://careers.tether.io/o/kvg5w",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-23T11:38:05Z"
     },
     {
       "company": "Tether",
@@ -6551,16 +6651,6 @@
     },
     {
       "company": "Tide",
-      "title": "Account Executive",
-      "location": "United Kingdom | London",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7681876003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-03-27T09:45:37-04:00"
-    },
-    {
-      "company": "Tide",
       "title": "Account Executive – SME Credit",
       "location": "Berlin, Germany | Berlin",
       "department": "",
@@ -6652,16 +6742,6 @@
     {
       "company": "Tide",
       "title": "Director of Mobile and Web Platform",
-      "location": "Serbia | London",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7768101003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-06-10T05:28:47-04:00"
-    },
-    {
-      "company": "Tide",
-      "title": "Director of Mobile and Web Platform",
       "location": "United Kingdom | London",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7848597003",
@@ -6678,6 +6758,16 @@
       "board": "greenhouse",
       "remote": false,
       "posted_at": "2026-08-27T22:43:29-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Director of Mobile and Web Platform",
+      "location": "Serbia | London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7768101003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-06-10T05:28:47-04:00"
     },
     {
       "company": "Tide",
@@ -6702,16 +6792,6 @@
     {
       "company": "Tide",
       "title": "Engineering Manager",
-      "location": "Lithuania | Bulgaria | Lithuania | Romania | Serbia",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7570173003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2025-12-22T10:38:24-05:00"
-    },
-    {
-      "company": "Tide",
-      "title": "Engineering Manager",
       "location": "Bulgaria | Bulgaria | Lithuania | Romania | Serbia",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7569898003",
@@ -6721,13 +6801,13 @@
     },
     {
       "company": "Tide",
-      "title": "Engineering Manager - Accounts Platform",
-      "location": "Bulgaria | Sofia",
+      "title": "Engineering Manager",
+      "location": "Lithuania | Bulgaria | Lithuania | Romania | Serbia",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7780974003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7570173003",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-07-01T04:33:22-04:00"
+      "posted_at": "2025-12-22T10:38:24-05:00"
     },
     {
       "company": "Tide",
@@ -6741,13 +6821,13 @@
     },
     {
       "company": "Tide",
-      "title": "Engineering Manager - Manage Money",
-      "location": "Bulgaria | Lithuania",
+      "title": "Engineering Manager - Accounts Platform",
+      "location": "Bulgaria | Sofia",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7984277003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7780974003",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-09-02T09:24:22-04:00"
+      "posted_at": "2026-07-01T04:33:22-04:00"
     },
     {
       "company": "Tide",
@@ -6761,13 +6841,13 @@
     },
     {
       "company": "Tide",
-      "title": "Engineering Manager, Financial Services",
-      "location": "India, Hyderabad | Bengaluru | Delhi | Hyderabad",
+      "title": "Engineering Manager - Manage Money",
+      "location": "Bulgaria | Lithuania",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7997917003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7984277003",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-09-18T00:40:16-04:00"
+      "posted_at": "2026-09-02T09:24:22-04:00"
     },
     {
       "company": "Tide",
@@ -6788,6 +6868,16 @@
       "board": "greenhouse",
       "remote": false,
       "posted_at": "2026-09-17T03:33:12-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Engineering Manager, Financial Services",
+      "location": "India, Hyderabad | Bengaluru | Delhi | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7997917003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-18T00:40:16-04:00"
     },
     {
       "company": "Tide",
@@ -7084,16 +7174,6 @@
       "title": "Senior Commercial Finance Broker",
       "location": "United Kingdom | London",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7630894003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-02-15T13:26:28-05:00"
-    },
-    {
-      "company": "Tide",
-      "title": "Senior Commercial Finance Broker",
-      "location": "United Kingdom | London",
-      "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7652032003",
       "board": "greenhouse",
       "remote": false,
@@ -7121,6 +7201,26 @@
     },
     {
       "company": "Tide",
+      "title": "Senior Manager Ongoing Monitoring Operations",
+      "location": "Bulgaria | Sofia",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7777339003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-06-19T03:10:13-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Senior Product Analyst",
+      "location": "India, Bengaluru | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/8000355003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-21T03:22:31-04:00"
+    },
+    {
+      "company": "Tide",
       "title": "Senior Product Analyst",
       "location": "India, Delhi NCR | Hyderabad",
       "department": "",
@@ -7141,23 +7241,13 @@
     },
     {
       "company": "Tide",
-      "title": "Senior Product Analyst",
-      "location": "India, Bengaluru | Hyderabad",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/8000355003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-09-21T03:22:31-04:00"
-    },
-    {
-      "company": "Tide",
       "title": "Senior Product Designer",
-      "location": "Lithuania | Sofia",
+      "location": "Bulgaria | Sofia",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7788378003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7731830003",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-06-29T07:35:56-04:00"
+      "posted_at": "2026-05-18T02:33:10-04:00"
     },
     {
       "company": "Tide",
@@ -7172,22 +7262,12 @@
     {
       "company": "Tide",
       "title": "Senior Product Designer",
-      "location": "Bulgaria | Sofia",
+      "location": "Lithuania | Sofia",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7731830003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7788378003",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-05-18T02:33:10-04:00"
-    },
-    {
-      "company": "Tide",
-      "title": "Senior Product Manager, Ongoing Monitoring",
-      "location": "United Kingdom | Hyderabad",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7863571003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-08-13T05:38:22-04:00"
+      "posted_at": "2026-06-29T07:35:56-04:00"
     },
     {
       "company": "Tide",
@@ -7198,6 +7278,16 @@
       "board": "greenhouse",
       "remote": false,
       "posted_at": "2026-06-21T03:40:01-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Senior Product Manager, Ongoing Monitoring",
+      "location": "United Kingdom | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7863571003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-08-13T05:38:22-04:00"
     },
     {
       "company": "Tide",
@@ -7242,16 +7332,6 @@
     {
       "company": "Tide",
       "title": "Senior Staff Software Engineer, Agentic Platform",
-      "location": "Bulgaria | United Kingdom",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7702553003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-04-16T02:05:46-04:00"
-    },
-    {
-      "company": "Tide",
-      "title": "Senior Staff Software Engineer, Agentic Platform",
       "location": "United Kingdom | United Kingdom",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7702547003",
@@ -7282,6 +7362,16 @@
     {
       "company": "Tide",
       "title": "Senior Staff Software Engineer, Agentic Platform",
+      "location": "Bulgaria | United Kingdom",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7702553003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-04-16T02:05:46-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Senior Staff Software Engineer, Agentic Platform",
       "location": "Serbia | United Kingdom",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7702554003",
@@ -7292,12 +7382,12 @@
     {
       "company": "Tide",
       "title": "Staff Software Engineer, Agentic Platform",
-      "location": "Berlin, Germany; Bulgaria; India, Bengaluru; India, Delhi NCR; India, Hyderabad; Lithuania; Serbia; United Kingdom",
+      "location": "Bulgaria | Bulgaria | Lithuania | Serbia",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7703991003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7701766003",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-04-17T08:29:26-04:00"
+      "posted_at": "2026-04-15T10:58:13-04:00"
     },
     {
       "company": "Tide",
@@ -7332,22 +7422,12 @@
     {
       "company": "Tide",
       "title": "Staff Software Engineer, Agentic Platform",
-      "location": "Bulgaria | Bulgaria | Lithuania | Serbia",
+      "location": "Berlin, Germany; Bulgaria; India, Bengaluru; India, Delhi NCR; India, Hyderabad; Lithuania; Serbia; United Kingdom",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7701766003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7703991003",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-04-15T10:58:13-04:00"
-    },
-    {
-      "company": "Tide",
-      "title": "Treasury Lead, Liquidity, Forecasting & Risk ",
-      "location": "United Kingdom | Delhi",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7812579003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-07-29T04:19:20-04:00"
+      "posted_at": "2026-04-17T08:29:26-04:00"
     },
     {
       "company": "Tide",
@@ -7652,7 +7732,7 @@
     {
       "company": "Wave Mobile Money",
       "title": "Assistant Controller",
-      "location": "\">Remote",
+      "location": "\"\n        >",
       "department": "",
       "url": "https://www.wave.com/en/careers/job/6113582004/",
       "board": "generic",
@@ -7764,6 +7844,16 @@
       "title": "Field Officer",
       "location": "\">Niamey, Niger",
       "department": "",
+      "url": "https://www.wave.com/en/careers/job/6202495004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Field Officer",
+      "location": "\">Niamey, Niger",
+      "department": "",
       "url": "https://www.wave.com/en/careers/job/6119386004/",
       "board": "generic",
       "remote": false,
@@ -7812,7 +7902,7 @@
     {
       "company": "Wave Mobile Money",
       "title": "Head of Compliance and Risk",
-      "location": "\">Niamey, Niger",
+      "location": "\">Cameroon (CM)",
       "department": "",
       "url": "https://www.wave.com/en/careers/job/6173810004/",
       "board": "generic",
@@ -7962,7 +8052,7 @@
     {
       "company": "Wave Mobile Money",
       "title": "Operations Training Regional Lead",
-      "location": "\">Niamey, Niger",
+      "location": "\">Freetown, Sierra Leone",
       "department": "",
       "url": "https://www.wave.com/en/careers/job/6202395004/",
       "board": "generic",
@@ -8052,7 +8142,7 @@
     {
       "company": "Wave Mobile Money",
       "title": "Premium Agent Network Officer",
-      "location": "\">Malawi (MW)",
+      "location": "\">Niamey, Niger",
       "department": "",
       "url": "https://www.wave.com/en/careers/job/6190870004/",
       "board": "generic",
@@ -8071,16 +8161,6 @@
     },
     {
       "company": "Wave Mobile Money",
-      "title": "Premium Cash Assistant",
-      "location": "\">Kinshasa, Democratic Republic of the Congo",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/6179061004/",
-      "board": "generic",
-      "remote": false,
-      "posted_at": ""
-    },
-    {
-      "company": "Wave Mobile Money",
       "title": "Premium Cash Officer",
       "location": "\">Kinshasa, Democratic Republic of the Congo",
       "department": "",
@@ -8092,7 +8172,7 @@
     {
       "company": "Wave Mobile Money",
       "title": "Premium Cash Officer",
-      "location": "\">Abidjan, Côte d&#39;Ivoire",
+      "location": "\">Kinshasa, Democratic Republic of the Congo",
       "department": "",
       "url": "https://www.wave.com/en/careers/job/6180183004/",
       "board": "generic",
@@ -8121,6 +8201,16 @@
     },
     {
       "company": "Wave Mobile Money",
+      "title": "Regional Lead",
+      "location": "\">Abidjan, Côte d&#39;Ivoire",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6202877004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
       "title": "Regional Lead Spontaneous Application",
       "location": "\">Cameroon (CM)",
       "department": "",
@@ -8142,7 +8232,7 @@
     {
       "company": "Wave Mobile Money",
       "title": "Risk &amp; Compliance Officer",
-      "location": "\">Niamey, Niger",
+      "location": "\">Cameroon (CM)",
       "department": "",
       "url": "https://www.wave.com/en/careers/job/6101347004/",
       "board": "generic",
@@ -8155,6 +8245,16 @@
       "location": "\">Niamey, Niger",
       "department": "",
       "url": "https://www.wave.com/en/careers/job/5648275004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Sales Representative",
+      "location": "\">Bamako, Mali",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6204932004/",
       "board": "generic",
       "remote": false,
       "posted_at": ""
@@ -8227,16 +8327,6 @@
       "url": "https://www.wave.com/en/careers/job/6192751004/",
       "board": "generic",
       "remote": false,
-      "posted_at": ""
-    },
-    {
-      "company": "Wave Mobile Money",
-      "title": "Technical Product Manager - DevEx",
-      "location": "\">Freetown, Sierra Leone",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/6147040004/",
-      "board": "generic",
-      "remote": true,
       "posted_at": ""
     },
     {
