@@ -1,31 +1,31 @@
 {
-  "date": "2026-09-25",
-  "crawl_time_utc": "2026-09-25T09:30:58.103358+00:00",
-  "total_new": 14,
+  "date": "2026-09-29",
+  "crawl_time_utc": "2026-09-29T09:31:00.524443+00:00",
+  "total_new": 35,
   "jobs": [
     {
       "company": "Assured",
-      "title": "Customer Success Operations Manager",
+      "title": "Contract Product & Design Sourcer",
       "location": "Remote",
-      "department": "Client Engagement",
-      "url": "https://jobs.ashbyhq.com/assured/8d77752a-3db6-413a-ab71-ac2196187aac",
+      "department": "People",
+      "url": "https://jobs.ashbyhq.com/assured/bc5e4593-c1ea-465e-8338-cecb9c381df0",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-08-05T15:16:35.973+00:00"
+      "posted_at": "2026-09-25T13:26:27.203+00:00"
     },
     {
       "company": "Assured",
-      "title": "Principal Customer Success Manager",
+      "title": "Principal Solutions Consultant",
       "location": "Remote",
       "department": "Client Engagement",
-      "url": "https://jobs.ashbyhq.com/assured/8e7266fa-98dc-47b3-9589-300a9e602770",
+      "url": "https://jobs.ashbyhq.com/assured/fd6c707f-2f34-4713-bd3c-29365ca49bb4",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2025-10-23T16:02:00.368+00:00"
+      "posted_at": "2026-09-25T17:52:26.300+00:00"
     },
     {
       "company": "Assured",
-      "title": "Solutions Consultant",
+      "title": "Senior Solutions Consultant",
       "location": "Remote",
       "department": "Client Engagement",
       "url": "https://jobs.ashbyhq.com/assured/a19b81ba-829f-438d-9fd5-960c69d48fd3",
@@ -34,58 +34,238 @@
       "posted_at": "2026-09-25T02:12:35.789+00:00"
     },
     {
-      "company": "ElevenLabs",
-      "title": "Sales Development - France",
-      "location": "France",
+      "company": "Cohere",
+      "title": "Solutions Architect",
+      "location": "Paris",
       "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/a7804250-c35d-4d32-bfab-2ec9694ea13a",
+      "url": "https://jobs.ashbyhq.com/cohere/d1ab4fbd-3271-4057-8b20-dfaad4270fa8",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-07-09T07:40:31.891+00:00"
+      "posted_at": "2026-09-28T09:42:14.127+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Account Executive - Spain - Mid-Market",
+      "location": "Spain | {'location': 'Italy', 'address': {'postalAddress': {'addressCountry': 'Italy', 'addressLocality': ''}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}}",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/347282a4-74ff-4e56-a92d-3c4249ee6c28",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-25T22:13:06.715+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Account Manager - DACH",
+      "location": "Germany | {'location': 'Switzerland', 'address': {'postalAddress': {'addressCountry': 'Switzerland'}}}",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/830e66a8-892c-4c68-b61c-494591236eef",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-29T09:22:37.880+00:00"
+    },
+    {
+      "company": "Hightouch",
+      "title": "AI Strategy Consultant ",
+      "location": "Remote (EMEA) | London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/hightouch/jobs/6208612004",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-09-25T12:23:16-04:00"
     },
     {
       "company": "Kong",
-      "title": "Enterprise Account Executive, France",
-      "location": "France | {'location': 'Paris, France', 'address': {'postalAddress': {'addressCountry': 'France', 'addressLocality': 'Neuilly-sur-Seine'}}}",
+      "title": "Account Development Representative (German-speaking)",
+      "location": "London, England, United Kingdom",
       "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/c10b5a13-089d-42c9-9f39-10dc435a2025",
+      "url": "https://jobs.ashbyhq.com/kong/8edb7bb8-4020-4d38-b810-bdb4f7c7945b",
       "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-09-24T14:54:53.209+00:00"
+      "remote": false,
+      "posted_at": "2026-09-25T09:30:49.125+00:00"
     },
     {
-      "company": "Runway",
-      "title": "Sr./Staff Product Designer",
-      "location": "Remote",
-      "department": "Product Design",
-      "url": "https://jobs.ashbyhq.com/runway-ml/b283e7c0-944a-4d4e-be69-49875008c738",
+      "company": "Kong",
+      "title": "Senior Customer Success Manager (Nordics & Benelux)",
+      "location": "Sweden",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/9fc64b8f-9a6c-4d88-8d46-7edf90c8b7d4",
       "board": "ashby",
+      "remote": false,
+      "posted_at": "2026-08-11T13:40:42.968+00:00"
+    },
+    {
+      "company": "Postscript",
+      "title": "Senior Software Engineer, Full Stack",
+      "location": "Remote | PDE",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/postscript/jobs/8525612002",
+      "board": "greenhouse",
       "remote": true,
-      "posted_at": "2026-09-24T14:30:03.095+00:00"
+      "posted_at": "2026-04-27T19:15:20-04:00"
+    },
+    {
+      "company": "Supabase",
+      "title": "AI Platform Engineer",
+      "location": "Remote, Global",
+      "department": "Business Operations",
+      "url": "https://jobs.ashbyhq.com/supabase/3b5d54ca-741b-45ac-bd3f-31605a0d3541",
+      "board": "ashby",
+      "remote": null,
+      "posted_at": "2026-07-31T18:56:39.246+00:00"
     },
     {
       "company": "Tether",
-      "title": "Blockchain Investigator and Law Enforcement Liaison - NZ",
-      "location": "Auckland | New Zealand, Auckland",
-      "department": "Compliance",
-      "url": "https://careers.tether.io/o/l24tc",
+      "title": "AI Harness Engineer (100% Remote, Worldwide)",
+      "location": "Copenhagen | Denmark, Copenhagen | Sweden, Stockholm | Austria, Vienna",
+      "department": "Engineering",
+      "url": "https://careers.tether.io/o/dshsu",
       "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-09-24T13:42:43Z"
+      "posted_at": "2026-09-25T18:30:28Z"
+    },
+    {
+      "company": "Tether",
+      "title": "AI Research Engineer (Kernel & Inference Optimization) - 100% Remote Worldwide",
+      "location": "Andorra la Vella | Andorra | Argentina, Buenos Aires | Brazil, Brasilia | Brazil, Rio de Janeiro | Spain, Barcelona | Spain, Madrid | Italy, Milano | Italy, Rome | United Arab Emirates, Abu Dhabi | United Kingdom, London | Switzerland, Lugano | Poland, Warsaw | The Netherlands, Amsterdam | Portugal, Lisbon | Ireland, Dublin | Romania, Bucharest | India, Bangalore | Malaysia, Kuala Lumpur",
+      "department": "Data",
+      "url": "https://careers.tether.io/o/masy4",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-28T17:17:17Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Event Design Coordinator (Remote / Europe)",
+      "location": "Brussels | Belgium, Brussels | Belgium  | Budapest, Hungary | Bulgaria, Sofia | Cyprus, Nicosia | Czech Republic, Prague",
+      "department": "Marketing",
+      "url": "https://careers.tether.io/o/krfdo",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-25T18:11:04Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Event Design Coordinator (Remote / Europe)",
+      "location": "Rome | Italy, Rome | Italy, Milano | Italy, Como | Germany, Berlin | Finland, Helsinki | France, Paris",
+      "department": "Marketing",
+      "url": "https://careers.tether.io/o/v7sf6",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-25T18:09:06Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Event Design Coordinator (Remote / Europe)",
+      "location": "Oslo | Norway, Oslo | Nigeria, Lagos | Portugal, Lisbon | Poland, Warsaw",
+      "department": "Marketing",
+      "url": "https://careers.tether.io/o/tpvdy",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-25T18:07:20Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Event Design Coordinator (Remote / Europe)",
+      "location": " Edinburgh | United Kingdom, Scotland | United Kingdom, London | United Kingdom, Manchester | United Kindom",
+      "department": "Marketing",
+      "url": "https://careers.tether.io/o/dkt5r",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-25T18:04:54Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Event Design Coordinator (Remote / Europe)",
+      "location": "Amsterdam | The Netherlands, Amsterdam | Switzerland, Lugano | Switzerland, Lausanne | Switzerland, Geneve | Switzerland, Chiasso | Switzerland, Berne | Sweden, Stockholm",
+      "department": "Marketing",
+      "url": "https://careers.tether.io/o/8tmvh",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-25T18:03:46Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Expansion Manager - Cote d’Ivoire",
+      "location": "Yamoussoukro |  Cote d'Ivoire, Yamoussoukro",
+      "department": "",
+      "url": "https://careers.tether.io/o/nbsf8",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-29T08:40:18Z"
     },
     {
       "company": "Tide",
-      "title": "Customer Support Analyst with French (Collections) ",
-      "location": "Bulgaria | Sofia",
+      "title": "Head of People Partnering, UK  & Europe ",
+      "location": "India, Hyderabad | Hyderabad",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7700312003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7999117003",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-04-16T02:41:28-04:00"
+      "posted_at": "2026-09-25T09:11:38-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Inside Sales Executive (Fintech / SME Growth)",
+      "location": "India, Delhi NCR | India",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/8006397003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-28T01:50:03-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Policy and Procedure Lead - Ongoing Monitoring",
+      "location": "United Kingdom | London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/8006407003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-28T02:31:37-04:00"
     },
     {
       "company": "Tide",
       "title": "Product Sales Executive (Banking & Payments)",
+      "location": "India, Delhi NCR | India",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/8006396003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-28T01:49:10-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "SEO Copywriter",
+      "location": "India, Delhi NCR | Delhi",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/8005135003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-25T08:27:13-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Sales Team Lead (Member Success)",
+      "location": "India, Delhi NCR | India",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/8006412003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-28T05:21:47-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Senior Operations Analyst",
+      "location": "Bulgaria | Sofia",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7769408003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-06-12T05:44:20-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Senior Product Sales Executive (Banking & Payments)",
       "location": "India, Delhi NCR | Delhi",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7478929003",
@@ -95,7 +275,17 @@
     },
     {
       "company": "Tide",
-      "title": "Sales Executive (Fintech / SME Growth)",
+      "title": "Senior Quality Assurance Analyst ",
+      "location": "India, Delhi NCR | Delhi",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/8006416003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-28T05:23:33-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Senior Sales Executive (Fintech / SME Growth)",
       "location": "India, Delhi NCR | Delhi",
       "department": "",
       "url": "https://job-boards.greenhouse.io/tide/jobs/7478930003",
@@ -104,43 +294,63 @@
       "posted_at": "2025-09-26T02:18:02-04:00"
     },
     {
-      "company": "Tide",
-      "title": "Senior Inside Sales Executive (Fintech / SME Growth)",
-      "location": "India, Delhi NCR | Delhi",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/6211958003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2024-09-24T05:06:45-04:00"
-    },
-    {
       "company": "Wave Mobile Money",
-      "title": "Observability Specialist",
+      "title": "CD Agent Operations Lead",
       "location": "\">Kinshasa, Democratic Republic of the Congo",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6146026004/",
-      "board": "generic",
-      "remote": true,
-      "posted_at": ""
-    },
-    {
-      "company": "Wave Mobile Money",
-      "title": "Product Engineer",
-      "location": "\">Freetown, Sierra Leone",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/6109405004/",
-      "board": "generic",
-      "remote": true,
-      "posted_at": ""
-    },
-    {
-      "company": "Wave Mobile Money",
-      "title": "Support Quality &amp; Training Lead",
-      "location": "\">Niamey, Niger",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/6207477004/",
+      "url": "https://www.wave.com/en/careers/job/6208510004/",
       "board": "generic",
       "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "CD Agent Ops Regional Lead - Pool",
+      "location": "\">Kinshasa, Democratic Republic of the Congo",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6209725004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Field Officer",
+      "location": "\">Kinshasa, Democratic Republic of the Congo",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/5825517004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Field Officer",
+      "location": "\">Niamey, Niger",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6207363004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Inventory Clerk",
+      "location": "\">Canada; Spain; United Kingdom",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6136062004/",
+      "board": "generic",
+      "remote": true,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Wire Transfer Officer",
+      "location": "\">Remote",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6119407004/",
+      "board": "generic",
+      "remote": true,
       "posted_at": ""
     }
   ]
