@@ -1,114 +1,254 @@
 {
-  "date": "2026-09-30",
-  "crawl_time_utc": "2026-09-30T09:31:03.043642+00:00",
-  "total_new": 11,
+  "date": "2026-10-01",
+  "crawl_time_utc": "2026-10-01T11:37:37.286409+00:00",
+  "total_new": 25,
   "jobs": [
     {
-      "company": "Filevine",
-      "title": "Filevine Administrator - Boca Raton",
-      "location": "Boca Raton, FL Administrative onsite",
-      "department": "Administrative",
-      "url": "https://jobs.lever.co/filevine/99c0328f-fd4c-4035-bd84-a6866df908d7",
+      "company": "Customer.io",
+      "title": "Customer Success Manager",
+      "location": "APAC Remote; EMEA Remote | APAC Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/customerio/jobs/8242239",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-09-30T14:35:59-04:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Account Manager (Polish Speaking)",
+      "location": "Poland | {'location': 'Ireland', 'address': {'postalAddress': {'addressCountry': 'Ireland'}}} | {'location': 'Europe', 'address': {'postalAddress': {'addressCountry': 'European Union'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}}",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/1bd5957c-6799-4b0d-b33d-1d8f7fc56c09",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-02T12:35:28.306+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Customer Success - DACH",
+      "location": "Germany | {'location': 'Switzerland', 'address': {'postalAddress': {'addressCountry': 'Switzerland'}}}",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/493720ea-b8a1-4d5d-bdef-b79f2cf36fbe",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-30T13:23:43.252+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Customer Success - Southern Europe",
+      "location": "Spain | {'location': 'Italy', 'address': {'postalAddress': {'addressCountry': 'Italy', 'addressLocality': ''}}}",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/78c564eb-ee87-46d9-b2fd-4322a223a547",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-30T14:21:47.305+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Customer Success - Strategic - EMEA",
+      "location": "Europe | {'location': 'Germany', 'address': {'postalAddress': {'addressCountry': 'Germany'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}} | {'location': 'France', 'address': {'postalAddress': {'addressCountry': 'France'}}}",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/8998a48c-6bc4-42fc-b4b5-e779d810f930",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-30T13:28:34.657+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Enterprise Solutions Engineer - Singapore",
+      "location": "Singapore | {'location': 'Australia', 'address': {'postalAddress': {'addressCountry': 'Australia'}}} | {'location': 'Japan', 'address': {'postalAddress': {'addressCountry': 'Japan'}}} | {'location': 'Taiwan', 'address': {'postalAddress': {}}}",
+      "department": "Engineering & Product",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/85b7489f-5b0c-4f21-9c1c-7b76ed904c44",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-30T09:59:23.910+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Nordics Strategic Account Executive",
+      "location": "Denmark",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/3de325f9-98e1-41df-b34e-9f6fddb34fa4",
+      "board": "ashby",
+      "remote": false,
+      "posted_at": "2026-07-22T10:28:50.112+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Public Sector Partnerships Lead - Europe ",
+      "location": "Europe",
+      "department": "Operations",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/2c9dfcd0-0aa3-466a-8a5a-2b2351afbf81",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-07-16T02:27:14.330+00:00"
+    },
+    {
+      "company": "Hightouch",
+      "title": "AI Decisioning Strategy Consultant",
+      "location": "Remote (EMEA) | London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/hightouch/jobs/6208612004",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-09-25T12:23:16-04:00"
+    },
+    {
+      "company": "Kong",
+      "title": "Team Lead, Account Development Representatives",
+      "location": "England, United Kingdom",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/a0cb6cab-90a3-41b3-b2d5-fbbf87ce7bfb",
+      "board": "ashby",
+      "remote": false,
+      "posted_at": "2026-09-30T15:07:50.613+00:00"
+    },
+    {
+      "company": "Runway",
+      "title": "Support Representative, APAC",
+      "location": "Remote",
+      "department": "Customer Experience",
+      "url": "https://jobs.ashbyhq.com/runway-ml/08d42c3a-7ac6-4576-ad4a-75a0d80bf0d6",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-30T17:09:27.218+00:00"
+    },
+    {
+      "company": "Runway",
+      "title": "Support Representative, London",
+      "location": "Remote",
+      "department": "Customer Experience",
+      "url": "https://jobs.ashbyhq.com/runway-ml/ae62647f-7ec4-4383-a5ff-d37d73580062",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-30T17:08:47.408+00:00"
+    },
+    {
+      "company": "Sardine",
+      "title": "Technical Program Manager",
+      "location": "Dubai, United Arab Emirates",
+      "department": "Integrations",
+      "url": "https://jobs.ashbyhq.com/sardine/6e1a4fea-9953-4c1a-9ef7-ea60168a0c3f",
+      "board": "ashby",
+      "remote": null,
+      "posted_at": "2026-09-30T15:57:13.390+00:00"
+    },
+    {
+      "company": "Supermove",
+      "title": "Enterprise Key Account Director",
+      "location": "Remote Operations remote",
+      "department": "Operations",
+      "url": "https://jobs.lever.co/supermove/0f318ca9-3c7b-4350-ab02-21ab44fa4b17",
       "board": "lever",
-      "remote": false,
-      "posted_at": "2026-08-27T17:36:44Z"
+      "remote": true,
+      "posted_at": "2026-09-30T17:42:20Z"
     },
     {
-      "company": "Hightouch",
-      "title": "Enterprise Account Executive, East - Northeast",
-      "location": "Remote (Northeast) | Remote",
+      "company": "Synthesia",
+      "title": "Cold Call",
+      "location": "unknown (check listing)",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/hightouch/jobs/5799223004",
+      "url": "https://www.synthesia.io/sessions/roleplays/cold-call",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Synthesia",
+      "title": "Discovery Call",
+      "location": "unknown (check listing)",
+      "department": "",
+      "url": "https://www.synthesia.io/sessions/roleplays/discovery-call",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Synthesia",
+      "title": "Manager Training",
+      "location": "unknown (check listing)",
+      "department": "",
+      "url": "https://www.synthesia.io/sessions/roleplays/manager-training",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Synthesia",
+      "title": "Roleplay Sessions",
+      "location": "unknown (check listing)",
+      "department": "",
+      "url": "https://www.synthesia.io/sessions/roleplays",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Synthesia",
+      "title": "Sales Roleplay",
+      "location": "unknown (check listing)",
+      "department": "",
+      "url": "https://www.synthesia.io/sessions/roleplays/sales-roleplay",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Tether",
+      "title": "Head of AI Expansion",
+      "location": "Lugano | Switzerland, Lugano",
+      "department": "Expansion",
+      "url": "https://careers.tether.io/o/2sn5g",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-10-01T11:28:23Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Head of AI Expansion",
+      "location": "London | United Kingdom, London",
+      "department": "Expansion",
+      "url": "https://careers.tether.io/o/1yd3a",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-10-01T11:16:45Z"
+    },
+    {
+      "company": "Tide",
+      "title": "Head of ICT, EU",
+      "location": "Luxembourg | Luxembourg",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/8009092003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-30T07:06:45-04:00"
+    },
+    {
+      "company": "Vannevar",
+      "title": "Senior Business Operations Manager",
+      "location": "Remote | Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/vannevarlabs/jobs/5244368007",
       "board": "greenhouse",
       "remote": true,
-      "posted_at": "2026-02-11T10:24:14-05:00"
-    },
-    {
-      "company": "Hightouch",
-      "title": "Enterprise Account Executive, East - Southeast",
-      "location": "Remote (Southeast) | Remote",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/hightouch/jobs/5799234004",
-      "board": "greenhouse",
-      "remote": true,
-      "posted_at": "2026-02-11T10:22:58-05:00"
-    },
-    {
-      "company": "Tide",
-      "title": " Werkstudent:in (m/w/d) – UX Copywriting ",
-      "location": "Berlin, Germany | Berlin",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/8006663003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-09-29T05:36:59-04:00"
-    },
-    {
-      "company": "Tide",
-      "title": "Head - Growth",
-      "location": "India, Delhi NCR | Delhi",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/8004230003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-09-29T06:29:24-04:00"
-    },
-    {
-      "company": "Tide",
-      "title": "Tele Sales Executive",
-      "location": "India, Delhi NCR | Delhi",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7997250003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-09-29T07:14:58-04:00"
+      "posted_at": "2026-09-30T12:04:25-04:00"
     },
     {
       "company": "Wave Mobile Money",
-      "title": "Operations Training Regional Lead .",
+      "title": "Business Development Manager - Mali",
       "location": "\">Kinshasa, Democratic Republic of the Congo",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6202395004/",
+      "url": "https://www.wave.com/en/careers/job/6188123004/",
       "board": "generic",
       "remote": false,
       "posted_at": ""
     },
     {
       "company": "Wave Mobile Money",
-      "title": "Premium Cash Assistant",
-      "location": "\">Kinshasa, Democratic Republic of the Congo",
+      "title": "Internal Auditor",
+      "location": "\">Dakar, Senegal",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6210601004/",
-      "board": "generic",
-      "remote": false,
-      "posted_at": ""
-    },
-    {
-      "company": "Wave Mobile Money",
-      "title": "Premium Cash Officer",
-      "location": "\">Cameroon (CM)",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/6202400004/",
-      "board": "generic",
-      "remote": false,
-      "posted_at": ""
-    },
-    {
-      "company": "Wave Mobile Money",
-      "title": "Regional Lead (User Growth)",
-      "location": "\">Kinshasa, Democratic Republic of the Congo",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/6209493004/",
-      "board": "generic",
-      "remote": false,
-      "posted_at": ""
-    },
-    {
-      "company": "Wave Mobile Money",
-      "title": "Support Group Lead",
-      "location": "\">Niamey, Niger",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/6211364004/",
+      "url": "https://www.wave.com/en/careers/job/6211657004/",
       "board": "generic",
       "remote": false,
       "posted_at": ""

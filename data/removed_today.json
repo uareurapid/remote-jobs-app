@@ -1,344 +1,314 @@
 {
-  "date": "2026-09-30",
-  "crawl_time_utc": "2026-09-30T09:31:03.043642+00:00",
-  "total_removed": 34,
+  "date": "2026-10-01",
+  "crawl_time_utc": "2026-10-01T11:37:37.286409+00:00",
+  "total_removed": 31,
   "jobs": [
     {
-      "company": "ElevenLabs",
-      "title": "Deployment Strategist - France - Global Expansion",
-      "location": "France",
-      "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/063115f6-3780-4920-97dd-c99489b6cfc2",
-      "board": "ashby",
+      "company": "Automattic",
+      "title": "Technical Support Engineer, Pressable",
+      "location": "Remote | Pressable",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/automatticcareers/jobs/6294984",
+      "board": "greenhouse",
       "remote": true,
-      "posted_at": "2026-08-17T17:55:10.427+00:00"
+      "posted_at": "2024-10-01T14:24:02-04:00"
     },
     {
       "company": "ElevenLabs",
-      "title": "Deployment Strategist - Italy",
+      "title": "Account Executive - ElevenCreative - Germany",
+      "location": "Germany",
+      "department": "Growth",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/42167cd0-3736-45b3-a1de-3fb6bedfe71d",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-07-10T16:34:18.294+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "B2B Growth Marketer - Belgium",
+      "location": "Belgium",
+      "department": "Growth",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/7c9abf17-1e6b-4038-92ba-bea97293627a",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-08-05T22:11:09.781+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "B2B Growth Marketer - Denmark",
+      "location": "Denmark",
+      "department": "Growth",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/2d4272f3-8cf3-487a-a399-1d3a5e74dca8",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-08-05T22:13:46.485+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "B2B Growth Marketer - Italy",
       "location": "Italy",
-      "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/b85d7749-5b12-4f3c-87e9-61a477da77aa",
+      "department": "Growth",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/68316753-ec69-428d-bd8a-3adea30f7807",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-07-20T01:46:43.242+00:00"
+      "posted_at": "2026-08-05T22:52:26.095+00:00"
     },
     {
       "company": "ElevenLabs",
-      "title": "Deployment Strategist - Netherlands",
-      "location": "Netherlands",
-      "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/ca7bd675-9bef-4459-ad12-cd423184d856",
+      "title": "B2B Growth Marketer - Switzerland",
+      "location": "Switzerland",
+      "department": "Growth",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/6363a777-0bb0-4e1b-8302-25419f88e909",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-06-09T18:05:44.149+00:00"
+      "posted_at": "2026-08-05T22:16:42.886+00:00"
     },
     {
       "company": "ElevenLabs",
-      "title": "Deployment Strategist - Poland",
-      "location": "Poland",
-      "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/f0cccf77-a255-4620-9639-2f1cc5f9c0ab",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-05-06T03:43:05.867+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Deployment Strategist - Spain",
-      "location": "Spain",
-      "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/6848ece5-1ce5-4ab4-9dd6-0704cd0f8ecd",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-03-04T19:04:10.716+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Enterprise Solutions Engineer - France",
-      "location": "France",
-      "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/ce00fe7b-a93a-436b-bd5e-2eff87c48f23",
-      "board": "ashby",
-      "remote": false,
-      "posted_at": "2026-03-11T15:43:51.425+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Enterprise Solutions Engineer - Italy",
-      "location": "Italy",
-      "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/9dc3f256-3c42-4368-8d7e-ba9a3b3505e7",
-      "board": "ashby",
-      "remote": false,
-      "posted_at": "2026-07-20T01:44:22.023+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Enterprise Solutions Engineer - Singapore",
-      "location": "Singapore | {'location': 'Australia', 'address': {'postalAddress': {'addressCountry': 'Australia'}}} | {'location': 'Japan', 'address': {'postalAddress': {'addressCountry': 'Japan'}}} | {'location': 'Taiwan', 'address': {'postalAddress': {}}}",
-      "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/85b7489f-5b0c-4f21-9c1c-7b76ed904c44",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-05-04T21:59:53.629+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Enterprise Solutions Engineer - Spain",
-      "location": "Spain",
-      "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/b081fafb-3659-4bf6-8e87-eb5ccc3ff234",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-03-11T09:00:23.732+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Forward Deployed Engineer - Software Engineer - Italy",
-      "location": "Italy",
-      "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/cd610558-4a8e-4746-81c1-10e3902f5576",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-08-10T22:20:40.583+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Forward Deployed Engineer - Software Engineer - Netherlands",
-      "location": "Netherlands",
-      "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/50d20869-819d-4ae3-be8d-71c3c9bf3394",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-08-10T22:19:02.358+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Forward Deployed Engineer - Software Engineer - Spain",
-      "location": "Spain",
-      "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/7664e3c4-2336-4d1a-90cf-91d1268de10d",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-05-05T19:43:31.419+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Sales Development - Netherlands",
-      "location": "Netherlands",
+      "title": "Customer Success (Polish Speaking)",
+      "location": "Poland | {'location': 'Ireland', 'address': {'postalAddress': {'addressCountry': 'Ireland'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}}",
       "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/2db2a637-1b47-44d3-a506-069e97216946",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/1bd5957c-6799-4b0d-b33d-1d8f7fc56c09",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-07-07T13:41:38.177+00:00"
+      "posted_at": "2026-09-02T12:35:28.306+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Public Sector Partnerships - Europe Lead",
+      "location": "Europe",
+      "department": "Operations",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/2c9dfcd0-0aa3-466a-8a5a-2b2351afbf81",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-07-16T02:27:14.330+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Strategic Account Executive - Denmark - Consumer & Retail",
+      "location": "Denmark",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/d29d23d8-703f-4448-8d80-255d141cac10",
+      "board": "ashby",
+      "remote": false,
+      "posted_at": "2026-07-22T10:26:23.021+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Strategic Account Executive - Denmark - Financial Services",
+      "location": "Denmark",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/6c5d4386-8a3f-473f-9a39-394added49a5",
+      "board": "ashby",
+      "remote": false,
+      "posted_at": "2026-07-22T10:22:45.228+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Strategic Account Executive - Denmark - Telecom, Infrastructure & Public Sector",
+      "location": "Denmark",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/3de325f9-98e1-41df-b34e-9f6fddb34fa4",
+      "board": "ashby",
+      "remote": false,
+      "posted_at": "2026-07-22T10:28:50.112+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Strategic Account Executive - France",
+      "location": "France",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/db2c5c2f-5d76-4086-af1d-d1a8347712ad",
+      "board": "ashby",
+      "remote": false,
+      "posted_at": "2026-08-12T09:28:04.526+00:00"
+    },
+    {
+      "company": "Goodnotes",
+      "title": "Senior Data Engineer (12-months Fixed-Term Contract – Renewable)",
+      "location": "Singapore | Singapore",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/goodnotes/jobs/6127461004",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-07-27T09:54:46-04:00"
     },
     {
       "company": "Hightouch",
-      "title": "Enterprise Account Executive - East",
-      "location": "Remote (Southeast) | Remote",
+      "title": "AI Strategy Consultant ",
+      "location": "Remote (EMEA) | London",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/hightouch/jobs/5799234004",
+      "url": "https://job-boards.greenhouse.io/hightouch/jobs/6208612004",
       "board": "greenhouse",
       "remote": true,
-      "posted_at": "2026-02-11T10:22:58-05:00"
-    },
-    {
-      "company": "Hightouch",
-      "title": "Enterprise Account Executive - East",
-      "location": "Remote (Northeast) | Remote",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/hightouch/jobs/5799223004",
-      "board": "greenhouse",
-      "remote": true,
-      "posted_at": "2026-02-11T10:24:14-05:00"
+      "posted_at": "2026-09-25T12:23:16-04:00"
     },
     {
       "company": "Kong",
-      "title": "Senior Software Engineer, Konnect Control Plane ",
-      "location": "Italy",
+      "title": "Senior Customer Success Manager",
+      "location": "Dubai, United Arab Emirates",
       "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/b93fc7a3-cf5f-4004-aea5-843cbd7b75c0",
+      "url": "https://jobs.ashbyhq.com/kong/892cdab5-427f-4fc8-aac0-eb5ccbdbff5c",
       "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-22T16:18:57.872+00:00"
+    },
+    {
+      "company": "Supabase",
+      "title": "AI Platform Engineer",
+      "location": "Remote, Global",
+      "department": "Business Operations",
+      "url": "https://jobs.ashbyhq.com/supabase/3b5d54ca-741b-45ac-bd3f-31605a0d3541",
+      "board": "ashby",
+      "remote": null,
+      "posted_at": "2026-07-31T18:56:39.246+00:00"
+    },
+    {
+      "company": "Synthesia",
+      "title": "Roleplay Sessions",
+      "location": "unknown (check listing)",
+      "department": "",
+      "url": "https://www.synthesia.io/features/roleplay-sessions",
+      "board": "generic",
       "remote": false,
-      "posted_at": "2026-07-17T08:17:22.727+00:00"
-    },
-    {
-      "company": "Kong",
-      "title": "Site Reliability Engineer 2, Managed Gateways",
-      "location": "Bangalore, India",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/4da28c63-9926-4b14-93ba-c5c589233344",
-      "board": "ashby",
-      "remote": false,
-      "posted_at": "2026-09-07T04:02:20.356+00:00"
-    },
-    {
-      "company": "Sardine",
-      "title": "Strategic Account Manager",
-      "location": "Brazil | {'location': 'São Paulo', 'address': {'postalAddress': {'addressRegion': '', 'addressCountry': 'Brazil', 'addressLocality': ''}}}",
-      "department": "Account Management",
-      "url": "https://jobs.ashbyhq.com/sardine/886f9f32-d184-4876-83f4-36ed6b3672c9",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-08-28T23:41:23.348+00:00"
-    },
-    {
-      "company": "Supabase",
-      "title": "Engineering Productivity Engineer",
-      "location": "Remote, Global",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/supabase/8229db66-dc3f-4ffe-8d86-90ce9ffb4c90",
-      "board": "ashby",
-      "remote": null,
-      "posted_at": "2026-08-02T10:39:06.516+00:00"
-    },
-    {
-      "company": "Supabase",
-      "title": "Founding Technical Program Manager",
-      "location": "Remote, Global",
-      "department": "Technical Program Management",
-      "url": "https://jobs.ashbyhq.com/supabase/7a5d81a2-c586-4d7f-a179-89c95869ca33",
-      "board": "ashby",
-      "remote": null,
-      "posted_at": "2026-08-21T07:59:00.236+00:00"
-    },
-    {
-      "company": "Supabase",
-      "title": "Pre-Sales Solutions Architect (SA) Leader",
-      "location": "Remote, Global",
-      "department": "Success",
-      "url": "https://jobs.ashbyhq.com/supabase/624d48cc-8d34-4607-bace-e6d045df70b8",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-08-24T22:00:58.257+00:00"
-    },
-    {
-      "company": "Supabase",
-      "title": "Product Manager - Marketplace",
-      "location": "Remote, Global",
-      "department": "Product",
-      "url": "https://jobs.ashbyhq.com/supabase/23c9ce7e-6b7b-4316-8f00-8f318e902441",
-      "board": "ashby",
-      "remote": null,
-      "posted_at": "2026-07-24T10:49:09.045+00:00"
-    },
-    {
-      "company": "Supabase",
-      "title": "Site Reliability Engineer",
-      "location": "Remote, Global",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/supabase/ed6cedb1-b9bf-4609-ac5c-c75c33b31bf3",
-      "board": "ashby",
-      "remote": null,
-      "posted_at": "2026-06-19T06:04:39.827+00:00"
-    },
-    {
-      "company": "Supabase",
-      "title": "Software Engineer: IaC Platform Experience",
-      "location": "Remote, Global",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/supabase/b7206c22-979f-444a-809b-e70d9ee23c7f",
-      "board": "ashby",
-      "remote": null,
-      "posted_at": "2026-05-13T12:37:38.287+00:00"
+      "posted_at": ""
     },
     {
       "company": "Tether",
-      "title": "Finance Operations Coordinator",
-      "location": "Rome | Italy, Rome",
-      "department": "Operations",
-      "url": "https://careers.tether.io/o/got4e",
+      "title": "Blockchain Expansion  Manager (100% remote)",
+      "location": "London | United Kingdom, London",
+      "department": "Expansion",
+      "url": "https://careers.tether.io/o/5fwev",
       "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-09-17T16:13:50Z"
+      "posted_at": "2026-08-13T14:11:54Z"
     },
     {
       "company": "Tether",
-      "title": "Finance Operations Coordinator",
-      "location": "Lisbon | Portugal, Lisbon",
-      "department": "Operations",
-      "url": "https://careers.tether.io/o/6tcsy",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-09-17T16:09:22Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Finance Operations Coordinator",
-      "location": "United Kindom",
-      "department": "Operations",
-      "url": "https://careers.tether.io/o/fgmdm",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-09-17T16:03:48Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Finance Operations Coordinator",
+      "title": "Blockchain Expansion Manager (100% remote)",
       "location": "Milano | Italy, Milano",
-      "department": "Operations",
-      "url": "https://careers.tether.io/o/nvra2",
+      "department": "Expansion",
+      "url": "https://careers.tether.io/o/nufoy",
       "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-09-17T16:13:12Z"
+      "posted_at": "2026-08-13T14:17:14Z"
     },
     {
       "company": "Tether",
-      "title": "Finance Operations Coordinator",
-      "location": " Warsaw | Poland, Warsaw",
-      "department": "Operations",
-      "url": "https://careers.tether.io/o/8rek7",
+      "title": "Blockchain Expansion Manager (100% remote)",
+      "location": "Brussels | Belgium ",
+      "department": "Expansion",
+      "url": "https://careers.tether.io/o/r824h",
       "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-09-17T16:12:36Z"
+      "posted_at": "2026-08-13T14:18:38Z"
     },
     {
       "company": "Tether",
-      "title": "Finance Operations Coordinator",
-      "location": "Barcelona | Spain, Barcelona",
-      "department": "Operations",
-      "url": "https://careers.tether.io/o/grkm4",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-09-17T16:08:36Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Finance Operations Coordinator",
+      "title": "Blockchain Expansion Manager (100% remote)",
       "location": "Madrid | Spain, Madrid",
-      "department": "Operations",
-      "url": "https://careers.tether.io/o/ysm24",
+      "department": "Expansion",
+      "url": "https://careers.tether.io/o/y1kgv",
       "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-09-17T16:07:34Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Senior Business Analyst Mining (100% remote)",
-      "location": "Paris | France, Paris",
-      "department": "",
-      "url": "https://careers.tether.io/o/veadc",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-09-03T12:37:50Z"
+      "posted_at": "2026-08-13T14:15:47Z"
     },
     {
       "company": "Tide",
-      "title": "Manager, AML Analytics",
-      "location": "India, Hyderabad | Hyderabad",
+      "title": "Director of Mobile and Web Platform",
+      "location": "Bulgaria | London",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7819343003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7765740003",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-08-03T05:21:10-04:00"
+      "posted_at": "2026-06-08T02:06:39-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Director of Mobile and Web Platform",
+      "location": "Berlin, Germany | London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7980053003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-08-27T22:43:29-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Director of Mobile and Web Platform",
+      "location": "United Kingdom | London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7848597003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-08-10T10:43:30-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Director of Mobile and Web Platform",
+      "location": "Serbia | London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7768101003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-06-10T05:28:47-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Group Financial Controller",
+      "location": "India, Delhi NCR | India",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7853531003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-08-17T12:21:07-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Lead Product Manager - Banking Payments",
+      "location": "Bulgaria | Bulgaria",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7737389003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-06-17T12:40:13-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Lead Product Manager - Banking Payments",
+      "location": "Serbia | Bulgaria",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7783194003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-06-24T10:01:15-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Lead Product Manager - Banking Payments",
+      "location": "Lithuania | Bulgaria",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7783199003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-06-24T10:03:45-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Sales Specialist",
+      "location": "Bulgaria | Sofia",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7980283003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-08-28T08:58:32-04:00"
     },
     {
       "company": "Wave Mobile Money",
-      "title": "Operations Training Regional Lead",
-      "location": "\">Kinshasa, Democratic Republic of the Congo",
+      "title": "Customer Support Representative",
+      "location": "\">Abidjan, Côte d&#39;Ivoire",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6202395004/",
+      "url": "https://www.wave.com/en/careers/job/6184890004/",
       "board": "generic",
       "remote": false,
       "posted_at": ""
