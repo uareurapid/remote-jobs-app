@@ -1,72 +1,32 @@
 {
-  "date": "2026-10-01",
-  "crawl_time_utc": "2026-10-01T11:37:37.286409+00:00",
-  "total_new": 25,
+  "date": "2026-10-02",
+  "crawl_time_utc": "2026-10-02T09:30:58.394699+00:00",
+  "total_new": 16,
   "jobs": [
     {
-      "company": "Customer.io",
-      "title": "Customer Success Manager",
-      "location": "APAC Remote; EMEA Remote | APAC Remote",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/customerio/jobs/8242239",
-      "board": "greenhouse",
-      "remote": true,
-      "posted_at": "2026-09-30T14:35:59-04:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Account Manager (Polish Speaking)",
-      "location": "Poland | {'location': 'Ireland', 'address': {'postalAddress': {'addressCountry': 'Ireland'}}} | {'location': 'Europe', 'address': {'postalAddress': {'addressCountry': 'European Union'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/1bd5957c-6799-4b0d-b33d-1d8f7fc56c09",
+      "company": "DuckDuckGo",
+      "title": "Senior Product Designer, Design Systems ",
+      "location": "Remote",
+      "department": "Design",
+      "url": "https://jobs.ashbyhq.com/duck-duck-go/46757e0c-981c-4925-b007-b6f1829ae1be",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-09-02T12:35:28.306+00:00"
+      "posted_at": "2026-10-01T17:55:27.006+00:00"
     },
     {
       "company": "ElevenLabs",
-      "title": "Customer Success - DACH",
-      "location": "Germany | {'location': 'Switzerland', 'address': {'postalAddress': {'addressCountry': 'Switzerland'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/493720ea-b8a1-4d5d-bdef-b79f2cf36fbe",
+      "title": "B2B Marketing - Nordics",
+      "location": "Sweden",
+      "department": "Growth",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/084978b8-b63d-4c61-8a15-362da4348ef4",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-09-30T13:23:43.252+00:00"
+      "posted_at": "2026-08-06T12:54:01.965+00:00"
     },
     {
       "company": "ElevenLabs",
-      "title": "Customer Success - Southern Europe",
-      "location": "Spain | {'location': 'Italy', 'address': {'postalAddress': {'addressCountry': 'Italy', 'addressLocality': ''}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/78c564eb-ee87-46d9-b2fd-4322a223a547",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-09-30T14:21:47.305+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Customer Success - Strategic - EMEA",
-      "location": "Europe | {'location': 'Germany', 'address': {'postalAddress': {'addressCountry': 'Germany'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}} | {'location': 'France', 'address': {'postalAddress': {'addressCountry': 'France'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/8998a48c-6bc4-42fc-b4b5-e779d810f930",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-09-30T13:28:34.657+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Enterprise Solutions Engineer - Singapore",
-      "location": "Singapore | {'location': 'Australia', 'address': {'postalAddress': {'addressCountry': 'Australia'}}} | {'location': 'Japan', 'address': {'postalAddress': {'addressCountry': 'Japan'}}} | {'location': 'Taiwan', 'address': {'postalAddress': {}}}",
-      "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/85b7489f-5b0c-4f21-9c1c-7b76ed904c44",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-09-30T09:59:23.910+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Nordics Strategic Account Executive",
-      "location": "Denmark",
+      "title": "Nordics Strategic Account Executive - Generalist",
+      "location": "Denmark | {'location': 'Sweden', 'address': {'postalAddress': {'addressCountry': 'Sweden', 'addressLocality': 'Stockholm'}}}",
       "department": "Revenue",
       "url": "https://jobs.ashbyhq.com/elevenlabs/3de325f9-98e1-41df-b34e-9f6fddb34fa4",
       "board": "ashby",
@@ -74,181 +34,131 @@
       "posted_at": "2026-07-22T10:28:50.112+00:00"
     },
     {
-      "company": "ElevenLabs",
-      "title": "Public Sector Partnerships Lead - Europe ",
-      "location": "Europe",
-      "department": "Operations",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/2c9dfcd0-0aa3-466a-8a5a-2b2351afbf81",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-07-16T02:27:14.330+00:00"
-    },
-    {
-      "company": "Hightouch",
-      "title": "AI Decisioning Strategy Consultant",
-      "location": "Remote (EMEA) | London",
+      "company": "Goodnotes",
+      "title": "Senior Data Engineer (12-months Fixed-Term Contract – Renewable)",
+      "location": "Singapore | Singapore",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/hightouch/jobs/6208612004",
+      "url": "https://job-boards.greenhouse.io/goodnotes/jobs/6127461004",
       "board": "greenhouse",
-      "remote": true,
-      "posted_at": "2026-09-25T12:23:16-04:00"
+      "remote": false,
+      "posted_at": "2026-07-27T09:54:46-04:00"
     },
     {
       "company": "Kong",
-      "title": "Team Lead, Account Development Representatives",
-      "location": "England, United Kingdom",
+      "title": "Enterprise Account Executive Saudi Arabia",
+      "location": "United Arab Emirates | {'location': 'Dubai, United Arab Emirates', 'address': {'postalAddress': {'addressCountry': 'United Arab Emirates', 'addressLocality': 'Dubai'}}}",
       "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/a0cb6cab-90a3-41b3-b2d5-fbbf87ce7bfb",
-      "board": "ashby",
-      "remote": false,
-      "posted_at": "2026-09-30T15:07:50.613+00:00"
-    },
-    {
-      "company": "Runway",
-      "title": "Support Representative, APAC",
-      "location": "Remote",
-      "department": "Customer Experience",
-      "url": "https://jobs.ashbyhq.com/runway-ml/08d42c3a-7ac6-4576-ad4a-75a0d80bf0d6",
+      "url": "https://jobs.ashbyhq.com/kong/c6f545a5-000d-4155-bb54-20e900b81367",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-09-30T17:09:27.218+00:00"
-    },
-    {
-      "company": "Runway",
-      "title": "Support Representative, London",
-      "location": "Remote",
-      "department": "Customer Experience",
-      "url": "https://jobs.ashbyhq.com/runway-ml/ae62647f-7ec4-4383-a5ff-d37d73580062",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-09-30T17:08:47.408+00:00"
+      "posted_at": "2026-10-01T16:48:55.204+00:00"
     },
     {
       "company": "Sardine",
-      "title": "Technical Program Manager",
-      "location": "Dubai, United Arab Emirates",
-      "department": "Integrations",
-      "url": "https://jobs.ashbyhq.com/sardine/6e1a4fea-9953-4c1a-9ef7-ea60168a0c3f",
+      "title": "Support Engineer ",
+      "location": "United Arab Emirates | {'location': 'Dubai, United Arab Emirates', 'address': None}",
+      "department": "Support Engineering",
+      "url": "https://jobs.ashbyhq.com/sardine/9755bee1-3e57-4de0-905d-c6f2c144ca57",
       "board": "ashby",
-      "remote": null,
-      "posted_at": "2026-09-30T15:57:13.390+00:00"
-    },
-    {
-      "company": "Supermove",
-      "title": "Enterprise Key Account Director",
-      "location": "Remote Operations remote",
-      "department": "Operations",
-      "url": "https://jobs.lever.co/supermove/0f318ca9-3c7b-4350-ab02-21ab44fa4b17",
-      "board": "lever",
       "remote": true,
-      "posted_at": "2026-09-30T17:42:20Z"
-    },
-    {
-      "company": "Synthesia",
-      "title": "Cold Call",
-      "location": "unknown (check listing)",
-      "department": "",
-      "url": "https://www.synthesia.io/sessions/roleplays/cold-call",
-      "board": "generic",
-      "remote": false,
-      "posted_at": ""
-    },
-    {
-      "company": "Synthesia",
-      "title": "Discovery Call",
-      "location": "unknown (check listing)",
-      "department": "",
-      "url": "https://www.synthesia.io/sessions/roleplays/discovery-call",
-      "board": "generic",
-      "remote": false,
-      "posted_at": ""
-    },
-    {
-      "company": "Synthesia",
-      "title": "Manager Training",
-      "location": "unknown (check listing)",
-      "department": "",
-      "url": "https://www.synthesia.io/sessions/roleplays/manager-training",
-      "board": "generic",
-      "remote": false,
-      "posted_at": ""
-    },
-    {
-      "company": "Synthesia",
-      "title": "Roleplay Sessions",
-      "location": "unknown (check listing)",
-      "department": "",
-      "url": "https://www.synthesia.io/sessions/roleplays",
-      "board": "generic",
-      "remote": false,
-      "posted_at": ""
-    },
-    {
-      "company": "Synthesia",
-      "title": "Sales Roleplay",
-      "location": "unknown (check listing)",
-      "department": "",
-      "url": "https://www.synthesia.io/sessions/roleplays/sales-roleplay",
-      "board": "generic",
-      "remote": false,
-      "posted_at": ""
+      "posted_at": "2026-10-01T23:08:55.807+00:00"
     },
     {
       "company": "Tether",
-      "title": "Head of AI Expansion",
-      "location": "Lugano | Switzerland, Lugano",
-      "department": "Expansion",
-      "url": "https://careers.tether.io/o/2sn5g",
+      "title": "Event Design Coordinator (Remote / Europe)",
+      "location": "Amsterdam | The Netherlands, Amsterdam",
+      "department": "Marketing",
+      "url": "https://careers.tether.io/o/nfauv",
       "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-10-01T11:28:23Z"
+      "posted_at": "2026-10-01T14:34:40Z"
     },
     {
       "company": "Tether",
-      "title": "Head of AI Expansion",
+      "title": "Event Design Coordinator (Remote / Europe)",
       "location": "London | United Kingdom, London",
-      "department": "Expansion",
-      "url": "https://careers.tether.io/o/1yd3a",
+      "department": "Marketing",
+      "url": "https://careers.tether.io/o/s5hnw",
       "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-10-01T11:16:45Z"
+      "posted_at": "2026-10-01T14:22:29Z"
     },
     {
-      "company": "Tide",
-      "title": "Head of ICT, EU",
-      "location": "Luxembourg | Luxembourg",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/8009092003",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-09-30T07:06:45-04:00"
-    },
-    {
-      "company": "Vannevar",
-      "title": "Senior Business Operations Manager",
-      "location": "Remote | Remote",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/vannevarlabs/jobs/5244368007",
-      "board": "greenhouse",
+      "company": "Tether",
+      "title": "Event Design Coordinator (Remote / Europe)",
+      "location": "Dublin | Ireland, Dublin",
+      "department": "Marketing",
+      "url": "https://careers.tether.io/o/hbmpn",
+      "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-09-30T12:04:25-04:00"
+      "posted_at": "2026-10-01T14:33:48Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Event Design Coordinator (Remote / Europe)",
+      "location": " Warsaw | Poland, Warsaw",
+      "department": "Marketing",
+      "url": "https://careers.tether.io/o/p9w7d",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-10-01T14:34:12Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Event Design Coordinator (Remote / Europe)",
+      "location": "Rome | Italy, Rome",
+      "department": "Marketing",
+      "url": "https://careers.tether.io/o/po3l3",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-10-01T14:28:24Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Event Design Coordinator (Remote / Europe)",
+      "location": "Lugano | Switzerland, Lugano",
+      "department": "Marketing",
+      "url": "https://careers.tether.io/o/41har",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-10-01T14:29:10Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Event Design Coordinator (Remote / Europe)",
+      "location": "Brussels | Belgium, Brussels",
+      "department": "Marketing",
+      "url": "https://careers.tether.io/o/dwkne",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-10-01T14:29:43Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Head of AI Expansion",
+      "location": "Barcelona | Spain, Barcelona",
+      "department": "Expansion",
+      "url": "https://careers.tether.io/o/ew3kd",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-10-01T13:27:13Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Head of AI Expansion",
+      "location": "Milano | Italy, Milano",
+      "department": "Expansion",
+      "url": "https://careers.tether.io/o/slp14",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-10-01T13:25:47Z"
     },
     {
       "company": "Wave Mobile Money",
-      "title": "Business Development Manager - Mali",
-      "location": "\">Kinshasa, Democratic Republic of the Congo",
+      "title": "Agent Liquidity Lead",
+      "location": "\">Freetown, Sierra Leone",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6188123004/",
-      "board": "generic",
-      "remote": false,
-      "posted_at": ""
-    },
-    {
-      "company": "Wave Mobile Money",
-      "title": "Internal Auditor",
-      "location": "\">Dakar, Senegal",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/6211657004/",
+      "url": "https://www.wave.com/en/careers/job/6193104004/",
       "board": "generic",
       "remote": false,
       "posted_at": ""

@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-01",
-  "crawl_time_utc": "2026-10-01T11:37:37.286409+00:00",
+  "date": "2026-10-02",
+  "crawl_time_utc": "2026-10-02T09:30:58.394699+00:00",
   "total_companies": 53,
-  "total_jobs": 786,
+  "total_jobs": 785,
   "stats": {
-    "total_found": 786,
+    "total_found": 785,
     "filtered_us": 0,
     "errors": 0
   },
@@ -248,16 +248,6 @@
       "board": "ashby",
       "remote": true,
       "posted_at": "2026-07-17T17:12:05.329+00:00"
-    },
-    {
-      "company": "Assured",
-      "title": "Senior Manager of Special Projects",
-      "location": "Remote",
-      "department": "Operations",
-      "url": "https://jobs.ashbyhq.com/assured/995d2d36-8d1e-4218-a3da-12ae40719023",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-07-30T16:05:10.920+00:00"
     },
     {
       "company": "Assured",
@@ -831,16 +821,6 @@
     },
     {
       "company": "Cohere",
-      "title": "Forward Deployed Engineer, Agentic Platform (Korea)",
-      "location": "Korea",
-      "department": "Engineering & Infra",
-      "url": "https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-01-28T22:38:37.808+00:00"
-    },
-    {
-      "company": "Cohere",
       "title": "Forward Deployed Engineer, Agentic Platform (Singapore)",
       "location": "Singapore",
       "department": "Engineering & Infra",
@@ -858,16 +838,6 @@
       "board": "ashby",
       "remote": true,
       "posted_at": "2026-08-24T02:15:28.558+00:00"
-    },
-    {
-      "company": "Cohere",
-      "title": "Forward Deployed Engineer, Infrastructure Specialist",
-      "location": "Tokyo",
-      "department": "Engineering & Infra",
-      "url": "https://jobs.ashbyhq.com/cohere/38f75a48-199c-4325-a7f8-2af6ed6a1b3b",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-06-22T09:48:13.675+00:00"
     },
     {
       "company": "Cohere",
@@ -1008,16 +978,6 @@
       "board": "ashby",
       "remote": false,
       "posted_at": "2026-09-18T03:45:38.778+00:00"
-    },
-    {
-      "company": "Cohere",
-      "title": "Manager, Executive Assistants (Revenue)",
-      "location": "United Kingdom",
-      "department": "People Operations",
-      "url": "https://jobs.ashbyhq.com/cohere/be14b338-eac9-4099-9599-1e15cfdd11be",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-09-23T23:15:57.458+00:00"
     },
     {
       "company": "Cohere",
@@ -1391,6 +1351,16 @@
     },
     {
       "company": "DuckDuckGo",
+      "title": "Senior Product Designer, Design Systems ",
+      "location": "Remote",
+      "department": "Design",
+      "url": "https://jobs.ashbyhq.com/duck-duck-go/46757e0c-981c-4925-b007-b6f1829ae1be",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-10-01T17:55:27.006+00:00"
+    },
+    {
+      "company": "DuckDuckGo",
       "title": "Senior Web Security Engineer, Browser Platform",
       "location": "Remote",
       "department": "Engineering",
@@ -1581,7 +1551,7 @@
     },
     {
       "company": "ElevenLabs",
-      "title": "B2B Marketing - Sweden",
+      "title": "B2B Marketing - Nordics",
       "location": "Sweden",
       "department": "Growth",
       "url": "https://jobs.ashbyhq.com/elevenlabs/084978b8-b63d-4c61-8a15-362da4348ef4",
@@ -1841,16 +1811,6 @@
     },
     {
       "company": "ElevenLabs",
-      "title": "Events Lead - Brazil",
-      "location": "Brazil",
-      "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/9ce2cd02-c7f2-4705-8b70-accab2f863e1",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-07-09T19:26:29.048+00:00"
-    },
-    {
-      "company": "ElevenLabs",
       "title": "Executive Assistant - Finance",
       "location": "Poland | {'location': 'Europe', 'address': {'postalAddress': {'addressCountry': 'European Union'}}} | {'location': 'London', 'address': {'postalAddress': {'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}} | {'location': 'Amsterdam', 'address': {'postalAddress': {'addressCountry': 'Netherlands'}}}",
       "department": "Operations",
@@ -1991,8 +1951,8 @@
     },
     {
       "company": "ElevenLabs",
-      "title": "Nordics Strategic Account Executive",
-      "location": "Denmark",
+      "title": "Nordics Strategic Account Executive - Generalist",
+      "location": "Denmark | {'location': 'Sweden', 'address': {'postalAddress': {'addressCountry': 'Sweden', 'addressLocality': 'Stockholm'}}}",
       "department": "Revenue",
       "url": "https://jobs.ashbyhq.com/elevenlabs/3de325f9-98e1-41df-b34e-9f6fddb34fa4",
       "board": "ashby",
@@ -2501,16 +2461,6 @@
     },
     {
       "company": "Filevine",
-      "title": "Filevine Administrator - Boca Raton",
-      "location": "Boca Raton, FL Administrative onsite",
-      "department": "Administrative",
-      "url": "https://jobs.lever.co/filevine/99c0328f-fd4c-4035-bd84-a6866df908d7",
-      "board": "lever",
-      "remote": false,
-      "posted_at": "2026-08-27T17:36:44Z"
-    },
-    {
-      "company": "Filevine",
       "title": "Legal Engineer",
       "location": "Prague Machine Learning hybrid",
       "department": "Machine Learning",
@@ -2538,16 +2488,6 @@
       "board": "lever",
       "remote": true,
       "posted_at": "2026-09-18T10:55:09Z"
-    },
-    {
-      "company": "Filevine",
-      "title": "Senior Software Engineer, DepoLive",
-      "location": "Bratislava Depo Live hybrid",
-      "department": "Depo Live",
-      "url": "https://jobs.lever.co/filevine/87996a6f-53c7-44c4-a780-87cde0935137",
-      "board": "lever",
-      "remote": false,
-      "posted_at": "2026-09-01T09:39:35Z"
     },
     {
       "company": "Form3",
@@ -2598,6 +2538,16 @@
       "board": "greenhouse",
       "remote": false,
       "posted_at": "2026-08-13T10:33:24-04:00"
+    },
+    {
+      "company": "Goodnotes",
+      "title": "Senior Data Engineer (12-months Fixed-Term Contract – Renewable)",
+      "location": "Singapore | Singapore",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/goodnotes/jobs/6127461004",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-07-27T09:54:46-04:00"
     },
     {
       "company": "Goodnotes",
@@ -2698,16 +2648,6 @@
       "board": "greenhouse",
       "remote": true,
       "posted_at": "2026-07-21T12:12:14-04:00"
-    },
-    {
-      "company": "Hightouch",
-      "title": "Field Marketing Manager (APAC) ",
-      "location": "Sydney, Australia | Sydney",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/hightouch/jobs/6143685004",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-08-13T20:54:10-04:00"
     },
     {
       "company": "Hightouch",
@@ -3071,6 +3011,16 @@
     },
     {
       "company": "Kong",
+      "title": "Enterprise Account Executive Saudi Arabia",
+      "location": "United Arab Emirates | {'location': 'Dubai, United Arab Emirates', 'address': {'postalAddress': {'addressCountry': 'United Arab Emirates', 'addressLocality': 'Dubai'}}}",
+      "department": "All Cost Center",
+      "url": "https://jobs.ashbyhq.com/kong/c6f545a5-000d-4155-bb54-20e900b81367",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-10-01T16:48:55.204+00:00"
+    },
+    {
+      "company": "Kong",
       "title": "Enterprise Account Executive, Benelux",
       "location": "Netherlands",
       "department": "All Cost Center",
@@ -3122,7 +3072,7 @@
     {
       "company": "Kong",
       "title": "Partner Sales Manager",
-      "location": "Maharashtra, India",
+      "location": "Bangalore, India",
       "department": "All Cost Center",
       "url": "https://jobs.ashbyhq.com/kong/ccfb0043-3566-4794-a8cb-6345c25bfee5",
       "board": "ashby",
@@ -3988,6 +3938,16 @@
       "board": "ashby",
       "remote": null,
       "posted_at": "2026-08-27T12:54:19.769+00:00"
+    },
+    {
+      "company": "Sardine",
+      "title": "Support Engineer ",
+      "location": "United Arab Emirates | {'location': 'Dubai, United Arab Emirates', 'address': None}",
+      "department": "Support Engineering",
+      "url": "https://jobs.ashbyhq.com/sardine/9755bee1-3e57-4de0-905d-c6f2c144ca57",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-10-01T23:08:55.807+00:00"
     },
     {
       "company": "Sardine",
@@ -5172,12 +5132,72 @@
     {
       "company": "Tether",
       "title": "Event Design Coordinator (Remote / Europe)",
-      "location": "Brussels | Belgium, Brussels | Belgium  | Budapest, Hungary | Bulgaria, Sofia | Cyprus, Nicosia | Czech Republic, Prague",
+      "location": "Amsterdam | The Netherlands, Amsterdam",
       "department": "Marketing",
-      "url": "https://careers.tether.io/o/krfdo",
+      "url": "https://careers.tether.io/o/nfauv",
       "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-09-25T18:11:04Z"
+      "posted_at": "2026-10-01T14:34:40Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Event Design Coordinator (Remote / Europe)",
+      "location": "London | United Kingdom, London",
+      "department": "Marketing",
+      "url": "https://careers.tether.io/o/s5hnw",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-10-01T14:22:29Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Event Design Coordinator (Remote / Europe)",
+      "location": "Dublin | Ireland, Dublin",
+      "department": "Marketing",
+      "url": "https://careers.tether.io/o/hbmpn",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-10-01T14:33:48Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Event Design Coordinator (Remote / Europe)",
+      "location": " Warsaw | Poland, Warsaw",
+      "department": "Marketing",
+      "url": "https://careers.tether.io/o/p9w7d",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-10-01T14:34:12Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Event Design Coordinator (Remote / Europe)",
+      "location": "Rome | Italy, Rome",
+      "department": "Marketing",
+      "url": "https://careers.tether.io/o/po3l3",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-10-01T14:28:24Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Event Design Coordinator (Remote / Europe)",
+      "location": "Lugano | Switzerland, Lugano",
+      "department": "Marketing",
+      "url": "https://careers.tether.io/o/41har",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-10-01T14:29:10Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Event Design Coordinator (Remote / Europe)",
+      "location": "Brussels | Belgium, Brussels",
+      "department": "Marketing",
+      "url": "https://careers.tether.io/o/dwkne",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-10-01T14:29:43Z"
     },
     {
       "company": "Tether",
@@ -5208,6 +5228,16 @@
       "board": "recruitee",
       "remote": true,
       "posted_at": "2026-09-25T18:04:54Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Event Design Coordinator (Remote / Europe)",
+      "location": "Brussels | Belgium, Brussels | Belgium ",
+      "department": "Marketing",
+      "url": "https://careers.tether.io/o/krfdo",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-09-25T18:11:04Z"
     },
     {
       "company": "Tether",
@@ -5458,6 +5488,26 @@
       "board": "recruitee",
       "remote": true,
       "posted_at": "2026-09-23T11:38:05Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Head of AI Expansion",
+      "location": "Barcelona | Spain, Barcelona",
+      "department": "Expansion",
+      "url": "https://careers.tether.io/o/ew3kd",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-10-01T13:27:13Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Head of AI Expansion",
+      "location": "Milano | Italy, Milano",
+      "department": "Expansion",
+      "url": "https://careers.tether.io/o/slp14",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-10-01T13:25:47Z"
     },
     {
       "company": "Tether",
@@ -5948,66 +5998,6 @@
       "board": "recruitee",
       "remote": true,
       "posted_at": "2026-08-21T17:39:32Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Senior Software Architect (100% Remote - Worldwide)",
-      "location": "Yamoussoukro |  Cote d'Ivoire, Yamoussoukro | Albania, Tiranë | Andorra | Argentina, Buenos Aires | Armenia, Yerevan | Australia, Brisbane | Australia, Melbourne | Australia, Sydney | Austria, Vienna",
-      "department": "Data",
-      "url": "https://careers.tether.io/o/o6akg",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-06-10T16:28:01Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Senior Software Architect (100% Remote - Worldwide)",
-      "location": "Nassau | Bahamas | Bangladesh, Chittagong | Bangladesh, Dhaka | Barbados | Belgium  | Belgium, Brussels | Belize, Belize | Bolivia, La Paz | Bosnia and Herzegovina, Sarajevo | Brazil, Brasilia | Brazil, Rio de Janeiro | Brazil, Sao Paulo | Budapest, Hungary | Bulgaria, Sofia",
-      "department": "Data",
-      "url": "https://careers.tether.io/o/gab24",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-06-10T16:21:58Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Senior Software Architect (100% Remote - Worldwide)",
-      "location": "Phnom Penh | Cambodia, Phnom Penh | Cameroon, Yaundé | Canada, Montreal | Canada, Ottawa | Canada, Toronto | Chile, Santiago de Chile | Colombia, Bogotá | Colombia, Medellin | Costa Rica, San Jose | Croatia, Zagreb | Cyprus, Nicosia | Czech Republic, Prague",
-      "department": "Data",
-      "url": "https://careers.tether.io/o/yndv2",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-06-10T16:20:06Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Senior Software Architect (100% Remote - Worldwide)",
-      "location": "Copenhagen | Denmark, Copenhagen | Dominican Republic, Santo Domingo",
-      "department": "Data",
-      "url": "https://careers.tether.io/o/9m8cb",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-06-10T16:14:09Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Senior Software Architect (100% Remote - Worldwide)",
-      "location": "Quito | Ecuador, Quito | Egypt, Cairo | El Salvador, San Salvador | Estonia, Tallinn | Ethiopia, Addis Ababa",
-      "department": "Data",
-      "url": "https://careers.tether.io/o/ur11o",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-06-10T16:12:18Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Software Engineer P2P - Search Team (100% Remote, Worldwide)",
-      "location": "London | United Kingdom, London | United Kindom | United Kingdom, Manchester | United Kingdom, Scotland | United Arab Emirates, Dubai | United Arab Emirates, Abu Dhabi",
-      "department": "Engineering",
-      "url": "https://careers.tether.io/o/4r9te",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-07-08T19:01:50Z"
     },
     {
       "company": "Tether",
@@ -7141,6 +7131,16 @@
     },
     {
       "company": "Wave Mobile Money",
+      "title": "Agent Liquidity Lead",
+      "location": "\">Freetown, Sierra Leone",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6193104004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
       "title": "Agent Liquidity Regional Lead",
       "location": "\">Freetown, Sierra Leone",
       "department": "",
@@ -7162,7 +7162,7 @@
     {
       "company": "Wave Mobile Money",
       "title": "Agent Operations Regional Lead",
-      "location": "\">Freetown, Sierra Leone",
+      "location": "\">Cameroon (CM)",
       "department": "",
       "url": "https://www.wave.com/en/careers/job/6139588004/",
       "board": "generic",
@@ -7172,7 +7172,7 @@
     {
       "company": "Wave Mobile Money",
       "title": "Agent Operations Regional Lead",
-      "location": "\">Cameroon (CM)",
+      "location": "\">Niamey, Niger",
       "department": "",
       "url": "https://www.wave.com/en/careers/job/6201584004/",
       "board": "generic",
@@ -7335,16 +7335,6 @@
       "location": "\">Kinshasa, Democratic Republic of the Congo",
       "department": "",
       "url": "https://www.wave.com/en/careers/job/6006991004/",
-      "board": "generic",
-      "remote": false,
-      "posted_at": ""
-    },
-    {
-      "company": "Wave Mobile Money",
-      "title": "Field Officer",
-      "location": "\">Kinshasa, Democratic Republic of the Congo",
-      "department": "",
-      "url": "https://www.wave.com/en/careers/job/6202495004/",
       "board": "generic",
       "remote": false,
       "posted_at": ""
@@ -7602,7 +7592,7 @@
     {
       "company": "Wave Mobile Money",
       "title": "Premium Agent Network Officer",
-      "location": "\">Niamey, Niger",
+      "location": "\">Malawi (MW)",
       "department": "",
       "url": "https://www.wave.com/en/careers/job/6190870004/",
       "board": "generic",
