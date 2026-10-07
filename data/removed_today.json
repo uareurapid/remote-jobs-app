@@ -1,6 +1,187 @@
 {
   "date": "2026-10-07",
-  "crawl_time_utc": "2026-10-07T09:48:48.855813+00:00",
-  "total_removed": 0,
-  "jobs": []
+  "crawl_time_utc": "2026-10-07T22:12:30.774697+00:00",
+  "total_removed": 18,
+  "jobs": [
+    {
+      "company": "Cohere",
+      "title": "Forward Deployed Engineer, Infrastructure Specialist (Europe)",
+      "location": "United Kingdom | {'location': 'Brussels', 'address': {'postalAddress': {'addressCountry': 'Belgium', 'addressLocality': 'Brussels'}}} | {'location': 'Europe', 'address': {'postalAddress': {'addressCountry': 'European Union'}}} | {'location': 'Munich', 'address': {'postalAddress': {'addressRegion': 'Bavaria', 'addressCountry': 'Germany', 'addressLocality': 'Munich'}}} | {'location': 'London', 'address': {'postalAddress': {'addressRegion': 'London', 'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}} | {'location': 'Edinburgh', 'address': {'postalAddress': {'addressRegion': 'Edinburgh', 'addressCountry': 'United Kingdom', 'addressLocality': 'Edinburgh'}}} | {'location': 'Paris', 'address': {'postalAddress': {'addressCountry': 'France', 'addressLocality': 'Paris'}}} | {'location': 'Berlin', 'address': {'postalAddress': {'addressRegion': 'Berlin', 'addressCountry': 'Germany', 'addressLocality': 'Berlin'}}} | {'location': 'France', 'address': {'postalAddress': {'addressCountry': 'France'}}} | {'location': 'Middle East', 'address': {'postalAddress': {}}} | {'location': 'Frankfurt', 'address': {'postalAddress': {'addressRegion': 'Hesse', 'addressCountry': 'Germany', 'addressLocality': 'Frankfurt'}}} | {'location': 'Belgium', 'address': {'postalAddress': {'addressCountry': 'Belgium'}}}",
+      "department": "Engineering & Infra",
+      "url": "https://jobs.ashbyhq.com/cohere/69a9ab2e-a7eb-4c4f-825a-5c25cf063900",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2025-12-10T00:32:26.898+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Account Manager - DACH",
+      "location": "Germany | {'location': 'Switzerland', 'address': {'postalAddress': {'addressCountry': 'Switzerland'}}}",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/830e66a8-892c-4c68-b61c-494591236eef",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-29T09:22:37.880+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "B2B Growth Marketer - Netherlands",
+      "location": "Netherlands",
+      "department": "Growth",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/3717c857-9f59-40fd-b9eb-7d5e507082ee",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-08-05T22:18:05.274+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Production Manager (Arabic speaking) ",
+      "location": "Europe | {'location': 'Spain', 'address': {'postalAddress': {'addressCountry': 'Spain'}}} | {'location': 'Sofia', 'address': {'postalAddress': {'addressCountry': 'Bulgaria', 'addressLocality': 'Bulgaria'}}} | {'location': 'Germany', 'address': {'postalAddress': {'addressCountry': 'Germany'}}} | {'location': 'Belgium', 'address': {'postalAddress': {'addressCountry': 'Belgium'}}} | {'location': 'Denmark', 'address': {'postalAddress': {'addressCountry': 'Denmark'}}} | {'location': 'Sweden', 'address': {'postalAddress': {'addressCountry': 'Sweden', 'addressLocality': 'Stockholm'}}} | {'location': 'Italy', 'address': {'postalAddress': {'addressCountry': 'Italy', 'addressLocality': ''}}} | {'location': 'Poland', 'address': {'postalAddress': {'addressCountry': 'Poland'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}} | {'location': 'Netherlands', 'address': {'postalAddress': {'addressCountry': 'Netherlands'}}} | {'location': 'France', 'address': {'postalAddress': {'addressCountry': 'France'}}} | {'location': 'UAE ', 'address': {'postalAddress': {'addressRegion': 'Dubai', 'addressCountry': 'United Arab Emirates', 'addressLocality': 'Dubai'}}}",
+      "department": "Engineering & Product",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/cf173c80-b9b9-4e27-85fa-a26c68693ea9",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-10-06T09:31:11.329+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Revenue Strategy & Operations - APAC",
+      "location": "Singapore | {'location': 'Australia', 'address': {'postalAddress': {'addressCountry': 'Australia'}}} | {'location': 'India', 'address': {'postalAddress': {'addressCountry': 'India', 'addressLocality': ''}}}",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/0bbf2519-4f28-4de3-836a-aabc302050d7",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-07-08T20:04:06.667+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Workplace Operations - Warsaw",
+      "location": "Poland",
+      "department": "Operations",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/490897d3-5c62-46d8-b26a-806ed60c7940",
+      "board": "ashby",
+      "remote": false,
+      "posted_at": "2026-07-29T13:38:10.723+00:00"
+    },
+    {
+      "company": "Filevine",
+      "title": "Provisioning Specialist",
+      "location": "Bratislava RevOps remote",
+      "department": "RevOps",
+      "url": "https://jobs.lever.co/filevine/2031b8ba-8691-4b71-b21e-627923da5d4e",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2026-09-18T10:56:26Z"
+    },
+    {
+      "company": "Filevine",
+      "title": "Provisioning Specialist",
+      "location": "Prague RevOps remote",
+      "department": "RevOps",
+      "url": "https://jobs.lever.co/filevine/c5ef27a9-85ae-4cdf-8337-c70cfa8a4ef3",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2026-09-18T10:55:09Z"
+    },
+    {
+      "company": "Form3",
+      "title": "Technical Writer",
+      "location": "100% Remote (UK) | Form3 London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/541/jobs/8511614002",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-04-17T07:48:34-04:00"
+    },
+    {
+      "company": "OLX",
+      "title": "Senior Product Designer",
+      "location": "Remote Spain, Spain Product remote",
+      "department": "Product",
+      "url": "https://jobs.eu.lever.co/olx/8d783669-ace0-409c-b003-b61087a4b69b",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2026-08-19T09:12:50Z"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Security Engineer - Cyber Threat Intelligence (CTI)",
+      "location": "Brasil | Brasil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4411502009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-23T14:34:50-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Senior Security Engineer - CSIRT",
+      "location": "Brasil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4401278009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-14T13:44:12-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar| Especialista em Dados e Estratégia",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4362525009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-14T23:28:48-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Head of Product Design",
+      "location": "Brasil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4375320009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-10-06T16:00:59-04:00"
+    },
+    {
+      "company": "Sardine",
+      "title": "Solutions Architect, Integrations (AUS)",
+      "location": "Australia",
+      "department": "Integrations",
+      "url": "https://jobs.ashbyhq.com/sardine/5c619e9b-3d11-45a4-be7d-574f4265cafe",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-08-11T19:53:50.322+00:00"
+    },
+    {
+      "company": "Supabase",
+      "title": "Edge Functions Engineer",
+      "location": "Remote, Global",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/supabase/3ab0b926-c9b5-4197-aff2-88d5bf009e13",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-05-13T09:45:06.011+00:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Analyst, Level 1, Onboarding KYX, UK",
+      "location": "India, Hyderabad | India",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7621880003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-02-09T09:44:07-05:00"
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Senior Recruiter, Expansion",
+      "location": "\">Abidjan, Côte d&#39;Ivoire; Ouagadougou, Burkina Faso",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6191347004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    }
+  ]
 }

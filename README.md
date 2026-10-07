@@ -4,7 +4,7 @@ Static job board that crawls remote openings directly from company career pages.
 
 ## How it works
 
-1. A Python crawler runs daily (via cron) and scrapes ~67 remote-friendly companies
+1. A Python crawler runs daily (via cron) and scrapes the companies listed in `remote_companies.txt`
 2. Results are saved as JSON in `data/`
 3. This static site reads the JSON and displays everything
 4. Deploy to GitHub Pages or Vercel
