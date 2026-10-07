@@ -1,377 +1,2527 @@
 {
-  "date": "2026-10-06",
-  "crawl_time_utc": "2026-10-06T09:31:03.912886+00:00",
-  "total_new": 37,
+  "date": "2026-10-07",
+  "crawl_time_utc": "2026-10-07T09:47:43.144359+00:00",
+  "total_new": 252,
   "jobs": [
     {
-      "company": "Cohere",
-      "title": "Senior Account Executive, Germany PUBSEC (Berlin, Germany)",
-      "location": "Berlin",
+      "company": "Alguna",
+      "title": "Apply Now ›",
+      "location": "(GB; IE; DE)",
+      "department": "",
+      "url": "https://account.ycombinator.com/authenticate?continue=https%3A%2F%2Fwww.workatastartup.com%2Fapplication%3Fsignup_job_id%3D99742&amp;defaults%5BsignUpActive%5D=true&amp;defaults%5Bwaas_company%5D=28844",
+      "board": "generic",
+      "remote": true,
+      "posted_at": ""
+    },
+    {
+      "company": "Alguna",
+      "title": "Jobs",
+      "location": "unknown (check listing)",
+      "department": "",
+      "url": "https://www.ycombinator.com/companies/alguna/jobs",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Alguna",
+      "title": "Log in",
+      "location": "unknown (check listing)",
+      "department": "",
+      "url": "https://account.ycombinator.com/?continue=https://www.ycombinator.com/companies/alguna/jobs",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Alguna",
+      "title": "Sales Development Representative (SDR)",
+      "location": "(GB; IE; DE)",
+      "department": "",
+      "url": "https://www.ycombinator.com/companies/alguna/jobs/P4UawoN-sales-development-representative-sdr",
+      "board": "generic",
+      "remote": true,
+      "posted_at": ""
+    },
+    {
+      "company": "Alguna",
+      "title": "Startup Jobs",
+      "location": "unknown (check listing)",
+      "department": "",
+      "url": "https://www.ycombinator.com/jobs",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Amplemarket",
+      "title": "Fullstack Software Engineer",
+      "location": "Remote, EMEA/LATAM | Remote, EMEA | Remote, LATAM",
+      "department": "",
+      "url": "https://job-boards.eu.greenhouse.io/amplemarket/jobs/4066973101",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2022-08-26T11:02:02-04:00"
+    },
+    {
+      "company": "Amplemarket",
+      "title": "Outbound Account Executive, Europe",
+      "location": "Remote, Europe | Remote, Europe",
+      "department": "",
+      "url": "https://job-boards.eu.greenhouse.io/amplemarket/jobs/4823560101",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-03-26T08:28:49-04:00"
+    },
+    {
+      "company": "Amplemarket",
+      "title": "Product Support Specialist",
+      "location": "Remote, EMEA | Remote, EMEA | Remote, Europe",
+      "department": "",
+      "url": "https://job-boards.eu.greenhouse.io/amplemarket/jobs/4976825101",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-09-16T10:11:23-04:00"
+    },
+    {
+      "company": "Amplemarket",
+      "title": "Senior Product Manager",
+      "location": "Remote, EMEA | Remote, EMEA",
+      "department": "",
+      "url": "https://job-boards.eu.greenhouse.io/amplemarket/jobs/4066993101",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2022-08-26T13:04:24-04:00"
+    },
+    {
+      "company": "Amplemarket",
+      "title": "Spontaneous Application - Data Engineer",
+      "location": "Remote, EMEA/LATAM | Remote, EMEA | Remote, LATAM",
+      "department": "",
+      "url": "https://job-boards.eu.greenhouse.io/amplemarket/jobs/4108094101",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2022-12-26T07:16:57-05:00"
+    },
+    {
+      "company": "Amplemarket",
+      "title": "Spontaneous Application - Infrastructure Engineer",
+      "location": "Remote, EMEA/LATAM | Remote, EMEA | Remote, LATAM",
+      "department": "",
+      "url": "https://job-boards.eu.greenhouse.io/amplemarket/jobs/4066888101",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2022-08-26T07:04:06-04:00"
+    },
+    {
+      "company": "Anchorage Digital",
+      "title": "APAC Regional Lead, Stablecoin Solutions",
+      "location": "Singapore For Banks remote",
+      "department": "For Banks",
+      "url": "https://jobs.lever.co/anchorage/09b2b0d1-fb52-431c-b617-2fb74b595b1d",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2025-09-11T21:37:48Z"
+    },
+    {
+      "company": "Anchorage Digital",
+      "title": "Derivatives Trader",
+      "location": "Cayman Islands Derivatives remote",
+      "department": "Derivatives",
+      "url": "https://jobs.lever.co/anchorage/9f6d4223-389c-44e3-99b1-50f46c4855da",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2026-04-27T13:44:23Z"
+    },
+    {
+      "company": "Anchorage Digital",
+      "title": "OTC Trader",
+      "location": "Singapore Trading Solutions remote",
+      "department": "Trading Solutions",
+      "url": "https://jobs.lever.co/anchorage/4a3c6769-7b61-4237-a601-2abe0b5c8234",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2026-04-27T15:56:35Z"
+    },
+    {
+      "company": "Anchorage Digital",
+      "title": "OTC Trader",
+      "location": "Cayman Islands Trading Solutions remote",
+      "department": "Trading Solutions",
+      "url": "https://jobs.lever.co/anchorage/eb756b8e-a5c8-423b-800c-464ac23f5a3a",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2026-07-14T01:33:05Z"
+    },
+    {
+      "company": "Anchorage Digital",
+      "title": "OTC Trader, APAC",
+      "location": "Singapore Trading Solutions remote",
+      "department": "Trading Solutions",
+      "url": "https://jobs.lever.co/anchorage/35a0a9c4-6f32-4958-9a74-6b3b41ddbf9b",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2024-12-11T19:34:38Z"
+    },
+    {
+      "company": "Anchorage Digital",
+      "title": "Senior Derivatives Trader",
+      "location": "Cayman Islands Derivatives remote",
+      "department": "Derivatives",
+      "url": "https://jobs.lever.co/anchorage/c2b42959-0a4b-4e85-9901-8a875d586902",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2025-05-15T15:56:30Z"
+    },
+    {
+      "company": "Contentful",
+      "title": "Customer Success Manager, Growth (f/m/d)",
+      "location": "London, England, United Kingdom | London, UK",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/8160121",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-08-27T06:52:28-04:00"
+    },
+    {
+      "company": "Contentful",
+      "title": "Enterprise Account Executive - AU",
+      "location": "Sydney, New South Wales, Australia | Remote - Australia",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/8196927",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-09-11T14:50:50-04:00"
+    },
+    {
+      "company": "Contentful",
+      "title": "Enterprise Account Executive - DACH (f/m/d)",
+      "location": "London, England, United Kingdom | London, UK",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/8193675",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-10T19:02:52-04:00"
+    },
+    {
+      "company": "Contentful",
+      "title": "Enterprise Account Executive - German Speaking (f/m/d)",
+      "location": "London, England, United Kingdom | London, UK",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/8197219",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-11T15:13:23-04:00"
+    },
+    {
+      "company": "Contentful",
+      "title": "Mid Market Account Executive - DACH (f/m/d)",
+      "location": "London, England, United Kingdom | London, UK",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/8202957",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-14T18:54:06-04:00"
+    },
+    {
+      "company": "Contentful",
+      "title": "Mid Market Account Executive - France (f/m/d)",
+      "location": "London, England, United Kingdom | London, UK",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/8193736",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-10T19:17:16-04:00"
+    },
+    {
+      "company": "Contentful",
+      "title": "Mid Market Account Executive - French Speaking (f/m/d)",
+      "location": "London, England, United Kingdom | London, UK",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/8197036",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-11T15:08:17-04:00"
+    },
+    {
+      "company": "Contentful",
+      "title": "Mid Market Account Executive - German Speaking (f/m/d)",
+      "location": "London, England, United Kingdom | London, UK",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/8202959",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-14T18:55:03-04:00"
+    },
+    {
+      "company": "Contentful",
+      "title": "Senior Manager, Product Design (f/m/d)",
+      "location": "London, England, United Kingdom | London, UK",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/8223747",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-22T13:24:21-04:00"
+    },
+    {
+      "company": "Contentful",
+      "title": "Senior Sales Engineer (f/m/d)",
+      "location": "London, England, United Kingdom | London, UK",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/8204989",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-15T15:22:27-04:00"
+    },
+    {
+      "company": "Contentful",
+      "title": "Senior Software Engineer - Personalization (f/m/d)",
+      "location": "Berlin, Germany | Berlin, Germany",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/8221365",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-21T14:51:32-04:00"
+    },
+    {
+      "company": "Contentful",
+      "title": "Senior Solution Engineer (f/m/d)",
+      "location": "London, England, United Kingdom | London, UK",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/8204987",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-15T15:21:10-04:00"
+    },
+    {
+      "company": "Contentful",
+      "title": "Senior Solution Engineer (f/m/d)",
+      "location": "London, England, United Kingdom | London, UK",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/contentful/jobs/8209860",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-16T18:49:39-04:00"
+    },
+    {
+      "company": "Customer.io",
+      "title": "Events Marketing Manager, EMEA",
+      "location": "EMEA Remote | EMEA Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/customerio/jobs/8260218",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-10-06T19:59:49-04:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Adoption Strategist - Europe",
+      "location": "United Kingdom | {'location': 'Spain', 'address': {'postalAddress': {'addressCountry': 'Spain'}}} | {'location': 'Germany', 'address': {'postalAddress': {'addressCountry': 'Germany'}}} | {'location': 'France', 'address': {'postalAddress': {'addressCountry': 'France'}}}",
       "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/cohere/e588a0ac-6a84-42fd-808f-6474fd8ff6f0",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/f8b19a29-af85-4a5d-87ae-1ba0a1b6dd9b",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-10-05T21:04:22.397+00:00"
+      "posted_at": "2026-10-06T14:19:26.040+00:00"
     },
     {
       "company": "ElevenLabs",
-      "title": "Adoption Strategist - ANZ ",
-      "location": "Australia",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/3f35aa7c-92a7-45c5-96b4-55969309bbe2",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-10-06T04:08:04.076+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "B2B Marketing - LATAM Southern Cone",
-      "location": "Argentina | {'location': 'Chile', 'address': {'postalAddress': {'addressCountry': 'Chile'}}}",
-      "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/c340cedd-6453-4d48-a580-359c1d7d9d49",
-      "board": "ashby",
-      "remote": null,
-      "posted_at": "2026-10-02T11:48:49.124+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Commercial Counsel - India",
-      "location": "India",
-      "department": "Operations",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/e5cca48b-1f34-48fe-9ebf-3c6ff526f9ba",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-10-05T14:22:25.883+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Data Scientist - Product Analytics",
-      "location": "Remote",
-      "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/41b892ba-b530-44cb-9ae1-178908fc324c",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-10-05T14:50:24.846+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Deployment Strategist - Chile",
-      "location": "Chile",
-      "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/cee1d585-329b-4935-b7a3-5ca9104c2573",
-      "board": "ashby",
-      "remote": null,
-      "posted_at": "2026-10-05T14:42:16.728+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Finance Data Scientist",
+      "title": "Analytics Engineer",
       "location": "United Kingdom",
       "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/257f24da-83db-4bad-a6dc-37793a1a0bac",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/3b807ff1-a6b0-4f1c-b4f4-6ab265ac6d2f",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-10-05T21:04:53.836+00:00"
+      "posted_at": "2026-10-06T11:44:06.123+00:00"
     },
     {
       "company": "ElevenLabs",
-      "title": "Marketing Data Scientist",
-      "location": "Remote",
-      "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/69694001-b760-4939-9a02-e75c046b89d3",
+      "title": "Customer Success Lead - UK/I",
+      "location": "United Kingdom | {'location': 'London', 'address': {'postalAddress': {'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}}",
+      "department": "Revenue",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/8f37f4e5-83f8-4e7d-b3b6-b5b406bf4eb9",
       "board": "ashby",
-      "remote": null,
-      "posted_at": "2026-10-05T20:53:21.608+00:00"
+      "remote": true,
+      "posted_at": "2026-10-06T17:57:31.231+00:00"
     },
     {
       "company": "ElevenLabs",
-      "title": "Systems Architect - APAC ",
+      "title": "Enterprise Solutions Engineer - Canada",
+      "location": "Canada | {'location': 'Toronto', 'address': {'postalAddress': {'addressRegion': 'Ontario', 'addressCountry': 'Canada', 'addressLocality': 'Toronto'}}}",
+      "department": "Engineering & Product",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/0d68b2a2-887e-491c-8b9b-56e8354f75fb",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-10-06T15:53:37.265+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Production Manager (Arabic speaking) ",
+      "location": "Europe | {'location': 'Spain', 'address': {'postalAddress': {'addressCountry': 'Spain'}}} | {'location': 'Sofia', 'address': {'postalAddress': {'addressCountry': 'Bulgaria', 'addressLocality': 'Bulgaria'}}} | {'location': 'Germany', 'address': {'postalAddress': {'addressCountry': 'Germany'}}} | {'location': 'Belgium', 'address': {'postalAddress': {'addressCountry': 'Belgium'}}} | {'location': 'Denmark', 'address': {'postalAddress': {'addressCountry': 'Denmark'}}} | {'location': 'Sweden', 'address': {'postalAddress': {'addressCountry': 'Sweden', 'addressLocality': 'Stockholm'}}} | {'location': 'Italy', 'address': {'postalAddress': {'addressCountry': 'Italy', 'addressLocality': ''}}} | {'location': 'Poland', 'address': {'postalAddress': {'addressCountry': 'Poland'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}} | {'location': 'Netherlands', 'address': {'postalAddress': {'addressCountry': 'Netherlands'}}} | {'location': 'France', 'address': {'postalAddress': {'addressCountry': 'France'}}} | {'location': 'UAE ', 'address': {'postalAddress': {'addressRegion': 'Dubai', 'addressCountry': 'United Arab Emirates', 'addressLocality': 'Dubai'}}}",
+      "department": "Engineering & Product",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/cf173c80-b9b9-4e27-85fa-a26c68693ea9",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-10-06T09:31:11.329+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Strategic Account Executive - Singapore",
       "location": "Singapore",
       "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/90cc8a34-1707-4aef-b509-94f94389d149",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/75f7890c-2d11-4c18-a95f-03ef85e6bd15",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-10-06T05:21:21.127+00:00"
+      "posted_at": "2026-10-07T03:01:31.948+00:00"
     },
     {
-      "company": "Goodnotes",
-      "title": "Senior Software Engineer, Agentic Harness Quality and Performance",
-      "location": "London | Paddington",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/goodnotes/jobs/6216615004",
-      "board": "greenhouse",
+      "company": "Filevine",
+      "title": "Filevine Administrator - Boca Raton",
+      "location": "Boca Raton, FL Administrative onsite",
+      "department": "Administrative",
+      "url": "https://jobs.lever.co/filevine/99c0328f-fd4c-4035-bd84-a6866df908d7",
+      "board": "lever",
       "remote": false,
-      "posted_at": "2026-10-06T04:14:31-04:00"
+      "posted_at": "2026-08-27T17:36:44Z"
     },
     {
-      "company": "Kong",
-      "title": "Enterprise Account Executive",
-      "location": "England, United Kingdom",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/dbeed24f-aaac-4de8-a35d-e3bf1227535e",
-      "board": "ashby",
-      "remote": false,
-      "posted_at": "2026-10-05T15:30:10.853+00:00"
-    },
-    {
-      "company": "Postscript",
-      "title": "Senior Fullstack Engineer, Customer Context",
-      "location": "Remote | PDE",
+      "company": "Fluxon",
+      "title": "Senior Product Designer",
+      "location": "Poland, Remote | Poland",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/postscript/jobs/8868675002",
+      "url": "https://job-boards.greenhouse.io/fluxon/jobs/4016886005",
       "board": "greenhouse",
       "remote": true,
-      "posted_at": "2026-10-05T14:54:14-04:00"
+      "posted_at": "2022-06-06T09:36:43-04:00"
+    },
+    {
+      "company": "Fluxon",
+      "title": "Senior Product Designer",
+      "location": "Portugal, Remote | Portugal",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/fluxon/jobs/4016843005",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2022-06-07T02:37:33-04:00"
+    },
+    {
+      "company": "Fluxon",
+      "title": "Senior Product Manager",
+      "location": "Canada, Remote | Canada",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/fluxon/jobs/4019923005",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2022-06-06T09:16:07-04:00"
+    },
+    {
+      "company": "Fluxon",
+      "title": "Senior QA Engineer (Manual)",
+      "location": "Poland, Remote | Poland",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/fluxon/jobs/4612915005",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2025-09-26T09:29:42-04:00"
+    },
+    {
+      "company": "Fluxon",
+      "title": "Senior Software Engineer",
+      "location": "Poland, Remote | Poland",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/fluxon/jobs/4021470005",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2022-06-03T07:22:33-04:00"
+    },
+    {
+      "company": "Fluxon",
+      "title": "Senior Technical Project Manager",
+      "location": "Poland, Remote | Poland",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/fluxon/jobs/4039604005",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2022-06-29T03:21:24-04:00"
+    },
+    {
+      "company": "Fluxon",
+      "title": "Senior Technical Project Manager",
+      "location": "Portugal, Remote | Portugal",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/fluxon/jobs/4227085005",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2023-03-15T01:26:12-04:00"
+    },
+    {
+      "company": "Fluxon",
+      "title": "Staff Software Engineer",
+      "location": "Buenos Aires, Argentina, Remote | Argentina",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/fluxon/jobs/4734095005",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-09-16T13:51:42-04:00"
+    },
+    {
+      "company": "Fluxon",
+      "title": "Staff Software Engineer",
+      "location": "Poland, Remote | Poland",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/fluxon/jobs/4027917005",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2022-06-06T09:03:31-04:00"
+    },
+    {
+      "company": "Fluxon",
+      "title": "Staff Software Engineer",
+      "location": "Portugal, Remote | Lisbon - Portugal",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/fluxon/jobs/4238064005",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2023-04-13T04:00:59-04:00"
+    },
+    {
+      "company": "Labster",
+      "title": "Cookie Policy",
+      "location": "unknown (check listing)",
+      "department": "",
+      "url": "https://careers.labster.com/cookie-policy",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Labster",
+      "title": "Log in to Connect",
+      "location": "unknown (check listing)",
+      "department": "",
+      "url": "https://careers.labster.com/connect/login",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Lingokids",
+      "title": "Cookie Policy",
+      "location": "unknown (check listing)",
+      "department": "",
+      "url": "https://jobs.lingokids.com/cookie-policy",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Lingokids",
+      "title": "Jobs",
+      "location": "unknown (check listing)",
+      "department": "",
+      "url": "https://jobs.lingokids.com/jobs",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Lingokids",
+      "title": "Join Lingokids",
+      "location": "unknown (check listing)",
+      "department": "",
+      "url": "https://jobs.lingokids.com/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Lingokids",
+      "title": "Legal Compliance",
+      "location": "unknown (check listing)",
+      "department": "",
+      "url": "https://jobs.lingokids.com/pages/legal-compliance",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Lingokids",
+      "title": "Log in as employee",
+      "location": "unknown (check listing)",
+      "department": "",
+      "url": "https://jobs.lingokids.com/sso_login",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Lingokids",
+      "title": "Log in to Connect",
+      "location": "unknown (check listing)",
+      "department": "",
+      "url": "https://jobs.lingokids.com/connect/login",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Malwarebytes",
+      "title": "Explore all teams at Malwarebytes",
+      "location": "unknown (check listing)",
+      "department": "",
+      "url": "https://www.malwarebytes.com/jobs-departments",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Malwarebytes",
+      "title": "View all open positions",
+      "location": "At Malwarebytes, we see a world where people’s digital lives are free of worry. Driven by a passion for protection we build products to secure your digital lives and unleash your potential.",
+      "department": "",
+      "url": "https://www.malwarebytes.com/jobs-view-all",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
+    },
+    {
+      "company": "Metalab",
+      "title": "Brand Director",
+      "location": "Remote | Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/metalab/jobs/7376407",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2025-11-04T16:57:05-05:00"
+    },
+    {
+      "company": "Metalab",
+      "title": "Design Director",
+      "location": "Remote | Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/metalab/jobs/7864151",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-05-19T19:41:10-04:00"
+    },
+    {
+      "company": "Metalab",
+      "title": "Design Lead",
+      "location": "Remote | Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/metalab/jobs/7496357",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2025-12-24T13:29:50-05:00"
+    },
+    {
+      "company": "Metalab",
+      "title": "Executive Design Director (Brand & Product)",
+      "location": "Remote | Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/metalab/jobs/7648496",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-02-23T17:32:32-05:00"
+    },
+    {
+      "company": "OLX",
+      "title": "Account Manager OTOMOTO - woj. zachodniopomorskie i wielkopolskie",
+      "location": "Szczecin, Poland Sales remote",
+      "department": "Sales",
+      "url": "https://jobs.eu.lever.co/olx/ff926e8f-098c-4cf8-80dd-4df08e053bd0",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2026-09-11T14:07:48Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Backend Engineer - GenAI",
+      "location": "Remote Spain, Spain Data Science and Analytics remote",
+      "department": "Data Science and Analytics",
+      "url": "https://jobs.eu.lever.co/olx/41139c11-553a-4dde-9a12-316334a1d2b3",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2026-04-23T09:42:40Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Chief Accountant OLX Kazakhstan",
+      "location": "Almaty, Kazakhstan Finance hybrid",
+      "department": "Finance",
+      "url": "https://jobs.eu.lever.co/olx/24b35b71-e34f-4884-b746-ce90fc0b3da6",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2026-09-16T09:07:36Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Client Advisor",
+      "location": "Almaty, Kazakhstan Sales hybrid",
+      "department": "Sales",
+      "url": "https://jobs.eu.lever.co/olx/348d33b9-2845-4cac-8f01-9d54f41f14d7",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2024-05-20T07:34:04Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Client Advisor (Telesales agent) категорії Нерухомість",
+      "location": "Kyiv, Ukraine Sales hybrid",
+      "department": "Sales",
+      "url": "https://jobs.eu.lever.co/olx/aa94e34e-b266-4966-bb18-858efeca74d6",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2026-10-06T13:00:49Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Customer Support Specialist",
+      "location": "Almaty, Kazakhstan Logistics and Support Staff hybrid",
+      "department": "Logistics and Support Staff",
+      "url": "https://jobs.eu.lever.co/olx/71cf012b-b308-410f-a688-283ccb129f8e",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2024-01-19T15:45:43Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Data Engineer - Domain Data (MarTech)",
+      "location": "Remote Portugal, Portugal Data Science and Analytics remote",
+      "department": "Data Science and Analytics",
+      "url": "https://jobs.eu.lever.co/olx/4f39c73c-65e4-4d42-aaf8-aa052572b234",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2024-05-08T15:38:28Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Data analyst",
+      "location": "Almaty, Kazakhstan Business Intelligence hybrid",
+      "department": "Business Intelligence",
+      "url": "https://jobs.eu.lever.co/olx/3d2fe470-4f4a-468c-a249-17479b2f1e8f",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2025-08-28T19:17:07Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Head of Yield & Business Operations",
+      "location": "Warsaw, Poland Management hybrid",
+      "department": "Management",
+      "url": "https://jobs.eu.lever.co/olx/4d0e3251-29d4-4c8a-8555-06c32d4dbdc1",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2026-09-29T10:19:05Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Head of Yield and Business Operations",
+      "location": "Lisbon, Portugal Operations hybrid",
+      "department": "Operations",
+      "url": "https://jobs.eu.lever.co/olx/213a33c0-349a-4e1f-be8b-0dcf64f6c27f",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2026-09-29T10:22:16Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Head of Yield and Business Operations",
+      "location": "Barcelona, Spain Operations hybrid",
+      "department": "Operations",
+      "url": "https://jobs.eu.lever.co/olx/99ff7bf9-a6e8-4756-b6d2-9851d8517f82",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2026-09-22T15:15:26Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Key Account Manager - OLX Usługi",
+      "location": "Poznań, Poland Sales hybrid",
+      "department": "Sales",
+      "url": "https://jobs.eu.lever.co/olx/16e9583e-167c-4030-ae0e-06b339905baa",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2026-08-28T10:28:55Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Key Account Manager - woj. zachodnio-pomorskie, lubuskie, dolnośląskie",
+      "location": "Wroclaw, Poland Sales remote",
+      "department": "Sales",
+      "url": "https://jobs.eu.lever.co/olx/cd240c98-fa82-421e-adc7-498201e4cd2a",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2026-09-18T08:31:51Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Key Account Manager Motors",
+      "location": "Bucharest, Romania Sales hybrid",
+      "department": "Sales",
+      "url": "https://jobs.eu.lever.co/olx/41b24d12-aafa-425e-81a2-09cc7249c385",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2026-09-16T09:18:11Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Key Account Manager Motors",
+      "location": "Timisoara, Romania Sales hybrid",
+      "department": "Sales",
+      "url": "https://jobs.eu.lever.co/olx/4526ef80-b109-474a-bfbf-d6b8dc2401f7",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2026-09-29T13:40:25Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Lead Product Manager - Trust & Safety",
+      "location": "Barcelona, Spain Product remote",
+      "department": "Product",
+      "url": "https://jobs.eu.lever.co/olx/1c94866c-40ab-4d6e-b1fb-d8a9417ce131",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2026-09-29T08:41:50Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Lead Product Manager - Trust & Safety",
+      "location": "Remote Spain, Spain Product remote",
+      "department": "Product",
+      "url": "https://jobs.eu.lever.co/olx/23c97ac2-16b1-4125-92d6-943d5ef59fb9",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2026-09-29T08:39:35Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Lead Product Manager - Trust & Safety",
+      "location": "Lisbon, Portugal Product remote",
+      "department": "Product",
+      "url": "https://jobs.eu.lever.co/olx/5e306f5b-da0b-4d48-be32-9a744ba5b378",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2026-09-29T08:43:08Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Lead Product Manager - Trust & Safety",
+      "location": "Remote Portugal, Portugal Product remote",
+      "department": "Product",
+      "url": "https://jobs.eu.lever.co/olx/8279260c-7366-469d-b8f9-82280e8c74b8",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2026-09-29T08:42:46Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Principal Brand Designer",
+      "location": "Remote Poland, Poland Product remote",
+      "department": "Product",
+      "url": "https://jobs.eu.lever.co/olx/13deef2e-ce1e-43af-8d9e-730689a3f307",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2026-09-24T13:34:00Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Principal Brand Designer",
+      "location": "Lisbon, Portugal Product remote",
+      "department": "Product",
+      "url": "https://jobs.eu.lever.co/olx/1b4692ff-20b4-43e5-af04-49eb34d5146e",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2026-07-31T07:39:30Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Principal Brand Designer",
+      "location": "Remote Spain, Spain Product remote",
+      "department": "Product",
+      "url": "https://jobs.eu.lever.co/olx/56985b48-ff87-4b17-8361-ebb8f02912bb",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2026-09-24T13:33:03Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Principal Brand Designer",
+      "location": "Remote Portugal, Portugal Product remote",
+      "department": "Product",
+      "url": "https://jobs.eu.lever.co/olx/b3051cbe-e872-4c44-93f2-218f4866f62e",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2026-09-24T13:32:30Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Principal Brand Designer",
+      "location": "Barcelona, Spain Product remote",
+      "department": "Product",
+      "url": "https://jobs.eu.lever.co/olx/bcc831f4-d2ab-4c82-b0cd-8bd598ad789f",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2026-07-30T09:26:47Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Principal Brand Designer",
+      "location": "Warsaw, Poland Product remote",
+      "department": "Product",
+      "url": "https://jobs.eu.lever.co/olx/d2e486a7-9771-4846-9414-4d077efdc01a",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2026-07-31T07:40:05Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Principal Brand Designer (Spain or Portugal - based role)",
+      "location": "Amsterdam, Netherlands Product remote",
+      "department": "Product",
+      "url": "https://jobs.eu.lever.co/olx/514f8a48-364e-4d89-af02-ea253683d30d",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2026-09-24T13:24:45Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Principal Brand Designer (Spain or Portugal - based role)",
+      "location": "Berlin, Germany Product remote",
+      "department": "Product",
+      "url": "https://jobs.eu.lever.co/olx/7b0feb8f-a256-4276-b63a-82a6817baf14",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2026-09-24T13:24:12Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Senior Business Development Manager",
+      "location": "Bucharest, Romania Operations hybrid",
+      "department": "Operations",
+      "url": "https://jobs.eu.lever.co/olx/6a5c2c77-2395-4ef7-bdf9-85db44072d84",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2025-11-05T08:28:03Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Senior Group Brand & Media Director",
+      "location": "Lisbon, Portugal Marketing hybrid",
+      "department": "Marketing",
+      "url": "https://jobs.eu.lever.co/olx/56a1ca38-436a-444e-aa57-4dc0c5328639",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2026-09-30T14:15:46Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Senior Group Brand & Media Director",
+      "location": "Warsaw, Poland Marketing hybrid",
+      "department": "Marketing",
+      "url": "https://jobs.eu.lever.co/olx/961c25a4-a4ea-4eb6-a72b-0d13fbcc3570",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2026-09-30T14:15:06Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Senior Group Brand & Media Director",
+      "location": "Barcelona, Spain Marketing hybrid",
+      "department": "Marketing",
+      "url": "https://jobs.eu.lever.co/olx/ed4b40ba-2457-4b1a-ba4c-500d299d3026",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2026-09-30T14:16:32Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Senior HR Business Partner (Product & Tech)",
+      "location": "Lisbon, Portugal Human Resources hybrid",
+      "department": "Human Resources",
+      "url": "https://jobs.eu.lever.co/olx/8c37945c-f22b-4890-b8f8-b3edd4657461",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2026-07-22T14:15:49Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Senior Head of Business Development, Motors&Real Estate, Ukraine",
+      "location": "Kyiv, Ukraine Management hybrid",
+      "department": "Management",
+      "url": "https://jobs.eu.lever.co/olx/ae389d12-4ab8-4e4a-aff1-4ad15e154014",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2026-09-29T09:27:56Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Senior Product Designer",
+      "location": "Remote Spain, Spain Product remote",
+      "department": "Product",
+      "url": "https://jobs.eu.lever.co/olx/8d783669-ace0-409c-b003-b61087a4b69b",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2026-08-19T09:12:50Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Senior Risk & Controls Manager (IT)",
+      "location": "Warsaw, Poland Finance hybrid",
+      "department": "Finance",
+      "url": "https://jobs.eu.lever.co/olx/d30c977d-6d8a-47f5-a034-ac86aa25d433",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2026-08-28T10:57:53Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Senior Software Engineer (Cape Town)",
+      "location": "Cape Town, South Africa Engineering remote",
+      "department": "Engineering",
+      "url": "https://jobs.eu.lever.co/olx/c123703c-ebe7-44a6-aab9-bef87aa8bb7a",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2025-04-02T06:10:01Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Specjalista(-ka) ds. Pozyskiwania Klienta (OTOMOTO Lease)",
+      "location": "Warsaw, Poland Sales hybrid",
+      "department": "Sales",
+      "url": "https://jobs.eu.lever.co/olx/e5473752-c3e6-4a65-9f98-79c6709baafc",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2025-07-04T07:23:01Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Specjalista(-ka) ds. Sprzedaży Leasingu i Najmu Aut - OTOMOTO Lease",
+      "location": "Warsaw, Poland Sales onsite",
+      "department": "Sales",
+      "url": "https://jobs.eu.lever.co/olx/0f57c968-5ac4-4a39-8d60-7301993fd73c",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2024-04-25T13:05:52Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Specjalista/ka ds. Sprzedaży Telefonicznej OTOMOTO",
+      "location": "Poznań, Poland Sales hybrid",
+      "department": "Sales",
+      "url": "https://jobs.eu.lever.co/olx/08365767-a64b-4b3a-943f-011272a90b17",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2025-10-17T11:06:46Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Staff Backend Software Engineer - Remote (Poland)",
+      "location": "Remote Poland, Poland Engineering remote",
+      "department": "Engineering",
+      "url": "https://jobs.eu.lever.co/olx/c405a50c-8236-406f-b7d1-b3160f7c2644",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2026-07-08T09:07:31Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Staff Backend Software Engineer - Remote (Portugal)",
+      "location": "Remote Portugal, Portugal Engineering remote",
+      "department": "Engineering",
+      "url": "https://jobs.eu.lever.co/olx/460655c1-7e11-49e8-b8a2-eca7c7ed3008",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2026-04-07T11:20:38Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Technical SEO Specialist",
+      "location": "Remote Poland, Poland Marketing remote",
+      "department": "Marketing",
+      "url": "https://jobs.eu.lever.co/olx/cad7f160-2184-49c6-b20b-e91fde69ab16",
+      "board": "lever",
+      "remote": true,
+      "posted_at": "2026-09-09T10:54:24Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Telefoniczny Doradca/czyni Klienta Biznesowego OTOMOTO",
+      "location": "Poznań, Poland Sales hybrid",
+      "department": "Sales",
+      "url": "https://jobs.eu.lever.co/olx/e71c1c96-3a2b-4d27-b149-3e6a2f2b666f",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2025-08-13T06:22:52Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Telefoniczny(-na) Doradca(-czyni) Klienta - OTOMOTO Lease",
+      "location": "Warsaw, Poland Sales onsite",
+      "department": "Sales",
+      "url": "https://jobs.eu.lever.co/olx/9cfa24f3-728c-45b8-bb14-0f7779d518d9",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2024-06-24T13:46:56Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Telefoniczny/na Doradca/czyni Klienta OTOMOTO",
+      "location": "Poznań, Poland Sales hybrid",
+      "department": "Sales",
+      "url": "https://jobs.eu.lever.co/olx/8a4f08f7-781b-480d-9007-9c8aa10a8a9a",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2025-07-08T12:38:12Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Специалист по контролю качества отдела B2B продаж",
+      "location": "Almaty, Kazakhstan Operations onsite",
+      "department": "Operations",
+      "url": "https://jobs.eu.lever.co/olx/e78a3b70-e4d3-435c-8341-4012d8102e96",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2026-07-13T07:08:58Z"
+    },
+    {
+      "company": "Plain",
+      "title": "Product Engineer (Full Stack)",
+      "location": "London office",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/plain/11251278-77a8-475a-afa6-aa62e0a2a1df",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-04-17T07:43:11.957+00:00"
+    },
+    {
+      "company": "Plain",
+      "title": "Senior Product Engineer ",
+      "location": "London office",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/plain/c2053301-23c4-46fd-9fe7-3c6425410819",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2025-10-27T16:55:14.971+00:00"
+    },
+    {
+      "company": "Plain",
+      "title": "Senior Product Engineer (AI)",
+      "location": "London office",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/plain/fd10161b-2139-4432-ab75-59be1a12da23",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2025-11-10T10:16:44.724+00:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Banco de Talentos I Telesales Executive - Argentina",
+      "location": "Argentina | Buenos Aires",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4330619009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-03T17:13:29-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Farmer SMB",
+      "location": "Mexico City, Mexico City, Mexico | Ciudad de México",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4361108009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-04T15:26:04-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo Quinto Andar | Especialista de Controles Internos | Vaga Afirmativa PcD",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4321383009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-08-19T18:11:43-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Account Manager Farming B2B - Porto Alegre",
+      "location": "Brasil | Brasil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4321369009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-08-18T08:39:41-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Analista Administrativo",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4424416009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-10-06T17:26:10-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Analista Comercial 1 Júnior (Closing / OPS For Sale / Marketplace)",
+      "location": "Belo Horizonte, Minas Gerais, Brazil | Belo Horizonte",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4392256009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-29T12:58:20-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Analista Financeiro, Legal Efficiency (Vaga afirmativa para PcD)",
+      "location": "Brasil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4433293009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-10-06T17:33:04-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Analista de Canais Críticos 2 Pleno (Resolução de Conflitos - CSI)",
+      "location": "Brasil; São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4399216009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-29T09:28:22-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Analista de Cobrança Sênior (For Rent) - Afirmativa para PCD",
+      "location": "Brasil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4322955009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-08-26T19:04:32-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Analista de Contas Sênior – Marketplace For Sale",
+      "location": "Brasil | Brasil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4404367009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-28T14:58:10-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Analista de Customer Success 1 (Júnior - Cobrança e Retenção)",
+      "location": "Brasil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4384521009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-29T12:52:56-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Analista de Inside Sales Pleno (Consórcio)",
+      "location": "Brasil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4391355009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-02T16:04:38-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Analista de Inside Sales Sênior (Consórcio)",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4391389009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-03T12:39:16-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Analista de Operações Comerciais 3 (Sênior - Marketplace B2B)",
+      "location": "Brasil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4380719009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-29T13:18:36-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Analista de Performance Sênior",
+      "location": "Brasil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4205239009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-06-02T13:05:40-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Analista de Planejamento e Performance Sênior - Vaga Afirmativa PCD",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4222260009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-04-29T11:19:11-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Analista de Reclame Aqui 2 S (Pleno)",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4357241009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-01T17:22:11-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Analista de Reclame Aqui Pleno - Afirmativa PCD",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4364168009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-11T17:29:35-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Analyst Corporate Development ",
+      "location": "São Paulo, São Paulo, Brazil | Brasil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4391178009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-10-01T10:53:23-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Banco de Talentos | Analista de Crédito Imobiliário",
+      "location": "São Paulo, São Paulo, Brazil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4047195009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2025-10-16T17:16:03-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Banco de talentos | Business Analyst - PCD",
+      "location": "Brasil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4059158009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2025-11-07T13:06:43-05:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Banco de talentos | CX/ Operações  - PCD",
+      "location": "Brasil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4059166009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2025-11-07T13:15:11-05:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Banco de talentos | Inside Sales - PCD ",
+      "location": "Brasil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4059164009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2025-11-07T13:11:06-05:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Business Strategy Specialist (Consórcio)",
+      "location": "São Paulo, São Paulo, Brazil | Brasil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4254812009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-07-03T10:23:11-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Employer Branding Manager - Tech",
+      "location": "Brasil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4431052009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-10-06T08:21:03-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Especialista Comercial - Hunter - Goiânia",
+      "location": "Brasil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4237126009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-05-28T15:42:14-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Especialista de CRM - Marketing Cloud",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4359915009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-28T10:38:23-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Especialista de Controladoria",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4380748009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-08-29T13:47:43-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Especialista de Controladoria | Vaga Afirmativa para PCD",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4305801009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-07-28T16:50:18-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Especialista de Growth Intelligence | Vaga Afirmativa para PCD",
+      "location": "São Paulo, São Paulo, Brazil | Brasil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4368316009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-02T08:38:57-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Especialista de Planejamento e Performance",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4362947009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-29T15:30:09-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Especialista de Projetos | Vaga Afirmativa para PCD ",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4323606009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-07-29T17:36:18-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Especialista de Riscos Financeiros",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4371945009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-08-19T14:25:34-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Especialista de Riscos Não Financeiros",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4371970009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-08-19T14:32:18-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Especialista de Tesouraria",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4306506009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-07-15T12:15:42-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Especialista em Backoffice Financeiro | Vaga Afirmativa PCD",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4372926009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-08-19T08:02:08-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Especialista em Sistemas de Cobrança (CyberFinancial)",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4374532009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-10T16:07:50-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Executivo de Contas B2B (Hunter) - Campinas/SP",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4327480009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-29T09:35:04-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Executivo(a) de Contas Farmer - Porto Alegre",
+      "location": "Brasil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4248078009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-07-10T19:14:27-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | FP&A Specialist — Strategic Modeling & Long-Term Planning",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4337564009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-07-29T17:18:14-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Gerente De Contas PPM",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4313404009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-22T15:56:00-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Gerente de Contas 1 (Hunter - New Business)",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4401387009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-30T16:14:03-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Gerente de Contas Farmer - Marketplace B2B",
+      "location": "Belo Horizonte, Minas Gerais, Brazil; São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4252494009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-05-29T14:39:25-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Gerente de Projetos - For Rent Post Contract",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4358313009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-08-14T18:42:03-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Growth Intelligence Specialist  - Supply Governance",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4377289009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-10T14:50:09-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Growth Marketing Specialist",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4404916009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-21T14:34:35-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Head of Credit",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4389210009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-16T19:16:25-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Key Account Manager ",
+      "location": "Mexico City, Mexico City, Mexico | Ciudad de México",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4323027009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-08-10T18:00:16-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Pay In Project Manager",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4373108009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-15T10:43:48-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Pessoa Coordenadora de Operações - Financiamento Imobiliário",
+      "location": "Brasil | Belo Horizonte",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4322971009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-08-06T17:24:27-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Planning & Insights Specialist",
+      "location": "São Paulo, São Paulo, Brazil | Brasil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4350516009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-08-11T08:45:24-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Planning Senior Manager",
+      "location": "Mexico City, Mexico City, Mexico | Ciudad de México",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4281828009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-06-17T17:16:32-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Recruiter Sênior",
+      "location": "Brasil | Brasil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4356795009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-10-05T09:19:58-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Security Engineer - Cyber Threat Intelligence (CTI)",
+      "location": "Brasil | Brasil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4411502009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-23T14:34:50-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Senior Data Scientist",
+      "location": "Brasil | Brasil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4023482009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2025-09-12T09:58:19-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Senior Data Scientist (Women Applicants Only)",
+      "location": "Brasil | Brasil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4023483009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-07-13T13:42:43-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Senior Platform Engineer (Women Applicants Only)",
+      "location": "Brasil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4288328009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-06-17T11:14:53-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Senior Security Engineer - CSIRT",
+      "location": "Brasil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4401278009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-14T13:44:12-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Senior Site Reliability Engineer - AI Platform",
+      "location": "Brasil | Brasil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4249527009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-05-20T16:04:15-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Senior Software Engineer",
+      "location": "Brasil | Brasil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4023099009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2025-09-11T17:08:06-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Senior Software Engineer",
+      "location": "Argentina | Buenos Aires",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4401517009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-21T10:47:14-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Senior Software Engineer (Black People Applicants Only)",
+      "location": "Brasil | Brasil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4093596009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-01-08T14:31:21-05:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Senior Software Engineer (Women Applicants Only)",
+      "location": "Brasil | Brasil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4093591009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-01-08T14:28:42-05:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Senior Software Engineer - Enterprise Engineering",
+      "location": "Brasil | Brasil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4287805009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-06-23T17:49:16-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Senior Software Engineer - IAM",
+      "location": "Brasil | Brasil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4341835009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-08-04T14:45:57-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Staff Data Engineer",
+      "location": "São Paulo, São Paulo, Brazil | Brasil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4023115009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-01-23T08:09:03-05:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Staff Data Engineer (Women Applicants Only)",
+      "location": "Brasil | Brasil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4023118009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-07-06T14:13:05-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Staff Data Scientist",
+      "location": "Brasil | Brasil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4023516009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2025-09-12T10:21:13-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Staff Data Scientist (Women Applicants Only)",
+      "location": "Brasil | Brasil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4023517009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-07-06T14:20:09-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Staff Software Engineer",
+      "location": "Brasil | Brasil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4117067009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-02-04T11:40:46-05:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Staff Software Engineer",
+      "location": "Argentina | Buenos Aires",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4336322009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-21T10:33:44-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Staff Software Engineer (PwD Applicants Only)",
+      "location": "Brasil | Brasil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4183586009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-03-19T11:25:18-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Staff Software Engineer (Women Applicants Only)",
+      "location": "Brasil | Brasil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4117069009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-02-04T11:43:32-05:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Strategy & New Business Senior Manager ",
+      "location": "Mexico City, Mexico City, Mexico | Ciudad de México",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4289904009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-07-13T09:56:55-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Supervisor(a) de Operações II",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4387144009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-24T18:09:46-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Supervisor(a) de Operações – Canais Críticos",
+      "location": "Brasil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4400445009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-29T16:41:53-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Supervisor(a) de Operações – Reclame Aqui",
+      "location": "Brasil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4409891009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-28T14:08:05-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Vaga afirmativa para PcD - Analista de Business Operations (Remoto)",
+      "location": "Brasil | Brasil",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4354109009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-15T13:49:55-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar| Creative Growth Designer Pleno",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4341486009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-08-13T13:52:00-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar| Especialista em Dados e Estratégia",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4362525009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-14T23:28:48-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar| Growth Intelligence Manager — Risk & Strategic Projects",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4368242009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-08-26T08:38:53-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar| Growth Marketing Specialist",
+      "location": "Buenos Aires, Buenos Aires, Argentina | Buenos Aires",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4258464009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-06-17T17:38:26-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar| People Analytics Specialist",
+      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4328012009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-07-24T16:02:50-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Head of Product Design",
+      "location": "Brasil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4375320009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-10-06T16:00:59-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Inbound Sales Lead",
+      "location": "Mexico City, Mexico City, Mexico | Ciudad de México",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4396907009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-29T15:52:07-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Key Account Manager - GBA Oeste",
+      "location": "Argentina | Buenos Aires",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4370932009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-01T15:06:12-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Marketing Manager - Argentina",
+      "location": "Argentina | Buenos Aires",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4423880009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-10-06T09:34:23-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Retention Lead",
+      "location": "Mexico City, Mexico City, Mexico | Ciudad de México",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4371929009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-29T17:57:43-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Sales Operations Lead",
+      "location": "Mexico City, Mexico City, Mexico | Ciudad de México",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4247698009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-07-10T15:04:43-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Senior Strategy & Operations Manager",
+      "location": "Mexico City, Mexico City, Mexico | Ciudad de México",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4400927009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-30T14:30:46-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Sr Strategy Manager",
+      "location": "Argentina; Buenos Aires, Buenos Aires, Argentina | Buenos Aires | Ciudad de México",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4289947009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-16T11:26:10-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Sr Strategy Manager ",
+      "location": "Mexico | Buenos Aires | Ciudad de México",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4289948009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-16T12:48:18-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Sr. Staff Product Designer",
+      "location": "Brasil | Lisboa",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4393062009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-10-06T19:02:33-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Telesales - México",
+      "location": "Mexico City, Mexico City, Mexico | Ciudad de México",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4360672009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-01T18:02:38-04:00"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Tokko Broker | Commercial Manager",
+      "location": "Mexico City, Mexico City, Mexico | Ciudad de México",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4289214009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-07-08T18:16:01-04:00"
     },
     {
       "company": "Supabase",
-      "title": "AI Platform Engineer",
-      "location": "Remote, Global",
-      "department": "Business Operations",
-      "url": "https://jobs.ashbyhq.com/supabase/3b5d54ca-741b-45ac-bd3f-31605a0d3541",
+      "title": "Executive Assistant to the CEO",
+      "location": "Remote, APAC",
+      "department": "Operations",
+      "url": "https://jobs.ashbyhq.com/supabase/b566fbf8-2894-4314-9533-8fa920e80c19",
       "board": "ashby",
       "remote": null,
-      "posted_at": "2026-07-31T18:56:39.246+00:00"
+      "posted_at": "2026-10-06T14:33:50.071+00:00"
     },
     {
       "company": "Supabase",
-      "title": "Head of AI Native Operations",
-      "location": "Remote, Global",
-      "department": "Business Operations",
-      "url": "https://jobs.ashbyhq.com/supabase/9c04bc60-78a1-4529-950d-4704ab475764",
+      "title": "People Business Partner - GTM",
+      "location": "Remote, AMER | {'location': 'Remote, EMEA', 'address': {'postalAddress': {}}}",
+      "department": "Operations",
+      "url": "https://jobs.ashbyhq.com/supabase/e84502e7-9dab-437a-af38-9da03542fab7",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-10-05T14:46:04.115+00:00"
+      "posted_at": "2026-05-20T17:45:31.073+00:00"
     },
     {
-      "company": "Tether",
-      "title": "Senior Technical Product Manager - Keet (100% Remote)",
-      "location": " Warsaw | Poland, Warsaw",
-      "department": "Product​",
-      "url": "https://careers.tether.io/o/wkf28",
-      "board": "recruitee",
+      "company": "Supabase",
+      "title": "Platform Engineer:Data",
+      "location": "Remote, Global",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/supabase/48950725-e0d9-4025-92d9-f75e1b60ce45",
+      "board": "ashby",
+      "remote": null,
+      "posted_at": "2026-10-06T18:12:33.341+00:00"
+    },
+    {
+      "company": "Supabase",
+      "title": "Product Manager - Auth",
+      "location": "Remote, Global",
+      "department": "Product",
+      "url": "https://jobs.ashbyhq.com/supabase/9a4c9984-07c7-4b47-982f-371de3f6ff50",
+      "board": "ashby",
       "remote": true,
-      "posted_at": "2026-10-05T17:42:09Z"
+      "posted_at": "2026-10-07T02:00:35.315+00:00"
     },
     {
       "company": "Tether",
-      "title": "Senior Technical Product Manager - Keet (100% Remote)",
-      "location": "Lugano | Switzerland, Lugano",
-      "department": "Product​",
-      "url": "https://careers.tether.io/o/paua2",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-10-05T17:40:12Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Senior Technical Product Manager - Keet (100% Remote)",
-      "location": "United Kindom",
-      "department": "Product​",
-      "url": "https://careers.tether.io/o/h85la",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-10-05T17:37:37Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Senior Technical Product Manager - Keet (100% Remote)",
+      "title": "AI Technical Product Manager (QVAC) (100% remote)",
       "location": "Dubai | United Arab Emirates, Dubai",
       "department": "Product​",
-      "url": "https://careers.tether.io/o/g6fsn",
+      "url": "https://careers.tether.io/o/w2mnk",
       "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-10-05T17:41:17Z"
+      "posted_at": "2026-10-06T20:37:03Z"
     },
     {
       "company": "Tether",
-      "title": "Senior Technical Product Manager - Keet (100% Remote)",
-      "location": "Bangalore | India, Bangalore",
+      "title": "AI Technical Product Manager (QVAC) (100% remote)",
+      "location": "Dublin | Ireland, Dublin",
       "department": "Product​",
-      "url": "https://careers.tether.io/o/fls7g",
+      "url": "https://careers.tether.io/o/cmw1g",
       "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-10-05T17:41:03Z"
+      "posted_at": "2026-10-06T20:34:04Z"
     },
     {
       "company": "Tether",
-      "title": "Senior Technical Product Manager - Keet (100% Remote)",
+      "title": "AI Technical Product Manager (QVAC) (100% remote)",
+      "location": "Lugano | Switzerland, Lugano",
+      "department": "Product​",
+      "url": "https://careers.tether.io/o/bhb9m",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-10-06T20:31:34Z"
+    },
+    {
+      "company": "Tether",
+      "title": "AI Technical Product Manager (QVAC) (100% remote)",
+      "location": "Delhi | India, Delhi",
+      "department": "Product​",
+      "url": "https://careers.tether.io/o/hubgf",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-10-06T20:27:41Z"
+    },
+    {
+      "company": "Tether",
+      "title": "AI Technical Product Manager (QVAC) (100% remote)",
       "location": "Lisbon | Portugal, Lisbon",
       "department": "Product​",
-      "url": "https://careers.tether.io/o/vd2mr",
+      "url": "https://careers.tether.io/o/479hm",
       "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-10-05T17:39:55Z"
+      "posted_at": "2026-10-06T20:19:21Z"
     },
     {
       "company": "Tether",
-      "title": "Senior Technical Product Manager - Keet (100% Remote)",
+      "title": "AI Technical Product Manager (QVAC) (100% remote)",
       "location": "Barcelona | Spain, Barcelona | Spain, Madrid",
       "department": "Product​",
-      "url": "https://careers.tether.io/o/nh4ck",
+      "url": "https://careers.tether.io/o/d6h99",
       "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-10-05T17:39:43Z"
+      "posted_at": "2026-10-06T20:17:55Z"
     },
     {
       "company": "Tether",
-      "title": "Senior Technical Product Manager - Keet (100% Remote)",
+      "title": "AI Technical Product Manager (QVAC) (100% remote)",
+      "location": "London | United Kingdom, London",
+      "department": "Product​",
+      "url": "https://careers.tether.io/o/vck26",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-10-06T20:12:52Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Credit Lead (Underwriter), Institutional Lending & Liquidity",
+      "location": "Geneve | Switzerland, Geneve",
+      "department": "Finance",
+      "url": "https://careers.tether.io/o/4woo9",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-10-06T10:01:58Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Credit Lead (Underwriter), Institutional Lending & Liquidity",
+      "location": "Madrid | Spain, Madrid",
+      "department": "Finance",
+      "url": "https://careers.tether.io/o/13kdd",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-10-06T09:59:42Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Credit Lead (Underwriter), Institutional Lending & Liquidity",
+      "location": "London | United Kingdom, London",
+      "department": "Finance",
+      "url": "https://careers.tether.io/o/ml2bn",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-10-06T08:57:54Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Head of AI Expansion",
+      "location": "Dubai | United Arab Emirates, Dubai",
+      "department": "Expansion",
+      "url": "https://careers.tether.io/o/ar1ro",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-10-06T12:40:07Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Product Manager On-Ramp & Swap (100% remote)",
+      "location": "Lahore | Pakistan, Lahore",
+      "department": "Product​",
+      "url": "https://careers.tether.io/o/2a59w",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-10-06T16:22:06Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Product Manager On-Ramp & Swap (100% remote)",
+      "location": "Yerevan | Armenia, Yerevan",
+      "department": "Product​",
+      "url": "https://careers.tether.io/o/pdv9n",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-10-06T16:21:13Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Product Manager On-Ramp & Swap (100% remote)",
       "location": "United Kindom",
       "department": "Product​",
-      "url": "https://careers.tether.io/o/ncure",
+      "url": "https://careers.tether.io/o/4u27m",
       "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-10-05T17:39:27Z"
+      "posted_at": "2026-10-06T16:18:15Z"
     },
     {
       "company": "Tether",
-      "title": "Senior Technical Product Manager - Keet (100% Remote)",
+      "title": "Product Manager On-Ramp & Swap (100% remote)",
+      "location": "Bangalore | India, Bangalore",
+      "department": "Product​",
+      "url": "https://careers.tether.io/o/5ggn9",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-10-06T16:21:51Z"
+    },
+    {
+      "company": "Tether",
+      "title": "Product Manager On-Ramp & Swap (100% remote)",
       "location": "Buenos Aires | Argentina, Buenos Aires",
       "department": "Product​",
-      "url": "https://careers.tether.io/o/c44cf",
+      "url": "https://careers.tether.io/o/g1r5c",
       "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-10-05T17:38:59Z"
+      "posted_at": "2026-10-06T16:21:03Z"
     },
     {
       "company": "Tether",
-      "title": "VP of Tech Expansion (100% REMOTE)",
-      "location": "Singapore",
-      "department": "Expansion",
-      "url": "https://careers.tether.io/o/lt4bv",
+      "title": "Product Manager On-Ramp & Swap (100% remote)",
+      "location": "Madrid | Spain, Madrid | Spain, Barcelona",
+      "department": "Product​",
+      "url": "https://careers.tether.io/o/tmm8g",
       "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-10-05T14:49:53Z"
+      "posted_at": "2026-10-06T16:20:52Z"
     },
     {
       "company": "Tether",
-      "title": "VP of Tech Expansion (100% REMOTE)",
-      "location": "Barcelona | Spain, Barcelona",
-      "department": "Expansion",
-      "url": "https://careers.tether.io/o/2shld",
+      "title": "Product Manager On-Ramp & Swap (100% remote)",
+      "location": "Lugano | Switzerland, Lugano | Switzerland, Lausanne | Switzerland, Geneve | Switzerland, Chiasso | Switzerland, Berne",
+      "department": "Product​",
+      "url": "https://careers.tether.io/o/n3b3n",
       "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-10-05T14:48:46Z"
+      "posted_at": "2026-10-06T16:19:50Z"
     },
     {
-      "company": "Tether",
-      "title": "VP of Tech Expansion (100% REMOTE)",
-      "location": "Lugano | Switzerland, Lugano",
-      "department": "Expansion",
-      "url": "https://careers.tether.io/o/8mdn2",
-      "board": "recruitee",
+      "company": "Tide",
+      "title": "Analyst, Level 1, Onboarding KYX, UK",
+      "location": "India, Hyderabad | India",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7621880003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-02-09T09:44:07-05:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Sales Enablement Trainer",
+      "location": "Bulgaria | Sofia",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/8012798003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-10-07T04:23:15-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Staff Mobile Engineer",
+      "location": "Serbia | Beograd",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/8014651003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-10-06T11:39:05-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Staff Mobile Engineer",
+      "location": "Lithuania | Beograd",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/8014654003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-10-06T11:41:42-04:00"
+    },
+    {
+      "company": "Tide",
+      "title": "Staff Mobile Engineer",
+      "location": "Bulgaria | Beograd",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7996938003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-10-06T11:37:21-04:00"
+    },
+    {
+      "company": "Vannevar",
+      "title": "Product Engineer - Systems Agents (TS/SCI Clearance Required)",
+      "location": "Remote | Remote",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/vannevarlabs/jobs/5165235007",
+      "board": "greenhouse",
       "remote": true,
-      "posted_at": "2026-10-05T14:47:32Z"
+      "posted_at": "2026-06-16T00:22:51-04:00"
     },
     {
-      "company": "Tether",
-      "title": "VP of Tech Expansion (100% REMOTE)",
-      "location": "London | United Kingdom, London",
-      "department": "Expansion",
-      "url": "https://careers.tether.io/o/v6v46",
-      "board": "recruitee",
+      "company": "Vercel",
+      "title": "Account Executive, Commercial",
+      "location": "Hybrid - London | Office - London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6136160004",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-08-06T12:50:10-04:00"
+    },
+    {
+      "company": "Vercel",
+      "title": "Account Executive, Majors",
+      "location": "Hybrid - London | Office - London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5999792004",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-05-21T09:26:09-04:00"
+    },
+    {
+      "company": "Vercel",
+      "title": "Account Executive, Majors (APAC)",
+      "location": "Hybrid - Sydney | Remote - Australia ",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5841911004",
+      "board": "greenhouse",
       "remote": true,
-      "posted_at": "2026-10-05T14:44:58Z"
+      "posted_at": "2026-06-23T18:49:37-04:00"
     },
     {
-      "company": "Tide",
-      "title": "Account Manager",
-      "location": "United Kingdom | London",
+      "company": "Vercel",
+      "title": "Account Executive, Majors- Install Base (APAC)",
+      "location": "Hybrid - Sydney | Remote - Australia ",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7816967003",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6100103004",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-06-25T12:45:34-04:00"
+    },
+    {
+      "company": "Vercel",
+      "title": "Account Executive-Startups, EMEA (French Speaker)",
+      "location": "Hybrid - London | Remote - United Kingdom",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5752956004",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-01-08T11:54:22-05:00"
+    },
+    {
+      "company": "Vercel",
+      "title": "Business Development Representative , Startups",
+      "location": "Hybrid - London | Office - London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5822513004",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-08-14T07:39:35-04:00"
+      "posted_at": "2026-03-10T11:06:00-04:00"
     },
     {
-      "company": "Tide",
-      "title": "Director of Engineering, KYX",
-      "location": "Bulgaria | London",
+      "company": "Vercel",
+      "title": "Business Development Representative, UK&I",
+      "location": "Hybrid - London | Office - London",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/8014191003",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5557835004",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-10-06T00:21:36-04:00"
+      "posted_at": "2025-06-05T18:17:52-04:00"
     },
     {
-      "company": "Tide",
-      "title": "Director of Engineering, KYX",
-      "location": "Berlin, Germany | London",
+      "company": "Vercel",
+      "title": "Director, Commercial Sales, EMEA",
+      "location": "Hybrid - London | Office - London",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/8014199003",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5974107004",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-10-06T01:38:23-04:00"
+      "posted_at": "2026-04-25T10:31:12-04:00"
     },
     {
-      "company": "Tide",
-      "title": "Director of Engineering, KYX",
-      "location": "India, Hyderabad | London",
+      "company": "Vercel",
+      "title": "Head of Solutions Architecture, EMEA",
+      "location": "Hybrid - London, Berlin | Office - London",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/8014190003",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6111005004",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-10-06T00:17:57-04:00"
+      "posted_at": "2026-09-14T23:06:09-04:00"
     },
     {
-      "company": "Tide",
-      "title": "Product Design Lead (Payment Services)",
-      "location": "Bulgaria | Lithuania",
+      "company": "Vercel",
+      "title": "Partner Lead, EMEA",
+      "location": "Hybrid - London, Berlin | Office - Berlin | Office - London",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7788362003",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5844601004",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-06-29T07:15:05-04:00"
+      "posted_at": "2026-04-02T18:05:08-04:00"
     },
     {
-      "company": "Tide",
-      "title": "Product Design Lead (Payment Services)",
-      "location": "Serbia | Lithuania",
+      "company": "Vercel",
+      "title": "Partner Solutions Engineer, EMEA",
+      "location": "Hybrid - London, Berlin | Office - Berlin | Office - London",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7786587003",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6132416004",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-06-29T07:05:51-04:00"
+      "posted_at": "2026-08-07T10:36:05-04:00"
     },
     {
-      "company": "Tide",
-      "title": "Product Design Lead (Payment Services)",
-      "location": "Lithuania | Lithuania",
+      "company": "Vercel",
+      "title": "Product Security Engineer",
+      "location": "Hybrid - San Francisco, New York City, London | Office - Berlin | Office - London | Office - New York City | Office - San Francisco",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7788365003",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6102343004",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-06-29T07:19:42-04:00"
+      "posted_at": "2026-06-25T22:18:21-04:00"
     },
     {
-      "company": "Tide",
-      "title": "Treasury Lead, Debt Planning & Management",
-      "location": "United Kingdom | London",
+      "company": "Vercel",
+      "title": "SOX Manager",
+      "location": "Hybrid - India | Remote - India",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/8011273003",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6163585004",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-08-26T11:23:10-04:00"
+    },
+    {
+      "company": "Vercel",
+      "title": "Senior Manager, Solutions Architect",
+      "location": "Remote - Australia | Remote - Australia ",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5995789004",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-05-21T14:14:15-04:00"
+    },
+    {
+      "company": "Vercel",
+      "title": "Software Engineer, Compute",
+      "location": "Hybrid - London | EMEA | Remote - Germany | Remote - United Kingdom",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6113157004",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-07-14T10:23:00-04:00"
+    },
+    {
+      "company": "Vercel",
+      "title": "Software Engineer, Observability",
+      "location": "Hybrid - San Francisco, New York City, London | Office - London | Office - New York City",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/5428982004",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-10-05T07:34:46-04:00"
+      "posted_at": "2025-01-28T13:53:29-05:00"
     },
     {
-      "company": "Wave Mobile Money",
-      "title": "Agent Operations Lead",
-      "location": "\">Freetown, Sierra Leone",
+      "company": "Vercel",
+      "title": "Sr. Manager, Accounting (India)",
+      "location": "Hybrid - India | Remote - India",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6208510004/",
-      "board": "generic",
-      "remote": false,
-      "posted_at": ""
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6121468004",
+      "board": "greenhouse",
+      "remote": true,
+      "posted_at": "2026-07-21T12:17:34-04:00"
     },
     {
-      "company": "Wave Mobile Money",
-      "title": "Branding Coordinator",
-      "location": "\">Kinshasa, Democratic Republic of the Congo",
+      "company": "Vercel",
+      "title": "Technical Account Manager",
+      "location": "Hybrid - London, Berlin | Office - London",
       "department": "",
-      "url": "https://www.wave.com/en/careers/job/6212008004/",
-      "board": "generic",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6121381004",
+      "board": "greenhouse",
       "remote": false,
-      "posted_at": ""
+      "posted_at": "2026-07-21T12:02:43-04:00"
     }
   ]
 }
