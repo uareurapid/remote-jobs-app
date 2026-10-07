@@ -1,10 +1,10 @@
 {
   "date": "2026-10-07",
-  "crawl_time_utc": "2026-10-07T09:47:43.144359+00:00",
+  "crawl_time_utc": "2026-10-07T09:48:48.855813+00:00",
   "total_companies": 67,
-  "total_jobs": 974,
+  "total_jobs": 981,
   "stats": {
-    "total_found": 974,
+    "total_found": 981,
     "filtered_us": 0,
     "errors": 0
   },
@@ -1498,6 +1498,76 @@
       "board": "greenhouse",
       "remote": true,
       "posted_at": "2026-10-06T19:59:49-04:00"
+    },
+    {
+      "company": "Cyclops",
+      "title": "Head of Brand",
+      "location": "Remote",
+      "department": "",
+      "url": "https://cyclopsio.applytojob.com/apply/Da0QTMknFH/Head-Of-Brand-Remote",
+      "board": "generic-jsonld",
+      "remote": true,
+      "posted_at": "2025-01-01"
+    },
+    {
+      "company": "Cyclops",
+      "title": "Marketing Operations & Data Manager",
+      "location": "Remote",
+      "department": "",
+      "url": "https://cyclopsio.applytojob.com/apply/E9Sv4tLPCG/Marketing-Operations-Data-Manager-Remote",
+      "board": "generic-jsonld",
+      "remote": true,
+      "posted_at": "2025-01-01"
+    },
+    {
+      "company": "Cyclops",
+      "title": "Senior QA Engineer",
+      "location": "Remote",
+      "department": "",
+      "url": "https://cyclopsio.applytojob.com/apply/tqlJ0x6pzn/Senior-QA-Engineer-Remote",
+      "board": "generic-jsonld",
+      "remote": true,
+      "posted_at": "2025-01-01"
+    },
+    {
+      "company": "Cyclops",
+      "title": "Senior Software Engineer",
+      "location": "Remote",
+      "department": "",
+      "url": "https://cyclopsio.applytojob.com/apply/wdhrj3htaj/Senior-Software-Engineer-Remote",
+      "board": "generic-jsonld",
+      "remote": true,
+      "posted_at": "2025-01-01"
+    },
+    {
+      "company": "Cyclops",
+      "title": "Senior Software Engineer, Technical Leadership / Platform",
+      "location": "Remote",
+      "department": "",
+      "url": "https://cyclopsio.applytojob.com/apply/ZRWomzz1ER/Senior-Software-Engineer-Technical-Leadership-Platform-Remote",
+      "board": "generic-jsonld",
+      "remote": true,
+      "posted_at": "2025-01-01"
+    },
+    {
+      "company": "Cyclops",
+      "title": "Senior Test Automation Engineer / SDET",
+      "location": "Remote",
+      "department": "",
+      "url": "https://cyclopsio.applytojob.com/apply/JTo0Ee7fxo/Senior-Test-Automation-Engineer-SDET-Remote",
+      "board": "generic-jsonld",
+      "remote": true,
+      "posted_at": "2025-01-01"
+    },
+    {
+      "company": "Cyclops",
+      "title": "Technical Program Manager",
+      "location": "Remote",
+      "department": "",
+      "url": "https://cyclopsio.applytojob.com/apply/GCeTz6hXfd/Technical-Program-Manager-Remote",
+      "board": "generic-jsonld",
+      "remote": true,
+      "posted_at": "2025-01-01"
     },
     {
       "company": "DuckDuckGo",
