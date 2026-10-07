@@ -51,3 +51,17 @@
 51. Cyclops
 52. Tether
 53. Casuno
+54. Alguna
+55. Plain
+56. QuintoAndar
+57. Anchorage Digital
+58. Amplemarket
+59. Contentful
+60. Labster
+61. OLX
+62. Productboard
+63. Malwarebytes
+64. Lingokids
+65. Fluxon
+66. Vercel
+67. Metalab

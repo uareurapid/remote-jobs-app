@@ -4,7 +4,7 @@ Static job board that crawls remote openings directly from company career pages.
 
 ## How it works
 
-1. A Python crawler runs daily (via cron) and scrapes ~50 remote-friendly companies
+1. A Python crawler runs daily (via cron) and scrapes ~67 remote-friendly companies
 2. Results are saved as JSON in `data/`
 3. This static site reads the JSON and displays everything
 4. Deploy to GitHub Pages or Vercel
@@ -42,7 +42,19 @@ python3 ~/.openclaw/workspace/crawl_remote_jobs.py
 
 ## Add companies
 
-Edit `data/companies.txt` and `~/.openclaw/workspace/remote_companies.txt`.
+Edit `~/.openclaw/workspace/remote_companies.txt` (one company name per line).
 
-Then update the crawler's COMPANY config in `crawl_remote_jobs.py` with the new company's career URL and job board API if available.
+Then add the company's `career_url` and job-board API mapping to `~/.openclaw/workspace/company_careers.json`, for example:
+
+```json
+"Company Name": {
+  "career_url": "https://company.com/careers",
+  "boards": { "greenhouse": "board-name" },
+  "all_urls": ["https://company.com", "https://company.com/careers"]
+}
+```
+
+Supported board keys: `ashby`, `greenhouse`, `lever`, `lever_eu` (EU-hosted Lever boards), and `recruitee`. Companies without a supported board key fall back to generic HTML scraping of `career_url`.
+
+`data/companies.txt` is a mirror of `remote_companies.txt` and is refreshed automatically by the crawler.
 # remote-jobs-app
