@@ -1,117 +1,357 @@
 {
-  "date": "2026-10-08",
-  "crawl_time_utc": "2026-10-08T09:31:02.184009+00:00",
-  "total_removed": 11,
+  "date": "2026-10-09",
+  "crawl_time_utc": "2026-10-09T09:31:13.422327+00:00",
+  "total_removed": 35,
   "jobs": [
     {
-      "company": "Checkly",
-      "title": "Senior Sales Engineer (remote, Europe)",
-      "location": "Remote (UTC+1 to UTC+2)",
-      "department": "Sales",
-      "url": "https://jobs.ashbyhq.com/checkly/0dea9c4c-cecd-48d2-803a-56e3cfa1a873",
+      "company": "Casuno",
+      "title": "Principal Full Stack Developer (TypeScript)",
+      "location": "Berlin/Remote",
+      "department": "Tech",
+      "url": "https://jobs.ashbyhq.com/cosuno/d5215953-7527-433e-8627-efd3107f1061",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-08-21T11:52:56.928+00:00"
+      "posted_at": "2026-03-01T09:31:24.808+00:00"
+    },
+    {
+      "company": "Casuno",
+      "title": "Senior Full Stack Developer (TypeScript)",
+      "location": "Berlin/Remote",
+      "department": "Tech",
+      "url": "https://jobs.ashbyhq.com/cosuno/424ba681-0989-4961-82ad-10286e4aae71",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-03-01T09:32:14.399+00:00"
+    },
+    {
+      "company": "ClickHouse",
+      "title": "Director, Global Employee Experience",
+      "location": "United Kingdom | {'location': 'Germany', 'address': None} | {'location': 'United States', 'address': {'postalAddress': {'addressCountry': 'United States', 'addressLocality': 'San Francisco'}}} | {'location': 'The Netherlands', 'address': None}",
+      "department": "People",
+      "url": "https://jobs.ashbyhq.com/clickhouse/08a381ba-22fc-4890-8dd6-07220342101f",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-17T16:30:02.332+00:00"
+    },
+    {
+      "company": "ClickHouse",
+      "title": "Security Specialist - EMEA (location flexible)",
+      "location": "United Kingdom",
+      "department": "Go-To-Market",
+      "url": "https://jobs.ashbyhq.com/clickhouse/b53a1f33-57b8-4f47-b8e7-6d9ecccc374b",
+      "board": "ashby",
+      "remote": null,
+      "posted_at": "2026-08-14T19:26:20.232+00:00"
+    },
+    {
+      "company": "ClickHouse",
+      "title": "Senior Technical Customer Support Engineer - Australia",
+      "location": "Australia",
+      "department": "Support Services",
+      "url": "https://jobs.ashbyhq.com/clickhouse/d0b7194e-24a9-4d48-a5b2-2f8439a5c15f",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-08-10T18:42:22.331+00:00"
+    },
+    {
+      "company": "ClickHouse",
+      "title": "Support Engineer - China (Alibaba Cloud Strategic Accounts) 支持工程师 - 中国（阿里云战略客户）",
+      "location": "APJ",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/clickhouse/15aa047b-b3e2-479c-86fd-a7eaf4537474",
+      "board": "ashby",
+      "remote": null,
+      "posted_at": "2026-06-10T17:51:10.295+00:00"
     },
     {
       "company": "Cohere",
-      "title": "Forward Deployed Engineer, Agentic Platform (Singapore)",
-      "location": "Singapore",
+      "title": "Data Scientist, North Insights",
+      "location": "United States | {'location': 'San Francisco', 'address': {'postalAddress': {'addressRegion': 'California', 'addressCountry': 'United States', 'addressLocality': 'San Francisco'}}} | {'location': 'Canada', 'address': {'postalAddress': {'addressCountry': 'Canada'}}} | {'location': 'New York', 'address': {'postalAddress': {'addressRegion': 'New York', 'addressCountry': 'United States', 'addressLocality': 'New York'}}} | {'location': 'Toronto', 'address': {'postalAddress': {'addressRegion': 'Ontario', 'addressCountry': 'Canada', 'addressLocality': 'Toronto'}}} | {'location': 'Montreal', 'address': {'postalAddress': {'addressRegion': 'Quebec ', 'addressCountry': 'Canada', 'addressLocality': 'Montreal'}}}",
       "department": "Engineering & Infra",
-      "url": "https://jobs.ashbyhq.com/cohere/9c18b199-cd1f-4ef3-9fab-ce05589348ae",
+      "url": "https://jobs.ashbyhq.com/cohere/e4603bb7-5bbe-4f73-9556-02c93f78b2af",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-01-15T14:54:31.233+00:00"
+      "posted_at": "2026-07-23T10:00:27.920+00:00"
     },
     {
       "company": "Cohere",
-      "title": "Forward Deployed Engineer, Agentic Platform (West Coast)",
-      "location": "San Francisco | {'location': 'Salt Lake City', 'address': {'postalAddress': {'addressRegion': 'Utah', 'addressCountry': 'United States', 'addressLocality': 'Salt Lake City'}}} | {'location': 'Phoenix', 'address': {'postalAddress': {'addressRegion': 'Arizona', 'addressCountry': 'United States', 'addressLocality': 'Phoenix'}}} | {'location': 'Seattle', 'address': {'postalAddress': {'addressRegion': 'Washington', 'addressCountry': 'United States', 'addressLocality': 'Seattle'}}} | {'location': 'Los Angeles', 'address': {'postalAddress': {'addressRegion': 'California', 'addressCountry': 'United States', 'addressLocality': 'Los Angeles'}}} | {'location': 'Vancouver', 'address': {'postalAddress': {'addressRegion': 'British Columbia', 'addressCountry': 'Canada', 'addressLocality': 'Vancouver'}}}",
+      "title": "Forward Deployed Engineer, Infrastructure Specialist (North America)",
+      "location": "Toronto | {'location': 'Canada', 'address': {'postalAddress': {'addressCountry': 'Canada'}}} | {'location': 'Vancouver', 'address': {'postalAddress': {'addressRegion': 'British Columbia', 'addressCountry': 'Canada', 'addressLocality': 'Vancouver'}}} | {'location': 'Ottawa', 'address': {'postalAddress': {'addressRegion': 'Ontario', 'addressCountry': 'Canada', 'addressLocality': 'Ottawa'}}} | {'location': 'Montreal', 'address': {'postalAddress': {'addressRegion': 'Quebec ', 'addressCountry': 'Canada', 'addressLocality': 'Montreal'}}}",
       "department": "Engineering & Infra",
-      "url": "https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9",
+      "url": "https://jobs.ashbyhq.com/cohere/be48aafc-9610-4ebd-8414-a0722a3cd59a",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-09-01T23:23:18.358+00:00"
+      "posted_at": "2026-09-01T22:36:04.049+00:00"
     },
     {
       "company": "Cohere",
-      "title": "VP Sales, EMEA",
-      "location": "Berlin | {'location': 'Munich', 'address': {'postalAddress': {'addressRegion': 'Bavaria', 'addressCountry': 'Germany', 'addressLocality': 'Munich'}}} | {'location': 'Frankfurt', 'address': {'postalAddress': {'addressRegion': 'Hesse', 'addressCountry': 'Germany', 'addressLocality': 'Frankfurt'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/cohere/277827a9-02b7-49ca-8590-458e93cab0e6",
+      "title": "Senior Strategic Sourcing Specialist",
+      "location": "United States | {'location': 'Canada', 'address': {'postalAddress': {'addressCountry': 'Canada'}}}",
+      "department": "Business Operations",
+      "url": "https://jobs.ashbyhq.com/cohere/9d8ba367-2e34-4ddd-93e5-265767767ef4",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-07-01T14:33:51.913+00:00"
+      "posted_at": "2026-08-27T19:25:46.037+00:00"
+    },
+    {
+      "company": "Cohere",
+      "title": "Tax Counsel, Tax Planning",
+      "location": "Toronto | {'location': 'Montreal', 'address': {'postalAddress': {'addressRegion': 'Quebec ', 'addressCountry': 'Canada', 'addressLocality': 'Montreal'}}}",
+      "department": "Business Operations",
+      "url": "https://jobs.ashbyhq.com/cohere/427c8cbe-6823-4a0c-a59a-7a583be08fab",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-08-07T20:11:01.409+00:00"
+    },
+    {
+      "company": "DuckDuckGo",
+      "title": "Director, Data Science",
+      "location": "Remote | {'location': 'Slovakia (Remote)', 'address': {'postalAddress': {'addressCountry': 'Slovakia'}}} | {'location': 'Spain (Remote)', 'address': {'postalAddress': {'addressCountry': 'Spain'}}} | {'location': 'Czechia (Remote)', 'address': {'postalAddress': {'addressCountry': 'Czechia'}}} | {'location': 'Switzerland (Remote)', 'address': {'postalAddress': {'addressCountry': 'Switzerland'}}} | {'location': 'Estonia (Remote)', 'address': {'postalAddress': {'addressCountry': 'Estonia'}}} | {'location': 'United Kingdom (Remote)', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}} | {'location': 'Portugal (Remote)', 'address': {'postalAddress': {'addressCountry': 'Portugal'}}} | {'location': 'Bulgaria (Remote)', 'address': {'postalAddress': {'addressCountry': 'Bulgaria'}}} | {'location': 'Austria (Remote)', 'address': {'postalAddress': {'addressCountry': 'Austria'}}} | {'location': 'Iceland (Remote)', 'address': {'postalAddress': {'addressCountry': 'Iceland'}}} | {'location': 'Hungary (Remote)', 'address': {'postalAddress': {'addressCountry': 'Hungary'}}} | {'location': 'Ireland (Remote)', 'address': {'postalAddress': {'addressCountry': 'Ireland'}}} | {'location': 'South Africa (Remote)', 'address': {'postalAddress': {'addressCountry': 'South Africa'}}} | {'location': 'Romania (Remote)', 'address': {'postalAddress': {'addressCountry': 'Romania'}}} | {'location': 'Poland (Remote)', 'address': {'postalAddress': {'addressCountry': 'Poland'}}} | {'location': 'United States (Remote)', 'address': {'postalAddress': {'addressCountry': 'United States'}}}",
+      "department": "Data Science",
+      "url": "https://jobs.ashbyhq.com/duck-duck-go/0269aeaa-8d8f-4c8d-b785-57afac67f4ff",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-03-19T13:30:46.549+00:00"
+    },
+    {
+      "company": "DuckDuckGo",
+      "title": "Staff Data Scientist",
+      "location": "Remote | {'location': 'Slovakia (Remote)', 'address': {'postalAddress': {'addressCountry': 'Slovakia'}}} | {'location': 'Spain (Remote)', 'address': {'postalAddress': {'addressCountry': 'Spain'}}} | {'location': 'Czechia (Remote)', 'address': {'postalAddress': {'addressCountry': 'Czechia'}}} | {'location': 'Switzerland (Remote)', 'address': {'postalAddress': {'addressCountry': 'Switzerland'}}} | {'location': 'Estonia (Remote)', 'address': {'postalAddress': {'addressCountry': 'Estonia'}}} | {'location': 'Singapore (Remote)', 'address': {'postalAddress': {'addressCountry': 'Singapore'}}} | {'location': 'Slovenia (Remote)', 'address': {'postalAddress': {'addressCountry': 'Slovenia'}}} | {'location': 'Mexico (Remote)', 'address': {'postalAddress': {'addressCountry': 'Mexico'}}} | {'location': 'Portugal (Remote)', 'address': {'postalAddress': {'addressCountry': 'Portugal'}}} | {'location': 'USA (Remote)', 'address': {'postalAddress': {'addressCountry': 'United States'}}} | {'location': 'Israel (Remote)', 'address': {'postalAddress': {'addressCountry': 'Israel'}}} | {'location': 'Kyrgyzstan (Remote)', 'address': {'postalAddress': {'addressCountry': 'Kyrgyzstan'}}} | {'location': 'Bulgaria (Remote)', 'address': {'postalAddress': {'addressCountry': 'Bulgaria'}}} | {'location': 'Austria (Remote)', 'address': {'postalAddress': {'addressCountry': 'Austria'}}} | {'location': 'Iceland (Remote)', 'address': {'postalAddress': {'addressCountry': 'Iceland'}}} | {'location': 'Croatia (Remote)', 'address': {'postalAddress': {'addressCountry': 'Croatia'}}} | {'location': 'Hungary (Remote)', 'address': {'postalAddress': {'addressCountry': 'Hungary'}}} | {'location': 'Ireland (Remote)', 'address': {'postalAddress': {'addressCountry': 'Ireland'}}} | {'location': 'Canada (Remote)', 'address': {'postalAddress': {'addressCountry': 'Canada'}}} | {'location': 'South Africa (Remote)', 'address': {'postalAddress': {'addressCountry': 'South Africa'}}} | {'location': 'Brazil (Remote)', 'address': {'postalAddress': {'addressCountry': 'Brazil'}}} | {'location': 'Mauritius (Remote)', 'address': {'postalAddress': {'addressCountry': 'Mauritius'}}} | {'location': 'UK (Remote)', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}} | {'location': 'Romania (Remote)', 'address': {'postalAddress': {'addressCountry': 'Romania'}}} | {'location': 'Cyprus (Remote)', 'address': {'postalAddress': {'addressCountry': 'Cyprus'}}} | {'location': 'Malta (Remote)', 'address': {'postalAddress': {'addressCountry': 'Malta'}}} | {'location': 'Latvia (Remote)', 'address': {'postalAddress': {'addressCountry': 'Latvia'}}} | {'location': 'Argentina (Remote)', 'address': {'postalAddress': {'addressCountry': 'Argentina'}}} | {'location': 'Bosnia and Herzegovina (Remote)', 'address': {'postalAddress': {'addressCountry': 'Bosnia and Herzegovina'}}} | {'location': 'Poland (Remote)', 'address': {'postalAddress': {'addressCountry': 'Poland'}}} | {'location': 'Uruguay (Remote)', 'address': {'postalAddress': {'addressCountry': 'Uruguay'}}}",
+      "department": "Data Science",
+      "url": "https://jobs.ashbyhq.com/duck-duck-go/9c381171-f346-4d7a-876a-509fe046760f",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-08-19T08:42:44.351+00:00"
     },
     {
       "company": "ElevenLabs",
-      "title": "Account Executive, Mid Market - India ",
-      "location": "India",
+      "title": "Account Manager - LATAM",
+      "location": "Mexico | {'location': 'Brazil', 'address': {'postalAddress': {'addressCountry': 'Brazil'}}} | {'location': 'Argentina', 'address': {'postalAddress': {'addressCountry': 'Argentina', 'addressLocality': ''}}}",
       "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/90873fda-95c3-4d21-bae8-c5a30f5b7ac8",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/cdcf48bf-b6cf-41ce-88ee-34674768fb0d",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-07-08T06:12:34.651+00:00"
+      "posted_at": "2026-07-27T17:18:59.589+00:00"
     },
     {
       "company": "ElevenLabs",
-      "title": "Accounts Payable Specialist",
-      "location": "United Kingdom | {'location': 'New York', 'address': {'postalAddress': {'addressRegion': 'New York', 'addressCountry': 'United States', 'addressLocality': 'New York City'}}} | {'location': 'Germany', 'address': {'postalAddress': {'addressCountry': 'Germany'}}} | {'location': 'Poland', 'address': {'postalAddress': {'addressCountry': 'Poland'}}}",
+      "title": "B2B SEO/AEO Expert",
+      "location": "United States | {'location': 'Ireland', 'address': {'postalAddress': {'addressCountry': 'Ireland'}}} | {'location': 'Spain', 'address': {'postalAddress': {'addressCountry': 'Spain'}}} | {'location': 'Australia', 'address': {'postalAddress': {'addressCountry': 'Australia'}}} | {'location': 'Japan', 'address': {'postalAddress': {'addressCountry': 'Japan'}}} | {'location': 'Brazil', 'address': {'postalAddress': {'addressCountry': 'Brazil'}}} | {'location': 'Italy', 'address': {'postalAddress': {'addressCountry': 'Italy', 'addressLocality': ''}}} | {'location': 'Poland', 'address': {'postalAddress': {'addressCountry': 'Poland'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}} | {'location': 'Argentina', 'address': {'postalAddress': {'addressCountry': 'Argentina', 'addressLocality': ''}}} | {'location': 'UAE ', 'address': {'postalAddress': {'addressRegion': 'Dubai', 'addressCountry': 'United Arab Emirates', 'addressLocality': 'Dubai'}}}",
+      "department": "Growth",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/a21ec926-88d3-4f95-98be-c551fe1ec49f",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-08-05T17:48:45.305+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Enterprise Solutions Engineer - Singapore",
+      "location": "Singapore | {'location': 'Australia', 'address': {'postalAddress': {'addressCountry': 'Australia'}}} | {'location': 'Japan', 'address': {'postalAddress': {'addressCountry': 'Japan'}}} | {'location': 'Taiwan', 'address': {'postalAddress': {}}}",
+      "department": "Engineering & Product",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/85b7489f-5b0c-4f21-9c1c-7b76ed904c44",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-30T09:59:23.910+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Operations Recruiter",
+      "location": "New York | {'location': 'United States', 'address': {'postalAddress': {'addressCountry': 'United States'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}} | {'location': 'San Francisco', 'address': {'postalAddress': {'addressRegion': 'California', 'addressCountry': 'United States', 'addressLocality': 'San Francisco'}}}",
       "department": "Operations",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/e7b83599-1b70-4830-85da-7132b99a3b57",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/3f4b2c2a-38d4-45f5-abcf-c3f4ddb50569",
+      "board": "ashby",
+      "remote": null,
+      "posted_at": "2026-08-31T18:18:16.440+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Paid Media Manager",
+      "location": "United Kingdom",
+      "department": "Growth",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/0e690a2f-0a1a-4c4e-adf6-4dc3c6cbc3bd",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-09-01T16:42:39.974+00:00"
+      "posted_at": "2026-10-07T15:50:44.353+00:00"
     },
     {
-      "company": "OLX",
-      "title": "Principal Brand Designer",
-      "location": "Remote Poland, Poland Product remote",
-      "department": "Product",
-      "url": "https://jobs.eu.lever.co/olx/13deef2e-ce1e-43af-8d9e-730689a3f307",
-      "board": "lever",
+      "company": "ElevenLabs",
+      "title": "Public Sector Partnerships Lead - India",
+      "location": "India",
+      "department": "Operations",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/af017d44-96d3-4ee7-9684-b414376a71b9",
+      "board": "ashby",
       "remote": true,
-      "posted_at": "2026-09-24T13:34:00Z"
+      "posted_at": "2026-08-12T17:02:06.683+00:00"
     },
     {
-      "company": "OLX",
-      "title": "Principal Brand Designer",
-      "location": "Lisbon, Portugal Product remote",
-      "department": "Product",
-      "url": "https://jobs.eu.lever.co/olx/1b4692ff-20b4-43e5-af04-49eb34d5146e",
-      "board": "lever",
+      "company": "ElevenLabs",
+      "title": "Self-Serve Product Manager - ElevenCreative",
+      "location": "Remote | {'location': 'United States', 'address': {'postalAddress': {'addressCountry': 'United States'}}} | {'location': 'Poland', 'address': {'postalAddress': {'addressRegion': 'Poland', 'addressCountry': 'Poland', 'addressLocality': 'Warsaw'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}} | {'location': 'Netherlands', 'address': {'postalAddress': {'addressCountry': 'Netherlands'}}}",
+      "department": "Engineering & Product",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/7389c057-3e25-4e7a-8a03-5e80f40a15a0",
+      "board": "ashby",
       "remote": true,
-      "posted_at": "2026-07-31T07:39:30Z"
+      "posted_at": "2026-10-07T14:03:51.437+00:00"
     },
     {
       "company": "OLX",
-      "title": "Principal Brand Designer",
+      "title": "Senior Design System Designer",
       "location": "Remote Spain, Spain Product remote",
       "department": "Product",
-      "url": "https://jobs.eu.lever.co/olx/56985b48-ff87-4b17-8361-ebb8f02912bb",
+      "url": "https://jobs.eu.lever.co/olx/46650794-f44f-40e5-8c4f-71f45e58ce9e",
       "board": "lever",
       "remote": true,
-      "posted_at": "2026-09-24T13:33:03Z"
+      "posted_at": "2026-07-16T12:47:44Z"
+    },
+    {
+      "company": "OLX",
+      "title": "Specjalista(-ka) ds. Pozyskiwania Klienta (OTOMOTO Lease)",
+      "location": "Warsaw, Poland Sales hybrid",
+      "department": "Sales",
+      "url": "https://jobs.eu.lever.co/olx/e5473752-c3e6-4a65-9f98-79c6709baafc",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2025-07-04T07:23:01Z"
+    },
+    {
+      "company": "QuintoAndar",
+      "title": "Grupo QuintoAndar | Supervisor(a) de Operações – Canais Críticos",
+      "location": "Brasil | São Paulo",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4400445009",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-09-29T16:41:53-04:00"
+    },
+    {
+      "company": "RevenueCat",
+      "title": "Senior Design Engineer",
+      "location": "Americas | {'location': 'APAC', 'address': {'postalAddress': {'addressCountry': 'Japan'}}} | {'location': 'EMEA', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}}",
+      "department": "Design",
+      "url": "https://jobs.ashbyhq.com/revenuecat/a897e317-9c65-46d5-ace3-25ec6f7b4a0c",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-09-18T17:23:29.555+00:00"
+    },
+    {
+      "company": "RevenueCat",
+      "title": "Senior Partnerships Manager, Product Partnerships",
+      "location": "Americas | {'location': 'EMEA', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}}",
+      "department": "Growth",
+      "url": "https://jobs.ashbyhq.com/revenuecat/a0521c9a-c778-492f-ba14-2f5cbaab0173",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-08-19T22:05:18.034+00:00"
+    },
+    {
+      "company": "Runway",
+      "title": "Founding Developer Experience Lead",
+      "location": "Remote",
+      "department": "Product",
+      "url": "https://jobs.ashbyhq.com/runway-ml/f89f3b6d-8558-4402-b3ac-cb5ee2980326",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-04-17T19:44:04.756+00:00"
+    },
+    {
+      "company": "Supabase",
+      "title": "AWS Enterprise Segment Lead",
+      "location": "Remote, AMER",
+      "department": "Partnerships",
+      "url": "https://jobs.ashbyhq.com/supabase/f3a7c4bf-3e79-4556-a4e9-04d6987a0e8f",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-08-28T00:07:11.385+00:00"
+    },
+    {
+      "company": "Supabase",
+      "title": "Platform Engineer:Data",
+      "location": "Remote, Global",
+      "department": "Engineering",
+      "url": "https://jobs.ashbyhq.com/supabase/48950725-e0d9-4025-92d9-f75e1b60ce45",
+      "board": "ashby",
+      "remote": null,
+      "posted_at": "2026-10-06T18:12:33.341+00:00"
+    },
+    {
+      "company": "Supabase",
+      "title": "Product Lead, Infrastructure",
+      "location": "Remote, Global",
+      "department": "Product",
+      "url": "https://jobs.ashbyhq.com/supabase/47bcfdb8-b954-423e-8a9e-85256434575c",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-06-01T09:46:41.367+00:00"
+    },
+    {
+      "company": "Tether",
+      "title": "Investment & Trading Operations associate ( Multi-asset exposure)",
+      "location": "Dublin | Ireland, Dublin",
+      "department": "Finance",
+      "url": "https://careers.tether.io/o/omhmk",
+      "board": "recruitee",
+      "remote": true,
+      "posted_at": "2026-08-04T14:23:58Z"
     },
     {
       "company": "Tide",
-      "title": "Head of Product and Identity Security",
-      "location": "United Kingdom | London",
+      "title": "Business Development Executive - French Speaking",
+      "location": "India, Hyderabad | Hyderabad",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/tide/jobs/7998049003",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7769443003",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-09-18T06:46:05-04:00"
+      "posted_at": "2026-06-12T05:01:36-04:00"
     },
     {
-      "company": "n8n",
-      "title": "Sr Growth Engineer (Fullstack TS/Vue/NodeJS)",
-      "location": "Berlin Office | {'location': 'Bosnia', 'address': {'postalAddress': {'addressCountry': 'Bosnia'}}} | {'location': 'Norway', 'address': {'postalAddress': {'addressCountry': 'Norway'}}} | {'location': 'Estonia', 'address': {'postalAddress': {'addressCountry': 'Estonia'}}} | {'location': 'Latvia', 'address': {'postalAddress': {'addressCountry': 'Latvia'}}} | {'location': 'Slovenia', 'address': {'postalAddress': {'addressCountry': 'Slovenia'}}} | {'location': 'Netherlands', 'address': {'postalAddress': {'addressCountry': 'Netherlands'}}} | {'location': 'Hungary', 'address': {'postalAddress': {'addressCountry': 'Hungary'}}} | {'location': 'Moldova', 'address': {'postalAddress': {'addressCountry': 'Moldova'}}} | {'location': 'Kosovo', 'address': {'postalAddress': {'addressCountry': 'Kosovo'}}} | {'location': 'Portugal', 'address': {'postalAddress': {'addressCountry': 'Portugal'}}} | {'location': 'Poland', 'address': {'postalAddress': {'addressCountry': 'Poland'}}} | {'location': 'Germany', 'address': {'postalAddress': {'addressCountry': 'Germany'}}} | {'location': 'Austria', 'address': {'postalAddress': {'addressCountry': 'Austria'}}} | {'location': 'Finland', 'address': {'postalAddress': {'addressCountry': 'Finland'}}} | {'location': 'Montenegro', 'address': {'postalAddress': {'addressCountry': 'Montenegro'}}} | {'location': 'Albania', 'address': {'postalAddress': {'addressCountry': 'Albania'}}} | {'location': 'Lithuania', 'address': {'postalAddress': {'addressCountry': 'Lithuania'}}} | {'location': 'Slovakia', 'address': {'postalAddress': {'addressCountry': 'Slovakia'}}} | {'location': 'Ireland', 'address': {'postalAddress': {'addressCountry': 'Ireland'}}} | {'location': 'Bulgaria', 'address': {'postalAddress': {'addressCountry': 'Bulgaria'}}} | {'location': 'Denmark', 'address': {'postalAddress': {'addressCountry': 'Denmark'}}} | {'location': 'Belgium', 'address': {'postalAddress': {'addressCountry': 'Belgium'}}} | {'location': 'Czech Republic', 'address': {'postalAddress': {'addressCountry': 'Czech Republic'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}} | {'location': 'Croatia', 'address': {'postalAddress': {'addressCountry': 'Croatia'}}} | {'location': 'Spain', 'address': {'postalAddress': {'addressCountry': 'Spain'}}} | {'location': 'Greece', 'address': {'postalAddress': {'addressCountry': 'Greece'}}}",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/n8n/6a370ff8-e069-48ed-bffa-5716a3dbd9d5",
-      "board": "ashby",
+      "company": "Tide",
+      "title": "Business Development Executive - French Speaking",
+      "location": "Bulgaria | Hyderabad",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/7821236003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-07-30T04:09:40-04:00"
+    },
+    {
+      "company": "Vercel",
+      "title": "Product Security Engineer",
+      "location": "Hybrid - San Francisco, New York City, London | Office - Berlin | Office - London | Office - New York City | Office - San Francisco",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6102343004",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-06-25T22:18:21-04:00"
+    },
+    {
+      "company": "Vercel",
+      "title": "Security Engineer, Detection Response",
+      "location": "Hybrid - San Francisco, New York City, London | Remote - United States",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/vercel/jobs/6111332004",
+      "board": "greenhouse",
       "remote": true,
-      "posted_at": "2026-05-20T10:03:53.253+00:00"
+      "posted_at": "2026-07-08T02:03:13-04:00"
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Assistant Controller",
+      "location": "\">Remote",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6188058004/",
+      "board": "generic",
+      "remote": true,
+      "posted_at": ""
+    },
+    {
+      "company": "Wave Mobile Money",
+      "title": "Field Officer",
+      "location": "\">Kinshasa, Democratic Republic of the Congo",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6006991004/",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
     }
   ]
 }
