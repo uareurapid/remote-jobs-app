@@ -1,477 +1,257 @@
 {
-  "date": "2026-10-12",
-  "crawl_time_utc": "2026-10-12T10:06:59.064572+00:00",
-  "total_new": 47,
+  "date": "2026-10-13",
+  "crawl_time_utc": "2026-10-13T09:30:58.017233+00:00",
+  "total_new": 25,
   "jobs": [
     {
-      "company": "Assured",
-      "title": "Senior Content Marketing Manager, AI Narrative",
-      "location": "Remote",
-      "department": "Marketing",
-      "url": "https://jobs.ashbyhq.com/assured/5711eef5-16a9-4b5e-836a-b09582a1bb8b",
+      "company": "Casuno",
+      "title": "Principal ML Engineer",
+      "location": "Berlin/Remote",
+      "department": "Tech",
+      "url": "https://jobs.ashbyhq.com/cosuno/97016567-a187-4505-80e8-df6a5fee7da2",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-07-09T18:49:37.770+00:00"
+      "posted_at": "2026-04-17T06:12:57.915+00:00"
     },
     {
-      "company": "Cyclops",
-      "title": "VP of Marketing",
-      "location": "Remote",
-      "department": "",
-      "url": "https://cyclopsio.applytojob.com/apply/Da0QTMknFH/VP-Of-Marketing-Remote",
-      "board": "generic-jsonld",
+      "company": "Cohere",
+      "title": "Product & Technology Communications Manager",
+      "location": "San Francisco | {'location': 'London', 'address': {'postalAddress': {'addressRegion': 'London', 'addressCountry': 'United Kingdom', 'addressLocality': 'London'}}} | {'location': 'New York', 'address': {'postalAddress': {'addressRegion': 'New York', 'addressCountry': 'United States', 'addressLocality': 'New York'}}} | {'location': 'Berlin', 'address': {'postalAddress': {'addressRegion': 'Berlin', 'addressCountry': 'Germany', 'addressLocality': 'Berlin'}}} | {'location': 'Toronto', 'address': {'postalAddress': {'addressRegion': 'Ontario', 'addressCountry': 'Canada', 'addressLocality': 'Toronto'}}}",
+      "department": "PR & Communications",
+      "url": "https://jobs.ashbyhq.com/cohere/1c011283-34f3-4461-bb65-455d65a3ec84",
+      "board": "ashby",
       "remote": true,
-      "posted_at": "2025-01-01"
+      "posted_at": "2026-10-12T15:36:24.621+00:00"
     },
     {
       "company": "ElevenLabs",
-      "title": "AI Safety Engineer (Data)",
-      "location": "London",
+      "title": "Enterprise Solutions Engineer - Singapore",
+      "location": "Singapore",
       "department": "Engineering & Product",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/507e390a-eaeb-4000-936e-83e3e498c760",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/85b7489f-5b0c-4f21-9c1c-7b76ed904c44",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-10-12T08:10:24.401+00:00"
+      "posted_at": "2026-10-13T05:46:15.615+00:00"
     },
     {
       "company": "ElevenLabs",
-      "title": "Growth Marketer- Reception.ai",
-      "location": "Remote | {'location': 'United States', 'address': {'postalAddress': {'addressCountry': 'United States'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}}",
-      "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/8f79181f-192d-45d9-a8c3-ce3f533b7d7a",
+      "title": "Full-Stack Engineer (Backend Leaning) - Flows",
+      "location": "United Kingdom | {'location': 'United States', 'address': {'postalAddress': {'addressCountry': 'United States'}}} | {'location': 'Poland', 'address': {'postalAddress': {'addressCountry': 'Poland'}}} | {'location': 'Bulgaria', 'address': {'postalAddress': {'addressCountry': 'Bulgaria'}}}",
+      "department": "Engineering & Product",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/a1c86d02-e9df-4580-87e4-1333f2b83e94",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-10-12T06:10:19.574+00:00"
+      "posted_at": "2026-10-09T09:10:26.886+00:00"
     },
     {
       "company": "ElevenLabs",
-      "title": "Lead Generation Strategy and Operations",
-      "location": "United States | {'location': 'Brazil', 'address': {'postalAddress': {'addressCountry': 'Brazil'}}} | {'location': 'Poland', 'address': {'postalAddress': {'addressCountry': 'Poland'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}} | {'location': 'UAE ', 'address': {'postalAddress': {'addressRegion': 'Dubai', 'addressCountry': 'United Arab Emirates', 'addressLocality': 'Dubai'}}}",
+      "title": "Full-Stack Engineer (Frontend Leaning) - Studio",
+      "location": "United Kingdom | {'location': 'United States', 'address': {'postalAddress': {'addressCountry': 'United States'}}} | {'location': 'Poland', 'address': {'postalAddress': {'addressCountry': 'Poland'}}} | {'location': 'Bulgaria', 'address': {'postalAddress': {'addressCountry': 'Bulgaria'}}}",
+      "department": "Engineering & Product",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/e6924f60-c8cc-42b3-9d05-2442ec30e12d",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-10-09T09:05:19.060+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "IT Engineer",
+      "location": "Singapore | {'location': 'Australia', 'address': {'postalAddress': {'addressCountry': 'Australia'}}}",
+      "department": "Engineering & Product",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/51858d8d-38ac-450b-a069-797509f465ef",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-10-12T11:26:15.382+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Product Engineer - Ads Engine",
+      "location": "United Kingdom | {'location': 'United States', 'address': {'postalAddress': {'addressCountry': 'United States'}}} | {'location': 'Poland', 'address': {'postalAddress': {'addressCountry': 'Poland'}}} | {'location': 'Bulgaria', 'address': {'postalAddress': {'addressCountry': 'Bulgaria'}}}",
+      "department": "Engineering & Product",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/3abf96ca-2937-4290-9d23-5208aece08b2",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-10-13T00:21:46.626+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Product Engineer - ElevenAPI",
+      "location": "United States | {'location': 'Dublin', 'address': {'postalAddress': {'addressCountry': 'Ireland', 'addressLocality': 'Dublin'}}} | {'location': 'Bulgaria', 'address': {'postalAddress': {}}} | {'location': 'Sofia', 'address': {'postalAddress': {'addressCountry': 'Bulgaria', 'addressLocality': 'Bulgaria'}}} | {'location': 'Germany', 'address': {'postalAddress': {'addressCountry': 'Germany'}}} | {'location': 'Portugal', 'address': {'postalAddress': {'addressCountry': 'Portugal'}}} | {'location': 'Poland', 'address': {'postalAddress': {'addressRegion': 'Poland', 'addressCountry': 'Poland', 'addressLocality': 'Warsaw'}}} | {'location': 'Madrid', 'address': {'postalAddress': {'addressRegion': 'Spain', 'addressCountry': 'Spain', 'addressLocality': 'Madrid'}}} | {'location': 'Amsterdam', 'address': {'postalAddress': {'addressCountry': 'Netherlands'}}}",
+      "department": "Engineering & Product",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/108c99e6-ba2b-44a0-b830-7d535e14a152",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-10-13T07:20:03.369+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Product Engineer - ElevenCreative Enterprise",
+      "location": "United Kingdom | {'location': 'United States', 'address': {'postalAddress': {'addressCountry': 'United States'}}} | {'location': 'Poland', 'address': {'postalAddress': {'addressCountry': 'Poland'}}} | {'location': 'Bulgaria', 'address': {'postalAddress': {'addressCountry': 'Bulgaria'}}}",
+      "department": "Engineering & Product",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/34dbe44c-9815-40b2-81f4-91c607fd84b2",
+      "board": "ashby",
+      "remote": true,
+      "posted_at": "2026-10-12T13:51:55.749+00:00"
+    },
+    {
+      "company": "ElevenLabs",
+      "title": "Strategic Account Executive - UAE ",
+      "location": "UAE",
       "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/65f83bd7-70da-4a31-a364-28fd0f361ea9",
+      "url": "https://jobs.ashbyhq.com/elevenlabs/f805267e-2f77-4cdf-8d8a-a3ed5b07e726",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-10-09T14:51:38.816+00:00"
+      "posted_at": "2026-10-12T10:16:25.143+00:00"
     },
     {
-      "company": "ElevenLabs",
-      "title": "Paid Media Manager",
-      "location": "United Kingdom",
-      "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/0e690a2f-0a1a-4c4e-adf6-4dc3c6cbc3bd",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-10-12T07:44:49.244+00:00"
+      "company": "Filevine",
+      "title": "Software Engineer",
+      "location": "Bratislava Engineering hybrid",
+      "department": "Engineering",
+      "url": "https://jobs.lever.co/filevine/21fbe868-f78e-449d-9ad0-efd5f752c383",
+      "board": "lever",
+      "remote": false,
+      "posted_at": "2026-10-12T11:19:38Z"
     },
     {
-      "company": "ElevenLabs",
-      "title": "Partner Manager - Public Sector Partnerships",
-      "location": "Remote",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/09936411-899b-466d-aae7-54f6873caea0",
-      "board": "ashby",
-      "remote": null,
-      "posted_at": "2026-10-12T07:46:40.013+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Partnerships Strategy & Operations",
-      "location": "United States | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/36b52143-1ed2-4e60-89c4-84e09d856658",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-10-09T14:51:54.125+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Product Marketing - ElevenAPI",
-      "location": "Remote | {'location': 'United States', 'address': {'postalAddress': {'addressCountry': 'United States'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}}",
-      "department": "Growth",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/e062d169-7294-4125-bc7b-e3a821dcd620",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-10-12T07:36:44.191+00:00"
-    },
-    {
-      "company": "ElevenLabs",
-      "title": "Vertical Sales Strategy and Operations",
-      "location": "United States | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}}",
-      "department": "Revenue",
-      "url": "https://jobs.ashbyhq.com/elevenlabs/03e6b7b2-3337-47ac-a230-2d8390a8cb4e",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-10-09T14:52:33.817+00:00"
-    },
-    {
-      "company": "Federato",
-      "title": "Business Development Representative",
-      "location": "Remote | Remote - US and Canada",
+      "company": "Fluxon",
+      "title": "Senior Program Manager",
+      "location": "Canada, Remote | Canada",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/federato/jobs/5447036008",
+      "url": "https://job-boards.greenhouse.io/fluxon/jobs/4742932005",
       "board": "greenhouse",
       "remote": true,
-      "posted_at": "2026-10-09T12:58:34-04:00"
+      "posted_at": "2026-10-12T12:56:35-04:00"
     },
     {
       "company": "Kong",
-      "title": "Account Development Representative (META Region)",
-      "location": "London, England, United Kingdom",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/8e043fa9-ed4b-43bb-9815-d069d22089e1",
-      "board": "ashby",
-      "remote": false,
-      "posted_at": "2026-10-09T15:11:39.280+00:00"
-    },
-    {
-      "company": "Kong",
-      "title": "Senior Software Engineer ",
+      "title": "Field Marketing Manager",
       "location": "Bangalore, India",
       "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/1b9c52d7-d90a-44a1-b61e-52a9ec88e197",
+      "url": "https://jobs.ashbyhq.com/kong/9cfb2d78-8216-4206-b007-29774cd23e34",
       "board": "ashby",
-      "remote": false,
-      "posted_at": "2026-10-12T06:29:14.114+00:00"
+      "remote": true,
+      "posted_at": "2026-10-13T07:55:04.360+00:00"
     },
     {
       "company": "Kong",
-      "title": "Senior Technical Writer",
-      "location": "Poland",
+      "title": "Software Engineer 2",
+      "location": "Bangalore, India | {'location': 'Bangalore, India', 'address': {'postalAddress': {'postalCode': '560048', 'addressRegion': 'Karnataka', 'streetAddress': 'Kong Software and Business Services India Private Limited, 7th Floor, Table Space Towers Plot No.6, Devasandra, Industrial Area Mahadevapura, White Field ', 'addressCountry': 'India', 'addressLocality': 'Bengaluru'}}}",
       "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/1b64c1e5-8e2d-47f8-8274-57294e365ae4",
+      "url": "https://jobs.ashbyhq.com/kong/2f6e0958-59f5-4a4a-80a9-85aeb52d70fd",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-10-09T15:14:03.710+00:00"
+      "posted_at": "2026-10-13T06:47:02.470+00:00"
     },
     {
-      "company": "Kong",
-      "title": "Senior Technical Writer",
-      "location": "Milan, Italy",
-      "department": "All Cost Center",
-      "url": "https://jobs.ashbyhq.com/kong/3342a973-0c9d-4886-80fd-d7c2c5e3d934",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-10-09T15:16:09.520+00:00"
-    },
-    {
-      "company": "OLX",
-      "title": "Principal Brand Designer",
-      "location": "Remote Poland, Poland Product remote",
-      "department": "Product",
-      "url": "https://jobs.eu.lever.co/olx/13deef2e-ce1e-43af-8d9e-730689a3f307",
-      "board": "lever",
-      "remote": true,
-      "posted_at": "2026-09-24T13:34:00Z"
-    },
-    {
-      "company": "OLX",
-      "title": "Principal Brand Designer",
-      "location": "Lisbon, Portugal Product remote",
-      "department": "Product",
-      "url": "https://jobs.eu.lever.co/olx/1b4692ff-20b4-43e5-af04-49eb34d5146e",
-      "board": "lever",
-      "remote": true,
-      "posted_at": "2026-07-31T07:39:30Z"
-    },
-    {
-      "company": "QuintoAndar",
-      "title": "Grupo QuintoAndar | Analista de Planejamento & Performance 3 BPO - Afirmativa PcD",
-      "location": "São Paulo, São Paulo, Brazil | São Paulo",
+      "company": "Qualio",
+      "title": "Senior Full Stack Engineer (Remote Ireland )",
+      "location": "Ireland | EU",
       "department": "",
-      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4425705009",
+      "url": "https://job-boards.greenhouse.io/qualio/jobs/8026748003",
       "board": "greenhouse",
       "remote": false,
-      "posted_at": "2026-10-09T12:43:30-04:00"
-    },
-    {
-      "company": "QuintoAndar",
-      "title": "Grupo QuintoAndar | Especialista de Tesouraria",
-      "location": "São Paulo, São Paulo, Brazil | São Paulo",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4434126009",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-10-09T13:09:21-04:00"
-    },
-    {
-      "company": "QuintoAndar",
-      "title": "Grupo QuintoAndar| Gerente de Dados & Analytics",
-      "location": "São Paulo, São Paulo, Brazil | São Paulo",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4375416009",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-10-09T08:54:35-04:00"
-    },
-    {
-      "company": "QuintoAndar",
-      "title": "Staff Product Manager",
-      "location": "Brasil | São Paulo",
-      "department": "",
-      "url": "https://job-boards.greenhouse.io/quintoandar/jobs/4335659009",
-      "board": "greenhouse",
-      "remote": false,
-      "posted_at": "2026-08-10T17:16:04-04:00"
+      "posted_at": "2026-10-12T11:46:09-04:00"
     },
     {
       "company": "Quora",
-      "title": "Senior Software Engineer - Infrastructure Security (Remote)",
-      "location": "Remote - Multiple Locations | {'location': 'United States', 'address': {'postalAddress': {'addressRegion': '', 'addressCountry': 'United States', 'addressLocality': ''}}} | {'location': 'Canada', 'address': {'postalAddress': {'addressCountry': 'Canada'}}}",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/quora/dce88e1a-d30f-44e6-a471-cf810fc9a449",
+      "title": "Lead Product Manager - Growth, Quora (Remote)",
+      "location": "Remote - Multiple Locations | {'location': 'United States', 'address': {'postalAddress': {'addressRegion': '', 'addressCountry': 'United States', 'addressLocality': ''}}} | {'location': 'Ireland', 'address': {'postalAddress': {'addressCountry': 'Ireland'}}} | {'location': 'Canada', 'address': {'postalAddress': {'addressCountry': 'Canada'}}} | {'location': '& 13 other countries', 'address': {'postalAddress': {'addressCountry': 'Ireland'}}}",
+      "department": "Product Management",
+      "url": "https://jobs.ashbyhq.com/quora/b0a4e9ff-5d89-41c0-a14e-e66267cfbcac",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-10-09T15:54:50.023+00:00"
+      "posted_at": "2026-10-13T01:37:13.126+00:00"
     },
     {
-      "company": "Resend",
-      "title": "Platform Engineer",
-      "location": "Europe",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/resend/76dcf582-cf8b-49dd-899b-d453d6af430e",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-10-09T19:00:46.367+00:00"
-    },
-    {
-      "company": "Supabase",
-      "title": "Platform Engineer, Managed Postgres",
-      "location": "Remote, Global",
-      "department": "Engineering",
-      "url": "https://jobs.ashbyhq.com/supabase/9073c0cd-2545-473a-b2ac-63e4615c69b5",
-      "board": "ashby",
-      "remote": null,
-      "posted_at": "2026-10-09T17:17:39.437+00:00"
+      "company": "Remote",
+      "title": "中文（简体）",
+      "location": "unknown (check listing)",
+      "department": "",
+      "url": "https://remote.com/zh-cn/careers",
+      "board": "generic",
+      "remote": false,
+      "posted_at": ""
     },
     {
       "company": "Tether",
-      "title": "AI Research Engineer (Model Compression & Quantization)",
-      "location": "Lugano | Switzerland, Lugano",
-      "department": "Data",
-      "url": "https://careers.tether.io/o/sbe22",
+      "title": "AI Filmmaker (100% Remote Worldwide)",
+      "location": "Buenos Aires | Argentina, Buenos Aires | Albania, Tiranë | Andorra | Armenia, Yerevan | Austria, Vienna | Belgium  | Brazil, Sao Paulo | Budapest, Hungary | Bulgaria, Sofia | Colombia, Medellin | Costa Rica, San Jose | Croatia, Zagreb | Cyprus, Nicosia | Czech Republic, Prague | Denmark, Copenhagen | Estonia, Tallinn | Georgia, Tbilisi | Greece, Athens | Ireland, Dublin | Israel, Tel Aviv | Italy, Como | Italy, Milano | Italy, Rome | Mexico, Mexico City | Malta, Sliema | Montenegro, Podgorica | Poland, Warsaw | Portugal, Lisbon | Romania, Bucharest | Serbia, Belgrade | South Africa, Cape Town | Spain, Barcelona | Sweden, Stockholm | Switzerland, Berne | Switzerland, Chiasso | Switzerland, Lugano | The Netherlands, Amsterdam | Turkiye, Istambul | United Arab Emirates, Abu Dhabi | United Arab Emirates, Dubai | United Kingdom, London | Uruguay, Montevideo",
+      "department": "Marketing",
+      "url": "https://careers.tether.io/o/r6ktl",
       "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-10-12T09:08:42Z"
+      "posted_at": "2026-10-13T03:34:32Z"
     },
     {
       "company": "Tether",
-      "title": "Credit Lead (Underwriter)-fintech & payments expertise",
+      "title": "Corporate Development Portfolio Manager ( Fintech & Digital assets)",
       "location": "Geneve | Switzerland, Geneve",
-      "department": "Finance",
-      "url": "https://careers.tether.io/o/4woo9",
+      "department": "",
+      "url": "https://careers.tether.io/o/k8tl3",
       "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-10-06T10:01:58Z"
+      "posted_at": "2026-10-12T14:59:17Z"
     },
     {
       "company": "Tether",
-      "title": "Credit Lead (Underwriter)-fintech & payments expertise",
-      "location": "London | United Kingdom, London",
-      "department": "Finance",
-      "url": "https://careers.tether.io/o/ml2bn",
+      "title": "Frontend Desktop Engineer (100% remote - Worldwide)",
+      "location": "Tiranë | Albania, Tiranë | Andorra | Argentina, Buenos Aires | Armenia, Yerevan | Belgium  | Brazil, Sao Paulo | Budapest, Hungary | Bulgaria, Sofia | Colombia, Bogotá | Croatia, Zagreb | Czech Republic, Prague | Denmark, Copenhagen | Egypt, Cairo | Georgia, Tbilisi | Greece, Athens | India, Bangalore | Ireland, Dublin | Italy, Rome | Luxemburg  | Malta, Sliema | Montenegro, Podgorica | Nigeria, Lagos | Norway, Oslo | Pakistan, Islamabad | Poland, Warsaw | Portugal, Lisbon | Romania, Bucharest | Serbia, Belgrade | Spain, Barcelona | Sweden, Stockholm | Switzerland, Berne | Tanzania, Dodoma | United Arab Emirates, Abu Dhabi | United Kingdom, London",
+      "department": "Data",
+      "url": "https://careers.tether.io/o/l9vrf",
       "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-10-06T08:57:54Z"
+      "posted_at": "2026-10-12T14:19:22Z"
     },
     {
       "company": "Tether",
-      "title": "Frontend Software Engineer (100% Remote - worldwide)",
-      "location": "Lugano | Switzerland, Lugano",
-      "department": "Engineering",
-      "url": "https://careers.tether.io/o/kvg5w",
+      "title": "Frontend Desktop Engineer (Internal)",
+      "location": "Tiranë | Albania, Tiranë | Andorra | Argentina, Buenos Aires | Armenia, Yerevan | Belgium  | Brazil, Sao Paulo | Budapest, Hungary | Bulgaria, Sofia | Colombia, Bogotá | Croatia, Zagreb | Czech Republic, Prague | Denmark, Copenhagen | Egypt, Cairo | Georgia, Tbilisi | Greece, Athens | India, Bangalore | Ireland, Dublin | Italy, Rome | Luxemburg  | Malta, Sliema | Montenegro, Podgorica | Nigeria, Lagos | Norway, Oslo | Pakistan, Islamabad | Poland, Warsaw | Portugal, Lisbon | Romania, Bucharest | Serbia, Belgrade | Spain, Barcelona | Sweden, Stockholm | Switzerland, Berne | Tanzania, Dodoma | United Arab Emirates, Abu Dhabi | United Kingdom, London",
+      "department": "Data",
+      "url": "https://careers.tether.io/o/o9sen",
       "board": "recruitee",
       "remote": true,
-      "posted_at": "2026-09-23T11:38:05Z"
+      "posted_at": "2026-10-12T14:20:25Z"
     },
     {
-      "company": "Tether",
-      "title": "Junior Project Manager (Keet P2P) (100% remote)",
-      "location": "Madrid | Spain, Madrid",
-      "department": "Engineering",
-      "url": "https://careers.tether.io/o/7dh78",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-10-09T22:24:35Z"
+      "company": "Tide",
+      "title": "Head of Finance Business Partnering, Operations & Technology",
+      "location": "India, Delhi NCR | London",
+      "department": "",
+      "url": "https://job-boards.greenhouse.io/tide/jobs/8015536003",
+      "board": "greenhouse",
+      "remote": false,
+      "posted_at": "2026-10-07T10:15:36-04:00"
     },
     {
-      "company": "Tether",
-      "title": "Junior Project Manager (Keet P2P) (100% remote)",
-      "location": "San Salvador | El Salvador, San Salvador",
-      "department": "Engineering",
-      "url": "https://careers.tether.io/o/g8rdg",
-      "board": "recruitee",
+      "company": "Wave Mobile Money",
+      "title": "Data Scientist",
+      "location": "\">Abidjan, Côte d&#39;Ivoire; Ouagadougou, Burkina Faso",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6222404004/",
+      "board": "generic",
       "remote": true,
-      "posted_at": "2026-10-09T22:22:15Z"
+      "posted_at": ""
     },
     {
-      "company": "Tether",
-      "title": "Junior Project Manager (Keet P2P) (100% remote)",
-      "location": "Bogotá | Colombia, Bogotá",
-      "department": "Engineering",
-      "url": "https://careers.tether.io/o/ycylw",
-      "board": "recruitee",
+      "company": "Wave Mobile Money",
+      "title": "Senior Application Security Engineer",
+      "location": "\">Freetown, Sierra Leone",
+      "department": "",
+      "url": "https://www.wave.com/en/careers/job/6216596004/",
+      "board": "generic",
       "remote": true,
-      "posted_at": "2026-10-09T22:20:48Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Junior Project Manager (Keet P2P) (100% remote)",
-      "location": "Sao Paulo | Brazil, Sao Paulo",
-      "department": "Engineering",
-      "url": "https://careers.tether.io/o/n95vh",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-10-09T22:19:31Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Junior Project Manager (Keet P2P) (100% remote)",
-      "location": "Santiago de Chile | Chile, Santiago de Chile",
-      "department": "Engineering",
-      "url": "https://careers.tether.io/o/6tayt",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-10-09T22:18:32Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Junior Project Manager (Keet P2P) (100% remote)",
-      "location": "Montevideo | Uruguay, Montevideo",
-      "department": "Engineering",
-      "url": "https://careers.tether.io/o/f7gu1",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-10-09T22:17:25Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Junior Project Manager (Keet P2P) (100% remote)",
-      "location": "Buenos Aires | Argentina, Buenos Aires",
-      "department": "Engineering",
-      "url": "https://careers.tether.io/o/ny738",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-10-09T22:12:59Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Legal Operations Assistant",
-      "location": "San Salvador | El Salvador, San Salvador",
-      "department": "Legal",
-      "url": "https://careers.tether.io/o/1v3et",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-10-09T13:42:49Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Product Engineering Lead (QVAC) (100% remote)",
-      "location": "Lugano | Switzerland, Lugano",
-      "department": "Engineering",
-      "url": "https://careers.tether.io/o/luhr4",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-10-09T21:49:44Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Product Engineering Lead (QVAC) (100% remote)",
-      "location": "Dublin | Ireland, Dublin",
-      "department": "Engineering",
-      "url": "https://careers.tether.io/o/vv71g",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-10-09T21:47:46Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Product Engineering Lead (QVAC) (100% remote)",
-      "location": "Dubai | United Arab Emirates, Dubai",
-      "department": "Engineering",
-      "url": "https://careers.tether.io/o/5fd3n",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-10-09T21:44:39Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Product Engineering Lead (QVAC) (100% remote)",
-      "location": "Lisbon | Portugal, Lisbon",
-      "department": "Engineering",
-      "url": "https://careers.tether.io/o/9wn7p",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-10-09T21:42:16Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Product Engineering Lead (QVAC) (100% remote)",
-      "location": "Madrid | Spain, Madrid",
-      "department": "Engineering",
-      "url": "https://careers.tether.io/o/hflo9",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-10-09T21:41:10Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Product Engineering Lead (QVAC) (100% remote)",
-      "location": "Delhi | India, Delhi",
-      "department": "Engineering",
-      "url": "https://careers.tether.io/o/a5db4",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-10-09T21:20:38Z"
-    },
-    {
-      "company": "Tether",
-      "title": "Product Engineering Lead (QVAC) (100% remote)",
-      "location": "London | United Kingdom, London",
-      "department": "Engineering",
-      "url": "https://careers.tether.io/o/grhft",
-      "board": "recruitee",
-      "remote": true,
-      "posted_at": "2026-10-09T21:18:21Z"
+      "posted_at": ""
     },
     {
       "company": "n8n",
-      "title": "Enterprise Sales Leader, DACH",
-      "location": "Berlin Office | {'location': 'Germany', 'address': {'postalAddress': {'addressCountry': 'Germany'}}}",
-      "department": "Sales",
-      "url": "https://jobs.ashbyhq.com/n8n/da8c6a37-670d-4ad9-b5b3-898c395feee4",
+      "title": "In The Loop - Talent Community",
+      "location": "Germany",
+      "department": "Other",
+      "url": "https://jobs.ashbyhq.com/n8n/4b79d2f5-2cac-4cd2-a4b2-830b6cb4d57d",
       "board": "ashby",
       "remote": true,
-      "posted_at": "2026-10-12T09:58:48.236+00:00"
-    },
-    {
-      "company": "n8n",
-      "title": "Head of Pricing and Monetization",
-      "location": "Berlin Office | {'location': 'Estonia', 'address': {'postalAddress': {'addressCountry': 'Estonia'}}} | {'location': 'Latvia', 'address': {'postalAddress': {'addressCountry': 'Latvia'}}} | {'location': 'Slovenia', 'address': {'postalAddress': {'addressCountry': 'Slovenia'}}} | {'location': 'Netherlands', 'address': {'postalAddress': {'addressCountry': 'Netherlands'}}} | {'location': 'Hungary', 'address': {'postalAddress': {'addressCountry': 'Hungary'}}} | {'location': 'Portugal', 'address': {'postalAddress': {'addressCountry': 'Portugal'}}} | {'location': 'France', 'address': {'postalAddress': {'addressCountry': 'France'}}} | {'location': 'Poland', 'address': {'postalAddress': {'addressCountry': 'Poland'}}} | {'location': 'Germany', 'address': {'postalAddress': {'addressCountry': 'Germany'}}} | {'location': 'Austria', 'address': {'postalAddress': {'addressCountry': 'Austria'}}} | {'location': 'Finland', 'address': {'postalAddress': {'addressCountry': 'Finland'}}} | {'location': 'Ireland', 'address': {'postalAddress': {'addressCountry': 'Ireland'}}} | {'location': 'Bulgaria', 'address': {'postalAddress': {'addressCountry': 'Bulgaria'}}} | {'location': 'Denmark', 'address': {'postalAddress': {'addressCountry': 'Denmark'}}} | {'location': 'Belgium', 'address': {'postalAddress': {'addressCountry': 'Belgium'}}} | {'location': 'Czech Republic', 'address': {'postalAddress': {'addressCountry': 'Czech Republic'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}} | {'location': 'Croatia', 'address': {'postalAddress': {'addressCountry': 'Croatia'}}} | {'location': 'Spain', 'address': {'postalAddress': {'addressCountry': 'Spain'}}} | {'location': 'Greece', 'address': {'postalAddress': {'addressCountry': 'Greece'}}}",
-      "department": "Operations",
-      "url": "https://jobs.ashbyhq.com/n8n/b0fe5136-97b9-4f90-b8e9-00cf4e2fd69e",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-10-12T08:32:47.422+00:00"
-    },
-    {
-      "company": "n8n",
-      "title": "Senior Product Manager (Licensing & Billing)",
-      "location": "Berlin Office | {'location': 'Bosnia', 'address': {'postalAddress': {'addressCountry': 'Bosnia'}}} | {'location': 'Romania', 'address': {'postalAddress': {'addressCountry': 'Romania'}}} | {'location': 'Norway', 'address': {'postalAddress': {'addressCountry': 'Norway'}}} | {'location': 'Estonia', 'address': {'postalAddress': {'addressCountry': 'Estonia'}}} | {'location': 'Latvia', 'address': {'postalAddress': {'addressCountry': 'Latvia'}}} | {'location': 'Slovenia', 'address': {'postalAddress': {'addressCountry': 'Slovenia'}}} | {'location': 'Italy', 'address': {'postalAddress': {'addressCountry': 'Italy'}}} | {'location': 'Netherlands', 'address': {'postalAddress': {'addressCountry': 'Netherlands'}}} | {'location': 'Hungary', 'address': {'postalAddress': {'addressCountry': 'Hungary'}}} | {'location': 'Portugal', 'address': {'postalAddress': {'addressCountry': 'Portugal'}}} | {'location': 'France', 'address': {'postalAddress': {'addressCountry': 'France'}}} | {'location': 'Poland', 'address': {'postalAddress': {'addressCountry': 'Poland'}}} | {'location': 'Serbia', 'address': {'postalAddress': {'addressCountry': 'Serbia'}}} | {'location': 'Germany', 'address': {'postalAddress': {'addressCountry': 'Germany'}}} | {'location': 'Austria', 'address': {'postalAddress': {'addressCountry': 'Austria'}}} | {'location': 'Finland', 'address': {'postalAddress': {'addressCountry': 'Finland'}}} | {'location': 'Albania', 'address': {'postalAddress': {'addressCountry': 'Albania'}}} | {'location': 'Lithuania', 'address': {'postalAddress': {'addressCountry': 'Lithuania'}}} | {'location': 'Slovakia', 'address': {'postalAddress': {'addressCountry': 'Slovakia'}}} | {'location': 'Ireland', 'address': {'postalAddress': {'addressCountry': 'Ireland'}}} | {'location': 'Bulgaria', 'address': {'postalAddress': {'addressCountry': 'Bulgaria'}}} | {'location': 'Denmark', 'address': {'postalAddress': {'addressCountry': 'Denmark'}}} | {'location': 'Belgium', 'address': {'postalAddress': {'addressCountry': 'Belgium'}}} | {'location': 'Czech Republic', 'address': {'postalAddress': {'addressCountry': 'Czech Republic'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}} | {'location': 'Croatia', 'address': {'postalAddress': {'addressCountry': 'Croatia'}}} | {'location': 'Spain', 'address': {'postalAddress': {'addressCountry': 'Spain'}}} | {'location': 'Greece', 'address': {'postalAddress': {'addressCountry': 'Greece'}}}",
-      "department": "Product",
-      "url": "https://jobs.ashbyhq.com/n8n/163162f1-9873-45b4-932e-aff27beea78a",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-10-09T14:39:43.617+00:00"
-    },
-    {
-      "company": "n8n",
-      "title": "Technical Account Manager (Remote Europe)",
-      "location": "Berlin Office | {'location': 'Bosnia', 'address': {'postalAddress': {'addressCountry': 'Bosnia'}}} | {'location': 'Romania', 'address': {'postalAddress': {'addressCountry': 'Romania'}}} | {'location': 'Norway', 'address': {'postalAddress': {'addressCountry': 'Norway'}}} | {'location': 'Estonia', 'address': {'postalAddress': {'addressCountry': 'Estonia'}}} | {'location': 'Latvia', 'address': {'postalAddress': {'addressCountry': 'Latvia'}}} | {'location': 'Slovenia', 'address': {'postalAddress': {'addressCountry': 'Slovenia'}}} | {'location': 'Netherlands', 'address': {'postalAddress': {'addressCountry': 'Netherlands'}}} | {'location': 'Hungary', 'address': {'postalAddress': {'addressCountry': 'Hungary'}}} | {'location': 'Moldova', 'address': {'postalAddress': {'addressCountry': 'Moldova'}}} | {'location': 'Kosovo', 'address': {'postalAddress': {'addressCountry': 'Kosovo'}}} | {'location': 'Portugal', 'address': {'postalAddress': {'addressCountry': 'Portugal'}}} | {'location': 'Poland', 'address': {'postalAddress': {'addressCountry': 'Poland'}}} | {'location': 'Serbia', 'address': {'postalAddress': {'addressCountry': 'Serbia'}}} | {'location': 'Austria', 'address': {'postalAddress': {'addressCountry': 'Austria'}}} | {'location': 'Montenegro', 'address': {'postalAddress': {'addressCountry': 'Montenegro'}}} | {'location': 'Lithuania', 'address': {'postalAddress': {'addressCountry': 'Lithuania'}}} | {'location': 'Slovakia', 'address': {'postalAddress': {'addressCountry': 'Slovakia'}}} | {'location': 'Ireland', 'address': {'postalAddress': {'addressCountry': 'Ireland'}}} | {'location': 'Bulgaria', 'address': {'postalAddress': {'addressCountry': 'Bulgaria'}}} | {'location': 'Denmark', 'address': {'postalAddress': {'addressCountry': 'Denmark'}}} | {'location': 'Czech Republic', 'address': {'postalAddress': {'addressCountry': 'Czech Republic'}}} | {'location': 'United Kingdom', 'address': {'postalAddress': {'addressCountry': 'United Kingdom'}}} | {'location': 'Croatia', 'address': {'postalAddress': {'addressCountry': 'Croatia'}}} | {'location': 'Spain', 'address': {'postalAddress': {'addressCountry': 'Spain'}}} | {'location': 'Greece', 'address': {'postalAddress': {'addressCountry': 'Greece'}}}",
-      "department": "Sales",
-      "url": "https://jobs.ashbyhq.com/n8n/062fa075-dbda-4bbf-b264-ac339d5ab9de",
-      "board": "ashby",
-      "remote": true,
-      "posted_at": "2026-10-09T12:12:26.863+00:00"
+      "posted_at": "2026-10-13T05:52:11.070+00:00"
     }
   ]
 }
