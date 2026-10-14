@@ -36,6 +36,33 @@ a:hover{color:var(--primary)}
 .top-actions a{font-size:0.8rem;color:var(--on-surface-variant);padding:4px 10px;border-radius:6px;transition:.15s}
 .top-actions a:hover{background:var(--surface-high);color:var(--on-surface)}
 
+/* Fresh Daily Jobs CTA */
+.top-actions a.fresh-cta{
+  display:inline-flex;align-items:center;gap:7px;
+  font-family:'Space Grotesk',sans-serif;font-size:0.78rem;font-weight:700;letter-spacing:0.01em;
+  color:#2b1400;padding:7px 14px;border-radius:999px;
+  background:linear-gradient(135deg,#ffd27a,#ffb84d 45%,#ff9b21);
+  border:1px solid rgba(255,214,140,.7);
+  box-shadow:0 0 0 1px rgba(255,184,77,.15),0 4px 14px rgba(255,155,33,.35);
+  transition:transform .15s,box-shadow .15s,filter .15s;white-space:nowrap
+}
+.top-actions a.fresh-cta:hover{
+  background:linear-gradient(135deg,#ffd27a,#ffb84d 45%,#ff9b21);
+  color:#2b1400;filter:brightness(1.07);transform:translateY(-1px);
+  box-shadow:0 0 0 1px rgba(255,184,77,.25),0 6px 18px rgba(255,155,33,.5)
+}
+.top-actions a.fresh-cta:active{transform:translateY(0)}
+.fresh-cta .dot{
+  width:7px;height:7px;border-radius:50%;background:#ff3b1f;flex-shrink:0;
+  animation:fresh-pulse 2s ease-out infinite
+}
+@keyframes fresh-pulse{
+  0%{box-shadow:0 0 0 0 rgba(255,59,31,.55)}
+  70%{box-shadow:0 0 0 7px rgba(255,59,31,0)}
+  100%{box-shadow:0 0 0 0 rgba(255,59,31,0)}
+}
+@media(prefers-reduced-motion:reduce){.fresh-cta .dot{animation:none}}
+
 /* Hero */
 .hero{padding:48px 0 32px;text-align:center}
 .hero h1{font-family:'Space Grotesk',sans-serif;font-size:clamp(1.8rem,4vw,2.8rem);font-weight:700;color:var(--primary);letter-spacing:-0.03em;margin-bottom:8px}
@@ -166,6 +193,8 @@ a:hover{color:var(--primary)}
   .tabs{width:100%;justify-content:center}
   .job-row{flex-direction:column;align-items:flex-start;gap:4px}
   .top-bar .container .brand span{display:none}
+  .top-actions{gap:6px}
+  .top-actions a.fresh-cta{padding:6px 11px;font-size:0.72rem}
 }
 </style>
 </head>
@@ -179,6 +208,7 @@ a:hover{color:var(--primary)}
       <span>Remote Jobs</span>
     </div>
     <div class="top-actions">
+      <a class="fresh-cta" href="summary.html" target="_blank" rel="noopener" title="Fresh job counts from the last 7 daily runs"><span class="dot" aria-hidden="true"></span>Fresh Daily Jobs</a>
       <a href="#" onclick="document.getElementById('about-modal').classList.remove('hidden')">About</a>
       <a href="https://github.com" target="_blank" id="gh-link">GitHub</a>
     </div>
